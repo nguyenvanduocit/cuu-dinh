@@ -12,8 +12,9 @@
     "lint": "echo 'TODO: configure oxlint'"
   },
   "devDependencies": {
+    "@types/bun": "latest",
     "typescript": "^5.6.0",
-    "@types/bun": "latest"
+    "yaml": "2.9.0"
   },
   "engines": {
     "bun": ">=1.1.0"

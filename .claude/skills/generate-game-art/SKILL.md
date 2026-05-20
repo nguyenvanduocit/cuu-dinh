@@ -23,6 +23,15 @@ Codex does not render true alpha directly. Its built-in `imagegen` skill generat
 - Do **not** ask the underlying image model to "render literal transparency" — phrase it as cutout / isolated subject / no environment.
 - Codex writes the raw image to `~/.codex/generated_images/<uuid>/` and the chroma-keyed PNG to the save path you specify.
 
+### Resolution — keep native output (hard rule)
+
+**Keep Codex's native generation resolution. Never resize, never downscale.**
+
+- Never put a pixel-dimension token in the prompt (`128px`, `128×128`, `64px icon`, etc.). Codex obeys it literally and shrinks the image, destroying detail.
+- The pixel sizes written in `docs/art-prompts/` (e.g. `128×128 sprite`) describe the **final in-game asset** size. Resizing to that size is a later Aseprite step — never part of generation.
+- Use pixel-art *style* tokens only (`crisp hard pixel edges`, `limited palette`, `sharp silhouette`) — never canvas-size tokens.
+- Explicitly tell Codex: *"keep the native generation resolution — do not resize or downscale."*
+
 ### Invocation pattern
 
 Run Codex from the project root with workspace-write sandbox so it can save into the repo:
@@ -49,6 +58,7 @@ ART PROMPT:
 
 OUTPUT REQUIREMENTS:
 - Isolated subject cutout — no environment, no vignette, no ink backdrop. Transparent (RGBA) PNG.
+- Keep the native generation resolution — do NOT resize or downscale the image.
 - Crisp hard pixel edges, sharp silhouette, limited 6-color palette, no anti-aliasing, no soft gradients.
 - No text, watermark, signature.
 
