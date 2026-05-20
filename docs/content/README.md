@@ -19,9 +19,10 @@ docs/content/
 ├── passive-tree/        # 150 tinh điểm nodes
 ├── ascendancies/        # 5 đạo phái
 ├── maps/                # 10 pháp trận blueprints
-├── sets/                # 3 set bonuses
-└── la-han/              # 18 tượng La Hán (also in items/ as arhat-*)
+└── sets/                # 3 set bonuses
 ```
+
+> Note: 18 tượng La Hán sống trong `items/` dưới prefix `arhat-*` (không có folder `la-han/` riêng).
 
 ## Per-entity folder layout
 
@@ -50,7 +51,7 @@ docs/content/<category>/<entity-id>/
 
 ### `lore.md`
 
-- Vietnamese flavor prose — extracted từ `docs/data/lore.md` item-flavor section.
+- Vietnamese flavor prose — item-flavor, npc-dialogue.
 - Chỉ tạo khi entity có lore content.
 
 ## Naming conventions
@@ -70,8 +71,10 @@ docs/content/<category>/<entity-id>/
 
 ## Migration provenance
 
-This structure was generated from `docs/data/*.md` + `docs/art-prompts/` by `tools/migrate-item-shaped.ts` (Phase 1, 2026-05-20). Source files are read-only during migration; Phase C cleanup will delete them.
+Bundle này sinh ra từ các bảng Markdown + art-prompt pack qua migration tooling (2026-05-20):
 
-Categories migrated (Phase 1, item-shaped): items, uniques, affixes, equipment, currency, passive-tree, ascendancies, maps, sets, la-han.
+- **Phase 1** (item-shaped): items (incl. 18 `arhat-*`), uniques, affixes, equipment, currency, passive-tree, ascendancies, maps, sets.
+- **Phase 2** (character-shaped): npcs, bosses, factions, lore-entities.
+- **Phase C cleanup** (2026-05-20): nguồn cũ `docs/data/` đã xoá; `docs/art-prompts/` migrated subdir đã xoá; ảnh `docs/art/generated/` chuyển vào `<category>/<id>/art/`.
 
-Remaining categories (Phase 2-4): npcs, bosses, factions, lore-entities, acts, regions, arenas, screens, tracks, sfx, effects, icons.
+Còn pending: acts (đang dựng), và regions, arenas, screens, effects, icons — concept-art prompt vẫn ở `docs/art-prompts/{environments,screens,effects}/` chờ migrate Phase 3.

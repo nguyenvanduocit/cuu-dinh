@@ -337,21 +337,25 @@ Toàn bộ pre-production design công khai trong repo:
 | [docs/roadmap.md](./docs/roadmap.md) | 5-year build plan with quarterly milestones |
 | [docs/accessibility.md](./docs/accessibility.md) | Colorblind, motor, cognitive accessibility |
 
-Plus content data — single source of truth concept phase, bảng Markdown faithful trong `docs/data/`:
+Plus per-entity content bundle — single source of truth concept phase, mỗi entity = 1 folder trong `docs/content/`:
+
+Mỗi `<category>/<id>/` = `design.md` (YAML frontmatter + body markdown) + optional `lore.md` / `prompt.md` / `art/`.
 
 ```
-docs/data/
-├── README.md              Index + enum vocabulary + quy ước bảng
-├── items.md               78 linh khí definitions
-├── uniques.md             30 Cổ Vật uniques
-├── affixes.md             80 prefix + 80 suffix + 30 implicit
-├── equipment.md           50 Lò parts
-├── currency.md            20 đan dược + 30 nguyên liệu + 12 Tâm Ma modifiers
-├── passive-tree.md        150 nodes, 5 Ngũ Hành starts
-├── ascendancies.md        5 Đạo Phái
-├── maps.md                10 pháp trận blueprints (+ ASCII geometry)
-├── sets.md                3 set bonuses
-└── lore.md                item-flavor + npc-dialogue (Vietnamese prose)
+docs/content/
+├── _enums.md              Shared vocabulary registry (enum + quy ước bảng)
+├── _style/                Shared MJ art tokens
+├── README.md              Cấu trúc bundle + cách thêm entity
+├── items/                 78 linh khí
+├── uniques/               30 Cổ Vật
+├── affixes/               80 prefix + 80 suffix + 30 implicit
+├── equipment/             50 Lò parts
+├── currency/              20 đan dược + 30 nguyên liệu + 12 Tâm Ma modifier
+├── passive-tree/          150 nodes, 5 Ngũ Hành starts
+├── ascendancies/          5 Đạo Phái
+├── maps/                  10 pháp trận blueprints
+├── sets/                  3 set bonuses
+└── npcs · bosses · factions · lore-entities · acts
 ```
 
 ---

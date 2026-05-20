@@ -135,24 +135,20 @@ import { matchState } from '@cuu-dinh/shared/match-state'
 
 Items, affix, map, passive node, đan dược → **data-driven, KHÔNG hardcode**.
 
-**Concept phase** (hiện tại): content sống trong `docs/data/*.md` — bảng Markdown faithful, human-readable, single source of truth. Column spec + enum vocabulary bake vào header mỗi file.
+**Concept phase** (hiện tại): content sống trong per-entity bundle `docs/content/<category>/<id>/` — mỗi entity = 1 folder = SSOT. `design.md` chứa YAML frontmatter machine-readable + body markdown. Enum vocabulary + quy ước bảng tập trung `docs/content/_enums.md`.
 
 ```
-docs/data/
-├── README.md            # Index + enum vocabulary + quy ước bảng
-├── items.md             # 78 linh khí
-├── uniques.md           # 30 cổ vật
-├── affixes.md           # 80 prefix + 80 suffix + 30 implicit
-├── equipment.md         # 50 lò parts
-├── currency.md          # 20 đan dược + 30 nguyên liệu + 12 tâm ma mod
-├── passive-tree.md      # 150 nodes
-├── ascendancies.md      # 5 đạo phái
-├── maps.md              # 10 pháp trận (+ ASCII geometry)
-├── sets.md              # 3 set bonus
-└── lore.md              # item-flavor + npc-dialogue
+docs/content/
+├── _enums.md            # Shared vocabulary registry (enum + quy ước bảng)
+├── _style/              # Shared MJ art tokens
+├── README.md            # Cấu trúc bundle + cách thêm entity
+└── <category>/<id>/      # items, uniques, affixes, equipment, currency, passive-tree,
+                          #   ascendancies, maps, sets, npcs, bosses, factions,
+                          #   lore-entities, acts — mỗi <id>/ = design.md
+                          #   + optional lore.md / prompt.md / art/
 ```
 
-**Build pipeline** (implementation phase): regenerate structured JSON + Zod schema từ `docs/data/` → `packages/data/` + `packages/shared/` → loaded at app boot bằng Vite raw imports → validated bởi Zod → cached vào Pinia store.
+**Build pipeline** (implementation phase): regenerate structured JSON + Zod schema từ `docs/content/` → `packages/data/` + `packages/shared/` → loaded at app boot bằng Vite raw imports → validated bởi Zod → cached vào Pinia store.
 
 ### 5. Module boundary (apps/web)
 

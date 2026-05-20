@@ -2,7 +2,7 @@
 
 > 150-node Tinh Điểm passive tree cho Cửu Đỉnh. Topology 5-petal hoa sen + Vô Cực hub. Hỗ trợ ≥ 5 build archetype + 10 keystone reshape paradigm.
 
-Danh sách đầy đủ: [`data/passive-tree.md`](data/passive-tree.md).
+Danh sách đầy đủ: [`docs/content/passive-tree/`](content/passive-tree/).
 
 ---
 
@@ -95,7 +95,7 @@ Bridges at midpoint angles (mid-Kim-Thuỷ, mid-Thuỷ-Mộc, ...).
 
 Mỗi cluster có **personality nguyên tố** riêng biệt — Kim thiên về spike/crit, Mộc về sustain/regen, Thuỷ về chain/control, Hoả về AOE/ignite, Thổ về defensive/charge. Personality này thể hiện qua 4 thematic notables + 1 ascendancy junction notable + 1 element keystone. Bridge nodes tại mid-angle giữa 2 cluster kề nhau mã hoá mạch tương sinh: Kim→Thuỷ, Thuỷ→Mộc, Mộc→Hoả, Hoả→Thổ, Thổ→Kim — cross-element chỉ khả thi sau khi player đã đầu tư vào junction notable. Thiết kế này tạo ra trade-off có ý nghĩa: chuyên sâu 1 cluster để push keystone, hay mua junction sớm để cross-element combo.
 
-Danh sách đầy đủ notable/keystone/bridge: [`data/passive-tree.md`](data/passive-tree.md).
+Danh sách đầy đủ notable/keystone/bridge: [`docs/content/passive-tree/`](content/passive-tree/).
 
 ## 4. Hybrid bridges (5)
 
@@ -173,7 +173,7 @@ Echo + tank: Trọng Sơn + Hồn Linh + tho-notable-bach-quy. Slow build, very 
 
 10 keystones chia thành 2 nhóm theo thiết kế: **element-aligned** (5 cái, mỗi cluster apex) và **paradigm-shift** (4 hub + 1 bridge). Element keystones khuếch đại personality nguyên tố của cluster — Sắc Bén (Kim) đẩy crit ×3, Sinh Sôi (Mộc) nhân linh lực, Thuỷ Triều tích velocity, Liệt Hoả bật ignite, Trọng Sơn bất tử vs Phong Ấn. Hub keystones không gắn nguyên tố: Thiên Mệnh (loot preview), Cờ Bạc Tổ (anti-brick), Vô Vi (loot +50% đổi auto-play), Bất Bại (tank Lò Thọ). Hồn Linh trên bridge Thuỷ-Mộc là ngoại lệ — không phải element nhưng gắn với cặp tương sinh cụ thể. Mọi keystone đều có trade-off bắt buộc: không có free power, mỗi paradigm-shift đổi chác rõ ràng.
 
-Danh sách đầy đủ slug/tên/effect/trade-off: [`data/passive-tree.md`](data/passive-tree.md).
+Danh sách đầy đủ slug/tên/effect/trade-off: [`docs/content/passive-tree/`](content/passive-tree/).
 
 ---
 

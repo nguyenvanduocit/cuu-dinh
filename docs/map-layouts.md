@@ -2,7 +2,7 @@
 
 > Blueprint catalog cho 10 Đan Pháp variants (locked decision #25). Mỗi variant = một **structural container** cho bí cảnh — composition tại Sơn Hà Đồ Lệnh sẽ emerge thành unique session.
 
-> Doc này = design rationale. Danh sách đầy đủ blueprints + anchor data + ASCII geometry: [`data/maps.md`](data/maps.md).
+> Doc này = design rationale. Danh sách đầy đủ blueprints + anchor data + ASCII geometry: [`docs/content/maps/`](content/maps/).
 
 ---
 
@@ -55,7 +55,7 @@ Mỗi variant có 1 **anchor layout signature** thể hiện identity gameplay c
 
 10 variants phân thành 3 nhóm theo structural identity. **Canvas variants** (Tiêu Chuẩn, Vô Cực) không có element bias — Tiêu Chuẩn là baseline đo mọi thứ, Vô Cực là endgame không hồi kết với anchor regenerate mỗi run. **Thematic variants** (Long Cung, Cửu Tiêu, Thiên Kiếp, Cổ Đan Lò) bias đậm theo identity element/cơ chế, đặt hard constraint vào build: Long Cung lock Thuỷ/Mộc + override physics gravity/friction, Cửu Tiêu dọc 600×1800 với 3-cột lane, Thiên Kiếp kênh sét 7 anchor dọc trục + Lôi Phù bắt buộc, Cổ Đan Lò 3 vòng concentric cho currency farm. **Narrative variants** (Tử Sinh, Hỗn Nguyên, Tâm Ma, Diêm Phủ) định nghĩa loại trải nghiệm: Tử Sinh là Sanctum 20 phòng sinh tử, Hỗn Nguyên là marathon intensity escalating với bail-out windows, Tâm Ma là mirror boss read player Lò, Diêm Phủ là Tâm Ma exclusive với Ngũ Hành disabled. Layout signature của mỗi variant không trang trí — nó **buộc build pattern khác nhau** cho cùng một set linh khí.
 
-Danh sách đầy đủ anchor coords, special rules, lore, Nguyên Liệu pairings, ASCII geometry: [`data/maps.md`](data/maps.md).
+Danh sách đầy đủ anchor coords, special rules, lore, Nguyên Liệu pairings, ASCII geometry: [`docs/content/maps/`](content/maps/).
 
 ## 5. Reward profile
 

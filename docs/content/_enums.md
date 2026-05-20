@@ -4,7 +4,7 @@
 >
 > **Đây KHÔNG phải "global rules apply everywhere".** Mỗi enum có **scope-of-use** annotation ở cột `Dùng ở` — đọc trước khi assume một enum áp dụng cho bundle bạn đang sửa. Khi một enum leak sang bundle mới (ví dụ `BossType` từ `maps` → `maps, bosses`), update annotation ở đây thay vì move file.
 >
-> Lịch sử: nguồn gốc `docs/data/README.md`. Khi `docs/data/` cleanup (Phase C), file đó sẽ biến mất; registry này thay thế.
+> Lịch sử: nguồn gốc `docs/data/README.md` — file đó đã xoá ở Phase C cleanup (2026-05-20); registry này thay thế.
 
 ## Table conventions (true-global, apply mọi `design.md`)
 
