@@ -1,4 +1,4 @@
-> Nguồn data: `art-direction.md:98-102` (icon specs), `content.md:294` (đan dược list). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:98-102` (icon specs), `content.md:294` (đan dược list). Append [STYLE SUFFIX] từ `../../content/_style/style-suffix.md`.
 
 # UI Icons — `32×32`, `--ar 1:1 --stylize 80`, clear & legible
 

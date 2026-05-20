@@ -1,4 +1,4 @@
-> Nguồn data: `art-direction.md:105-127, :98-102` (effect specs). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:105-127, :98-102` (effect specs). Append [STYLE SUFFIX] từ `../../content/_style/style-suffix.md`.
 
 # Effects & Particles — `--ar 1:1 --stylize 100`, nền tối/trong
 
@@ -9,7 +9,7 @@
 16-24px, element-coded, 8-frame motion trail.
 
 ```
-/imagine prompt: a small glowing spirit-energy orb projectile with a comet motion-blur trail, [ELEMENT TOKEN từ _style/element-tokens.md], bright core, on transparent dark background, painterly pixel art game effect, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 1:1 --stylize 100
+/imagine prompt: a small glowing spirit-energy orb projectile with a comet motion-blur trail, [ELEMENT TOKEN từ ../../content/_style/element-tokens.md], bright core, on transparent dark background, painterly pixel art game effect, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 1:1 --stylize 100
 ```
 
 Gen 6 bản (1 mỗi element). Trail dài/sáng hơn = velocity cao.

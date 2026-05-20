@@ -1,4 +1,4 @@
-> Nguồn data: `art-direction.md:158-174` (boss visual language). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:158-174` (boss visual language). Append [STYLE SUFFIX] từ `../../content/_style/style-suffix.md`.
 
 # Environments — Boss Arenas (3 arena)
 

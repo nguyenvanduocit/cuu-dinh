@@ -1,4 +1,4 @@
-> Nguồn data: `art-direction.md:178-188` (region biome). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:178-188` (region biome). Append [STYLE SUFFIX] từ `../../content/_style/style-suffix.md`.
 
 # Environments — Regions (7 biome)
 

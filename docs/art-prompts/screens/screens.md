@@ -1,10 +1,10 @@
-> Nguồn data: `ui-wireframes.md` (screen layouts). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `ui-wireframes.md` (screen layouts). Append [STYLE SUFFIX] từ `../../content/_style/style-suffix.md`.
 
 # Screens (concept / scene art)
 
 > **Framing quan trọng**: MJ render UI/HUD/text rất tệ. File này dùng MJ cho **background scene + mood + panel ornament**, KHÔNG để gen layout. Layout + HUD đã định ở `ui-wireframes.md` (ASCII). Output đây = nền và khung trang trí để code/Vue dựng UI lên trên.
 
-`--ar 16:9` cho scene, `--ar 1:1`/`3:1` cho ornament. Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+`--ar 16:9` cho scene, `--ar 1:1`/`3:1` cho ornament. Append [STYLE SUFFIX] từ `../../content/_style/style-suffix.md`.
 
 Mỗi screen có thể cần 2 loại asset:
 - **(S) Scene** — tranh nền painted full-bleed.
@@ -39,7 +39,7 @@ Mỗi screen có thể cần 2 loại asset:
 ```
 /imagine prompt: a deep cosmic star-chart background for a skill tree, faint constellation lines and nebula, five elemental color regions bleeding softly into a central void, very dark and uncluttered for overlaid nodes, twilight purple and ink black with five-element color hints, painterly pixel art, [STYLE SUFFIX] --ar 16:9 --stylize 300
 ```
-**(O)** Keystone node frame (5 element-colored variants): xem rarity border cách làm ở `../_style/rarity-tokens.md`, đổi sang `large diamond keystone frame, [element] colored`.
+**(O)** Keystone node frame (5 element-colored variants): xem rarity border cách làm ở `../../content/_style/rarity-tokens.md`, đổi sang `large diamond keystone frame, [element] colored`.
 
 ## 5. Sơn Hà Đồ Lệnh Altar — `ui-wireframes.md:226`
 
@@ -74,7 +74,7 @@ Match layer là **PixiJS canvas** (gameplay vẽ realtime), MJ chỉ cho **board
 ```
 /imagine prompt: a quirky daoist curio shop stall interior, shelves of talismans, beads and elixir bottles, warm lantern light, an inviting cluttered merchant mood, empty foreground counter for item list, painterly pixel art, warm cinnabar and imperial gold, [STYLE SUFFIX] --ar 16:9 --stylize 220
 ```
-(Chân dung Lão Hồ Ly → `../bosses-npcs/npcs.md`.)
+(Chân dung Lão Hồ Ly → `../../content/npcs/old-fox/`.)
 
 ## 9. Atlas — Sơn Hà Đồ — `ui-wireframes.md:437`
 
