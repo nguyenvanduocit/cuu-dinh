@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+bun.lock
+bun.lockb
+
+# Build artifacts
+dist/
+build/
+out/
+.next/
+.nuxt/
+.vite/
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+.nyc_output/
+.vitest-cache/
+
+# Vite
+.vite-temp/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+bun-debug.log*
+
+# Local dev secrets
+.env
+.env.local
+.env.*.local
+secrets.json
+
+# AI co-pilot caches
+.claude/cache/
+.cursor/cache/
+.aider*
+
+# Nakama local data
+infra/nakama-data/
+infra/postgres-data/
+
+# Asset source (large files, regenerate from packages/data/ + AI)
+apps/web/public/assets/raw/
+*.psd
+*.kra
+*.aseprite-backup
+
+# Analytics + telemetry exports
+analytics/raw/
+telemetry/*.csv

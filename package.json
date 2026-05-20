@@ -1,0 +1,23 @@
+{
+  "name": "lu-dan",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "tools/*"
+  ],
+  "scripts": {
+    "content:validate": "bun run tools/content-validator/src/main.ts",
+    "typecheck": "tsc -b --noEmit",
+    "lint": "echo 'TODO: configure oxlint'"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/bun": "latest"
+  },
+  "engines": {
+    "bun": ">=1.1.0"
+  }
+}

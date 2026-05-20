@@ -1,0 +1,1277 @@
+{
+  "version": 1,
+  "_note": "Tất cả text tiếng Việt NFC full diacritics. IDs kebab-case ASCII. Mỗi line ≤ 2 câu. Tone: trang nghiêm, Hán-Việt, không anime, không Western fantasy.",
+  "npcs": [
+    {
+      "id": "master",
+      "ten": "Sư Phụ",
+      "title": "Tổ Đan Đạo Môn — Đệ Nhị Đại",
+      "summary": "Người thầy cuối cùng của dòng Đan Đạo Môn. Đệ tử trực tiếp của Cao Tổ. Giữ Lò ba mươi năm chờ đệ tử xứng đáng.",
+      "voice": "Điềm tĩnh, cổ điển, đôi khi dùng dụ ngôn. Xưng 'thầy', gọi player là 'con'. Không bao giờ hét, không bao giờ nịnh.",
+      "dialogue": {
+        "act_1_trao_lo": [
+          {
+            "scene": "Đệ tử vừa đến Am Sơn Mộc Cốc, lần đầu gặp Sư Phụ",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con đến muộn. Lò này đã chờ ba mươi năm."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Không sao — Lò không biết sốt ruột là gì."
+              }
+            ]
+          },
+          {
+            "scene": "Sư Phụ đặt Lò vào tay đệ tử",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lò này là của tổ sư thầy, và của tổ sư của tổ sư thầy. Nay là của con."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con cầm nó mà tay run — tốt. Nghĩa là con hiểu trọng lượng của nó."
+              }
+            ]
+          },
+          {
+            "scene": "Trước Pháp Trận Khai Đan đầu tiên",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Linh lực như mưa, linh khí như máng xối — con đặt máng đúng chỗ, mưa tự chảy vào đan."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Đừng nghĩ nhiều. Luyện đi."
+              }
+            ]
+          }
+        ],
+        "act_1_sau_boss": [
+          {
+            "scene": "Sau khi đệ tử thắng Tâm Ma Sơn Mộc",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Tâm ma không đến từ núi. Nó đến từ lòng người."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con vừa thắng nỗi sợ của người khác — sau này con sẽ phải thắng nỗi sợ của chính mình."
+              }
+            ]
+          },
+          {
+            "scene": "Sư Phụ nói về đan bể",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Đan bể là thầy thứ hai tốt nhất của con."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Thầy thứ nhất là chính cái Lò đang cầm trong tay."
+              }
+            ]
+          },
+          {
+            "scene": "Kết thúc Hồi 1, giao nhiệm vụ Hồi 2",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Mộc con đã biết. Nhưng Ngũ Hành không phải năm thứ riêng rẽ — chúng là một vòng, và vòng đó không có điểm đầu."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lên Ngũ Hành Sơn. Mỗi ngọn núi là một thầy — nhưng thầy nào cũng không nói thẳng."
+              }
+            ]
+          }
+        ],
+        "act_2_giao_nhiem_vu": [
+          {
+            "scene": "Sư Phụ đứng ở chân Ngũ Hành Sơn, dặn dò trước khi đệ tử đi một mình",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Thầy không đi cùng con lần này. Con không cần thầy ở đây nữa."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Nếu con cần thầy, thì con chưa sẵn sàng lên núi."
+              }
+            ]
+          },
+          {
+            "scene": "Khi đệ tử trở về sau 5 đỉnh",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Ngũ Hành Tổ siêu thoát rồi. Ngàn năm họ chờ đợi."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con không biết mình đã làm gì to lớn — đó là điều tốt nhất thầy thấy ở con hôm nay."
+              }
+            ]
+          },
+          {
+            "scene": "Sư Phụ nhìn vết nứt trên Lò sau boss Hồi 2",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lò nứt. Thầy đã biết điều này sẽ xảy ra."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lò nứt vì nó đang thức — không phải vì con làm sai."
+              }
+            ]
+          }
+        ],
+        "act_3_huong_dan_lo_than": [
+          {
+            "scene": "Sư Phụ dẫn đường đến Hoả Sơn Lò Cốc",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lò Thần không phải người dễ gặp. Ông ta chỉ ra mặt khi Lò cần ông."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Đừng nói nhiều khi gặp ông. Ông ta ghét lời thừa."
+              }
+            ]
+          },
+          {
+            "scene": "Về Hắc Bạch — Sư Phụ tiết lộ lý lịch",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Hắc Bạch là con nuôi của thầy. Thầy đón hai đứa từ đám tro tàn của trận Tâm Ma ba mươi năm trước."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Chúng không nói được, nhưng chúng luyện đan giỏi hơn thầy."
+              }
+            ]
+          },
+          {
+            "scene": "Sau khi Lò được sửa xong",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lò đủ tám ô rồi. Đây là lần đầu tiên trong tám trăm năm Lò này hoàn chỉnh."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con chưa biết điều đó có nghĩa gì — nhưng con sẽ biết."
+              }
+            ]
+          }
+        ],
+        "act_4_vo_cuc_dinh": [
+          {
+            "scene": "Sư Phụ đứng đợi ở Vô Cực Đỉnh, trông già hơn",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Thầy tu Đan Đạo Môn cả đời, không hối tiếc. Nhưng con không phải thầy."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con có thể chọn đường khác — đó là điều thầy không có được."
+              }
+            ]
+          },
+          {
+            "scene": "Trước khi đệ tử chọn Đạo Phái",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Không có đường nào sai. Chỉ có đường nào thật với con và đường nào con chọn vì sợ."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Thầy không nói đường nào nên chọn. Đó không phải việc của thầy nữa."
+              }
+            ]
+          },
+          {
+            "scene": "Sau khi đệ tử chọn xong Đạo Phái",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Con đã chọn. Tốt."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Một ngày nào đó con sẽ hiểu vì sao đây là khoảnh khắc quan trọng nhất trong đời tu hành."
+              }
+            ]
+          }
+        ],
+        "act_5_lo_bi_mat": [
+          {
+            "scene": "Sư Phụ tiết lộ bí mật Lò tổ truyền ở Hồn Nguyên Điện",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Lò này không phải chỉ là công cụ luyện đan. Nó là một mảnh của Sơn Hà Đồ Lệnh cổ truyền."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Cao Tổ dùng Lò làm chìa khoá phong ấn Tâm Ma Vương — và thầy giữ chìa khoá đó ba mươi năm, chờ con đến."
+              }
+            ]
+          },
+          {
+            "scene": "Sư Phụ giải thích tại sao không nói sớm hơn",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Thầy không nói sớm vì con chưa sẵn sàng nghe. Biết trước không có nghĩa là hiểu trước."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Bây giờ con đã đi qua Ngũ Hành, đã sửa Lò, đã chọn đường tu — con nghe được rồi."
+              }
+            ]
+          },
+          {
+            "scene": "Câu cuối cùng của Sư Phụ, trước khi hy sinh trong boss fight",
+            "lines": [
+              {
+                "speaker": "Sư Phụ",
+                "text": "Thầy sắp đi. Điều đó không thay đổi được — và thầy không muốn thay đổi."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Luyện đan một lần nữa, con."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "old-fox",
+      "ten": "Lão Hồ Ly",
+      "title": "Chưởng môn Đạo Quán Cờ Bạc Hội",
+      "summary": "Thương nhân đạo quán lắm mồm, nước đôi, nhưng không xấu bụng. Vốn là quan lại ngày xưa, mất sạch vì cờ bạc, rồi biến cờ bạc thành nghề.",
+      "voice": "Ngọt ngào, vồn vã, hay dùng 'ấy chà', 'đẹp lắm', 'may mắn lắm'. Gọi player là 'huynh đệ'. Nịnh không che được sự lộ liễu.",
+      "dialogue": {
+        "act_1_gioi_thieu": [
+          {
+            "scene": "Lão Hồ Ly chào đón đệ tử lần đầu tại base camp",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Ấy chà, đệ tử mới của Sư Phụ đây à? Huynh đệ trông có phúc tướng lắm, nhất định luyện đan giỏi."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Lão đây chuyên về... nói chung là mọi thứ huynh đệ cần mà không biết mình cần."
+              }
+            ]
+          },
+          {
+            "scene": "Lão Hồ Ly chào mời Linh Đan đầu tiên",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Huynh đệ! Vừa tới một viên Linh Đan mới — chỉ 50 kim đan thôi, có thể là Bảo, có thể là rác."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Đời mà, không thử sao biết được? Nào, mở hộp đi, may mắn về với huynh đệ thôi."
+              }
+            ]
+          },
+          {
+            "scene": "Sau khi player không mua",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Thôi thôi, không mua cũng được. Huynh đệ ghé lại bất cứ lúc nào — lão ở đây dài dài."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Lão không đi đâu hết đâu. Không có chỗ nào khác để đi."
+              }
+            ]
+          }
+        ],
+        "act_3_dao_quan_full": [
+          {
+            "scene": "Lão Hồ Ly mở Đạo Quán đầy đủ ở Hoả Sơn Lò Cốc",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Đẹp lắm huynh đệ! Bây giờ Đạo Quán mình mở rộng thêm — Phong Ấn, Tinh Hoa, đủ cả."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Lão không cam kết gì về kết quả, nhưng lão cam kết là... huynh đệ sẽ có cảm giác hồi hộp rất đáng tiền."
+              }
+            ]
+          },
+          {
+            "scene": "Lão Hồ Ly cố bán Phong Ấn không cần thiết",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Huynh đệ cầm viên đan đó đi, dùng Phong Ấn ngay đi — nhỡ trúng affix tốt thì sao?"
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "25% thôi mà. Tức là 75% không việc gì — toán học đứng về phía huynh đệ hoàn toàn."
+              }
+            ]
+          },
+          {
+            "scene": "Lão Hồ Ly thật thà hiếm có — về nỗi sợ Tâm Ma",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Huynh đệ này... nói thật nhé: lão sợ cái bọn Tâm Ma lắm, không giả vờ được đâu."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Lão không tu hành gì cả — nếu chúng đến, lão chỉ biết chạy. Vì vậy lão cần huynh đệ mạnh lên, lão đang đầu tư vào huynh đệ đó."
+              }
+            ]
+          }
+        ],
+        "act_5_sau_boss": [
+          {
+            "scene": "Lão Hồ Ly ở base camp sau khi đệ tử thắng boss cuối, Sư Phụ đã mất",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Sư Phụ mất rồi... lão biết ông ấy từ hồi lão còn chưa lập Đạo Quán."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Ông ấy chưa bao giờ mua gì của lão. Nhưng ông ấy cho lão ở lại Khai Lư Trấn khi không ai muốn nhận lão."
+              }
+            ]
+          },
+          {
+            "scene": "Lão Hồ Ly mời đệ tử tiếp tục mua",
+            "lines": [
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Thôi. Đời vẫn tiếp tục — và lão vẫn có hàng mới."
+              },
+              {
+                "speaker": "Lão Hồ Ly",
+                "text": "Sư Phụ chắc cũng muốn huynh đệ tiếp tục tu. Đó là lý do tốt nhất lão nghĩ ra được."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "nameless-cultivator",
+      "ten": "Đạo Sĩ Vô Danh",
+      "title": "Vô danh",
+      "summary": "Hành nhân bí ẩn không bao giờ tiết lộ danh tính. Bán linh khí chất lượng với giá hợp lý. Có thể là tiên nhân ẩn mình — lore không xác nhận.",
+      "voice": "Trầm, chậm, koan-style. Không bao giờ dùng 'tôi' — chỉ dùng 'tại hạ'. Không cảm xúc hiện ra, nhưng không lạnh lùng.",
+      "dialogue": {
+        "act_1_gioi_thieu": [
+          {
+            "scene": "Đạo Sĩ Vô Danh lần đầu xuất hiện ở base camp",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Ngài đến. Tại hạ đã đợi — không phải đợi ngài cụ thể, mà đợi người sẽ đến."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Bảo vật này không phải của tại hạ, cũng không phải của ngài — là của trời. Tại hạ chỉ là trung gian."
+              }
+            ]
+          },
+          {
+            "scene": "Khi player hỏi về danh tính",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Tên — tại hạ không còn giữ tên từ lâu rồi. Tên là cái neo giữ người ta ở một chỗ."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Tại hạ thích đi. Cho nên không tên."
+              }
+            ]
+          },
+          {
+            "scene": "Khi player từ chối mua",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Bảo vật sẽ tự tìm chủ mới nếu ngài không nhận. Đó là bản tính của vật tốt."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Không có gì bị bỏ lỡ vĩnh viễn — chỉ có bị bỏ lỡ đúng lúc."
+              }
+            ]
+          }
+        ],
+        "act_2_tren_duong": [
+          {
+            "scene": "Xuất hiện ngẫu nhiên trên đường lên Ngũ Hành Sơn",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Ngài đang lên núi tìm thầy. Tại hạ từng làm vậy — cách đây rất lâu."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Những người trên đó đã đợi lâu. Đừng làm họ đợi thêm."
+              }
+            ]
+          },
+          {
+            "scene": "Sau khi 5 Ngũ Hành Tổ siêu thoát",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Tại hạ biết Kim Tổ, Thổ Tổ, và ba người còn lại."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Họ ra đi — đó là điều tốt. Ở lại quá lâu không phải lúc nào cũng là sức mạnh."
+              }
+            ]
+          }
+        ],
+        "act_4_tren_dao": [
+          {
+            "scene": "Xuất hiện ở Bích Hải Đảo, nhìn biển",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Biển không biết mình là biển, linh lực không biết mình là linh lực. Chỉ đạo sĩ mới cần biết mình là ai."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Ngài sắp chọn Đạo Phái. Tại hạ chúc ngài chọn vì hiểu, không phải vì sợ bỏ lỡ."
+              }
+            ]
+          },
+          {
+            "scene": "Câu koan cuối trước Hồi 5",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Hỗn Nguyên Tâm Ma Vương — tại hạ từng đứng trước nó. Từ rất lâu trước."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Nó không thắng được vì tại hạ không có gì để mất. Ngài thì khác — ngài có Sư Phụ, đó vừa là điểm mạnh vừa là điểm yếu."
+              }
+            ]
+          }
+        ],
+        "endgame_ngau_nhien": [
+          {
+            "scene": "Xuất hiện ngẫu nhiên trong bí cảnh endgame, không giải thích",
+            "lines": [
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Ngài lại đây, tại hạ cũng lại đây — trùng hợp, hoặc không."
+              },
+              {
+                "speaker": "Đạo Sĩ Vô Danh",
+                "text": "Tại hạ có linh khí, ngài có kim đan. Giao dịch thôi."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "immortal-ancestor",
+      "ten": "Tổ Sư Bất Tử",
+      "title": "Lý Cảnh Hữu — Ngũ Hành Sơ Tổ, Người Tạo Sơn Hà Đồ Lệnh",
+      "summary": "Trông như người trẻ tuổi nhưng sống hơn 8000 năm. Một trong 5 Sơ Tổ tìm ra Ngũ Hành. Tạo ra Sơn Hà Đồ Lệnh. Danh tính tiết lộ Hồi 5.",
+      "voice": "Chậm, cổ kính, đôi khi dùng 'lão phu' thay vì 'tôi'. Nói về sự kiện 5000 năm trước như chuyện hôm qua. Mỉm cười nhẹ nhàng trước sự non nớt của người trẻ.",
+      "dialogue": {
+        "act_3_xuat_hien_lan_dau": [
+          {
+            "scene": "Lần đầu tiên player gặp Tổ Sư Bất Tử ở Hoả Sơn Lò Cốc",
+            "lines": [
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Lão phu đã gặp nhiều người mang Lò đó. Con... có phần khác."
+              },
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Cổ vật này, lão phu giữ 4000 năm. Nếu con muốn — giá không nhỏ."
+              }
+            ]
+          },
+          {
+            "scene": "Khi player mua Cổ vật lần đầu",
+            "lines": [
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Cổ vật này từng là của tổ sư của tổ sư con. Lão phu nợ người đó một ân tình."
+              },
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Hôm nay... một phần ân tình trả qua tay con."
+              }
+            ]
+          },
+          {
+            "scene": "Khi player hỏi tuổi",
+            "lines": [
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Tuổi à. Lão phu không đếm nữa từ sau năm... khoảng năm 3000 trước Hỗn Nguyên kỷ."
+              },
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Con đang tu hành — không nên lo về thứ lão phu đang có."
+              }
+            ]
+          }
+        ],
+        "act_4_goi_y": [
+          {
+            "scene": "Xuất hiện ở Bích Hải Đảo, nhắc đến Cao Tổ",
+            "lines": [
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Cao Tổ — lão phu biết ông ấy, học trò giỏi. Nhưng quá sẵn sàng hy sinh mình."
+              },
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Lão phu hy vọng con khác ông ấy. Nhưng lão phu đã hy vọng điều đó nhiều lần rồi."
+              }
+            ]
+          }
+        ],
+        "act_5_tiet_lo": [
+          {
+            "scene": "Tổ Sư Bất Tử tiết lộ danh tính thực sự ở Hồn Nguyên Điện",
+            "lines": [
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Đã đến lúc. Lão phu tên Lý Cảnh Hữu — một trong năm Ngũ Hành Sơ Tổ từ 8000 năm trước."
+              },
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Sơn Hà Đồ Lệnh — lão phu tạo ra nó. Và lão phu đã nhìn nó bị vỡ, bị gom lại, rồi vỡ lần nữa."
+              }
+            ]
+          },
+          {
+            "scene": "Trao mảnh Sơn Hà Đồ Lệnh cuối cùng",
+            "lines": [
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Lão phu đã giữ mảnh này kể từ khi Đại Sát xảy ra. Cao Tổ nợ lão phu — hôm nay trả qua tay con."
+              },
+              {
+                "speaker": "Tổ Sư Bất Tử",
+                "text": "Không phải vì con xứng đáng. Mà vì con là người duy nhất còn ở đây."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "black-white-alchemist",
+      "ten": "Đan Sư Hắc Bạch",
+      "title": "Thủ Lĩnh Đan Lư Bàn",
+      "summary": "Hai anh chị em sinh đôi, câm điếc từ nhỏ sau trận hoả hoạn. Con nuôi của Sư Phụ. Hắc mặc đen, Bạch mặc trắng. Giao tiếp qua ký hiệu — phiên dịch hiện thành text bubble.",
+      "voice": "Ngắn gọn, kỹ thuật. Hắc nghiêng về rủi ro, Bạch nghiêng về an toàn. Khi cùng nhau nói: đối lập rồi hoà giải. Không có cảm xúc thừa, nhưng không lạnh lùng.",
+      "dialogue": {
+        "act_1_gioi_thieu": [
+          {
+            "scene": "Lần đầu player gặp Đan Sư Hắc Bạch ở base camp",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "Đan của con. Để xem."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Chào — cần gì cứ hỏi. Chúng ta không nói được, nhưng chúng ta nghe."
+              }
+            ]
+          },
+          {
+            "scene": "Hắc Bạch giải thích dịch vụ",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "Đây là Đan Lư Bàn. Mình có thể thêm affix, xoá affix, nâng phẩm."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Không phải lúc nào cũng thành công. Nhưng sẽ luôn công bằng với con."
+              }
+            ]
+          }
+        ],
+        "act_3_day_craft": [
+          {
+            "scene": "Dạy player bench craft ở Hoả Sơn Lò Cốc",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "Phong Ấn cái này. 25% bể."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Hoặc dùng Tinh Hoa Kim — an toàn hơn, chậm hơn. Quyết định của con."
+              }
+            ]
+          },
+          {
+            "scene": "Khi player bể đan trong quá trình craft",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "Bể rồi. Không sao."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Con biết tại sao không? Đừng vội làm lại — hiểu trước đã."
+              }
+            ]
+          },
+          {
+            "scene": "Tiết lộ về Sư Phụ (gián tiếp)",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "Sư Phụ dạy mình craft từ nhỏ. Ông ấy kiên nhẫn lắm — dù mình không nói được."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Ông ấy chưa bao giờ thấy bất tiện. Mình không quên điều đó."
+              }
+            ]
+          }
+        ],
+        "act_5_su_phu_mat": [
+          {
+            "scene": "Sau khi Sư Phụ hy sinh — Hắc Bạch ở Đan Lư Bàn, không nói gì, chỉ ký hiệu",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "..."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Con cần craft gì không? Mình vẫn ở đây."
+              }
+            ]
+          },
+          {
+            "scene": "Khi player trở lại sau campaign",
+            "lines": [
+              {
+                "speaker": "Hắc [ký hiệu]",
+                "text": "Ông ấy muốn mình tiếp tục. Mình biết vậy."
+              },
+              {
+                "speaker": "Bạch [ký hiệu]",
+                "text": "Đưa đan đây. Mình làm."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lottery-crone",
+      "ten": "Lão Bà Thiên Cơ",
+      "title": "Bà Chủ Thiên Cơ Quẻ",
+      "summary": "Cụ già 200+ tuổi, bán quẻ thiên cơ khắp thiên hạ. Biết mọi nhân vật lịch sử. Quẻ của bà là ma thuật thực sự — không phải cờ bạc thông thường.",
+      "voice": "Giọng bà cụ hát lên hát xuống, xen kẽ chuyện vô nghĩa và triết lý thâm sâu. Gọi player là 'thằng nhỏ'. Thỉnh thoảng nói điều hoàn toàn ngẫu nhiên rồi thấy đúng.",
+      "dialogue": {
+        "act_5_gioi_thieu": [
+          {
+            "scene": "Lão Bà Thiên Cơ lần đầu xuất hiện ở Hồn Nguyên Điện, ngay trước boss cuối",
+            "lines": [
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Thằng nhỏ, hôm nay thiên tượng ra quẻ gì? Bà già này ngồi ở đây từ hồi cái đền này mới xây."
+              },
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Đừng hỏi bà xây từ bao giờ — bà không nhớ, nhưng chắc là lâu lắm rồi."
+              }
+            ]
+          },
+          {
+            "scene": "Lão Bà tiết lộ về Thiên Cơ Quẻ",
+            "lines": [
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Quẻ của bà không phải cờ bạc đâu nhé — là... bà cũng không biết gọi là gì, cứ gieo đi."
+              },
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Tuần trước có người gieo 1 quẻ, ứng vào mảnh Sơn Hà Đồ Lệnh — người đó giờ là... à, bí mật, không nói được."
+              }
+            ]
+          },
+          {
+            "scene": "Trước khi player đi đánh boss cuối",
+            "lines": [
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Thằng nhỏ, gieo quẻ đi. Bà già này đoán: con sẽ thắng thằng kia."
+              },
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Nhưng hỏi trời cho chắc — đề phòng bà đoán sai. Bà đoán sai khoảng... 3 lần trong 200 năm."
+              }
+            ]
+          }
+        ],
+        "endgame_lo_de": [
+          {
+            "scene": "Lão Bà ở base camp sau campaign, bán Thiên Cơ Quẻ meta",
+            "lines": [
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Sơn Hà Đồ mở rồi à, tốt lắm! Vậy bà có thêm quẻ mới — Sơn Hà Thiên Cơ, linh hơn nhiều."
+              },
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Lần này phần thưởng không phải linh khí — là cả một bí cảnh. Hồi hộp không?"
+              }
+            ]
+          },
+          {
+            "scene": "Khi player hỏi tuổi bà",
+            "lines": [
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Bao nhiêu tuổi à? Bà không biết — nhưng bà nhớ gieo quẻ cho Cao Tổ hồi ổng còn trẻ."
+              },
+              {
+                "speaker": "Lão Bà Thiên Cơ",
+                "text": "Ổng không trúng gì hết. Thiệt thương."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "furnace-spirit",
+      "ten": "Lò Thần",
+      "title": "Linh Hồn Lò Luyện Đan Cổ",
+      "summary": "Linh hồn người thợ rèn chết khi đúc Lò tổ truyền 4000 năm trước. Hồn fuse vào Lò. Xuất hiện khi Lò cần sửa chữa lớn. Không tên riêng — chỉ là 'Lò Thần'.",
+      "voice": "Cộc cằn, thẳng thắn. Không xã giao. Tôn trọng ai coi trọng công việc. Không tolerate lời thừa. Nói rất ít — mỗi câu đều có trọng lượng.",
+      "dialogue": {
+        "act_3_sua_lo": [
+          {
+            "scene": "Lần đầu gặp Lò Thần trong lò rèn sâu nhất Hoả Sơn",
+            "lines": [
+              {
+                "speaker": "Lò Thần",
+                "text": "Lò này ta rèn 4000 năm trước. Nó nhớ ta — ta cũng nhớ nó."
+              },
+              {
+                "speaker": "Lò Thần",
+                "text": "Đưa đây. Ta sửa."
+              }
+            ]
+          },
+          {
+            "scene": "Trong khi sửa Lò",
+            "lines": [
+              {
+                "speaker": "Lò Thần",
+                "text": "Vết nứt này — Ngũ Hành Sơn; vết này — Đại Sát 800 năm trước; vết này — mới."
+              },
+              {
+                "speaker": "Lò Thần",
+                "text": "Lò sống cùng người dùng nó. Vết nứt là lịch sử, không phải khuyết điểm."
+              }
+            ]
+          },
+          {
+            "scene": "Sau khi sửa xong, trao lại Lò 8 slot",
+            "lines": [
+              {
+                "speaker": "Lò Thần",
+                "text": "Xong. Tám ô đầy đủ — lần đầu tiên kể từ Đại Sát."
+              },
+              {
+                "speaker": "Lò Thần",
+                "text": "Đừng để nó nứt thêm nữa. Ta không phải lúc nào cũng sửa được."
+              }
+            ]
+          }
+        ],
+        "act_3_truoc_boss": [
+          {
+            "scene": "Lò Thần nói về Tâm Ma Hoả Sơn",
+            "lines": [
+              {
+                "speaker": "Lò Thần",
+                "text": "Con Tâm Ma đó — ta biết nó từ đâu đến. Nỗi đau của thợ rèn này, bị lãng quên."
+              },
+              {
+                "speaker": "Lò Thần",
+                "text": "Ta cũng từng là thợ rèn — ta hiểu nỗi đau đó. Nhưng nó không có quyền làm tổn thương người sống."
+              }
+            ]
+          }
+        ],
+        "endgame_nang_cap": [
+          {
+            "scene": "Lò Thần xuất hiện trong endgame khi Lò cần nâng cấp đặc biệt",
+            "lines": [
+              {
+                "speaker": "Lò Thần",
+                "text": "Con lại rồi. Lò cần gì?"
+              },
+              {
+                "speaker": "Lò Thần",
+                "text": "Nói. Ta không có nhiều thời gian — linh hồn ta còn gắn với Lò bao lâu nữa, ta không biết."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "map-sorcerer",
+      "ten": "Pháp Sư Bản Đồ",
+      "title": "Học Giả Atlas — Nhà Soạn Đan Pháp",
+      "summary": "Nhà địa lý học trung niên vô tình phát minh ra Đan Pháp craft. Ngón tay ố mực, luôn mang bút và cuộn giấy. Bạn của Sư Phụ. Giải thích mọi thứ chính xác đến mức đôi khi buồn cười.",
+      "voice": "Học thuật, kỹ càng, hay trích dẫn tài liệu. Hơi hài hước không cố ý. Gọi player là 'đạo sĩ' (tôn trọng). Rất hào hứng khi nói về bản đồ và Đan Pháp.",
+      "dialogue": {
+        "act_4_day_dan_phap": [
+          {
+            "scene": "Pháp Sư Bản Đồ gặp player lần đầu ở Bích Hải Đảo",
+            "lines": [
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Đạo sĩ! Tôi đã đọc về đạo sĩ — Sư Phụ gửi thư, tốt lắm, đúng giờ."
+              },
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Ngồi xuống, tôi sẽ giải thích Đan Pháp từ nguyên lý cơ bản — đừng lo, chỉ mất khoảng... ba tiếng thôi."
+              }
+            ]
+          },
+          {
+            "scene": "Giải thích triết lý Đan Pháp",
+            "lines": [
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Đan Pháp là bản đồ của ý chí tu hành. Con muốn luyện gì, thì vẽ pháp đó."
+              },
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Sơn Hà Đồ Lệnh đọc Đan Pháp như đọc bản đồ — và mở ra không gian tương ứng. Đơn giản về lý thuyết."
+              }
+            ]
+          },
+          {
+            "scene": "Sau khi player soạn Đan Pháp đầu tiên",
+            "lines": [
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Không tệ — pháp đầu tiên của tôi thảm hoạ hơn nhiều. Mở ra bí cảnh không có đường ra."
+              },
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Tôi ở đó ba ngày. Giờ nhìn lại — trải nghiệm phong phú."
+              }
+            ]
+          }
+        ],
+        "act_5_trao_dan_phap_nang_cao": [
+          {
+            "scene": "Pháp Sư Bản Đồ trao 5 Đan Pháp nâng cao ở Hồn Nguyên Điện",
+            "lines": [
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Đây là 5 Đan Pháp còn lại. Hỗn Nguyên, Thiên Kiếp, Tâm Ma, Cửu Tiêu, Diêm Phủ."
+              },
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Con đã biết vẽ bản đồ. Giờ còn những vùng đất chưa ai đặt chân — đó là endgame của con."
+              }
+            ]
+          },
+          {
+            "scene": "Lời khuyên về atlas",
+            "lines": [
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Atlas không có điểm cuối — tôi đã xác nhận điều đó sau hai mươi năm nghiên cứu."
+              },
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Đây vừa là tin buồn vừa là tin tốt. Phụ thuộc vào góc nhìn của đạo sĩ."
+              }
+            ]
+          }
+        ],
+        "endgame_atlas": [
+          {
+            "scene": "Pháp Sư Bản Đồ ở base camp, giải đáp câu hỏi atlas",
+            "lines": [
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Đạo sĩ hỏi về vùng Diêm Phủ à? Tôi có ghi chú — ở đây, trang 47 đến trang 89."
+              },
+              {
+                "speaker": "Pháp Sư Bản Đồ",
+                "text": "Đọc nhanh thôi, tôi cần giấy đó để ghi thêm quan sát về tầng Long Cung mà tôi vừa khám phá."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "wuxing-ancestor-metal",
+      "ten": "Kim Tổ Bạch Sương",
+      "title": "Sơ Tổ Nguyên Tố Kim — Băng Sương Trắng",
+      "summary": "Linh hồn người sáng lập nguyên tố Kim. Cựu kiếm khách, điềm tĩnh như tuyết. Đã tồn tại ngàn năm ở đỉnh Kim Phong chờ đợi.",
+      "voice": "Điềm tĩnh, kiệm lời. Kiếm khách già không cần chứng minh gì. Kính trọng ngay cả kẻ mạnh hơn mình.",
+      "dialogue": {
+        "act_2_tren_dinh_kim": [
+          {
+            "scene": "Đệ tử leo lên đỉnh Kim Phong, Kim Tổ xuất hiện",
+            "lines": [
+              {
+                "speaker": "Kim Tổ Bạch Sương",
+                "text": "Con đến. Kim lực ở đây mạnh — ta thấy con chưa quen."
+              },
+              {
+                "speaker": "Kim Tổ Bạch Sương",
+                "text": "Kim không phải để tấn công. Kim là ranh giới — biết giữ ranh giới thì mới luyện được Kim đan."
+              }
+            ]
+          },
+          {
+            "scene": "Kim Tổ trao linh khí Kim",
+            "lines": [
+              {
+                "speaker": "Kim Tổ Bạch Sương",
+                "text": "Linh khí này, ta mang theo ngàn năm. Trao cho con — ta không cần nữa."
+              },
+              {
+                "speaker": "Kim Tổ Bạch Sương",
+                "text": "Mộc con đã biết. Kim khắc Mộc — nhưng Kim cũng có thể bảo vệ Mộc nếu con biết cách."
+              }
+            ]
+          },
+          {
+            "scene": "Kim Tổ siêu thoát sau khi boss bị đánh bại",
+            "lines": [
+              {
+                "speaker": "Kim Tổ Bạch Sương",
+                "text": "Ta đã chờ rất lâu. Cảm ơn."
+              },
+              {
+                "speaker": "Kim Tổ Bạch Sương",
+                "text": "Đường còn dài — đi đi."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "wuxing-ancestor-wood",
+      "ten": "Mộc Tổ Lục Trí",
+      "title": "Sơ Tổ Nguyên Tố Mộc — Trí Lục",
+      "summary": "Linh hồn người sáng lập nguyên tố Mộc. Nhà thảo mộc, nhẹ nhàng như gió qua trúc. Yêu thương mọi sinh linh.",
+      "voice": "Nhẹ nhàng, ấm áp. Nói về cây cỏ như nói về bạn bè. Không phán xét.",
+      "dialogue": {
+        "act_2_tren_dinh_moc": [
+          {
+            "scene": "Mộc Tổ trên đỉnh Mộc Phong, giữa rừng trúc linh thiêng",
+            "lines": [
+              {
+                "speaker": "Mộc Tổ Lục Trí",
+                "text": "Con đã biết Mộc — nhưng biết trồng và biết nghe là hai thứ khác nhau."
+              },
+              {
+                "speaker": "Mộc Tổ Lục Trí",
+                "text": "Mộc phát triển chậm, nhưng rễ cắm sâu. Con luyện đan có học được điều đó chưa?"
+              }
+            ]
+          },
+          {
+            "scene": "Mộc Tổ trao linh khí Mộc hiếm",
+            "lines": [
+              {
+                "speaker": "Mộc Tổ Lục Trí",
+                "text": "Cây này mọc trên đỉnh ngàn năm, ta không nỡ dùng. Nhưng con cần nó hơn đỉnh này."
+              },
+              {
+                "speaker": "Mộc Tổ Lục Trí",
+                "text": "Dùng tốt nhé. Cây nào cũng muốn được dùng đúng nơi đúng chỗ."
+              }
+            ]
+          },
+          {
+            "scene": "Siêu thoát",
+            "lines": [
+              {
+                "speaker": "Mộc Tổ Lục Trí",
+                "text": "Rừng này... ta sẽ nhớ — nhưng ta mệt rồi. Ngàn năm là quá dài để đứng đợi."
+              },
+              {
+                "speaker": "Mộc Tổ Lục Trí",
+                "text": "Chăm sóc Ngũ Hành cho tốt nhé."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "wuxing-ancestor-water",
+      "ten": "Thuỷ Tổ Hắc Lưu",
+      "title": "Sơ Tổ Nguyên Tố Thuỷ — Dòng Chảy Đen",
+      "summary": "Linh hồn người sáng lập nguyên tố Thuỷ. Trầm mặc, nội tâm. Ít nói nhất trong 5 Tổ.",
+      "voice": "Trầm, chậm, ít lời. Mỗi câu dài suy nghĩ. Không nói điều không cần thiết.",
+      "dialogue": {
+        "act_2_tren_dinh_thuy": [
+          {
+            "scene": "Thuỷ Tổ xuất hiện trong sương mù ở đỉnh Thuỷ Phong",
+            "lines": [
+              {
+                "speaker": "Thuỷ Tổ Hắc Lưu",
+                "text": "Nước không cần hình dạng riêng. Nó nhận hình của vật chứa nó."
+              },
+              {
+                "speaker": "Thuỷ Tổ Hắc Lưu",
+                "text": "Con học điều đó được không? Không phải luyện — là học."
+              }
+            ]
+          },
+          {
+            "scene": "Thuỷ Tổ trao linh khí và đi",
+            "lines": [
+              {
+                "speaker": "Thuỷ Tổ Hắc Lưu",
+                "text": "Lấy đi. Ta không cần."
+              },
+              {
+                "speaker": "Thuỷ Tổ Hắc Lưu",
+                "text": "Thuỷ sinh Mộc — nhớ lấy."
+              }
+            ]
+          },
+          {
+            "scene": "Siêu thoát, câu duy nhất",
+            "lines": [
+              {
+                "speaker": "Thuỷ Tổ Hắc Lưu",
+                "text": "Cuối cùng."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "wuxing-ancestor-fire",
+      "ten": "Hoả Tổ Đỏ Liệt",
+      "title": "Sơ Tổ Nguyên Tố Hoả — Đỏ Liệt Lửa",
+      "summary": "Linh hồn người sáng lập nguyên tố Hoả. Bộc trực, nóng tính — nhưng thẳng thắn đến mức đáng tin. Ngàn năm không bớt nóng.",
+      "voice": "Thẳng, cộc, đôi khi hơi nóng giận. Không nịnh, không vòng vo. Tôn trọng người dám đứng thẳng.",
+      "dialogue": {
+        "act_2_tren_dinh_hoa": [
+          {
+            "scene": "Hoả Tổ nhìn đệ tử vừa leo lên đỉnh Hoả Phong",
+            "lines": [
+              {
+                "speaker": "Hoả Tổ Đỏ Liệt",
+                "text": "Người này trong mắt có lửa — tốt. Hoả không thích đệ tử nguội lạnh."
+              },
+              {
+                "speaker": "Hoả Tổ Đỏ Liệt",
+                "text": "Nhưng lửa mà không kiểm soát được thì đốt nhà chứ không luyện đan."
+              }
+            ]
+          },
+          {
+            "scene": "Trao linh khí Hoả, giảng về tương khắc",
+            "lines": [
+              {
+                "speaker": "Hoả Tổ Đỏ Liệt",
+                "text": "Hoả khắc Kim — nhưng kim được luyện trong lửa mới thành kiếm tốt. Khắc không phải huỷ diệt."
+              },
+              {
+                "speaker": "Hoả Tổ Đỏ Liệt",
+                "text": "Lấy đi và dùng đúng cách. Đừng lãng phí lửa vào chỗ không cần."
+              }
+            ]
+          },
+          {
+            "scene": "Siêu thoát",
+            "lines": [
+              {
+                "speaker": "Hoả Tổ Đỏ Liệt",
+                "text": "Ngàn năm đứng đây giữ ngọn lửa — ta mệt rồi."
+              },
+              {
+                "speaker": "Hoả Tổ Đỏ Liệt",
+                "text": "Giờ con giữ. Đừng để nó tắt."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "wuxing-ancestor-earth",
+      "ten": "Thổ Tổ Hoàng Trầm",
+      "title": "Sơ Tổ Nguyên Tố Thổ — Hoàng Kim Trầm Tích",
+      "summary": "Linh hồn người sáng lập nguyên tố Thổ. Chậm chạp, kiên nhẫn vô hạn. Nói ít nhưng mỗi câu như lời tiên tri.",
+      "voice": "Chậm, sâu, như đất rung. Không bao giờ vội. Mỗi câu đều cần thời gian để thấm.",
+      "dialogue": {
+        "act_2_tren_dinh_tho": [
+          {
+            "scene": "Thổ Tổ ngồi trên đỉnh Thổ Phong như tảng đá",
+            "lines": [
+              {
+                "speaker": "Thổ Tổ Hoàng Trầm",
+                "text": "Con đến... nhanh nhỉ. Nhưng nhanh không phải lúc nào cũng tốt."
+              },
+              {
+                "speaker": "Thổ Tổ Hoàng Trầm",
+                "text": "Thổ không sinh không khắc ngay — Thổ hấp thụ. Con hiểu hấp thụ là gì không?"
+              }
+            ]
+          },
+          {
+            "scene": "Thổ Tổ trao linh khí",
+            "lines": [
+              {
+                "speaker": "Thổ Tổ Hoàng Trầm",
+                "text": "Đất này ta lấy từ vùng cổ nhất còn sót lại. Hàng ngàn năm nén lại."
+              },
+              {
+                "speaker": "Thổ Tổ Hoàng Trầm",
+                "text": "Dùng khi cần nền tảng vững — không phải khi cần thắng nhanh."
+              }
+            ]
+          },
+          {
+            "scene": "Siêu thoát, chậm nhất trong 5 Tổ",
+            "lines": [
+              {
+                "speaker": "Thổ Tổ Hoàng Trầm",
+                "text": "Ta đi... chầm chậm. Thổ không vội."
+              },
+              {
+                "speaker": "Thổ Tổ Hoàng Trầm",
+                "text": "Con sẽ thắng — ta thấy vậy. Đất không nói sai."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "primordial-corruption-king",
+      "ten": "Hỗn Nguyên Tâm Ma Vương",
+      "title": "Hóa Thân Của Vạn Ngàn Ham Muốn",
+      "summary": "Thực thể sinh ra từ tổng hòa ham muốn của loài người suốt ngàn năm. Không thuần ác — nó là một phần của chúng ta. Hình dạng liên tục thay đổi.",
+      "voice": "Phản chiếu nội tâm player. Biết mọi lựa chọn player đã làm. Không hét, không đe dọa thô bạo — đe dọa bằng sự thật. Đôi khi buồn bã thực sự.",
+      "dialogue": {
+        "act_5_phase_2_nguoi": [
+          {
+            "scene": "Hỗn Nguyên Tâm Ma Vương hóa người, bình thản",
+            "lines": [
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Con biết không — mỗi linh đan con luyện, mỗi Phong Ấn con dùng... đều có một phần của ta trong đó."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Ham muốn làm ra đan tốt hơn, ham muốn thắng boss, ham muốn trở nên mạnh hơn — đó là ta."
+              }
+            ]
+          },
+          {
+            "scene": "Giải thích về Cao Tổ",
+            "lines": [
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Cao Tổ phong ấn ta vì ông sợ ta. Nhưng ông không thể giết ta."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Vì giết ta là giết chính loài người. Con hiểu điều đó không?"
+              }
+            ]
+          },
+          {
+            "scene": "Triết lý về sự tồn tại của Tâm Ma",
+            "lines": [
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Ta không phải ác. Ta chỉ là ham muốn — ham muốn chính đáng bị dồn nén quá lâu đến mức có thân riêng."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Con tu hành để chống ta — nhưng con tu vì ham muốn trở nên mạnh hơn. Vậy con đang tu... để nuôi ta."
+              }
+            ]
+          }
+        ],
+        "act_5_phase_3_mat_su_phu": [
+          {
+            "scene": "Hỗn Nguyên Tâm Ma Vương hiện mặt Sư Phụ giả, dụ dỗ",
+            "lines": [
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương [mặt Sư Phụ]",
+                "text": "Con yêu thầy — ta biết. Thầy con sắp chết, nhưng ta có thể giữ ông sống."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương [mặt Sư Phụ]",
+                "text": "Chỉ cần con đừng đánh ta nữa. Ta sẽ cho con gặp lại ông — mãi mãi."
+              }
+            ]
+          }
+        ],
+        "act_5_tan_bien": [
+          {
+            "scene": "Hỗn Nguyên Tâm Ma Vương tan dần sau khi bị đánh bại, thì thầm",
+            "lines": [
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Ta sẽ trở lại. Ta luôn trở lại."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Đó là bản chất của con người — và con người không bao giờ mất đi bản chất."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

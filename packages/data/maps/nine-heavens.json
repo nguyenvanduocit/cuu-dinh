@@ -1,0 +1,98 @@
+{
+  "id": "nine-heavens",
+  "ten": "Cửu Tiêu",
+  "variant": "nine-heavens",
+  "tierRange": {
+    "min": 6,
+    "max": 16
+  },
+  "vanCount": {
+    "min": 6,
+    "max": 9
+  },
+  "bossType": "lightning",
+  "modifierSlots": {
+    "min": 1,
+    "max": 3
+  },
+  "geometry": {
+    "width": 600,
+    "height": 1800,
+    "anchors": [
+      {
+        "id": "anchor-1",
+        "position": {
+          "x": 150,
+          "y": 280
+        },
+        "elementBias": "fire"
+      },
+      {
+        "id": "anchor-2",
+        "position": {
+          "x": 300,
+          "y": 280
+        },
+        "elementBias": "fire"
+      },
+      {
+        "id": "anchor-3",
+        "position": {
+          "x": 450,
+          "y": 280
+        },
+        "elementBias": "fire"
+      },
+      {
+        "id": "anchor-4",
+        "position": {
+          "x": 150,
+          "y": 900
+        },
+        "elementBias": "void"
+      },
+      {
+        "id": "anchor-5",
+        "position": {
+          "x": 300,
+          "y": 900
+        },
+        "elementBias": "void"
+      },
+      {
+        "id": "anchor-6",
+        "position": {
+          "x": 450,
+          "y": 900
+        },
+        "elementBias": "void"
+      },
+      {
+        "id": "anchor-7",
+        "position": {
+          "x": 150,
+          "y": 1520
+        },
+        "elementBias": "earth"
+      },
+      {
+        "id": "anchor-8",
+        "position": {
+          "x": 300,
+          "y": 1520
+        },
+        "elementBias": "earth"
+      },
+      {
+        "id": "anchor-9",
+        "position": {
+          "x": 450,
+          "y": 1520
+        },
+        "elementBias": "earth"
+      }
+    ]
+  },
+  "specialRules": "Board chiều dọc 600×1800 (gấp 1.5 chiều cao Tiêu Chuẩn) mô phỏng chín tầng trời. Physics override: gravity +60%, friction -30% — linh lực rơi nhanh như sét rơi từ Cửu Tiêu xuống Nhân Giới, intensity tích luỹ velocity rất mạnh nhưng player có ít thời gian routing. 9 anchor đúng 9 ô = 3 tầng × 3 cột: tầng trời Hoả (Cửu Tiêu thượng), tầng Vô Cực (Trung Thiên), tầng Thổ (Hạ Giới — nơi đan ở). Chain Hoả→Vô Cực→Thổ là 'thiên đạo flow' = +50% intensity bonus đến đan. Linh khí ở 3 cột buộc player chọn lane thay vì spam toàn board. Boss = Thiên Kiếp wave từ tầng trời cao nhất rơi xuống.",
+  "description": "Cửu Tiêu là chín tầng trời, nơi Ngũ Hành Sơ Tổ ngày xưa ngắm thiên hà mà ngộ đạo. Linh lực ở đây không trôi — nó rơi như mưa sao, mỗi giọt là một niệm trời ban. Đạo sĩ luyện đan ở Cửu Tiêu phải biết đón sấm, biết tiếp gió, biết đứng yên giữa cơn rơi của muôn vì sao."
+}

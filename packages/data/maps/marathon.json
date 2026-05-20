@@ -1,0 +1,138 @@
+{
+  "id": "marathon",
+  "ten": "Hỗn Nguyên",
+  "variant": "marathon",
+  "tierRange": {
+    "min": 10,
+    "max": 16
+  },
+  "vanCount": {
+    "min": 10,
+    "max": 30
+  },
+  "bossType": "mirror",
+  "modifierSlots": {
+    "min": 2,
+    "max": 5
+  },
+  "geometry": {
+    "width": 800,
+    "height": 1200,
+    "anchors": [
+      {
+        "id": "anchor-1",
+        "position": {
+          "x": 140,
+          "y": 220
+        },
+        "elementBias": "fire"
+      },
+      {
+        "id": "anchor-2",
+        "position": {
+          "x": 660,
+          "y": 200
+        },
+        "elementBias": "metal"
+      },
+      {
+        "id": "anchor-3",
+        "position": {
+          "x": 400,
+          "y": 320
+        },
+        "elementBias": "void"
+      },
+      {
+        "id": "anchor-4",
+        "position": {
+          "x": 240,
+          "y": 440
+        },
+        "elementBias": "wood"
+      },
+      {
+        "id": "anchor-5",
+        "position": {
+          "x": 560,
+          "y": 460
+        },
+        "elementBias": "water"
+      },
+      {
+        "id": "anchor-6",
+        "position": {
+          "x": 120,
+          "y": 600
+        },
+        "elementBias": "earth"
+      },
+      {
+        "id": "anchor-7",
+        "position": {
+          "x": 680,
+          "y": 620
+        },
+        "elementBias": "metal"
+      },
+      {
+        "id": "anchor-8",
+        "position": {
+          "x": 380,
+          "y": 640
+        },
+        "elementBias": "void"
+      },
+      {
+        "id": "anchor-9",
+        "position": {
+          "x": 220,
+          "y": 800
+        },
+        "elementBias": "fire"
+      },
+      {
+        "id": "anchor-10",
+        "position": {
+          "x": 580,
+          "y": 820
+        },
+        "elementBias": "wood"
+      },
+      {
+        "id": "anchor-11",
+        "position": {
+          "x": 360,
+          "y": 900
+        },
+        "elementBias": "water"
+      },
+      {
+        "id": "anchor-12",
+        "position": {
+          "x": 460,
+          "y": 1000
+        },
+        "elementBias": "earth"
+      },
+      {
+        "id": "anchor-13",
+        "position": {
+          "x": 180,
+          "y": 1060
+        },
+        "elementBias": "void"
+      },
+      {
+        "id": "anchor-14",
+        "position": {
+          "x": 620,
+          "y": 1060
+        },
+        "elementBias": "fire"
+      }
+    ]
+  },
+  "specialRules": "Marathon 30-50 phút. Ván cứ 3 phút lại spawn wave mới; intensity +5% mỗi wave, escalating không trần. vanCount min/max là số ván trung bình player kỳ vọng (10-30 tuỳ tốc độ); runtime override khi player chọn bail-out tại phút 15/30/45 (lock-in current loot). Boss base = Tâm Ma; nếu Đan Pháp tier ≥ T14 thì boss promote thành Thiên Kiếp (specialRules layer kiểm tra). 14 anchor scattered chaos để dạy player rằng không có 'optimal layout' — phải rebuild build mỗi 3 ván khi wave intensity nhảy bậc. Anchor bias đủ 5 nguyên tố để Ngũ Hành chain luôn khả thi nhưng phải tự route.",
+  "description": "Hỗn Nguyên là cảnh giới trước khi vạn vật phân Ngũ Hành — không trật tự, không quy luật, chỉ có nguyên khí cuồn cuộn. Đạo sĩ bước vào đây là tự nguyện chìm vào trong cơn lốc thời gian: càng ở lâu, đan càng tinh, nhưng linh hồn càng mòn. Có người luyện được Tiên đan; có người không bao giờ trở ra."
+}

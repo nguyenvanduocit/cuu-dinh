@@ -1,0 +1,13 @@
+id,ten,effect,riskLevel,rewardMultiplier,difficultyTier
+frenzied-soul,Hồn Cuồng,Tốc độ linh lực +30% — các linh khí kích hoạt nhanh hơn nhưng khó điều hướng hơn,low,1.10,2
+sealed-slot,Phong Hoả,-1 slot linh khí có thể đặt trên board — buộc phải tối ưu với ít pháp khí hơn,medium,1.50,3
+underworld-dark,U Minh,Tắt sáng toàn board — chỉ thấy bán kính 120px quanh linh đan; +1 đan dược drop,medium,1.50,3
+blood-slaughter,Huyết Sát,Linh khí mất durability mỗi lần linh lực va chạm — có thể vỡ giữa ván; +100% Phong Ấn drop,high,2.00,4
+boundless-swarm,Vô Lượng,+50% số lượng linh lực mỗi ván — board hỗn loạn hơn; +30% vàng kim thu được,low,1.10,2
+heretic-path,Tà Đạo,Boss sinh đôi — 2 boss xuất hiện cùng lúc ở ván cuối; +200% phần thưởng boss,high,2.00,4
+violent-wind,Cuồng Phong,Mỗi 5 giây toàn bộ linh lực ngẫu nhiên đổi hướng 90° — phá vỡ mọi chain đã tính trước,medium,1.50,3
+frozen-ice,Lạnh Băng,Linh khí đóng băng 2 giây sau mỗi 3 lần va chạm — mất tempo nhưng tích intensity cao hơn,low,1.10,2
+great-counter,Đại Khắc,50% linh lực ngẫu nhiên chuyển thành nguyên tố tương khắc với linh đan — stability nguy hiểm liên tục,high,2.00,4
+heaven-tears,Thiên Lệ,Stability tối đa linh đan bị giới hạn ở 50% — cực kỳ nguy hiểm; +50% Đan Pháp drop,extreme,3.00,5
+corruption-wuxing,Tâm Ma Ngũ Hành,Mỗi ván linh đan ngẫu nhiên đổi nguyên tố chính — phải liên tục điều chỉnh chain element để tránh tương khắc,extreme,3.00,5
+primordial-shift,Hỗn Nguyên Biến,Toàn bộ linh khí ngẫu nhiên hoán đổi vị trí trên board khi bắt đầu mỗi ván — không thể lưu lại cấu hình,medium,1.50,3

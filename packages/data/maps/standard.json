@@ -1,0 +1,106 @@
+{
+  "id": "standard",
+  "ten": "Tiêu Chuẩn",
+  "variant": "standard",
+  "tierRange": {
+    "min": 1,
+    "max": 16
+  },
+  "vanCount": {
+    "min": 5,
+    "max": 8
+  },
+  "bossType": "anomaly",
+  "modifierSlots": {
+    "min": 0,
+    "max": 3
+  },
+  "geometry": {
+    "width": 800,
+    "height": 1200,
+    "anchors": [
+      {
+        "id": "anchor-1",
+        "position": {
+          "x": 200,
+          "y": 280
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-2",
+        "position": {
+          "x": 400,
+          "y": 280
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-3",
+        "position": {
+          "x": 600,
+          "y": 280
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-4",
+        "position": {
+          "x": 160,
+          "y": 500
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-5",
+        "position": {
+          "x": 400,
+          "y": 500
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-6",
+        "position": {
+          "x": 640,
+          "y": 500
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-7",
+        "position": {
+          "x": 240,
+          "y": 720
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-8",
+        "position": {
+          "x": 560,
+          "y": 720
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-9",
+        "position": {
+          "x": 320,
+          "y": 900
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-10",
+        "position": {
+          "x": 480,
+          "y": 900
+        },
+        "elementBias": null
+      }
+    ]
+  },
+  "specialRules": "Pháp Trận trung tính, không có cơ chế đặc biệt. Cấu trúc PoE-map cơ bản: 5-8 ván + 1 boss Dị Tượng cuối. 0-3 modifier slot tuỳ atlas keystone. Drop pool theo region atlas. Đây là baseline để đo cảm giác mọi pháp trận khác — bất kỳ variant nào lệch khỏi đây phải có lý do design rõ ràng. Anchor đặt theo lưới đối xứng 3-3-2-2: dạy người chơi đọc hình học board trước khi gặp variant phức tạp.",
+  "description": "Pháp trận sơ khai mà đạo sĩ luyện đan nào cũng phải qua. Đất bằng, trời quang, linh lực rơi đều — không có cơ chế nào ám hại. Đây là nơi tu chân học cách đặt linh khí, đọc dòng chảy ngũ hành, và làm quen với hơi thở của lò. Khi đan thành ở Tiêu Chuẩn, đạo sĩ mới đủ tâm cảnh để bước vào những bí cảnh hiểm hơn."
+}

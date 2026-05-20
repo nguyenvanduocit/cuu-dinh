@@ -1,0 +1,90 @@
+{
+  "id": "sanctum",
+  "ten": "Tử Sinh",
+  "variant": "sanctum",
+  "tierRange": {
+    "min": 8,
+    "max": 16
+  },
+  "vanCount": {
+    "min": 20,
+    "max": 20
+  },
+  "bossType": "mirror",
+  "modifierSlots": {
+    "min": 1,
+    "max": 3
+  },
+  "geometry": {
+    "width": 800,
+    "height": 1200,
+    "anchors": [
+      {
+        "id": "anchor-1",
+        "position": {
+          "x": 400,
+          "y": 240
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-2",
+        "position": {
+          "x": 220,
+          "y": 420
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-3",
+        "position": {
+          "x": 400,
+          "y": 420
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-4",
+        "position": {
+          "x": 580,
+          "y": 420
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-5",
+        "position": {
+          "x": 260,
+          "y": 660
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-6",
+        "position": {
+          "x": 540,
+          "y": 660
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-7",
+        "position": {
+          "x": 320,
+          "y": 880
+        },
+        "elementBias": null
+      },
+      {
+        "id": "anchor-8",
+        "position": {
+          "x": 480,
+          "y": 880
+        },
+        "elementBias": null
+      }
+    ]
+  },
+  "specialRules": "Đây là 1 phòng mẫu (room template) — RUNTIME GENERATE 20 phòng nối tiếp từ template này, mỗi phòng xoay/lật/scale khác nhau để giữ tươi. Mỗi phòng player chọn 1 trong 3 cửa: Cửa A (risk loot, modifier +1 phòng sau), Cửa B (neutral), Cửa C (heal +stability cho linh đan). Bể linh đan ở bất kỳ phòng nào = mất tất cả Sanctum loot, không mất loot Forever. Pass phòng 20 = boss Tâm Ma siêu khó + guaranteed Cổ Vật + Đan Pháp Cổ tier. Drop rate Đan Pháp Tử Sinh rất hiếm, gate level 70+. Anchor template 8 điểm để buộc player chọn linh khí tối ưu trong không gian hẹp.",
+  "description": "Trong sâu Hồn Nguyên Điện có hai mươi cánh cửa phong ấn — sau mỗi cánh là một sinh tử quan. Đạo sĩ vào, không quay đầu được; mỗi phòng phải chọn một con đường, mỗi đường có cái giá. Tổ Sư Bất Tử nói: 'Hai mươi cửa là hai mươi lần tự vấn. Linh đan qua được, không phải vì giỏi — vì biết chọn.'"
+}
