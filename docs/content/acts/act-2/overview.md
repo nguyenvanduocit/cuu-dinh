@@ -36,8 +36,8 @@ Cân bằng là thuộc lòng hay tự cảm?
 3. **4 Pháp Trận element-specific** -- see `nodes/element-trial-kim/narrative.md`, `nodes/element-trial-thuy/narrative.md`, `nodes/element-trial-hoa/narrative.md`, `nodes/element-trial-tho/narrative.md`
    Mỗi pháp trận thử thách 1 element. Đệ tử tự xoay sở không có Sư Phụ.
 
-4. **Ẩn sĩ giữa núi (optional)** -- see `nodes/hermit-foreshadow/narrative.md`
-   Một vị ẩn sĩ giấu mặt tặng Tinh Hoa Ngũ Hành và nói câu bí ẩn: *"Người đeo Lò đó... có nghe tiếng đếm không?"* Foreshadowing Tổ Sư Bất Tử và Cửu Chuyển Kim Đan.
+4. **Kẻ Đeo Mặt Nạ -- cuộc gặp đầu (optional)** -- see `nodes/hermit-foreshadow/narrative.md`
+   Thân ảnh đeo mặt nạ player thoáng thấy ở Hồi 1 nay hiện rõ giữa Ngũ Hành Sơn. Nó tặng Tinh Hoa Ngũ Hành như một món quà -- cám dỗ đầu tiên -- và hỏi: *"Người đeo Lò đó... có nghe tiếng đếm không?"* Foreshadowing bản chất Kẻ Đeo Mặt Nạ và Cửu Chuyển Kim Đan.
 
 5. **Boss: Dị Tượng Ngũ Hành** -- see `boss.md`
    Boss không thuộc element nào cố định, cứ 5 giây chuyển element. Sau khi boss chết: 5 linh hồn Ngũ Hành Tổ xuất hiện lần cuối, mỗi người chỉ nói một chữ: *"Đừng..." "luyện..." "chuyển..." "thứ..." "chín."* Rồi siêu thoát.
@@ -54,7 +54,7 @@ See `boss.md` + `../../bosses/anomaly-wuxing/`.
 - `../../npcs/wuxing-ancestor-water/` -- Thuỷ Tổ "Hắc Lưu"
 - `../../npcs/wuxing-ancestor-fire/` -- Hoả Tổ "Đỏ Liệt"
 - `../../npcs/wuxing-ancestor-earth/` -- Thổ Tổ "Hoàng Trầm"
-- **Ẩn sĩ** -- optional, không tên, foreshadowing (không có entity folder, by design)
+- `../../npcs/masked-echo/` -- Kẻ Đeo Mặt Nạ: cuộc trò chuyện đầu, tặng Tinh Hoa Ngũ Hành như cám dỗ
 
 ## Reward
 

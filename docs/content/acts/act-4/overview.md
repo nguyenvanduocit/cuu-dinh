@@ -50,7 +50,7 @@ Chọn đạo là được gì và mất gì?
    Boss phản ánh điểm yếu tiềm ẩn của Đạo Phái player sắp chọn.
 
 9. **Chọn Đạo Phái** -- see `nodes/dao-phai-choice/narrative.md`
-   5 cánh cửa. Không đổi được.
+   5 cánh cửa. Không đổi được. Kẻ Đeo Mặt Nạ đứng giữa 5 cửa -- không cản, chỉ hỏi player sẵn sàng thành phiên bản ham muốn nào.
 
 ## Boss
 
@@ -62,6 +62,7 @@ See `boss.md` + `../../bosses/heart-demon-dai-sat/`.
 - **Linh Hoa Thương Nhân** -- bán Nguyên Liệu cơ bản (chưa có entity folder)
 - `../../npcs/master/` -- Sư Phụ: ở Vô Cực Đỉnh, speech về chọn đường tu
 - **Cao Tổ** -- xuất hiện duy nhất qua bức tượng (cross-ref `../../lore-entities/` nếu có)
+- `../../npcs/masked-echo/` -- Kẻ Đeo Mặt Nạ: ở 5 cánh cửa Đạo Phái, hỏi player chọn thành phiên bản ham muốn nào
 
 ## Reward
 

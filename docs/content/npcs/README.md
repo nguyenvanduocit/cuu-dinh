@@ -1,6 +1,6 @@
 # `npcs/` — NPC Character Bibles
 
-> 14 NPCs with character bibles, dialogue trees, and portrait art.
+> 15 NPCs with character bibles, dialogue trees, and portrait art.
 
 ## Design rationale
 

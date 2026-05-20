@@ -53,7 +53,7 @@ Muốn thắng Tâm Ma có phải cũng là tâm ma?
    Pháp trận cuối trước boss.
 
 10. **Boss cuối: Hỗn Nguyên Tâm Ma Vương** -- see `boss.md`
-    Đa phase. Sư Phụ hy sinh. Sơn Hà Đồ Lệnh hoàn thành.
+    Đa phase. Trước boss, Kẻ Đeo Mặt Nạ hiện lần cuối -- mặt nạ nứt vỡ, lộ thân phận, rồi hợp nhất vào Tâm Ma Vương (thành cơ chế "đeo mặt" của Phase 3). Sư Phụ hy sinh. Sơn Hà Đồ Lệnh hoàn thành.
 
 ## Boss
 
@@ -65,6 +65,7 @@ See `boss.md` + `../../bosses/primordial-corruption-king/`.
 - `../../npcs/immortal-ancestor/` -- Tổ Sư Bất Tử: tiết lộ danh tính + trao mảnh Sơn Hà Đồ Lệnh
 - `../../npcs/omen-crone/` -- Lão Bà Thiên Cơ: lần đầu xuất hiện (intro Thiên Cơ Quẻ meta)
 - `../../npcs/map-sorcerer/` -- Pháp Sư Bản Đồ: trao 5 Đan Pháp nâng cao
+- `../../npcs/masked-echo/` -- Kẻ Đeo Mặt Nạ: hiện lần cuối, mặt nạ vỡ, hợp nhất vào boss cuối
 
 ## Reward
 
