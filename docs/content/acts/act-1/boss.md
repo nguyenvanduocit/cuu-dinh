@@ -15,6 +15,10 @@ Khi boss chết, nó không gào thét mà hỏi: *"Nếu không sợ đói, vì
 
 Node cuối cùng trước base camp tour. Sư Phụ đứng quan sát, không can thiệp.
 
+## Kẻ Đeo Mặt Nạ -- thoáng thấy
+
+Khi boss tan, một thân ảnh khoác áo xám, đeo mặt nạ gốm trắng đứng ở rìa đấu trường, lặng lẽ quan sát. Mặt nạ nứt toác, gần vỡ. Player quay lại nhìn thì nó đã không còn ở đó. Sư Phụ không nhắc tới -- nhưng tay ông siết lại quanh cây gậy. Đây là mầm gieo đầu tiên của Kẻ Đeo Mặt Nạ (`../../npcs/masked-echo/`); nó chưa nói gì, chưa có tên. Chỉ một gương mặt.
+
 ## Pre-boss dialogue
 
 > SƯ PHỤ: *"Con thấy không? Có một tâm ma nhỏ -- sinh ra từ sự bực bội của lão tiều phu. Lão không muốn đốn gỗ tổ truyền."*

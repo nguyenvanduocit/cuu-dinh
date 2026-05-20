@@ -13,6 +13,12 @@ Phong ấn Cao Tổ vỡ hoàn toàn. Hỗn Nguyên Tâm Ma Vương xuất hiệ
 
 Node cuối cùng của campaign. Sau tất cả preparation nodes.
 
+## Kẻ Đeo Mặt Nạ -- hợp nhất
+
+Ngay trước boss fight, Kẻ Đeo Mặt Nạ hiện lần cuối trong Hồn Nguyên Điện. Mặt nạ -- đã liền gần hết qua mỗi lần player chiều ham muốn suốt campaign -- giờ nứt một lần chót, rồi rơi. Dưới đó là gương mặt của chính player: già hơn, mệt hơn, mắt đã quen trả giá. Nó là player của một tương lai mà ham muốn đã thắng.
+
+Rồi nó bước tới, áp gương mặt ấy lên Hỗn Nguyên Tâm Ma Vương. Từ giây đó, Tâm Ma Vương đeo được mọi gương mặt. Phase 3 -- boss mang mặt Sư Phụ giả -- chính là Kẻ Đeo Mặt Nạ làm công việc cuối cùng của nó. Mặt nạ player đã tự tay hàn gắn suốt 5 Hồi, nay thành vũ khí đánh vào player. Xem `../../npcs/masked-echo/`.
+
 ## Multi-phase fight
 
 **Phase 1 (hình quái vật)**: Không có lời -- chỉ có âm thanh vang dội hỗn hợp của vô số giọng người: tiếng tham lam, tiếng ganh ghét, tiếng thất vọng.
@@ -24,7 +30,7 @@ Node cuối cùng của campaign. Sau tất cả preparation nodes.
 >
 > *"Ta sinh ra từ một viên đan cứu thế. Bảy đan sư gọi ta là sai lầm. Cao Tổ gọi ta là tâm ma. Nhưng trước khi có ta, bọn họ gọi ta là hy vọng."*
 
-**Phase 3 (hiện mặt Sư Phụ giả)**:
+**Phase 3 (hiện mặt Sư Phụ giả -- Kẻ Đeo Mặt Nạ làm việc)**:
 > *"Con yêu thầy. Ta biết. Thầy con sắp chết. Hãy để ta lấy phần thầy còn lại -- ta sẽ giữ ông sống. Ta sẽ cho con gặp lại ông. Chỉ cần con đừng đánh ta nữa."*
 
 Build-aware line (nếu player dùng nhiều Phong Ấn/Tâm Ma mod):

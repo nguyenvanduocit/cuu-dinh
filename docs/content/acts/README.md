@@ -36,9 +36,22 @@ Tông cảm xúc: **ngây thơ -> tự lực -> biết vết nứt -> chọn đ�
 - Hồi 4: Tâm Ma phản chiếu bản thân đệ tử.
 - Hồi 5: Tâm Ma là tổng hòa mọi ham muốn của loài người -- kể cả của đệ tử.
 
+### Kẻ Đeo Mặt Nạ
+
+Phản diện tái diễn của campaign -- mảnh rò rỉ của Hỗn Nguyên Tâm Ma Vương, hiện hình thành thân ảnh đeo mặt nạ gốm trắng. Mặt nạ luôn nứt; nó liền dần mỗi khi player chiều ham muốn (reroll, Phong Ấn, Tâm Ma mod) -- đồng hồ đếm ngược hữu hình của campaign.
+
+- Hồi 1: thoáng thấy ở rìa đấu trường boss, chưa nói gì.
+- Hồi 2: cuộc trò chuyện đầu (node optional), tặng quà như cám dỗ.
+- Hồi 3: ở Đạo Quán cờ bạc, cổ vũ player quay thêm.
+- Hồi 4: ở 5 cánh cửa Đạo Phái, hỏi player muốn thành phiên bản ham muốn nào.
+- Hồi 5: mặt nạ vỡ, lộ gương mặt player của tương lai, hợp nhất vào Tâm Ma Vương (cơ chế "đeo mặt" Phase 3).
+
+### Nhịp tông tương phản
+
+Campaign cố tránh thế một-màu-buồn: cài nhịp hân hoan thật để mất mát Hồi 5 có lực. Hồi 1 "Đêm đầu ở am" làng đón đệ tử; Hồi 2 đỉnh Hoả là nhịp đắc thắng; Hồi 3 lễ hội lò rèn. Bittersweet chỉ đắt khi được bao quanh bởi những khoảnh khắc đáng để mất.
+
 ### Bí ẩn Tổ Sư Bất Tử
 
-- Hồi 2 (optional): ẩn sĩ nói câu bí ẩn.
 - Hồi 3: Tổ Sư lần đầu xuất hiện, bán Cổ vật, nhìn đệ tử kỳ lạ.
 - Hồi 4: Tổ Sư ở Bích Hải Đảo, nói thêm một câu về Cao Tổ.
 - Hồi 5: Tiết lộ hoàn toàn -- Cảnh Hữu Chân Nhân, Sơ Tổ từ 8000 năm trước, người từng cho Cao Tổ mượn Sơn Hà Đồ để luyện Cửu Chuyển.
@@ -84,6 +97,9 @@ Hồi 4: dạy Đan Pháp. Hồi 5: trao 5 variant cuối. Post-campaign: NPC h�
 
 ### Hỗn Nguyên Tâm Ma Vương
 Xuất hiện chỉ ở Hồi 5. Sự hiện diện cảm nhận xuyên suốt 4 hồi qua tiếng đếm trong Lò, cảnh báo về chuyển thứ chín, boss Tâm Ma nhỏ, và lựa chọn greedy của player. Khi xuất hiện, nó là kết quả logic của mọi mechanic player đã dùng.
+
+### Kẻ Đeo Mặt Nạ
+Mảnh rò rỉ của Hỗn Nguyên Tâm Ma Vương -- khuôn mặt phản diện tái diễn cho 4 hồi đầu. Hồi 1 một gương mặt thoáng thấy; Hồi 2 kẻ tặng quà; Hồi 3 tiếng cổ vũ ở Đạo Quán; Hồi 4 câu hỏi ở 5 cánh cửa; Hồi 5 mặt nạ vỡ, hợp nhất vào boss cuối. Vòng cung của nó là *mặt nạ liền dần* -- player tự tay hàn gắn kẻ thù mỗi lần chiều ham muốn. Không bao giờ bị đánh riêng; nó là cái giá, không phải chướng ngại.
 
 ## Màn kết thúc campaign
 

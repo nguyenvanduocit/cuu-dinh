@@ -29,7 +29,7 @@ Sửa Lò hay sửa chính mình?
    Hai người dạy craft bằng ký hiệu. Đệ tử lần đầu biết Sư Phụ nuôi dưỡng hai người này từ nhỏ -- và biết Sư Phụ từng mất hai con gái.
 
 2. **Lão Hồ Ly mở Đạo Quán** -- see `nodes/hao-ho-ly-gambling/narrative.md`
-   Lần đầu gặp full gambling system. Lão Hồ Ly cố ép đệ tử mua Linh Đan không cần thiết -- hài nhẹ.
+   Lần đầu gặp full gambling system. Lão Hồ Ly cố ép đệ tử mua Linh Đan không cần thiết -- hài nhẹ. Lẫn trong đám đông Đạo Quán có Kẻ Đeo Mặt Nạ, khẽ cổ vũ player quay thêm: cờ bạc là sân nhà của ham muốn.
 
 3. **Tổ Sư Bất Tử lần đầu xuất hiện** -- see `nodes/to-su-first-appear/narrative.md`
    Bán Cổ vật với giá cắt cổ. Nhìn đệ tử kỳ lạ: *"Lão phu đã gặp nhiều người mang Lò đó. Con... có phần khác."*
@@ -43,7 +43,10 @@ Sửa Lò hay sửa chính mình?
 6. **Lò Thần sửa Lò** -- see `nodes/lo-than-repair/narrative.md`
    Lão thợ rèn sờ vết nứt: *"Vết này không do thời gian. Do người sợ mất thứ mình yêu."* Mở toàn bộ 8 slot.
 
-7. **Boss: Tâm Ma Hoả Sơn** -- see `boss.md`
+7. **Lễ hội lò rèn** -- see `nodes/le-hoi-lo-ren/narrative.md`
+   Nhịp hân hoan giữa game: thợ rèn Hoả Sơn Lò Cốc mở lễ hội lò, kéo đệ tử vào ăn mừng, cùng đúc tặng đệ tử một món nhỏ. Player có một cộng đồng, một thứ để mất -- cố ý đặt ngay trước boss để cái buồn của boss giáng xuống có lực.
+
+8. **Boss: Tâm Ma Hoả Sơn** -- see `boss.md`
    Sinh ra từ tuyệt vọng của thợ rèn làng.
 
 ## Boss
@@ -57,6 +60,7 @@ See `boss.md` + `../../bosses/heart-demon-hoa-son/`.
 - `../../npcs/old-fox/` -- Lão Hồ Ly: Đạo Quán full open
 - `../../npcs/immortal-ancestor/` -- Tổ Sư Bất Tử: lần đầu xuất hiện, bán Cổ vật
 - `../../npcs/furnace-spirit/` -- Lò Thần: sửa Lò, mở 8 slot
+- `../../npcs/masked-echo/` -- Kẻ Đeo Mặt Nạ: lẫn trong đám đông Đạo Quán, cổ vũ player quay thêm
 
 ## Reward
 

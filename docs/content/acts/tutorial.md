@@ -19,6 +19,8 @@
     ↓
 [Sư Phụ post-PT1 dialogue]
     ↓
+[Đêm đầu ở am - làng đón + đêm trà với Sư Phụ]
+    ↓
 [Đạo Sĩ Mộc Linh NPC]
     ↓
 [Pháp Trận #2: Tương Sinh] ← can lose, gentle retry
@@ -30,6 +32,8 @@
 [Pháp Trận #3: Tương Khắc] ← real challenge, can lose
     ↓
 [BOSS: Tâm Ma Sơn Mộc] ← Act 1 boss
+    ↓
+[Kẻ Đeo Mặt Nạ glimpse - 2s, no dialogue]
     ↓
 [Base camp unlock + welcome tour]
     ↓
@@ -223,6 +227,46 @@ None — tutorial cannot fail.
 >
 > SƯ PHỤ: *"Đan đầu tiên. Như thầy luyện 50 năm trước."*
 >
+> *(Pause.)*
+>
+> SƯ PHỤ: *"Trời sắp tối. Hôm nay đủ rồi. Nghỉ đi đã con."*
+
+---
+
+## 4b. Đêm đầu ở am (~2 phút)
+
+**Mục đích**: nhịp ấm, không gameplay. Để player thương Sư Phụ như một người ông trước khi ông lùi xa từ Act 2 — và là nhịp hân hoan đầu campaign. Node bundle: `nodes/dem-dau-o-am/`.
+
+### Cảnh 1 — Làng đón (~45s)
+
+> *Hoàng hôn. Player ra khỏi am; dân Sơn Mộc Cốc đứng đợi ngoài sân — lặng lẽ, ngại ngùng. Họ lần lượt đặt xuống bậc thềm những thứ nhỏ.*
+>
+> DÂN LÀNG (lần lượt, khẽ): *"Hạt dẻ rang. Cháu ăn lấy sức."* — *"Vải này... dày, ấm."* — *"Hồng chín cây. Ngọt lắm."*
+>
+> *(Không có UI phần thưởng phô trương. Chỉ vài item nhỏ trượt nhẹ vào túi.)*
+>
+> LÃO TIỀU PHU (nếu player đã gặp ở side node): *"Một viên linh đan, tiểu tử. Nghĩa là đan đạo chưa chết. Nghĩa là làng này còn có ngày."*
+
+### Cảnh 2 — Đêm trà với Sư Phụ (~75s)
+
+> *Trong am. Lửa nhỏ. Sư Phụ rót trà. Mèo Bột nhảy lên đùi ông.*
+>
+> SƯ PHỤ: *"Ngồi. Đừng luyện gì nữa hôm nay. Trà thôi."*
+>
+> *(Pause.)*
+>
+> SƯ PHỤ: *"Viên đan đầu đời thầy luyện... hỏng ba mươi bảy lần. Lần thứ ba mươi tám mới thành. Sư phụ thầy lúc đó đã không còn để xem."*
+>
+> *(Sư Phụ cười — cười muộn một nhịp.)*
+>
+> SƯ PHỤ: *"Con quê ở đâu? Đường tới đây... có lạnh không?"*
+>
+> *(Player có thể trả lời hoặc im lặng — không ảnh hưởng gameplay. Sư Phụ gật gù, không hỏi thêm.)*
+>
+> SƯ PHỤ (khẽ, gần như với chính mình): *"Am này im lặng ba mươi năm. Giờ có tiếng con. Ừ. Tốt."*
+
+### Sáng hôm sau — tiễn đi
+
 > *(Sư Phụ hands player a small bell.)*
 >
 > SƯ PHỤ: *"Đi tới mạn rừng. Có một đạo sĩ tu hành ở đó. Tên Mộc Linh. Hắn sẽ dạy con về Mộc nguyên tố."*
@@ -426,6 +470,12 @@ Lore page: "Tương khắc — bài học sinh tử"
 Standard boss UI. If linh đan stability < 20%:
 
 > SƯ PHỤ (text top): *"Bình tĩnh. Một viên đan bể không phải hết. Con tu hành lâu dài, không cấp tốc."*
+
+### Kẻ Đeo Mặt Nạ — thoáng thấy (~2s, no dialogue)
+
+> *(Boss vỡ thành hạt sáng. Ở rìa pháp trận, một thân ảnh áo xám đeo mặt nạ gốm trắng nứt toác đứng lặng. Camera giữ 2 giây. Nếu player xoay nhìn thẳng — nó đã không còn ở đó.)*
+>
+> *(Không dialogue. Sư Phụ trong khung hình, tay siết quanh cây gậy. Mầm gieo đầu của Kẻ Đeo Mặt Nạ — entity `../npcs/masked-echo/`. Player gặp lại nó ở Act 2 node `hermit-foreshadow`.)*
 
 ### Post-boss dialogue
 

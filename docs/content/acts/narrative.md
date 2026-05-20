@@ -40,20 +40,24 @@ Am Sơn Mộc Cốc — thung lũng trúc hẻo lánh. Sư Phụ sống một m�
 2. **Pháp Trận Khai Đan (Tutorial #1)**
    Sư Phụ đứng bên cạnh, hướng dẫn từng bước đặt linh khí Mộc. Không có lời giải thích kỹ thuật khô khan — chỉ có dụ ngôn: *"Linh lực như mưa. Linh khí như máng xối. Con đặt máng đúng chỗ, mưa tự chảy vào đan."* Linh đan Mộc thăng Phàm→Linh. Phần thưởng: **Sư Phụ Truyền Đan** (cổ vật, mang ý nghĩa trần thuật).
 
-3. **Gặp Đạo Sĩ Mộc Linh**
+3. **Đêm đầu ở am**
+   Đệ tử mang viên linh đan đầu tiên về. Dân Sơn Mộc Cốc lặng lẽ kéo đến am, mỗi người để lại một thứ nhỏ — nắm hạt dẻ, xấp vải, quả hồng chín. Đệ tử lần đầu thấy mình *thuộc về* một nơi. Đêm đó Sư Phụ pha trà, không giảng đạo — chỉ kể một chuyện vụn vặt tự giễu và hỏi đệ tử quê ở đâu, đường có lạnh không. Một người ông, không phải sư tôn. Nhịp hân hoan đầu campaign, và là neo cảm xúc để lời thú tội Hồi 5 giáng xuống một người player đã thương.
+
+4. **Gặp Đạo Sĩ Mộc Linh**
    NPC am lân cận dạy về tương sinh Mộc-Thuỷ. Tặng 3 Linh Đan và một câu chuyện về người đạo sĩ già trồng trúc suốt đời không thành đan sư — nhưng rừng trúc ông để lại nuôi sống cả thôn. *"Không phải lúc nào tu hành cũng về mình."*
 
-4. **Pháp Trận Tương Sinh & Tương Khắc (Tutorial #2, #3)**
+5. **Pháp Trận Tương Sinh & Tương Khắc (Tutorial #2, #3)**
    Đệ tử lần đầu gặp Thuỷ sinh Mộc (buff xanh nổ đẹp) rồi Kim khắc Mộc (stability rơi, hụt hẫng). Lần đầu thất bại được phép — Sư Phụ không mắng, chỉ nói: *"Đan bể là thầy thứ hai tốt nhất của con."*
 
-5. **Boss: Tâm Ma Sơn Mộc**
-   Một Dị Tượng nhỏ sinh ra từ nỗi sợ hãi của dân làng Sơn Mộc Cốc — sợ mùa đói, sợ cô đơn. Attack pattern đơn giản, element Mộc. Sư Phụ đứng quan sát, không can thiệp. Khi boss chết, nó không gào thét mà hỏi: *"Nếu không sợ đói, vì sao người ta luyện đan?"* Sư Phụ im lặng lâu hơn bình thường rồi mới nói: *"Tâm ma không đến từ núi. Nó đến từ lòng người."*
+6. **Boss: Tâm Ma Sơn Mộc**
+   Một Dị Tượng nhỏ sinh ra từ nỗi sợ hãi của dân làng Sơn Mộc Cốc — sợ mùa đói, sợ cô đơn. Attack pattern đơn giản, element Mộc. Sư Phụ đứng quan sát, không can thiệp. Khi boss chết, nó không gào thét mà hỏi: *"Nếu không sợ đói, vì sao người ta luyện đan?"* Sư Phụ im lặng lâu hơn bình thường rồi mới nói: *"Tâm ma không đến từ núi. Nó đến từ lòng người."* Ở rìa đấu trường, đệ tử thoáng thấy một thân ảnh đeo mặt nạ gốm trắng nứt toác đứng quan sát — quay lại thì đã biến mất. Mầm gieo đầu tiên của Kẻ Đeo Mặt Nạ.
 
 ### NPC xuất hiện
 
-- **Sư Phụ**: trao Lò, dạy pháp trận, quan sát boss fight
+- **Sư Phụ**: trao Lò, dạy pháp trận, đêm trà ở am, quan sát boss fight
 - **Đạo Sĩ Mộc Linh**: NPC phụ dạy Mộc element
 - **Lão Tiều Phu** (optional side): kể chuyện dân gian, tặng 1 linh khí Mộc Phàm
+- **Kẻ Đeo Mặt Nạ**: thoáng thấy ở rìa đấu trường boss — mầm gieo đầu
 
 ### Boss
 
@@ -84,8 +88,8 @@ Sư Phụ giao nhiệm vụ: leo 5 ngọn Ngũ Hành Sơn, gặp 5 linh hồn Ng
 3. **4 Pháp Trận element-specific**
    Mỗi pháp trận thử thách 1 element. Đệ tử tự xoay sở không có Sư Phụ bên cạnh. Lần đầu tiên cảm giác "tự lực".
 
-4. **Ẩn sĩ giữa núi (optional)**
-   Một vị ẩn sĩ giấu mặt tặng Tinh Hoa Ngũ Hành — và nói một câu bí ẩn: *"Người đeo Lò đó... có nghe tiếng đếm không?"* Nếu player đã xem intro, câu này nối trực tiếp với tiếng *"Chuyển thứ chín..."*. Đây là foreshadowing Tổ Sư Bất Tử và Cửu Chuyển Kim Đan.
+4. **Kẻ Đeo Mặt Nạ — cuộc gặp đầu (optional)**
+   Thân ảnh đeo mặt nạ player thoáng thấy ở Hồi 1 nay hiện rõ giữa Ngũ Hành Sơn. Nó tặng Tinh Hoa Ngũ Hành như một món quà — cám dỗ đầu tiên, cám dỗ bằng lòng tốt — rồi hỏi: *"Người đeo Lò đó... có nghe tiếng đếm không?"* Nếu player đã xem intro, câu này nối trực tiếp với tiếng *"Chuyển thứ chín..."*. Kẻ Đeo Mặt Nạ chính là nguồn của tiếng đếm — foreshadowing bản chất nó và Cửu Chuyển Kim Đan.
 
 5. **Boss: Dị Tượng Ngũ Hành**
    Boss kỳ lạ: không thuộc element nào cố định, cứ 5 giây chuyển element. Sinh ra từ sự hỗn loạn của Ngũ Hành Sơn khi các Tổ không còn duy trì cân bằng. Trong phase cuối, boss dùng đủ 5 element cùng lúc nhưng không tạo tương sinh — chỉ là hỗn loạn. Đệ tử phải chứng minh mình hiểu Ngũ Hành là vòng chảy, không phải 5 màu riêng lẻ. Sau khi boss chết: 5 linh hồn Ngũ Hành Tổ xuất hiện lần cuối. Mỗi người chỉ nói một chữ: *"Đừng..." "luyện..." "chuyển..." "thứ..." "chín."* Rồi siêu thoát.
@@ -93,7 +97,7 @@ Sư Phụ giao nhiệm vụ: leo 5 ngọn Ngũ Hành Sơn, gặp 5 linh hồn Ng
 ### NPC xuất hiện
 
 - **5 Ngũ Hành Tổ**: Kim Tổ, Mộc Tổ, Thuỷ Tổ, Hoả Tổ, Thổ Tổ — mỗi người xuất hiện 1 lần trên đỉnh, 1 lần trước boss, 1 lần siêu thoát
-- **Ẩn sĩ** (optional, không tên, foreshadowing)
+- **Kẻ Đeo Mặt Nạ** (optional node): cuộc trò chuyện đầu, tặng Tinh Hoa Ngũ Hành như cám dỗ
 
 ### Boss
 
@@ -120,7 +124,7 @@ Lò bị nứt nặng sau trận Dị Tượng Ngũ Hành. Sư Phụ nói điề
    Hai người dạy bench craft bằng ký hiệu. Hắc chỉ vào Phong Ấn, lắc đầu. Bạch chỉ vào Tinh Hoa Kim, gật. *Cả hai cùng nhau: "Quyết định của con."* Đệ tử lần đầu biết Sư Phụ đã nuôi dưỡng hai người này từ nhỏ — và biết Sư Phụ từng mất hai con gái trong một lần "luyện cứu hồn" thất bại. Hắc Bạch không nói chi tiết, chỉ ký hiệu: *"Thầy không tha thứ cho mình."*
 
 2. **Lão Hồ Ly mở Đạo Quán**
-   Lần đầu gặp full gambling system. Lão Hồ Ly vồn vã, huyên thuyên, cố ép đệ tử mua Linh Đan không cần thiết. Đây là màn giới thiệu hài nhẹ — Lão Hồ Ly rõ ràng đang cố bán hàng nhưng làm vậy quá lộ liễu đến mức đáng thương.
+   Lần đầu gặp full gambling system. Lão Hồ Ly vồn vã, huyên thuyên, cố ép đệ tử mua Linh Đan không cần thiết. Đây là màn giới thiệu hài nhẹ — Lão Hồ Ly rõ ràng đang cố bán hàng nhưng làm vậy quá lộ liễu đến mức đáng thương. Lẫn trong đám đông Đạo Quán có Kẻ Đeo Mặt Nạ — lần thứ ba player gặp, mặt nạ đã liền bớt vài đường nứt — khẽ cổ vũ player quay thêm: *"Mỗi lần con quay, ta rõ thêm một chút."*
 
 3. **Tổ Sư Bất Tử — lần đầu xuất hiện**
    Một người trông trẻ tuổi nhưng mắt như ngàn năm. Bán Cổ vật với giá cắt cổ. Không giải thích vì sao. Nhìn đệ tử một lúc lâu rồi nói: *"Lão phu đã gặp nhiều người mang Lò đó. Con... có phần khác."* Rồi quay đi. Không giải thích thêm.
@@ -131,7 +135,10 @@ Lò bị nứt nặng sau trận Dị Tượng Ngũ Hành. Sư Phụ nói điề
 5. **Lò Thần — gặp gỡ ở lò rèn sâu nhất**
    Lão thợ rèn trần trụi, đầy bồ hóng, một mắt. Không chào hỏi. Nhìn Lò, sờ vào vết nứt, nói: *"Vết này không do thời gian. Do người sợ mất thứ mình yêu."* Lò Thần sửa Lò, mở toàn bộ 8 slot. Trước khi player rời đi, ông gõ vào thành Lò một nhát; trong tiếng kim loại vang lên có tiếng khóc trẻ con rất xa. Đây là bằng chứng đầu tiên rằng Sư Phụ từng dùng Lò sai.
 
-6. **Boss: Tâm Ma Hoả Sơn**
+6. **Lễ hội lò rèn**
+   Trước boss, thợ rèn Hoả Sơn Lò Cốc mở lễ hội lò — đốt lửa lớn, gõ búa theo nhịp, kéo đệ tử vào ăn mừng vì đệ tử đã làm sống lại một nghề tưởng đã chết. Cả làng cùng đúc tặng đệ tử một cái chuông gió bằng kim loại vụn. Nhịp hân hoan rõ rệt nhất trước Hồi 5 — cố ý đặt ngay trước boss để cái buồn của boss (sinh từ tuyệt vọng của chính những người này) giáng xuống có lực.
+
+7. **Boss: Tâm Ma Hoả Sơn**
    Sinh ra từ tuyệt vọng của thợ rèn làng — họ mất truyền thống luyện rèn khi đan đạo suy tàn, không còn ai cần họ. Boss mang hình dạng một lò rèn khổng lồ bị bỏ hoang, phun lửa thất thần. Trong phase cuối, nó cố "sửa" linh đan bằng cách nung quá lửa, khiến quality tăng nhanh nhưng stability tụt mạnh. Đây là mirror gameplay của tham vọng: muốn tốt nhanh nên phá hỏng thứ cần bảo vệ. Sau khi thắng: Lò Thần nói không một lời, chỉ đặt tay lên ngực — cảm ơn theo cách của người thợ rèn.
 
 ### NPC xuất hiện
@@ -179,7 +186,7 @@ Hồi dài nhất. Hai giai đoạn: Bích Hải Đảo (học Đan Pháp) → V
    Boss đặc biệt: thay đổi attack pattern theo Đạo Phái mà player *sắp* chọn (game đọc lịch sử luyện đan của player và dự đoán). Boss phản ánh điểm yếu tiềm ẩn của từng con đường. Nó không hỏi "con chọn sức mạnh nào", mà hỏi "con sẵn sàng mất gì để đi đường đó". Sau khi thắng: không có loot lớn, chỉ có **5 cánh cửa Đạo Phái**. Player chọn — không đổi được.
 
 6. **Chọn Đạo Phái**
-   Thái Cực / Cửu Âm / Linh Sơn / Tử Vi / Vô Cực. Mỗi Đạo Phái có 2 dòng phụ, mở khoá cấp 30+. Đây là quyết định nhân vật quan trọng nhất, chỉ sau passive tree.
+   Thái Cực / Cửu Âm / Linh Sơn / Tử Vi / Vô Cực. Mỗi Đạo Phái có 2 dòng phụ, mở khoá cấp 30+. Đây là quyết định nhân vật quan trọng nhất, chỉ sau passive tree. Kẻ Đeo Mặt Nạ — mặt nạ giờ chỉ còn một hai vết nứt — đứng giữa 5 cánh cửa, không cản, không khuyên, chỉ hỏi: *"Con sẵn sàng thành phiên bản nào của lòng tham?"*
 
 ### NPC xuất hiện
 
@@ -289,9 +296,22 @@ Hồi 3: Tâm Ma từ tuyệt vọng cộng đồng.
 Hồi 4: Tâm Ma phản chiếu bản thân đệ tử.
 Hồi 5: Tâm Ma là tổng hòa mọi ham muốn của loài người — kể cả của đệ tử.
 
+### Kẻ Đeo Mặt Nạ
+
+Phản diện tái diễn của campaign — một mảnh rò rỉ của Hỗn Nguyên Tâm Ma Vương, hiện hình thành thân ảnh đeo mặt nạ gốm trắng. Mặt nạ luôn nứt; nó liền dần mỗi khi player chiều ham muốn (reroll, Phong Ấn, Tâm Ma mod), thành đồng hồ đếm ngược hữu hình của campaign.
+
+Hồi 1: thoáng thấy ở rìa đấu trường boss, chưa nói gì.
+Hồi 2: cuộc trò chuyện đầu (node optional), tặng quà như cám dỗ.
+Hồi 3: ở Đạo Quán cờ bạc, cổ vũ player quay thêm.
+Hồi 4: ở 5 cánh cửa Đạo Phái, hỏi player muốn thành phiên bản ham muốn nào.
+Hồi 5: mặt nạ vỡ — dưới đó là gương mặt player của tương lai — rồi hợp nhất vào Tâm Ma Vương, thành cơ chế "đeo mặt" của Phase 3.
+
+### Nhịp tông tương phản
+
+Campaign cố tránh thế một-màu-buồn: cài nhịp hân hoan thật để mất mát Hồi 5 có lực. Hồi 1: làng đón đệ tử ở "Đêm đầu ở am". Hồi 2: đỉnh Hoả là nhịp đắc thắng giữa các đỉnh u tịch. Hồi 3: lễ hội lò rèn — niềm vui cộng đồng rõ rệt nhất trước Hồi 5. Bittersweet chỉ đắt khi được bao quanh bởi những khoảnh khắc đáng để mất.
+
 ### Bí ẩn Tổ Sư Bất Tử
 
-Hồi 2 (optional): ẩn sĩ nói câu bí ẩn.
 Hồi 3: Tổ Sư lần đầu xuất hiện, bán Cổ vật, nhìn đệ tử kỳ lạ.
 Hồi 4: Tổ Sư ở Bích Hải Đảo, nói thêm một câu về Cao Tổ.
 Hồi 5: Tiết lộ hoàn toàn — Cảnh Hữu Chân Nhân, Sơ Tổ từ 8000 năm trước, người từng cho Cao Tổ mượn Sơn Hà Đồ để luyện Cửu Chuyển.
@@ -308,6 +328,8 @@ Hồi 5: Tiết lộ hoàn toàn — Cảnh Hữu Chân Nhân, Sơ Tổ từ 800
 
 Phong ấn Cao Tổ vỡ hoàn toàn. Hỗn Nguyên Tâm Ma Vương xuất hiện — không phải dưới dạng ác quỷ hung dữ, mà bình thản, gần như mệt mỏi. Nó đã bị giam 800 năm và bây giờ chỉ muốn một điều: được thực sự sống.
 
+Ngay trước trận đánh, Kẻ Đeo Mặt Nạ hiện lần cuối. Mặt nạ — đã liền gần hết qua mỗi lần player chiều ham muốn suốt 5 Hồi — nứt một lần chót rồi rơi, để lộ gương mặt chính player của một tương lai mà ham muốn đã thắng. Nó áp gương mặt ấy lên Tâm Ma Vương; từ đó Tâm Ma Vương đeo được mọi gương mặt. Phase 3 dưới đây — boss mang mặt Sư Phụ giả — chính là Kẻ Đeo Mặt Nạ làm việc cuối cùng của nó.
+
 ### Dialogue boss cuối (3 phase)
 
 **Phase 1 (hình quái vật)**:
@@ -320,7 +342,7 @@ Không có lời — chỉ có âm thanh vang dội hỗn hợp của vô số g
 
 > *"Ta sinh ra từ một viên đan cứu thế. Bảy đan sư gọi ta là sai lầm. Cao Tổ gọi ta là tâm ma. Nhưng trước khi có ta, bọn họ gọi ta là hy vọng."*
 
-**Phase 3 (hiện mặt Sư Phụ giả)**:
+**Phase 3 (hiện mặt Sư Phụ giả — Kẻ Đeo Mặt Nạ làm việc)**:
 > *"Con yêu thầy. Ta biết. Thầy con sắp chết. Hãy để ta lấy phần thầy còn lại — ta sẽ giữ ông sống. Ta sẽ cho con gặp lại ông. Chỉ cần con đừng đánh ta nữa."*
 
 Nếu player từng dùng nhiều Phong Ấn/Tâm Ma mod, boss thêm một câu build-aware:
@@ -369,3 +391,6 @@ Hồi 4: dạy Đan Pháp. Hồi 5: trao 5 variant cuối. Post-campaign: là NP
 
 ### Hỗn Nguyên Tâm Ma Vương
 Không có vòng cung truyền thống — xuất hiện chỉ ở Hồi 5. Nhưng sự hiện diện của nó được cảm nhận xuyên suốt 4 hồi qua tiếng đếm trong Lò, các cảnh báo về chuyển thứ chín, boss Tâm Ma nhỏ, và lựa chọn greedy của player. Khi cuối cùng xuất hiện, nó không phải kẻ thù lạ mặt — nó là kết quả logic của mọi mechanic player đã dùng: reroll, corrupt, tăng risk để nhận reward. Đó là toàn bộ triết lý của game: kẻ thù không bao giờ hoàn toàn ở bên ngoài.
+
+### Kẻ Đeo Mặt Nạ
+Phản diện tái diễn — mảnh rò rỉ của Hỗn Nguyên Tâm Ma Vương, là cái khuôn mặt mà 4 hồi đầu vốn còn thiếu. Hồi 1: một gương mặt thoáng thấy. Hồi 2: kẻ tặng quà. Hồi 3: tiếng cổ vũ ở Đạo Quán. Hồi 4: câu hỏi ở 5 cánh cửa. Hồi 5: mặt nạ vỡ, lộ gương mặt player, hợp nhất vào boss cuối. Vòng cung của nó là vòng cung *mặt nạ liền dần* — player tự tay hàn gắn kẻ thù của mình mỗi lần chiều ham muốn. Nó không bao giờ bị đánh riêng; nó là cái giá, không phải chướng ngại.
