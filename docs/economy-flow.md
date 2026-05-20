@@ -1,4 +1,4 @@
-# Economy Flow — Cửu Đỉnh
+# Economy Flow — Đan Kiếp
 
 > Currency sources/sinks, inflation guards, dead-end detection.
 

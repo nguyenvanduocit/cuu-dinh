@@ -15,4 +15,4 @@ Spirit bound to the Lò tổ truyền. Was a mortal smith who died forging the f
 
 ## Story
 
-Appears as NPC (furnace-spirit) whenever Lò needs major repair/upgrade. Rèn ra Đỉnh Trung Lập — đỉnh thứ 9 trong Cửu Đỉnh. Linh hồn ông là cầu nối giữa vật chất (Lò) và tinh thần (linh đan).
+Appears as NPC (furnace-spirit) whenever Lò needs major repair/upgrade. Là người thợ rèn đã tạo ra Lò tổ truyền từ 4000 năm trước; linh hồn ông gắn liền với Lò từ ngày đó. Lò Thần là cầu nối giữa vật chất (Lò) và tinh thần (linh đan) — vai trò độc lập, không phụ thuộc vào bất kỳ đỉnh hay hệ phân cấp nào.

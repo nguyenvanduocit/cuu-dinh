@@ -1,4 +1,4 @@
-# SFX Library — Cửu Đỉnh
+# SFX Library — Đan Kiếp
 
 > Source: `docs/audio-spec.md` §2. Atomic entity — per-entity bundle quá overkill (decision per spec §10).
 > ~80 SFX. Mỗi SFX 1 dòng table.

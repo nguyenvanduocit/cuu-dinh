@@ -1,4 +1,4 @@
-# Art Direction — Cửu Đỉnh
+# Art Direction — Đan Kiếp
 
 > Visual identity locked 2026-05-19. Mọi asset phải align với guide này.
 

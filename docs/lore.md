@@ -1,4 +1,4 @@
-# Lore & World — Cửu Đỉnh
+# Lore & World — Đan Kiếp
 
 > Worldbuilding, history, NPCs, voice & tone. Bible for all narrative content.
 
@@ -32,7 +32,7 @@
 
 > **Nếu luyện đan là biến ham muốn thành sức mạnh, thì người tu hành phải tiêu diệt ham muốn hay học cách không bị nó điều khiển?**
 
-Cửu Đỉnh không kể chuyện "thiện diệt ác" đơn giản. Mọi hệ thống của game đều chạm vào câu hỏi này:
+Đan Kiếp không kể chuyện "thiện diệt ác" đơn giản. Mọi hệ thống của game đều chạm vào câu hỏi này:
 - Player muốn linh đan phẩm cao hơn → cần tham một chút.
 - Player dùng Phong Ấn → chấp nhận rủi ro để cưỡng ép vận mệnh.
 - Player mở Tâm Ma mod → tự mời nguy hiểm để đổi lấy phần thưởng.
@@ -305,7 +305,7 @@ NEVER:
 
 ## 10. Lore artifacts
 
-> Section dissolved 2026-05-20 sang per-entity bundle. Xem `docs/content/lore-entities/` cho từng artifact (Lò Tổ Truyền, Sơn Hà Đồ Lệnh, Cao Tổ's Phong Ấn, Cửu Chuyển Kim Đan, Cửu Đỉnh 9 đỉnh thượng cổ).
+> Section dissolved 2026-05-20 sang per-entity bundle. Xem `docs/content/lore-entities/` cho từng artifact (Lò Tổ Truyền, Sơn Hà Đồ Lệnh, Cao Tổ's Phong Ấn, Cửu Chuyển Kim Đan, Lò Thần, Hỗn Nguyên Tâm Ma Vương).
 
 ---
 

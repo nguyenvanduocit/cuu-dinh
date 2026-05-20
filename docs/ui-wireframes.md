@@ -1,4 +1,4 @@
-# UI Wireframes — Cửu Đỉnh
+# UI Wireframes — Đan Kiếp
 
 > Per-screen wireframes + state diagrams. Locked layout principles before implementation.
 

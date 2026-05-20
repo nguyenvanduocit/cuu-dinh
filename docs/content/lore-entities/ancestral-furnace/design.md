@@ -15,4 +15,4 @@ Player's Lò. Forged by Lò Thần 4000 years ago. Used by Cao Tổ to seal Hỗ
 
 ## Story
 
-Broken into 8 pieces during The Sundering (~500 years ago). 1 piece restored each Act 3 onwards. Full restoration = Act 5 prerequisite. The Lò is the Neutral Cauldron (Đỉnh Trung Lập).
+Lò của Cao Tổ — đã chứng kiến trận Đan Kiếp 800 năm trước và sống sót. Qua nhiều đời Sư Phụ kế thừa, đến tay player. Tiếng đếm "chuyển thứ chín" vọng lại mỗi lần luyện đan, nhắc về lần thất bại năm xưa. Full restoration = Act 5 prerequisite.

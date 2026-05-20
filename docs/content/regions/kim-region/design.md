@@ -27,6 +27,6 @@ Cold mountain cave threaded with metallic ore veins, sharp angular rock formatio
 
 ## Cross-ref
 
-- Lore entities: `../../lore-entities/metal-cauldron/` — Kim Đỉnh lies scattered here
+- Lore: nơi linh khí Kim vỡ vụn sau trận Đan Kiếp tụ thành bí cảnh
 - Boss: `../../bosses/white-tiger-ancestor/` — Bạch Hổ Linh Tổ (atlas west corner boss, Kim element)
 - Maps: Kim-themed atlas pháp trận

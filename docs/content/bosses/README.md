@@ -1,4 +1,4 @@
-# Boss Patterns — Cửu Đỉnh
+# Boss Patterns — Đan Kiếp
 
 > 3 boss types × multiple bosses each. Attack patterns, phase transitions, rewards.
 

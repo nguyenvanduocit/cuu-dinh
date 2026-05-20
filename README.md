@@ -1,8 +1,8 @@
-# Cửu Đỉnh
+# Đan Kiếp
 
 > *Linh lực rơi từ trời. Đặt linh khí hứng. Luyện linh đan qua chín lần phong ấn — đổi vận mệnh.*
 
-**Cửu Đỉnh** là **ARPG-Physics hybrid** mang depth của *Path of Exile* vào core loop physics của *Ballionaire*, dệt trên thế giới tu tiên/luyện đan kể bằng tiếng Việt — không phải skin xianxia generic, mà là một huyền sử Hán-Việt thuần khiết về **9 đỉnh thượng cổ** đã vỡ 800 năm trước.
+**Đan Kiếp** là **ARPG-Physics hybrid** mang depth của *Path of Exile* vào core loop physics của *Ballionaire*, dệt trên thế giới tu tiên/luyện đan kể bằng tiếng Việt — không phải skin xianxia generic, mà là một huyền sử Hán-Việt thuần khiết về **trận Đan Kiếp** xảy ra khi Cửu Chuyển Kim Đan thất bại ở chuyển thứ chín ~800 năm trước.
 
 ---
 
@@ -27,7 +27,7 @@
 
 > Path of Exile dạy ta rằng *crafting = gambling*. Ballionaire chứng minh *physics drop = oddly satisfying gameplay*. Tu chân Á Đông từ lâu đã biết: **"Cửu chuyển kim đan" = cược chín lần để nghịch thiên cải mệnh**.
 >
-> **Cửu Đỉnh hợp ba thứ đó lại lần đầu tiên** — và kể câu chuyện đó bằng tiếng Việt Hán-Việt thuần, không phải bản dịch xianxia Trung-Hàn-Nhật.
+> **Đan Kiếp hợp ba thứ đó lại lần đầu tiên** — và kể câu chuyện đó bằng tiếng Việt Hán-Việt thuần, không phải bản dịch xianxia Trung-Hàn-Nhật.
 
 ---
 
@@ -42,9 +42,9 @@
 | Ballionaire | — | ✓✓✓ | — |
 | Peggle / Suika | — | ✓✓ | — |
 | Cultivation gacha mobile | ✓ | — | ✓ (skin only) |
-| **Cửu Đỉnh** | ✓✓✓ | ✓✓✓ | ✓✓✓ (native) |
+| **Đan Kiếp** | ✓✓✓ | ✓✓✓ | ✓✓✓ (native) |
 
-Chưa từng có game nào kết hôn ARPG **affix × passive tree × atlas progression** với **physics-driven core loop**. Cửu Đỉnh là vùng nước biển xanh.
+Chưa từng có game nào kết hôn ARPG **affix × passive tree × atlas progression** với **physics-driven core loop**. Đan Kiếp là vùng nước biển xanh.
 
 ### 2. Tu tiên/luyện đan chưa được game premium hoá
 
@@ -100,13 +100,13 @@ Solo dev premium indie = **proven model**. AI co-pilot (Opus 4.7, Sonnet 4.6) tr
 7. Quay lại base camp → **gamble Phong Ấn** (corruption) lên linh khí → enter pháp trận tiếp theo
 
 **Bên ngoài pháp trận** (80% gameplay time, PoE-grade meta):
-- **Lò Luyện Đan tổ truyền** (8-slot equipment character) — đỉnh thứ 9 của Cửu Đỉnh, kế thừa từ Sư Phụ
+- **Lò Luyện Đan tổ truyền** (8-slot equipment character) — Lò độc lập sống sót qua Đan Kiếp, kế thừa từ Sư Phụ
 - **Tinh Điểm passive tree** (~150 nodes, 5 Ngũ Hành starts)
 - **Đạo Phái** (5 ascendancy subclass, unlock lv 30)
 - **Sơn Hà Đồ** (atlas of worlds, T1-T16, unlock lv 50)
 - **6 trụ gambling**: Đan dược, Đạo Quán, Tâm Ma Mod, Phong Ấn, Pháp Trận Tử Sinh (Sanctum), Thiên Cơ Quẻ
 - **Cấp Vô Cực** endless (paragon-like, post lv 100)
-- **Endgame quest** = thu hồi đủ 8 đỉnh thượng cổ còn lại để Cửu Đỉnh đoàn viên
+- **Endgame quest** = luyện Cửu Chuyển Kim Đan qua đủ chín chuyển (Cấp Vô Cực) mà không bị tâm ma/thiên kiếp nuốt — và đối mặt Hỗn Nguyên Tâm Ma Vương lần cuối
 
 ---
 
@@ -144,15 +144,15 @@ Mỗi cạnh tam giác đều đã được market-test một cách độc lập
 
 ### Lore weave là moat dài hạn
 
-Tên game **Cửu Đỉnh** không phải tag dán vào — nó là backbone narrative:
+Tên game **Đan Kiếp** không phải tag dán vào — nó là backbone narrative:
 
-- 9 pháp đỉnh do Cao Tổ + 7 đan sư + Lò Thần rèn 1000 năm trước
-- Cửu Chuyển Kim Đan thất bại 800 năm trước → 8 đỉnh vỡ rải khắp Cửu Châu
-- Player kế thừa đỉnh thứ 9 (Lò Luyện Đan tổ truyền, đỉnh trung lập)
-- Campaign 5-act = phục hồi đỉnh thứ 9 + đối mặt Hỗn Nguyên Tâm Ma Vương
-- Endgame Atlas = tìm + thu phục 8 đỉnh còn lại, mỗi đỉnh trấn giữ bởi 1 super-boss
+- ~800 năm trước, Cao Tổ dẫn bảy đan sư luyện **Cửu Chuyển Kim Đan** để cứu Cửu Châu Đan Vực khỏi linh khí suy kiệt
+- Đến chuyển thứ chín, viên đan hấp thụ tham vọng của mọi người trong pháp trận → trận **Đan Kiếp** lớn nhất lịch sử: **Hỗn Nguyên Tâm Ma Vương** ra đời, linh khí Cửu Châu Đan Vực vỡ vụn rải khắp (= bí cảnh atlas player khám phá)
+- Player kế thừa **Lò Luyện Đan tổ truyền độc lập** — sống sót qua Đan Kiếp, truyền tay qua nhiều đời Sư Phụ; tiếng đếm "chuyển thứ chín" còn vọng lại mỗi lần luyện
+- Campaign 5-act = tu hành luyện đan → hiểu tội lỗi gốc của Đan Đạo → làm lại "lần luyện đan thứ chín" trước Tâm Ma Vương, lần này không luyện để chiếm lấy thiên mệnh
+- Endgame Atlas (Cấp Vô Cực) = tiếp tục luyện Cửu Chuyển qua đủ chín chuyển mà không bị tâm ma/thiên kiếp nuốt — đối đầu Hỗn Nguyên Tâm Ma Vương lần cuối
 
-→ Title = quest tổng thể. Đan đạo philosophy (*"luyện đan là biến ham muốn thành sức mạnh — vậy tu hành là tiêu diệt ham muốn hay học cách không bị nó điều khiển?"*) là central dramatic question — không phải decoration.
+→ Title = kiếp nạn phải vượt qua. Đan đạo philosophy (*"luyện đan là biến ham muốn thành sức mạnh — vậy tu hành là tiêu diệt ham muốn hay học cách không bị nó điều khiển?"*) là central dramatic question — không phải decoration.
 
 ---
 
@@ -321,9 +321,9 @@ Toàn bộ pre-production design công khai trong repo:
 
 | Doc | Nội dung |
 |---|---|
-| [VISION.md](./VISION.md) | Manifesto, "không thoái chí" spirit, why Cửu Đỉnh title |
+| [VISION.md](./VISION.md) | Manifesto, "không thoái chí" spirit, why Đan Kiếp title |
 | [docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md](./docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md) | **Master design spec v1.2** — single source of truth (29 quyết định locked) |
-| [docs/lore.md](./docs/lore.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Đỉnh 9-cauldron canonical lore |
+| [docs/lore.md](./docs/lore.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Chuyển Kim Đan + Đan Kiếp canonical lore |
 | [docs/onboarding.md](./docs/onboarding.md) | Tutorial + 5-Act campaign design |
 | [docs/content.md](./docs/content.md) | Catalog: linh khí, Cổ vật, đan dược, affix pools |
 | [docs/combat-math.md](./docs/combat-math.md) | Ngũ Hành damage formulas, intensity scaling |

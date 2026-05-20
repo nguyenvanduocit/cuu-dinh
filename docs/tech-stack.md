@@ -1,4 +1,4 @@
-# Tech Stack — Cửu Đỉnh
+# Tech Stack — Đan Kiếp
 
 > Locked 2026-05-19. **Web-first** stack. Supersedes Godot 4 decision (cùng ngày).
 > Brainstorm context: `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md`.

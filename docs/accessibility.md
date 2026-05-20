@@ -1,4 +1,4 @@
-# Accessibility — Cửu Đỉnh
+# Accessibility — Đan Kiếp
 
 > Inclusive design. Colorblind support, font scaling, touch a11y, audio cues for deaf players.
 

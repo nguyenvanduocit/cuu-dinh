@@ -1,4 +1,4 @@
-# Act Narrative — Cửu Đỉnh 5-Act Campaign
+# Act Narrative — Đan Kiếp 5-Act Campaign
 
 > Tài liệu này mô tả hành trình chiến dịch 5 hồi, các nhịp kể chuyện chính, đối thoại tóm tắt, và vòng cung nhân vật. Nguồn tham chiếu: lore.md, onboarding.md §2.3–2.7.
 

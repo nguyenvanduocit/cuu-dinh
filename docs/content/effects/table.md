@@ -1,4 +1,4 @@
-# Effects & Particles — Cửu Đỉnh
+# Effects & Particles — Đan Kiếp
 
 > 5 conceptual effects (< 10 threshold) — TABLE, not per-entity bundle.
 > Each effect has element/grade variants parameterized, not separate entities.

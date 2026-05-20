@@ -1,6 +1,6 @@
 # Tinh Điểm — Passive Tree Design
 
-> 150-node Tinh Điểm passive tree cho Cửu Đỉnh. Topology 5-petal hoa sen + Vô Cực hub. Hỗ trợ ≥ 5 build archetype + 10 keystone reshape paradigm.
+> 150-node Tinh Điểm passive tree cho Đan Kiếp. Topology 5-petal hoa sen + Vô Cực hub. Hỗ trợ ≥ 5 build archetype + 10 keystone reshape paradigm.
 
 Danh sách đầy đủ: [`docs/content/passive-tree/`](content/passive-tree/).
 

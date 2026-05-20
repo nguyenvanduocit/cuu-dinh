@@ -16,7 +16,7 @@
 
 > ĐẠO SĨ MỘC LINH: *"À, con là đệ tử mới của Sư Phụ. Hắn đã kể rồi."*
 >
-> ĐẠO SĨ MỘC LINH: *"Cửu Đỉnh có 5 nguyên tố. Hôm nay ta dạy về Mộc. Mộc là sinh -- sinh sôi, sinh sản, sinh khí."*
+> ĐẠO SĨ MỘC LINH: *"Cửu Châu Đan Vực có 5 nguyên tố. Hôm nay ta dạy về Mộc. Mộc là sinh -- sinh sôi, sinh sản, sinh khí."*
 >
 > *(He picks up 3 small wooden charms.)*
 >

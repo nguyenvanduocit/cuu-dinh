@@ -27,5 +27,5 @@ Cliffside daoist temple carved into ochre earth, layered stone terraces, driftin
 
 ## Cross-ref
 
-- Lore entities: `../../lore-entities/earth-cauldron/` — Thổ Đỉnh lies here (burial mounds)
+- Lore: mộ địa nơi linh khí Thổ lắng đọng sau trận Đan Kiếp
 - Maps: Thổ-themed atlas pháp trận

@@ -1,4 +1,4 @@
-# Progression Curve — Cửu Đỉnh
+# Progression Curve — Đan Kiếp
 
 > XP curves, loot density, drop rates, atlas tier scaling, time-to-X benchmarks.
 

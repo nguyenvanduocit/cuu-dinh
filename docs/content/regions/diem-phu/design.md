@@ -31,4 +31,4 @@ Dark, no natural light source. Faint bioluminescent fungi and ghostly wisps. Whi
 
 - Boss: `../../bosses/underworld-heart-demon-lord/` — Diêm Phủ Tâm Ma Vương (T13)
 - Maps: `../../maps/underworld/` — Diêm Phủ đan pháp variant
-- Lore entities: `../../lore-entities/heart-demon-cauldron/` — Tâm Ma Đỉnh lies here
+- Lore: âm phủ nơi tâm ma từ trận Đan Kiếp tụ về

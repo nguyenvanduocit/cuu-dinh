@@ -233,7 +233,7 @@ function validateAct(actDir: string): ActInfo {
 // ---------------------------------------------------------------------------
 
 function main() {
-  console.log("=== Cửu Đỉnh — Phase 3 Acts Validation ===\n");
+  console.log("=== Đan Kiếp — Phase 3 Acts Validation ===\n");
 
   if (!existsSync(ACTS_DIR)) {
     console.error("ERROR: docs/content/acts/ does not exist");

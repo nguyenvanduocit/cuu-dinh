@@ -1,4 +1,4 @@
-# Cửu Đỉnh — AI Working Instructions
+# Đan Kiếp — AI Working Instructions
 
 > ARPG-Physics hybrid game. Đạo sĩ luyện đan huyền huyễn/tu chân gặp PoE depth gặp Ballionaire physics.
 
