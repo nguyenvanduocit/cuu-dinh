@@ -8,11 +8,11 @@
 
 ## 0. Design principles
 
-1. **PoE-grade information density**: don't hide numbers
+1. **PoE-grade depth, progressive disclosure**: số liệu luôn với tới trong ≤1 tap (bottom sheet on-demand), không bao giờ chôn sâu
 2. **No tutorial wall**: tooltip on-demand
 3. **Mode-less navigation**: hub-style, không page lockstep
-4. **Asian aesthetic**: ô lệch, hoa văn vàng, brush stroke titles
-5. **Single-handed friendly**: keyboard-only navigable cho accessibility
+4. **Asian aesthetic**: ô lệch, hoa văn vàng, brush stroke titles, 立軸 (hanging scroll) — cuộn dọc
+5. **Thumb-zone reachable**: action chính ở 1/3 dưới màn, touch target ≥44px, cầm 1 tay điều khiển trọn
 
 ---
 
@@ -59,3 +59,4 @@ Player can navigate from base camp to any sub-screen and back without lockstep.
 ## 15. Decision log
 
 - **2026-05-19**: Initial UI wireframe locked. 14 screens defined. Cheat sheet always-on. Modal patterns standardized.
+- **2026-05-20**: Pivot mobile-only portrait. Principle #1/#5 viết lại cho touch. Xem spec 2026-05-20-mobile-portrait-pivot-design.md.

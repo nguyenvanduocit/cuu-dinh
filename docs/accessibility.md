@@ -1,6 +1,6 @@
 # Accessibility — Cửu Đỉnh
 
-> Inclusive design. Colorblind support, font scaling, key remap, audio cues for deaf players.
+> Inclusive design. Colorblind support, font scaling, touch a11y, audio cues for deaf players.
 
 > **Philosophy**: Accessibility = MORE players, not lesser product. Built-in, not bolted-on.
 
@@ -12,7 +12,7 @@
 |---|---|
 | Visual (colorblind, low vision) | 90% — full color, font scale, contrast options |
 | Auditory (deaf, hard of hearing) | 80% — subtitles, visual cues, no audio-required gameplay |
-| Motor (limited dexterity) | 70% — full remappable, slow/auto mode toggle |
+| Motor (limited dexterity) | 70% — touch target ≥44px, thumb-zone reach, hold/tap toggle, auto mode |
 | Cognitive (ADHD, autism, processing) | 70% — tooltip persistence, pause anywhere, simplified mode |
 
 ---
@@ -121,48 +121,46 @@ Sound intensity → visual intensity scaling:
 
 ## 3. Motor Accessibility
 
-### 3.1 Full keyboard remapping
+### 3.1 Touch target size
 
-All keys remappable in Settings. Default + remap suggestions:
+All interactive elements ≥44×44px (WCAG 2.5.5 AAA). Tightly-packed items (inventory grid) có hit-area margin để tránh mis-tap. Action chính ở bottom thumb-bar ≥56px chiều cao hàng.
 
-| Action | Default | Common alternate |
-|---|---|---|
-| Move cursor | Arrow keys | WASD |
-| Click / interact | Space / Enter | Mouse left |
-| Drag start | Hold (click + drag) | Click + click |
-| Open menu | Escape | F1 |
-| Quick save | F5 | Ctrl+S |
-| Quick load | F9 | Ctrl+L |
-| Pause | P | Pause key |
-| Cheat sheet toggle | Tab | H |
-| Inventory | I | Ctrl+I |
+### 3.2 Thumb-zone reach
 
-### 3.2 Hold vs Toggle
+Layout theo 3-vùng portrait: action chủ lực nằm 1/3 dưới màn (thumb-bar), content cuộn dọc ở giữa, status glanceable trên cùng — người dùng không cần với lên để thực hiện bất kỳ tương tác quan trọng nào khi cầm 1 tay.
 
-Settings option: "Hold buttons" or "Toggle buttons" for actions that require sustained input.
+### 3.3 Hold vs Tap Toggle
 
-### 3.3 Auto-mode for slow players
+Settings: "Giữ ngón" hoặc "Chạm một lần" cho action cần input liên tục (drag linh khí, charge shot). Hỗ trợ người dùng dexterity hạn chế.
+
+### 3.4 Auto-mode for slow players
 
 Settings: "Auto-Mode"
-- Auto-place linh khí (1 click = AI suggests + places)
+- Auto-place linh khí (1 tap = AI suggests + places)
 - Auto-confirm common dialogue
 - Auto-collect loot at end of pháp trận
 
-### 3.4 Gamepad support (v1.0)
+### 3.5 Gesture shortcuts
 
-- Xbox controller: native support
-- PlayStation: native support
-- Switch Pro: native support
-- Custom remap available
-- Reduce trigger pull pressure setting
+| Action | Gesture |
+|---|---|
+| Xem chi tiết item | Tap → bottom sheet mở |
+| Đóng bottom sheet | Vuốt xuống hoặc tap backdrop |
+| Pause | Tap nút pause trên HUD |
+| Mở inventory | Tab nav bottom bar |
+| Zoom atlas / tinh điểm tree | Pinch 2 ngón |
+| Pan atlas / tree | Kéo 1 ngón |
+| Back / trở về | Vuốt mép trái hoặc nút back góc trái |
+| Cheat sheet | Tap icon cheat sheet bottom bar |
 
-### 3.5 Touch support (v1.5+)
+Mọi gesture đều có nút fallback hiển thị trên màn — không có gesture ẩn bắt buộc.
 
-Post-launch:
-- iPad / Android tablet only
-- Drag-drop optimized for touch
-- Pinch-zoom Atlas
-- Long-tap for tooltip
+### 3.6 Screen-reader support (VoiceOver / TalkBack)
+
+- Mọi element tương tác có `aria-label` hoặc `accessibilityLabel` rõ ràng
+- Focus order theo chiều cuộn dọc (top → bottom), bottom-bar sau cùng
+- Bottom sheet: focus trap bên trong khi mở, trả focus về trigger khi đóng
+- Custom Pixi elements expose accessible description qua DOM overlay
 
 ---
 
@@ -172,11 +170,11 @@ Post-launch:
 
 Settings option: "Tooltip stays open"
 - Off: tooltip closes after 5s (default)
-- On: tooltip stays until clicked elsewhere
+- On: tooltip ở lại đến khi tap ra ngoài
 
 ### 4.2 Pause anywhere
 
-`P` key or pause button pauses **everything** including:
+Nút pause (góc trên) pauses **everything** including:
 - Physics simulation (linh lực freezes)
 - Boss attacks
 - Timers
@@ -196,7 +194,7 @@ Tied to "Easy difficulty" by default but separately toggleable.
 ### 4.4 Simplified mode
 
 Settings: "Simplified UI"
-- Hide affix details unless hovered
+- Hide affix details unless tapped (mở bottom sheet)
 - Hide stability number (just show colored bar)
 - Hide combo chain counter
 - Remove particle clutter
@@ -322,8 +320,11 @@ Pre-launch accessibility QA:
 - [ ] Each font size from 100-200% all UI readable
 - [ ] High contrast mode usable for all screens
 - [ ] All gameplay completable with subtitles only (no audio)
-- [ ] All gameplay completable with one-handed input
-- [ ] All gameplay completable with gamepad
+- [ ] All gameplay completable with one-handed touch (cầm tay phải + tay trái)
+- [ ] All touch targets ≥44px, verified trên 390px viewport
+- [ ] All critical actions reachable từ bottom 1/3 màn
+- [ ] VoiceOver (iOS) + TalkBack (Android) traversal đọc đúng label và thứ tự
+- [ ] Bottom sheet focus trap hoạt động, focus trả về trigger khi đóng
 - [ ] All gameplay completable on slowest speed setting
 - [ ] All gameplay completable with simplified UI
 - [ ] Color/symbol pair always present
@@ -338,7 +339,9 @@ Pre-launch accessibility QA:
 ## 9. Implementation priority
 
 ### v1.0 ship: Must-have
-- Full keyboard remapping
+- Touch target ≥44px toàn bộ UI
+- Thumb-zone layout (action chính bottom 1/3)
+- Screen-reader labels (VoiceOver/TalkBack) cho mọi interactive element
 - Colorblind modes (5)
 - Subtitle toggle
 - Font scale 100-200%
@@ -351,11 +354,11 @@ Pre-launch accessibility QA:
 - Symbol+color element distinction
 - Slow mode
 - Custom difficulty mixer
-- Gamepad support
+- Hold/tap toggle cho sustained input
+- Bottom sheet focus trap
 
 ### v1.1+ launch: Nice-to-have
 - Voice acting
-- Touch support (tablet)
 - Additional languages
 - Eye-tracking input (if feasible)
 - Color-only HUD option
@@ -378,4 +381,5 @@ Pre-launch accessibility QA:
 
 ## 11. Decision log
 
-- **2026-05-19**: Initial accessibility spec. Full keyboard remap + 5 colorblind modes + subtitle + font scale must-have v1.0. Difficulty mixer available. Multiple language post-launch.
+- **2026-05-19**: Initial accessibility spec. 5 colorblind modes + subtitle + font scale must-have v1.0. Difficulty mixer available. Multiple language post-launch.
+- **2026-05-20**: Pivot mobile-only portrait. Motor section viết lại thành touch a11y (touch target ≥44px, thumb-zone reach, screen-reader labels, gesture shortcuts). Xem spec 2026-05-20-mobile-portrait-pivot-design.md.

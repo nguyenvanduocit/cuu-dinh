@@ -15,8 +15,11 @@ Crafting screen. NPC Đan Sư Hắc Bạch silently watching in background. Sele
 
 ## Layout principles
 
-- Top: selected item detail panel (rarity, element, implicit, prefix, suffix)
-- Middle: 4 action tabs (Linh Đan reroll, Tinh Hoa, Bench, Tẩy Đan) with cost
-- Action detail: explanation of what each action does + confirm button
-- Bottom: inventory count
+- Portrait 3-zone: Top status (brush-stroke title + vàng) / Content 立軸 cuộn dọc / Bottom thumb-bar
+- "Chọn từ Kho" ở thumb-bar đáy → bottom sheet danh sách item cuộn dọc
+- Tap item đang chọn → bottom sheet full affix detail (implicit, prefix, suffix)
+- 4 hành động (Linh Đan reroll, Tinh Hoa, Bench, Tẩy Đan) xếp dọc, hàng ≥56px
+- Tap hành động → bottom sheet mở rộng: giải thích + chi phí + "Xác Nhận" ở đáy sheet
+- Sau confirm: action thực thi, sheet đóng, item panel cập nhật tức thì
+- Touch target ≥44px; confirm button ở đáy bottom sheet (vùng ngón cái)
 - Background: daoist crafting chamber with Đan Sư Hắc Bạch in shadows

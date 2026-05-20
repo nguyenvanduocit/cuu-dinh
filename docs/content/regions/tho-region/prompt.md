@@ -4,8 +4,8 @@
 
 Thổ region — cliffside daoist temple, atlas biome.
 
-## Scene (16:9)
+## Scene (9:16)
 
 ```
-/imagine prompt: a cliffside daoist temple carved into ochre earth, layered stone terraces, drifting dust in low golden light, weighty solid architecture, ancient and grounded, earthen brown (#8B5E34) and ivory palette, painterly pixel art environment, [STYLE SUFFIX] --ar 16:9 --stylize 250
+/imagine prompt: a cliffside daoist temple carved into ochre earth, layered stone terraces, drifting dust in low golden light, weighty solid architecture, ancient and grounded, earthen brown (#8B5E34) and ivory palette, painterly pixel art environment, [STYLE SUFFIX] --ar 9:16 --stylize 250
 ```

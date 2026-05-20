@@ -148,9 +148,29 @@ Mỗi linh khí có **3 visual layers**:
 
 ### Animation
 - **Slow ink bleed** for transitions (200-400ms)
-- **Fast snap** for clicks/select (50-80ms)
+- **Fast snap** for tap/select (50-80ms)
 - **Particle persist** for important events (Phong Ấn, phẩm thăng)
 - **No bouncy/playful** — game tone is serious/mystical, not cartoony
+
+---
+
+## Bố Cục Dọc / Portrait Composition (立軸)
+
+Mọi concept art ưu tiên **khung dọc** theo định dạng 立軸 (hanging scroll) của hội hoạ Trung Hoa cổ điển: sơn thuỷ núi non xếp tầng từ chân lên đỉnh, không gian dọc dẫn mắt người xem từ dưới lên.
+
+**Áp dụng cho**: screens, regions, arenas, bosses, background paintings.
+
+### Nguyên tắc bố cục
+
+- **Tầng dọc** (vertical layering): foreground → midground → background xếp chồng theo chiều cao.
+- **Trục trung tâm dọc**: subject chính (boss, linh đan, đan lô) nằm trên trục dọc giữa hoặc lệch nhẹ, không dạt sang hai bên.
+- **Canvas dọc**: draft thẳng trên khung đứng (portrait ratio) — bố cục sinh ra cho chiều cao.
+- **Khoảng trống phía trên** (thiên không): vùng trời/khí/vũ trụ luôn có không gian thở phía trên subject — đặc trưng 立軸.
+- **Hoa văn viền dọc**: đường viền phủ văn/vân mây chạy dọc hai bên tạo cảm giác cuộn thư.
+
+### Prompt note cho AI draft
+
+Thêm vào mọi prompt asset có background: `"vertical scroll composition, hanging scroll (立軸), layered mountain mist, portrait orientation, top sky space, side vertical border motif"`. Bỏ qua với sprite nhỏ (linh khí icon 32-64px) — chỉ áp cho background / full-scene art.
 
 ---
 
@@ -264,4 +284,5 @@ Mỗi linh khí có **3 visual layers**:
 
 - **2026-05-19**: Locked pixel art style + AI-draft-then-polish pipeline.
 - **2026-05-20**: Art direction pivoted from Vietnamese lacquer/Dong Son focus to xianxia cultivation/alchemy focus.
+- **2026-05-20**: Thêm section "Bố Cục Dọc / Portrait Composition (立軸)" — concept art ưu tiên khung dọc, tránh crop ngang. Áp cho screens, regions, arenas, bosses. Xem spec 2026-05-20-mobile-portrait-pivot-design.md.
 - Future revisits: only if AI pipeline fails to produce acceptable quality (will know within first 2 weeks of asset phase).

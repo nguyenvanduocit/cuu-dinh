@@ -14,7 +14,7 @@ Trong các file entry, ký hiệu `[STYLE SUFFIX]` = chuỗi trên. Khi gen th�
 
 | Param | Khi nào | Giá trị |
 |---|---|---|
-| `--ar 16:9` | environment / screen scene | landscape |
+| `--ar 9:16` | environment / screen scene | dọc (portrait) |
 | `--ar 1:1` | item sprite, icon, boss, portrait | vuông |
 | `--ar 9:16` | full-body NPC, banner đứng | dọc |
 | `--style raw` | **luôn** | tắt MJ auto-beautify |

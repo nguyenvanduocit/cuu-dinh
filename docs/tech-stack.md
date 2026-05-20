@@ -28,7 +28,7 @@
 | State machine | **XState v5** | Game flow (menu → match → death → ...) |
 | Server cache | **@tanstack/vue-query v5** | Leaderboard, profile, server reads |
 | Animation | **motion-v** | Meta UI transitions |
-| Drag-drop | **vue-draggable-plus** hoặc **@atlaskit/pragmatic-drag-drop** | Inventory grid |
+| Touch gestures | **VueUse** (`usePointerSwipe`) + **@use-gesture/vanilla** | Swipe sheet, pan/pinch graph (tree/atlas) |
 | Composables | **VueUse 11+** | 100+ utility composables |
 | Renderer (in-game) | **PixiJS v8** | Match layer canvas, WebGL/WebGPU |
 | In-game UI | **@pixi/ui** | HUD: ProgressBar, Button, ScrollBox |
@@ -264,11 +264,11 @@ Client                                Server (Nakama TS runtime)
 
 | Phase | Platform |
 |---|---|
-| Prototype | Web (Chrome dev) |
-| Alpha | Web (Chrome, Safari, Firefox desktop) |
-| Beta | Web + PWA install (tablet) |
-| v1.0 | Web public + Steam (Tauri wrap) |
-| v1.1+ | iOS/Android (PWA → native shell) |
+| Prototype | Mobile web (iOS Safari + Android Chrome, dev) |
+| Alpha | Mobile web (iOS Safari + Android Chrome) |
+| Beta | Mobile web + PWA install (add to home screen) |
+| v1.0 | Mobile web public + PWA |
+| v1.1+ | iOS/Android app store (PWA → native shell, Capacitor) |
 
 ---
 

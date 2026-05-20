@@ -43,10 +43,10 @@ Sau tour → free play. Quest tracker hiện "Trở lại Sư Phụ để tu ti�
 ### Tutorial principles (HARD RULES)
 
 - ❌ KHÔNG text wall (>20 chữ/screen)
-- ❌ KHÔNG auto-pop tooltip — chỉ activate trên 3s hover
+- ❌ KHÔNG auto-pop tooltip — chỉ activate khi player chủ động tap
 - ❌ KHÔNG lock-step — player có thể experiment trong constraint
 - ✅ Learn-by-doing
-- ✅ Cheat sheet permanent: **Ngũ Hành wheel UI** ở bottom-right, always visible
+- ✅ **Ngũ Hành Wheel** luôn có trong thumb-bar dưới dạng widget icon màu ngũ hành active — glanceable mọi lúc, tap để mở bottom sheet đầy đủ
 - ✅ NPC "Sư Phụ" cho replay tutorial bất cứ lúc nào (re-do mode "Hồi Tưởng")
 
 ---
@@ -92,7 +92,7 @@ Format: **Slay-the-Spire style node map**, KHÔNG Diablo character walk-around.
 
 **Properties**:
 - Background = painted tiên phủ/bí cảnh illustration của khu vực
-- Player click node to enter (no avatar walking)
+- Player tap node to enter (no avatar walking)
 - Linear flow + 1-2 optional side branches
 - Music = peaceful instrumental per act biome
 
@@ -127,7 +127,7 @@ End of Act 5 reward, located at **base camp center altar**.
 ║      (Altar for opening bí cảnh)                 ║
 ║                                                  ║
 ║   ┌─[Đan Pháp slot]────────────────┐            ║
-║   │  ◄ drag từ stash               │            ║
+║   │  ◄ thả từ stash (tap-select)    │            ║
 ║   │  "Tử Sinh Mộc Đan Pháp" T8     │            ║
 ║   └──────────────────────────────────┘            ║
 ║                                                  ║
@@ -222,37 +222,36 @@ Each composition = unique session. **Replayability infinite.**
 
 ### 5.2 Tooltip layers
 
-- Hover < 1s: nothing
-- Hover 1-3s: brief description
-- Hover 3s+: full details + "Nhấn ? để học thêm" → opens portal to doc
-- First-time tooltip: extended explanation, dismiss after first read
+- Tap 1× item: brief description (bottom sheet nhỏ)
+- Tap lần 2 / tap "?" icon: full details + "Tap ? để học thêm" → opens portal to doc
+- First-time tooltip: extended explanation, dismiss sau lần đọc đầu
 
 ### 5.3 Smart defaults
 
 - First Đan Pháp draft = auto-filled if player has none
-- First Phong Ấn click = 3-sec confirmation modal explaining 4 outcomes (subsequent: skip)
+- First Phong Ấn tap = 3-sec confirmation modal explaining 4 outcomes (subsequent: skip)
 - First Cổ vật drop = mini-tutorial on rarity tiers
 - First boss attack = slow-mo first 2s with hint overlay
 
 ### 5.4 NPC mentor (Sư Phụ)
 
 - Always available at base camp
-- Click any time → "Sư Phụ ơi, con phải làm gì tiếp?" → hint hiển thị next quest
+- Tap any time → "Sư Phụ ơi, con phải làm gì tiếp?" → hint hiển thị next quest
 - Sư Phụ KHÔNG nhắc cùng câu 2 lần (avoid annoyance)
 
 ### 5.5 Cheat sheet UI
 
-Always visible bottom-right:
-- **Ngũ Hành wheel** (Kim/Mộc/Thuỷ/Hoả/Thổ) with current linh đan element highlighted
-- Tương sinh arrow (green) + Tương khắc arrow (red) from current element
-- Mini chart at any moment
+3 mode tùy ngữ cảnh (theo `docs/content/screens/cheat-sheet/design.md`):
+- **Widget [⊙]** trong bottom thumb-bar — icon màu ngũ hành active, glanceable mọi lúc trong combat và atlas
+- **Bottom Sheet** (tap widget): wheel đầy đủ (Kim/Mộc/Thuỷ/Hoả/Thổ) với current linh đan highlighted, tương sinh arrow (green) + tương khắc arrow (red), damage multiplier; vuốt xuống để đóng
+- **Inline mini wheel** trong setup screens (card linh đan) — không cần mở sheet riêng
 
 ### 5.6 Quest tracker
 
 Top-left HUD:
 - Current quest objective (one line)
 - "Next: [act 1 boss]" or "Talk to Sư Phụ"
-- Click → expand to full quest log
+- Tap → expand to full quest log
 
 ### 5.7 Inventory color coding
 
@@ -284,7 +283,7 @@ Settings → **Veteran Mode**:
 
 ### Term tooltip
 
-Hover Vietnamese term → show:
+Tap Vietnamese term → show:
 - VI: "Phong Ấn"
 - EN: "Seal (Corruption)"
 - Etymology: "Phong (封) = seal, Ấn (印) = imprint. PoE Vaal Orb equivalent."

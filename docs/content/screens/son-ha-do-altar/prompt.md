@@ -7,5 +7,5 @@ Sacred map-device altar chamber.
 ## (S) Scene
 
 ```
-/imagine prompt: a sacred map-device altar chamber, a raised stone pedestal holding an unfurled glowing landscape scroll, ritual offering slots carved around it, mysterious anticipatory glow, painterly pixel art, cinnabar red and imperial gold on ink black, [STYLE SUFFIX] --ar 16:9 --stylize 250
+/imagine prompt: a sacred map-device altar chamber, a raised stone pedestal holding an unfurled glowing landscape scroll, ritual offering slots carved around it, mysterious anticipatory glow, painterly pixel art, cinnabar red and imperial gold on ink black, [STYLE SUFFIX] --ar 9:16 --stylize 250
 ```

@@ -15,8 +15,11 @@ Map device composition screen. Player composes Đan Pháp + 4 Nguyên Liệu + 3
 
 ## Layout principles
 
-- Central altar layout: Đan Pháp slot (top), Nguyên Liệu ×4, Đan Dược Splash ×3, Tâm Ma Mod Offering ×3
-- All slots drag-drop from stash
-- Preview panel: natural language description of composed bí cảnh
-- Confirm button: "KHAI BÍ CẢNH" with confirmation modal
+- Portrait 3-zone: Top status (brush-stroke title + tài nguyên) / Content 立軸 cuộn dọc / Bottom thumb-bar
+- Slot layout dọc: Đan Pháp (1 slot) → Nguyên Liệu ×4 (2×2 grid) → Đan Dược Splash ×3 → Tâm Ma Mod ×3
+- Tap slot → bottom sheet cuộn dọc chọn nguyên liệu từ stash
+- Tap item đã đặt → bottom sheet full stats + nút "Tháo ra"
+- Preview bí cảnh: auto-update khi compose thay đổi, hiện trong vùng content
+- "KHAI BÍ CẢNH" ở thumb-bar đáy → confirm modal full-screen → vào pháp trận
+- Touch target ≥44px; action chính trong thumb-bar (vùng ngón cái)
 - Background: sacred raised stone pedestal with unfurled glowing landscape scroll
