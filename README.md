@@ -376,5 +376,5 @@ Solo + AI co-pilot. Plan đúng + decision đúng + tooling đúng = ship đư�
 - **Angel investors**: solo+AI thesis believers, Vietnamese game industry stakeholders
 - **Devlog audience**: monthly YouTube + weekly Twitter/X cadence starts Phase 1
 
-→ **Email**: duocnv@firegroup.io
+→ **Email**: nguyenvanduocit@gmail.com
 → **Repo**: https://github.com/nguyenvanduocit/cuu-dinh (private, access on request for due diligence)
