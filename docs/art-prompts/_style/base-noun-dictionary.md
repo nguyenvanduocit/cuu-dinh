@@ -1,6 +1,6 @@
 # Base-noun dictionary — `type` → subject
 
-> Map cột `type` của item/unique sang subject tiếng Anh để chèn vào prompt. Nguồn: `CONTENT.md:26` + `items.csv`.
+> Map cột `type` của item/unique sang subject tiếng Anh để chèn vào prompt. Nguồn: `content.md:26` + `items.csv`.
 
 | `type` | ten gốc | SUBJECT chèn vào prompt |
 |---|---|---|

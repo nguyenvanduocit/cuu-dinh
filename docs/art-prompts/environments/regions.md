@@ -1,4 +1,4 @@
-> Nguồn data: `ART_DIRECTION.md:178-188` (region biome). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:178-188` (region biome). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
 
 # Environments — Regions (7 biome)
 
@@ -8,7 +8,7 @@ Background trong game là **painted 1920×1080** (mix raster + pixel art) — la
 
 ## 1. Base Camp — Khai Lư Trấn
 
-Bối cảnh hub chính (`UI_WIREFRAMES.md:79`). Tone ấm, tĩnh, an toàn — đối lập với pháp trận căng thẳng.
+Bối cảnh hub chính (`ui-wireframes.md:79`). Tone ấm, tĩnh, an toàn — đối lập với pháp trận căng thẳng.
 
 ```
 /imagine prompt: Khai Lư Trấn, a quiet daoist cultivation village courtyard at dusk, low stone temple buildings with upturned tiled roofs, hanging red paper lanterns casting warm orange-red glow, a central stone alchemy altar, distant misty mountains, a few wisps of incense smoke, calm and welcoming, painterly pixel art environment, warm ivory and cinnabar palette with imperial gold lantern light, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 16:9 --stylize 250
@@ -50,7 +50,7 @@ Biến thể đêm khuya (cho cinematic): thêm `deep night, moonlit, fewer lant
 
 ## 7. Vô Cực center — hư không tinh hải
 
-Trung tâm Atlas (`UI_WIREFRAMES.md:447`). Không gian siêu thực, cosmic.
+Trung tâm Atlas (`ui-wireframes.md:447`). Không gian siêu thực, cosmic.
 
 ```
 /imagine prompt: floating in a cosmic void, scattered stars and nebula dust, fragments of broken daoist platforms drifting in space, a distant glowing alchemy elixir like a small sun, infinite depth, surreal and meditative, twilight purple (#4A1942) and ink black with golden star-flecks, painterly pixel art environment, [STYLE SUFFIX] --ar 16:9 --stylize 350

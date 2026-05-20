@@ -1,6 +1,6 @@
 # Palette — Tiên Phủ Huyền Quang
 
-> Nguồn: `docs/ART_DIRECTION.md:27-60`. MJ v6 đọc **named color** tốt hơn hex — hex chỉ document intent.
+> Nguồn: `docs/art-direction.md:27-60`. MJ v6 đọc **named color** tốt hơn hex — hex chỉ document intent.
 
 ## 6-color locked
 
@@ -26,4 +26,4 @@
 | Thánh | imperial gold | `#D4AF37` | sun-like radiance |
 
 ## UI ratio
-60% mực huyền nền · 30% đỏ chu sa frame · 10% vàng kim highlight (`ART_DIRECTION.md:131-136`).
+60% mực huyền nền · 30% đỏ chu sa frame · 10% vàng kim highlight (`art-direction.md:131-136`).

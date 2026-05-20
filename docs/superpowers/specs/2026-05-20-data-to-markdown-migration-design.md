@@ -7,7 +7,7 @@
 Dự án đang ở **concept phase** (pre-production). Game content hiện tồn tại ở **2 bản ghi song song**:
 
 - `packages/data/` — 26 file CSV/JSON exhaustive, validated bởi Zod schema trong `packages/shared/src/schemas/`.
-- `docs/` design docs — `CONTENT.md`, `PASSIVE_TREE_DESIGN.md`, `PHAP_TRAN_MAPS.md` liệt kê **lại** một phần cùng content đó (sample + rationale).
+- `docs/` design docs — `content.md`, `passive-tree-design.md`, `map-layouts.md` liệt kê **lại** một phần cùng content đó (sample + rationale).
 
 Hệ quả đo được:
 - **2 bản ghi đã lệch nhau**: `item.ts` schema ghi 78 item, `CONTENT.md §1` ghi "60 base items", `packages/data/README.md` ghi 60. Không có nguồn đếm chính tắc.
@@ -78,7 +78,7 @@ Object con flatten thành cột, array thành cell comma-separated. Ví dụ `pa
 
 **Section-per-entity** (`## Tiêu Chuẩn`) gồm: bảng meta key-value + bảng con (vd anchor coords) + block prose. Không nhồi đoạn văn vào cell bảng.
 
-- `maps.md`: mỗi map 1 section — bảng meta (`id`, `ten`, `variant`, `tierRange`, `vanCount`, `bossType`, `modifierSlots`) + bảng con anchor (`anchor id`, `x`, `y`, `elementBias`) + block `specialRules` + `description` + ASCII geometry (dời từ `PHAP_TRAN_MAPS.md §4`).
+- `maps.md`: mỗi map 1 section — bảng meta (`id`, `ten`, `variant`, `tierRange`, `vanCount`, `bossType`, `modifierSlots`) + bảng con anchor (`anchor id`, `x`, `y`, `elementBias`) + block `specialRules` + `description` + ASCII geometry (dời từ `map-layouts.md §4`).
 - `ascendancies.md`: mỗi đạo phái 1 section — bảng meta + innate passive + bảng con node (`prerequisites` cell comma).
 - `sets.md`: mỗi set 1 section — `memberItemIds` list + bảng con bonus (`requiredCount`, `effect`).
 
@@ -97,9 +97,9 @@ Sau migration, `docs/data/` là nguồn liệt kê đầy đủ. Design docs **g
 
 | Doc | Giữ (rationale) | Trim → link `docs/data/` |
 |---|---|---|
-| `CONTENT.md` | §0 naming conventions, §1 categories overview, §10 content scaling, §11 decision log | §2–9 (liệt kê item / cổ vật / lò parts / đan dược / nguyên liệu / set / affix / đan pháp) → đoạn rationale ngắn + link |
-| `PASSIVE_TREE_DESIGN.md` | §0–2 topology, §4–6 bridges/hub/archetype, §8–11 acquisition/rules/TODO/changelog | §3 cluster details, §7 keystone full text → rationale cluster-level + link `passive-tree.md` |
-| `PHAP_TRAN_MAPS.md` | §1–2 overview/design language, §5–8 reward/recipes/TODO/log | §3 variant details → rationale + link; §4 ASCII geometry → dời vào `maps.md` |
+| `content.md` | §0 naming conventions, §1 categories overview, §10 content scaling, §11 decision log | §2–9 (liệt kê item / cổ vật / lò parts / đan dược / nguyên liệu / set / affix / đan pháp) → đoạn rationale ngắn + link |
+| `passive-tree-design.md` | §0–2 topology, §4–6 bridges/hub/archetype, §8–11 acquisition/rules/TODO/changelog | §3 cluster details, §7 keystone full text → rationale cluster-level + link `passive-tree.md` |
+| `map-layouts.md` | §1–2 overview/design language, §5–8 reward/recipes/TODO/log | §3 variant details → rationale + link; §4 ASCII geometry → dời vào `maps.md` |
 
 Nguyên tắc: design doc giữ phần *"vì sao"* (triết lý, vocabulary bank, archetype route, element-bias); `docs/data/` giữ phần *"cái gì"* (entry). Số lượng mâu thuẫn (60 vs 78) biến mất vì chỉ còn 1 nguồn đếm. Đường trim section cụ thể chốt khi thực thi.
 
@@ -109,7 +109,7 @@ Nguyên tắc: design doc giữ phần *"vì sao"* (triết lý, vocabulary bank
 - `packages/data/` — toàn bộ 26 file.
 - `packages/shared/` — **cả package**. `src/index.ts` chỉ `export * as schemas`; xoá schemas → package rỗng. Xoá luôn `package.json`, `tsconfig.json`, `src/`.
 - `packages/` rỗng → bỏ thư mục.
-- `tools/passive-tree-gen/` — `generate.ts` sinh `passive-tree.json`, mồ côi sau migration. Xoá (codegen = implementation phase; `passive-tree.md` thành hand-authored; logic topology đã có trong `PASSIVE_TREE_DESIGN.md §1`). Regen tooling rebuild ở implementation.
+- `tools/passive-tree-gen/` — `generate.ts` sinh `passive-tree.json`, mồ côi sau migration. Xoá (codegen = implementation phase; `passive-tree.md` thành hand-authored; logic topology đã có trong `passive-tree-design.md §1`). Regen tooling rebuild ở implementation.
 
 **Config:**
 - `package.json` workspaces `["apps/*","packages/*","tools/*"]` → bỏ `packages/*` → `["apps/*","tools/*"]`.
@@ -133,7 +133,7 @@ Không thu hồi nguyên tắc data-driven — chỉ **sắp xếp lại thứ t
 
 1. Tạo `docs/data/` + 11 file Markdown (migrate A — faithful từ 24 file content).
 2. Re-point 34 file art-prompt + `art-prompts/README.md`.
-3. Dedup design docs (nửa B — `CONTENT.md`, `PASSIVE_TREE_DESIGN.md`, `PHAP_TRAN_MAPS.md`).
+3. Dedup design docs (nửa B — `content.md`, `passive-tree-design.md`, `map-layouts.md`).
 4. Xoá `packages/data/`, `packages/shared/`, `tools/passive-tree-gen/`.
 5. Cập nhật `CLAUDE.md` (file-structure, NEVER/ALWAYS, conventions, working modes) + thêm Decision #29.
 6. Cập nhật `package.json` workspaces + regenerate `bun.lock`.

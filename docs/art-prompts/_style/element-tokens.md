@@ -1,6 +1,6 @@
 # Element tokens — Ngũ Hành
 
-> Chèn vào prompt theo cột `element` của data. Nguồn: `ART_DIRECTION.md:38-47`.
+> Chèn vào prompt theo cột `element` của data. Nguồn: `art-direction.md:38-47`.
 
 | `element` (data) | Hán-Việt | Token chèn vào prompt |
 |---|---|---|
@@ -14,4 +14,4 @@
 Khi cột `element` rỗng (affix/đan dược trung tính) → bỏ token, dùng `neutral ivory-and-gold` hoặc theo ngữ cảnh.
 
 ## Tương sinh / tương khắc (cho hiệu ứng, không cho item tĩnh)
-Cycle: Kim → Thuỷ → Mộc → Hoả → Thổ → Kim (`UI_WIREFRAMES.md:500`).
+Cycle: Kim → Thuỷ → Mộc → Hoả → Thổ → Kim (`ui-wireframes.md:500`).

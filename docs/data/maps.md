@@ -1,7 +1,7 @@
 # Pháp Trận (Maps)
 
 > Provenance: `packages/data/maps/*.json` · 10 blueprints
-> ASCII geometry dời từ `PHAP_TRAN_MAPS.md §4` (bổ sung khi dedup design docs).
+> ASCII geometry dời từ `map-layouts.md §4` (bổ sung khi dedup design docs).
 
 ## Cổ Đan Lò (ancient-furnace)
 

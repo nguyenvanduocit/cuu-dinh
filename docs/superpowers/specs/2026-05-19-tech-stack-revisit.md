@@ -250,12 +250,12 @@ lu-dan-game/
 │   ├── superpowers/specs/
 │   │   ├── 2026-05-19-cuu-dinh-master-design.md
 │   │   └── 2026-05-19-tech-stack-revisit.md   # YOU ARE HERE
-│   ├── TECH_STACK.md
-│   ├── ART_DIRECTION.md
-│   ├── ROADMAP.md
-│   ├── ONBOARDING.md
-│   ├── CONTENT.md
-│   └── LORE.md
+│   ├── tech-stack.md
+│   ├── art-direction.md
+│   ├── roadmap.md
+│   ├── onboarding.md
+│   ├── content.md
+│   └── lore.md
 ├── apps/
 │   ├── web/                        # Vue + Pixi client
 │   │   ├── package.json
@@ -349,8 +349,8 @@ lu-dan-game/
 1. **Documentation** (week 1):
    - ✅ Viết brainstorm doc này
    - Update CLAUDE.md (decision #26, Tech Stack section, File structure section, Conventions section)
-   - Rewrite docs/TECH_STACK.md
-   - Update docs/ROADMAP.md (week-by-week target cho tech stack mới)
+   - Rewrite docs/tech-stack.md
+   - Update docs/roadmap.md (week-by-week target cho tech stack mới)
 
 2. **Scaffold monorepo** (week 1):
    - `bun init` root + workspaces

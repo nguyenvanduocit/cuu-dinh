@@ -39,7 +39,7 @@ This does NOT weaken the tu chân-authenticity pillar (revised decision #1). The
 | Display name (`ten` field) | `"Chuông Đồng"`, `"Tượng La Hán Bồ Đề"` |
 | Lore prose (item-flavor values) | `"Đồng nung trong cổ điện Huyền Thiên..."` |
 | NPC dialogue text | `"Đệ tử. Lò Luyện Đan Tổ Truyền chờ con đã ba mươi năm."` |
-| Design-doc narrative | LORE.md, ACT_NARRATIVE.md prose |
+| Design-doc narrative | lore.md, act-narrative.md prose |
 | Art / audio / UI copy | all player-facing |
 
 ---

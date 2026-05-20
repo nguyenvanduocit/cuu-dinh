@@ -1,6 +1,6 @@
 # STYLE SUFFIX — single source of truth
 
-> Chuỗi style chung **append vào cuối mọi prompt** trong toàn bộ `docs/art-prompts/`. Đổi ở đây = đổi cả bộ. Nguồn: `docs/ART_DIRECTION.md`.
+> Chuỗi style chung **append vào cuối mọi prompt** trong toàn bộ `docs/art-prompts/`. Đổi ở đây = đổi cả bộ. Nguồn: `docs/art-direction.md`.
 
 ## STYLE SUFFIX (chép nguyên văn)
 
@@ -31,4 +31,4 @@ Trong các file entry, ký hiệu `[STYLE SUFFIX]` = chuỗi trên. Khi gen th�
 Thiếu 1 → drift về MJ generic.
 
 ## Caveat pipeline
-MJ v6 = **concept/mood/reference** cho pha thiết kế. Sprite final qua **SDXL + pixel-art LoRA → Aseprite polish** (`ART_DIRECTION.md §AI Asset Pipeline`). KHÔNG export thẳng MJ làm asset game.
+MJ v6 = **concept/mood/reference** cho pha thiết kế. Sprite final qua **SDXL + pixel-art LoRA → Aseprite polish** (`art-direction.md §AI Asset Pipeline`). KHÔNG export thẳng MJ làm asset game.

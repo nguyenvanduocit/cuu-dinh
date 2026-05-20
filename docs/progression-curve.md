@@ -266,7 +266,7 @@ Map tier player level required:
 
 ### Inflation check
 
-Gold sources should slightly exceed gold sinks at normal play pace, but craft costs scale up so high-tier players still feel "pinched". See `ECONOMY_FLOW.md` for full sink/source diagram.
+Gold sources should slightly exceed gold sinks at normal play pace, but craft costs scale up so high-tier players still feel "pinched". See `economy-flow.md` for full sink/source diagram.
 
 ---
 

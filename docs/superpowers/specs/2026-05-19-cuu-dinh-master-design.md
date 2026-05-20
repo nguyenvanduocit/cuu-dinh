@@ -10,7 +10,7 @@ date: 2026-05-19
 
 > **Status**: Design lock complete. Đây là **single source of truth** cho mọi decision. Mọi conflict với spec này → spec wins, code update.
 
-> **v1.2 changes** (2026-05-19): Onboarding architecture added — 5-act campaign + illustrated node maps, **Sơn Hà Đồ Lệnh** as map device bridge. Bí Cảnh redesigned as **emergent composition** (KHÔNG enumerated types). Đan Pháp formalized to **10 variants** as structural containers. Cross-ref `docs/ONBOARDING.md`.
+> **v1.2 changes** (2026-05-19): Onboarding architecture added — 5-act campaign + illustrated node maps, **Sơn Hà Đồ Lệnh** as map device bridge. Bí Cảnh redesigned as **emergent composition** (KHÔNG enumerated types). Đan Pháp formalized to **10 variants** as structural containers. Cross-ref `docs/onboarding.md`.
 
 > **v1.1 changes** (2026-05-19): Cosmology overhaul — banh = linh lực, linh đan = objective, Ngũ Hành combat math, Đan Pháp + Nguyên Liệu economy added.
 
@@ -618,7 +618,7 @@ UI:
 
 Lore: *"Sơn Hà Đồ Lệnh là pháp khí cổ truyền của tổ sư — có khả năng mở khoá các không gian tu luyện đã từng tồn tại trong vạn niên."*
 
-Chi tiết onboarding flow + per-act design: xem `docs/ONBOARDING.md`.
+Chi tiết onboarding flow + per-act design: xem `docs/onboarding.md`.
 
 ---
 
@@ -1019,4 +1019,4 @@ Khi update spec:
 
 - **v1.0** (2026-05-19): Initial lock từ brainstorm. 13 decisions.
 - **v1.1** (2026-05-19): Cosmology overhaul. Banh = linh lực Ngũ Hành. Linh đan = objective. Đan Pháp + Nguyên Liệu economy. 20 decisions (D14-D20 added).
-- **v1.2** (2026-05-19): Onboarding architecture. 5-act campaign + illustrated node maps. Sơn Hà Đồ Lệnh map device. Bí Cảnh = emergent composition (KHÔNG enum). Đan Pháp 10 variants formalized. 25 decisions total (D21-D25 added). Cross-ref `docs/ONBOARDING.md`.
+- **v1.2** (2026-05-19): Onboarding architecture. 5-act campaign + illustrated node maps. Sơn Hà Đồ Lệnh map device. Bí Cảnh = emergent composition (KHÔNG enum). Đan Pháp 10 variants formalized. 25 decisions total (D21-D25 added). Cross-ref `docs/onboarding.md`.

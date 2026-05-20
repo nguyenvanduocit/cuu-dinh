@@ -1,6 +1,6 @@
 # Rarity tokens — treatment + border
 
-> Chèn theo cột `rarity` (items/uniques) hoặc `variant` (equipment). Nguồn: `ART_DIRECTION.md:90-103`.
+> Chèn theo cột `rarity` (items/uniques) hoặc `variant` (equipment). Nguồn: `art-direction.md:90-103`.
 
 | rarity (data) | variant (equipment) | Phẩm | Treatment chèn vào prompt |
 |---|---|---|---|
@@ -12,7 +12,7 @@
 
 > Cột data `VeryRare` (La Hán Legendary) → map sang `Legendary`/Thần treatment.
 
-## Affix rune overlay (`ART_DIRECTION.md:98-102`)
+## Affix rune overlay (`art-direction.md:98-102`)
 | Loại | Overlay |
 |---|---|
 | prefix offensive | `small red rune glyph overlay, aggressive` |

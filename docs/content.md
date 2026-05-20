@@ -163,4 +163,4 @@ Each quarter:
 ## 11. Decision log
 
 - **2026-05-19**: Initial content catalog. 78 linh khí, 30 Cổ vật, 20 đan dược/tinh hoa, 30 Nguyên Liệu, 10 Đan Pháp variants, 3 sets, 190 affixes. Live ops growth plan locked.
-- **2026-05-20**: Content entries migrated to `docs/data/*.md`. CONTENT.md retains rationale only.
+- **2026-05-20**: Content entries migrated to `docs/data/*.md`. content.md retains rationale only.

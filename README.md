@@ -323,19 +323,19 @@ Toàn bộ pre-production design công khai trong repo:
 |---|---|
 | [VISION.md](./VISION.md) | Manifesto, "không thoái chí" spirit, why Cửu Đỉnh title |
 | [docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md](./docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md) | **Master design spec v1.2** — single source of truth (29 quyết định locked) |
-| [docs/LORE.md](./docs/LORE.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Đỉnh 9-cauldron canonical lore |
-| [docs/ONBOARDING.md](./docs/ONBOARDING.md) | Tutorial + 5-Act campaign design |
-| [docs/CONTENT.md](./docs/CONTENT.md) | Catalog: linh khí, Cổ vật, đan dược, affix pools |
-| [docs/COMBAT_MATH.md](./docs/COMBAT_MATH.md) | Ngũ Hành damage formulas, intensity scaling |
-| [docs/PROGRESSION_CURVE.md](./docs/PROGRESSION_CURVE.md) | XP curve, drop rates, time-to-X benchmarks |
-| [docs/BOSS_PATTERNS.md](./docs/BOSS_PATTERNS.md) | Attack patterns, phase design (3 boss types) |
-| [docs/ECONOMY_FLOW.md](./docs/ECONOMY_FLOW.md) | Currency sources/sinks, inflation guards |
-| [docs/UI_WIREFRAMES.md](./docs/UI_WIREFRAMES.md) | Per-screen wireframes + state diagrams |
-| [docs/AUDIO_SPEC.md](./docs/AUDIO_SPEC.md) | Music tracks, SFX library, instrumentation |
-| [docs/ART_DIRECTION.md](./docs/ART_DIRECTION.md) | Pixel art palette, environment moodboard |
-| [docs/TECH_STACK.md](./docs/TECH_STACK.md) | Vue + PixiJS + Rapier + Nakama architecture |
-| [docs/ROADMAP.md](./docs/ROADMAP.md) | 5-year build plan with quarterly milestones |
-| [docs/ACCESSIBILITY.md](./docs/ACCESSIBILITY.md) | Colorblind, motor, cognitive accessibility |
+| [docs/lore.md](./docs/lore.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Đỉnh 9-cauldron canonical lore |
+| [docs/onboarding.md](./docs/onboarding.md) | Tutorial + 5-Act campaign design |
+| [docs/content.md](./docs/content.md) | Catalog: linh khí, Cổ vật, đan dược, affix pools |
+| [docs/combat-math.md](./docs/combat-math.md) | Ngũ Hành damage formulas, intensity scaling |
+| [docs/progression-curve.md](./docs/progression-curve.md) | XP curve, drop rates, time-to-X benchmarks |
+| [docs/boss-patterns.md](./docs/boss-patterns.md) | Attack patterns, phase design (3 boss types) |
+| [docs/economy-flow.md](./docs/economy-flow.md) | Currency sources/sinks, inflation guards |
+| [docs/ui-wireframes.md](./docs/ui-wireframes.md) | Per-screen wireframes + state diagrams |
+| [docs/audio-spec.md](./docs/audio-spec.md) | Music tracks, SFX library, instrumentation |
+| [docs/art-direction.md](./docs/art-direction.md) | Pixel art palette, environment moodboard |
+| [docs/tech-stack.md](./docs/tech-stack.md) | Vue + PixiJS + Rapier + Nakama architecture |
+| [docs/roadmap.md](./docs/roadmap.md) | 5-year build plan with quarterly milestones |
+| [docs/accessibility.md](./docs/accessibility.md) | Colorblind, motor, cognitive accessibility |
 
 Plus content data — single source of truth concept phase, bảng Markdown faithful trong `docs/data/`:
 

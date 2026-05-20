@@ -1,8 +1,8 @@
 # Act Narrative — Cửu Đỉnh 5-Act Campaign
 
-> Tài liệu này mô tả hành trình chiến dịch 5 hồi, các nhịp kể chuyện chính, đối thoại tóm tắt, và vòng cung nhân vật. Nguồn tham chiếu: LORE.md, ONBOARDING.md §2.3–2.7.
+> Tài liệu này mô tả hành trình chiến dịch 5 hồi, các nhịp kể chuyện chính, đối thoại tóm tắt, và vòng cung nhân vật. Nguồn tham chiếu: lore.md, onboarding.md §2.3–2.7.
 
-> **Lưu ý cấp độ**: Cấp theo ONBOARDING.md (đã khoá 2026-05-19): Hồi 1 = 1-7, Hồi 2 = 7-15, Hồi 3 = 15-25, Hồi 4 = 25-40, Hồi 5 = 40-50. (Task header dùng số khác — số ONBOARDING.md được ưu tiên vì đã lock.)
+> **Lưu ý cấp độ**: Cấp theo onboarding.md (đã khoá 2026-05-19): Hồi 1 = 1-7, Hồi 2 = 7-15, Hồi 3 = 15-25, Hồi 4 = 25-40, Hồi 5 = 40-50. (Task header dùng số khác — số onboarding.md được ưu tiên vì đã lock.)
 
 ---
 

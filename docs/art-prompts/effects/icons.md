@@ -1,10 +1,10 @@
-> Nguồn data: `ART_DIRECTION.md:98-102` (icon specs), `CONTENT.md:294` (đan dược list). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:98-102` (icon specs), `content.md:294` (đan dược list). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
 
 # UI Icons — `32×32`, `--ar 1:1 --stylize 80`, clear & legible
 
 ---
 
-## 4.1 Đan Dược (8 main) — `CONTENT.md:294`
+## 4.1 Đan Dược (8 main) — `content.md:294`
 
 ```
 /imagine prompt: a small clear game inventory icon of [SUBJECT], readable at tiny size, single object on dark, painterly pixel art icon, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 1:1 --stylize 80
@@ -25,7 +25,7 @@
 
 5 element shard + utility — dùng element token màu, hình `a faceted crystal essence shard`.
 
-## 4.3 Affix rune overlay — `ART_DIRECTION.md:98-102`
+## 4.3 Affix rune overlay — `art-direction.md:98-102`
 
 Overlay nhỏ góc item icon báo loại affix:
 

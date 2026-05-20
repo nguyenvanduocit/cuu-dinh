@@ -48,7 +48,7 @@ Tất cả quyết định bên dưới đã lock qua brainstorm 2026-05-19. M�
 | 28 | **Game title = "Cửu Đỉnh"** (Nine Cauldrons). Working title "Lư Đan" retired. Lore weave: 9 đỉnh thượng cổ rèn bởi Cao Tổ + 7 đan sư + Lò Thần. 8 đỉnh vỡ rải khắp atlas sau Cửu Chuyển thất bại; đỉnh thứ 9 (trung lập) sống sót = Lò player kế thừa. Game title = quest tổng thể: tái hợp đủ 9 đỉnh. Package npm scope `@cuu-dinh/*`, GitHub repo `cuu-dinh` | 2026-05-20 |
 | 29 | **Concept-phase content authoring**: game content (item, affix, equipment, currency, passive tree, ascendancy, map, set, lore) sống trong `docs/data/*.md` — bảng Markdown faithful, human-readable, single source of truth của concept phase. Structured JSON + Zod schema regenerate từ `docs/data/` khi vào implementation phase. Design docs = rationale + link sang `docs/data/`. Nguyên tắc data-driven giữ nguyên, chỉ sắp xếp lại thứ tự (Zod quay lại ở implementation). Tech stack #26 không đổi | 2026-05-20 |
 
-Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `docs/ONBOARDING.md` + `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md` + `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
+Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `docs/onboarding.md` + `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md` + `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 
 ---
 
@@ -106,7 +106,7 @@ Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `d
 - **Art**: AI draft (Stable Diffusion / Midjourney) → Aseprite/Pixelorama polish
 - **Audio**: Suno AI / royalty-free tu chân/ritual fantasy → Audacity polish
 
-Chi tiết: `docs/TECH_STACK.md`.
+Chi tiết: `docs/tech-stack.md`.
 
 ### Reactive bridge Vue ↔ Pixi (critical pattern)
 
@@ -165,11 +165,11 @@ lu-dan-game/
 │   │   ├── maps.md                 # 10 pháp trận (+ ASCII geometry)
 │   │   ├── sets.md                 # 3 set bonus
 │   │   └── lore.md                 # item-flavor + npc-dialogue (Vietnamese prose)
-│   └── *.md                        # Design docs (rationale + link → data/): TECH_STACK, ART_DIRECTION, ROADMAP,
-│                                   #   ONBOARDING, CONTENT, LORE, COMBAT_MATH, ECONOMY_FLOW,
-│                                   #   PASSIVE_TREE_DESIGN, PHAP_TRAN_MAPS, BOSS_PATTERNS,
-│                                   #   PROGRESSION_CURVE, ACT_NARRATIVE, TUTORIAL_SCRIPT,
-│                                   #   UI_WIREFRAMES, AUDIO_SPEC, ACCESSIBILITY
+│   └── *.md                        # Design docs (rationale + link → data/): tech-stack, art-direction, roadmap,
+│                                   #   onboarding, content, lore, combat-math, economy-flow,
+│                                   #   passive-tree-design, map-layouts, boss-patterns,
+│                                   #   progression-curve, act-narrative, tutorial-script,
+│                                   #   ui-wireframes, audio-spec, accessibility
 ├── apps/                           # (kế hoạch)
 │   ├── web/                        # Vue + Pixi client
 │   │   ├── package.json
@@ -281,4 +281,4 @@ Next milestone: **Vertical prototype** (4-6 tuần) — 1 pháp trận, 10 linh 
 2. **Vue + Pixi + `@vue/reactivity` bridge** — verify reactive sync work, không leak listeners.
 3. **Nakama TS runtime (Goja)** — verify Zod validation + RPC pattern work.
 
-Sau prototype OK → expand theo `docs/ROADMAP.md`.
+Sau prototype OK → expand theo `docs/roadmap.md`.

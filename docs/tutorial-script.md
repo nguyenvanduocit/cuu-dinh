@@ -411,7 +411,7 @@ Lore page: "Tương khắc — bài học sinh tử"
 
 ## 10. BOSS: Tâm Ma Sơn Mộc
 
-**See `BOSS_PATTERNS.md` §1.1 for attack patterns.**
+**See `boss-patterns.md` §1.1 for attack patterns.**
 
 ### Pre-boss dialogue
 

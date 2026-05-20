@@ -1,6 +1,6 @@
 # `docs/data/` — Concept-phase content (single source of truth)
 
-> Toàn bộ game content sống ở đây dưới dạng **bảng Markdown faithful, human-readable**. Đây là nguồn đếm chính tắc duy nhất của concept phase. Structured JSON + Zod schema regenerate từ thư mục này khi vào implementation phase (decision #29). Design docs (`../CONTENT.md`, `../PASSIVE_TREE_DESIGN.md`, `../PHAP_TRAN_MAPS.md`) giữ phần *rationale* và link về đây.
+> Toàn bộ game content sống ở đây dưới dạng **bảng Markdown faithful, human-readable**. Đây là nguồn đếm chính tắc duy nhất của concept phase. Structured JSON + Zod schema regenerate từ thư mục này khi vào implementation phase (decision #29). Design docs (`../content.md`, `../passive-tree-design.md`, `../map-layouts.md`) giữ phần *rationale* và link về đây.
 
 ## Index
 

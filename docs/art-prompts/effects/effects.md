@@ -1,10 +1,10 @@
-> Nguồn data: `ART_DIRECTION.md:105-127, :98-102` (effect specs). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `art-direction.md:105-127, :98-102` (effect specs). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
 
 # Effects & Particles — `--ar 1:1 --stylize 100`, nền tối/trong
 
 ---
 
-## 3.1 Linh Lực ball (banh) — `ART_DIRECTION.md:105-116`
+## 3.1 Linh Lực ball (banh) — `art-direction.md:105-116`
 
 16-24px, element-coded, 8-frame motion trail.
 
@@ -14,7 +14,7 @@
 
 Gen 6 bản (1 mỗi element). Trail dài/sáng hơn = velocity cao.
 
-## 3.2 Linh Đan orb (objective) — `ART_DIRECTION.md:118-127`
+## 3.2 Linh Đan orb (objective) — `art-direction.md:118-127`
 
 80px, ring fill như loading bar, crack khi stability thấp.
 
@@ -30,7 +30,7 @@ Biến thể: **bể (destroyed)** → `the elixir orb shattering into pieces wi
 /imagine prompt: a small impact particle burst, [element-colored] sparks radiating from a collision point, sharp pixel particles, on transparent dark, painterly pixel art game effect, [STYLE SUFFIX] --ar 1:1 --stylize 90
 ```
 
-## 3.4 Phong Ấn seal — `ART_DIRECTION.md:103`
+## 3.4 Phong Ấn seal — `art-direction.md:103`
 
 Big red corruption seal khắc lên item.
 
@@ -38,7 +38,7 @@ Big red corruption seal khắc lên item.
 /imagine prompt: a large ominous cinnabar-red corruption seal stamp, a circular daoist talisman sigil with jagged runes, glowing dangerously, on transparent dark, painterly pixel art game effect, [STYLE SUFFIX] --ar 1:1 --stylize 110
 ```
 
-## 3.5 Linh đan grade aura (7 phẩm cấp) — `ART_DIRECTION.md:49-60`
+## 3.5 Linh đan grade aura (7 phẩm cấp) — `art-direction.md:49-60`
 
 Halo aura tách riêng cho từng phẩm, overlay lên orb:
 
