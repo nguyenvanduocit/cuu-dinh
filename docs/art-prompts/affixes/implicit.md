@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/affix-implicit.csv. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/affixes.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Affix Implicit — Gold Sigil Overlay (30 entries)
 

@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/corruption-mods.csv. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/currency.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Tâm Ma Mod — Corruption Mods (12 entries)
 

@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/ascendancies.json. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/ascendancies.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Ascendancy Emblems — Đạo Phái (5 Phái)
 

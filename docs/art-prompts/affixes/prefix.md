@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/affix-prefix.csv. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/affixes.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Affix Prefix — Rune Glyph Overlay (80 entries)
 

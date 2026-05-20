@@ -322,7 +322,7 @@ Toàn bộ pre-production design công khai trong repo:
 | Doc | Nội dung |
 |---|---|
 | [VISION.md](./VISION.md) | Manifesto, "không thoái chí" spirit, why Cửu Đỉnh title |
-| [docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md](./docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md) | **Master design spec v1.2** — single source of truth (28 quyết định locked) |
+| [docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md](./docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md) | **Master design spec v1.2** — single source of truth (29 quyết định locked) |
 | [docs/LORE.md](./docs/LORE.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Đỉnh 9-cauldron canonical lore |
 | [docs/ONBOARDING.md](./docs/ONBOARDING.md) | Tutorial + 5-Act campaign design |
 | [docs/CONTENT.md](./docs/CONTENT.md) | Catalog: linh khí, Cổ vật, đan dược, affix pools |
@@ -337,24 +337,21 @@ Toàn bộ pre-production design công khai trong repo:
 | [docs/ROADMAP.md](./docs/ROADMAP.md) | 5-year build plan with quarterly milestones |
 | [docs/ACCESSIBILITY.md](./docs/ACCESSIBILITY.md) | Colorblind, motor, cognitive accessibility |
 
-Plus content data scaffolding sẵn sàng (validated bởi Zod):
+Plus content data — single source of truth concept phase, bảng Markdown faithful trong `docs/data/`:
 
 ```
-packages/data/
-├── items.csv              78 linh khí definitions
-├── uniques.csv            30 Cổ Vật uniques
-├── affix-prefix.csv       80 prefix affixes
-├── affix-suffix.csv       80 suffix affixes
-├── affix-implicit.csv     30 implicit affixes
-├── set-bonuses.json       3 set bonuses
-├── passive-tree.json      150 nodes, 5 Ngũ Hành starts
-├── ascendancies.json      5 Đạo Phái
-├── reagents.csv           20 đan dược currency
-├── catalysts.csv          30 nguyên liệu (PoE-scarab analogue)
-├── corruption-mods.csv    12 Tâm Ma modifiers
-├── equipment.csv          50 Lò parts
-├── maps/                  10 pháp trận blueprints
-└── lore/                  item-flavor + npc-dialogue (Vietnamese prose)
+docs/data/
+├── README.md              Index + enum vocabulary + quy ước bảng
+├── items.md               78 linh khí definitions
+├── uniques.md             30 Cổ Vật uniques
+├── affixes.md             80 prefix + 80 suffix + 30 implicit
+├── equipment.md           50 Lò parts
+├── currency.md            20 đan dược + 30 nguyên liệu + 12 Tâm Ma modifiers
+├── passive-tree.md        150 nodes, 5 Ngũ Hành starts
+├── ascendancies.md        5 Đạo Phái
+├── maps.md                10 pháp trận blueprints (+ ASCII geometry)
+├── sets.md                3 set bonuses
+└── lore.md                item-flavor + npc-dialogue (Vietnamese prose)
 ```
 
 ---

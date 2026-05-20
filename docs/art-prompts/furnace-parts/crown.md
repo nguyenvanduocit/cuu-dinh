@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/equipment.csv (slot=crown). Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/equipment.md (slot=crown). Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Furnace Parts — Crown (Đỉnh)
 

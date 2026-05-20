@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/catalysts.csv. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/currency.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Nguyên Liệu — Catalysts (30 entries)
 

@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/items.csv (tag: la-han, id: arhat-*). Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/items.md (tag: la-han, id: arhat-*). Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Bộ Tượng Thập Bát La Hán
 

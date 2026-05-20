@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/equipment.csv (slot=amulet). Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/equipment.md (slot=amulet). Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Furnace Parts — Amulet (Khắc Phù)
 

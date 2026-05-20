@@ -133,27 +133,26 @@ import { matchState } from '@cuu-dinh/shared/match-state'
 
 ### 4. Data-driven content
 
-Items, affix, map, passive node, đan dược → **stored in CSV/JSON trong `packages/data/`**, KHÔNG hardcode.
+Items, affix, map, passive node, đan dược → **data-driven, KHÔNG hardcode**.
+
+**Concept phase** (hiện tại): content sống trong `docs/data/*.md` — bảng Markdown faithful, human-readable, single source of truth. Column spec + enum vocabulary bake vào header mỗi file.
 
 ```
-packages/data/
-├── linh-khi.csv             # 60+ item definitions
-├── affix-prefix.csv         # 80 prefix
-├── affix-suffix.csv         # 80 suffix
-├── affix-implicit.csv       # 30 implicit
-├── co-vat.csv               # 30+ unique
-├── set-bonus.csv            # 3 set
-├── passive-tree.json        # 150 nodes
-├── dao-phai.json            # 5 ascendancy
-├── dan-duoc.csv             # 6 currency
-├── tam-ma-mod.csv           # Map modifiers
-└── phap-tran/               # Map definitions
-    ├── moc-linh-coc.json
-    ├── hoa-am-coc.json
-    └── ...
+docs/data/
+├── README.md            # Index + enum vocabulary + quy ước bảng
+├── items.md             # 78 linh khí
+├── uniques.md           # 30 cổ vật
+├── affixes.md           # 80 prefix + 80 suffix + 30 implicit
+├── equipment.md         # 50 lò parts
+├── currency.md          # 20 đan dược + 30 nguyên liệu + 12 tâm ma mod
+├── passive-tree.md      # 150 nodes
+├── ascendancies.md      # 5 đạo phái
+├── maps.md              # 10 pháp trận (+ ASCII geometry)
+├── sets.md              # 3 set bonus
+└── lore.md              # item-flavor + npc-dialogue
 ```
 
-**Build pipeline**: CSV/JSON trong `packages/data/` → loaded at app boot bằng Vite raw imports → validated bởi Zod schemas (từ `packages/shared/`) → cached vào Pinia store.
+**Build pipeline** (implementation phase): regenerate structured JSON + Zod schema từ `docs/data/` → `packages/data/` + `packages/shared/` → loaded at app boot bằng Vite raw imports → validated bởi Zod → cached vào Pinia store.
 
 ### 5. Module boundary (apps/web)
 

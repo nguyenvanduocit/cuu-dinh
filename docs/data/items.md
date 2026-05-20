@@ -1,0 +1,85 @@
+# Linh Khí (Items)
+
+> Provenance: `packages/data/items.csv` · 78 entries
+> Cột: id (slug), ten (display VN), type (ItemBaseType), element (Element), rarity (Rarity), implicit (text), dropPool (DropPool), tags (multi). Enum → `README.md`.
+
+| id | ten | type | element | rarity | implicit | dropPool | tags |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| bronze-bell | Chuông Đồng | bell | metal | Common | Convert linh lực qua đây → Kim. Tạo sóng đẩy linh khí khác 80px | Common | metal, convert, push |
+| white-tiger-sword | Kiếm Cổ Bạch Hổ | sword | metal | Magic | Cut linh lực thành 2 — split path angles ±30° | Uncommon | metal, split |
+| metal-essence-inkstone | Nghiên Mực Kim Tinh | inkstone | metal | Common | Linh lực Kim → ghi vết Kim trên board, chain damage 3s | Common | metal, chain |
+| white-tiger-bead | Châu Bạch Hổ | bead | metal | Magic | Hấp thụ linh lực Kim, sau 3 hit phun ra Kim châm piercing | Uncommon | metal, charge, pierce |
+| ancient-keen-saber | Đao Cổ Sắc | saber | metal | Common | Crit chance +20% trên Kim linh lực | Common | metal, crit |
+| white-tiger-statue | Tượng Bạch Hổ | statue | metal | Magic | Linh khí Kim khác ±100px được +15% intensity | Uncommon | metal, aura |
+| metal-rune-talisman | Phù Kim Tự | talisman | metal | Rare | 1x/ván: tất cả linh lực biến thành Kim | Rare | metal, convert, oneshot |
+| platinum-cauldron | Đỉnh Bạch Kim | cauldron | metal | Magic | Chậm linh lực Mộc 50% (counter-element control) | Uncommon | metal, counter, slow |
+| ancient-metal-box | Hộp Cổ Kim Khí | box | metal | Common | Store linh lực 2s, release với +50% intensity | Common | metal, store, charge |
+| silver-star-fan | Quạt Bạch Tinh | fan | metal | Common | Đổi hướng linh lực Kim sang trái/phải (player chọn) | Common | metal, redirect |
+| bodhi-branch | Cành Bồ Đề | branch | wood | Common | Sustain — linh lực Mộc qua đây heal đan +2% stability | Common | wood, sustain, heal |
+| lotus-leaf-lantern | Đèn Lá Sen | lantern | wood | Common | Mỗi va chạm: spawn small lá mộc linh lực phụ | Common | wood, spawn |
+| longevity-talisman | Bùa Trường Sinh | talisman | wood | Magic | Linh khí lân cận không bị nhiễm khí | Uncommon | wood, sustain, aura |
+| azure-dragon-statue | Tượng Thanh Long | statue | wood | Magic | Linh khí Mộc khác ±100px được +20% intensity | Uncommon | wood, aura |
+| azure-dragon-bead | Châu Thanh Long | bead | wood | Magic | Tích luỹ Mộc lực, mỗi 5 hit: heal đan stability +10% | Uncommon | wood, sustain, charge |
+| spirit-lotus-flower | Hoa Sen Linh | flower | wood | Common | Slow linh lực 25%, +20% intensity khi rời | Common | wood, slow, charge |
+| green-nectar-vase | Bình Cam Lộ Xanh | vase | wood | Magic | Convert linh lực Hoả qua đây → Mộc (tương khắc rescue) | Uncommon | wood, convert, counter |
+| ancient-betel-branch | Cây Trầu Cổ | branch | wood | Common | Linh khí xung quanh được Mộc nhiễm khí 5s | Common | wood, aura, infect |
+| jade-cauldron | Đỉnh Lục Bảo | cauldron | wood | Magic | Linh đan Mộc nhận +15% quality từ đồng hành hit | Uncommon | wood, sustain, quality |
+| ancient-bamboo-fan | Quạt Trúc Cổ | fan | wood | Common | Phất tạo gió đẩy linh lực xuống board nhanh hơn | Common | wood, push, speed |
+| dark-nectar-vase | Bình Cam Lộ Đen | vase | water | Magic | Hấp thụ linh lực Hoả, phun lại Thuỷ | Uncommon | water, convert, counter |
+| water-dragon-bead | Châu Thuỷ Long | bead | water | Magic | Chain — linh lực qua đây jump tới linh khí gần nhất | Uncommon | water, chain |
+| ice-lantern | Đèn Băng | lantern | water | Common | Linh lực Thuỷ qua → freeze nearby linh khí 1s (counter-element) | Common | water, counter, slow |
+| black-tortoise-statue | Tượng Hắc Quy | statue | water | Magic | Defensive — giảm 30% tương khắc damage trong 200px | Uncommon | water, counter, aura |
+| sea-dragon-talisman | Bùa Hải Long | talisman | water | Rare | 1x/ván: tất cả linh lực biến thành Thuỷ | Rare | water, convert, oneshot |
+| frost-ice-inkstone | Nghiên Mực Hàn Băng | inkstone | water | Common | Mỗi va chạm: tạo vũng nước, linh lực rơi vào +20% intensity | Common | water, trail, charge |
+| flowing-ice-sword | Kiếm Lưu Băng | sword | water | Common | Pierce — linh lực Thuỷ ignore 1 wall collision | Common | water, pierce |
+| black-jade-cauldron | Đỉnh Hắc Bích | cauldron | water | Magic | Heal đan +1% stability per Thuỷ tương sinh hit | Uncommon | water, sustain, heal |
+| frost-qi-box | Hộp Hàn Khí | box | water | Magic | Store linh lực Thuỷ, release với chain +3 jumps | Uncommon | water, store, chain |
+| black-phoenix-fan | Quạt Hắc Phụng | fan | water | Common | Slow toàn board 20% trong 3s khi chạm | Common | water, slow, aoe |
+| red-lantern | Đèn Lồng Đỏ | lantern | fire | Common | Chuyển hoá tất cả linh lực qua đây → Hoả | Common | fire, convert |
+| phoenix-spirit-talisman | Bùa Phượng Linh | talisman | fire | Magic | Hoả lực hit → ignite linh khí khác (chain burn 5s) | Uncommon | fire, chain, aoe |
+| vermilion-bird-statue | Tượng Chu Tước | statue | fire | Magic | Linh khí Hoả khác ±100px được +25% intensity | Uncommon | fire, aura |
+| fire-phoenix-bead | Châu Hoả Phượng | bead | fire | Magic | Mỗi 5 hit: explode AOE Hoả damage | Uncommon | fire, aoe, charge |
+| fire-dragon-sword | Kiếm Hoả Long | sword | fire | Common | Cut — linh lực Hoả split thành 2 đường, mỗi đường -30% intensity | Common | fire, split |
+| vermilion-cauldron | Đỉnh Đỏ Son | cauldron | fire | Magic | Linh lực Hoả tới đan: +35% intensity (Hoả-buff) | Uncommon | fire, aura |
+| fire-wind-fan | Quạt Phong Hoả | fan | fire | Common | Lan toả: linh lực Hoả tạo wave 100px AOE damage | Common | fire, aoe, push |
+| red-inkstone | Nghiên Mực Đỏ | inkstone | fire | Common | Burn trail — linh lực để lại dấu cháy damage zone 3s | Common | fire, trail, aoe |
+| fire-essence-box | Hộp Hoả Tinh | box | fire | Rare | Store + amplify: release với ×2 intensity sau 3s | Rare | fire, store, charge |
+| fire-bead-vase | Bình Hoả Châu | vase | fire | Magic | Convert linh lực Thuỷ qua đây → Hoả (counter-rescue) | Uncommon | fire, convert, counter |
+| ancient-stone-cauldron | Đá Cổ | cauldron | earth | Common | Slow linh lực 50%, +50% intensity khi rời (charge mechanic) | Common | earth, slow, charge |
+| yellow-qilin-statue | Tượng Hoàng Lân | statue | earth | Magic | Defensive — đan stability max +20% | Uncommon | earth, sustain, aura |
+| yellow-earth-bead | Châu Hoàng Thổ | bead | earth | Magic | Stagger — linh lực dừng 1s rồi tiếp tục với +30% intensity | Uncommon | earth, slow, charge |
+| demon-ward-talisman | Bùa Trấn Yêu | talisman | earth | Magic | Linh khí lân cận không bị Phong Ấn brick | Uncommon | earth, sustain, aura |
+| ancient-earth-box | Hộp Đất Cổ | box | earth | Rare | Long-store: linh lực vào không ra cho đến ván kết thúc rồi ×3 | Rare | earth, store, charge, oneshot |
+| agarwood-cauldron | Đỉnh Trầm Hương | cauldron | earth | Magic | Linh lực Thổ tới đan: +30% intensity + heal stability +3% | Uncommon | earth, aura, heal |
+| yellow-sand-fan | Quạt Hoàng Sa | fan | earth | Common | Tạo bão cát 2s, slow linh lực 40% | Common | earth, slow, aoe |
+| earth-wall-statue | Tường Thổ | statue | earth | Common | Wall-like — linh lực không thể qua trừ phi Kim element | Common | earth, counter, wall |
+| yellow-inkstone | Nghiên Mực Hoàng | inkstone | earth | Common | Trail bụi vàng — linh lực rơi vào +loot drop rate | Common | earth, trail, loot |
+| earth-lantern | Đèn Đất | lantern | earth | Common | Tách 1 linh lực thành 2 linh lực Thổ rồi rơi tiếp | Common | earth, split, spawn |
+| wordless-talisman | Bùa Vô Tự | talisman | void | Common | Random element mỗi 2s | Common | void, random |
+| faceless-statue | Tượng Vô Diện | statue | void | Magic | Mọi linh lực qua bán kính 100px → mất element (neutral) | Uncommon | void, convert, aoe |
+| primordial-chaos-bead | Châu Hỗn Nguyên | bead | void | Common | Hỗn loạn — random ±50% intensity | Common | void, random |
+| void-box | Hộp Vô Cực | box | void | Common | Random transform: linh lực thành element random | Common | void, random, convert |
+| spiritless-lantern | Đèn Vô Linh | lantern | void | Common | Vô element — không buff không debuff, neutral path | Common | void, neutral |
+| void-sword | Kiếm Vô Cực | sword | void | Magic | Ignore element math — fixed dame 50/hit | Uncommon | void, pierce |
+| primordial-chaos-cauldron | Đỉnh Hỗn Nguyên | cauldron | void | Rare | Linh đan có thể chuyển element 1x/ván | Rare | void, convert, oneshot |
+| secret-realm-inkstone | Nghiên Mực Bí Cảnh | inkstone | void | Common | Trail random color, random element damage | Common | void, trail, random |
+| formless-fan | Quạt Vô Hình | fan | void | Magic | Linh lực qua đây — invisible 2s (tactical confusion) | Uncommon | void, stealth |
+| chaos-elixir-vase | Bình Hỗn Đan | vase | void | Magic | Hấp thụ tất cả element, phun ra Vô Cực | Uncommon | void, convert, absorb |
+| arhat-wood-soul | Tượng La Hán Mộc Hồn | statue | void | Rare | Linh khí Mộc ±150px được +25% sustain. Mỗi 10 hit: heal đan +5% stability | Rare | tuong, la-han, set, wood, sustain |
+| arhat-fire-tail | Tượng La Hán Hoả Vĩ | statue | void | Rare | Linh khí Hoả ±150px được +25% intensity. Mỗi 5 hit: trigger AOE Hoả 60px | Rare | tuong, la-han, set, fire, aoe |
+| arhat-water-spirit | Tượng La Hán Thuỷ Linh | statue | void | Rare | Linh khí Thuỷ ±150px được +25% chain length. Mỗi 7 hit: dispel 1 Tâm Ma debuff | Rare | tuong, la-han, set, water, chain |
+| arhat-diamond | Tượng La Hán Kim Cương | statue | void | Rare | Linh khí Kim ±150px được +25% crit chance. Crit Kim không tốn durability | Rare | tuong, la-han, set, metal, crit |
+| arhat-earth-grain | Tượng La Hán Thổ Cốc | statue | void | Rare | Linh khí Thổ ±150px được +25% charge speed. Đan stability cap +15% | Rare | tuong, la-han, set, earth, sustain |
+| arhat-soul-grain | Tượng La Hán Hồn Cốc | statue | void | Rare | Linh khí trong bộ chia sẻ 20% intensity với nhau | Rare | tuong, la-han, set, aura |
+| arhat-agarwood | Tượng La Hán Trầm Hương | statue | void | Rare | Mỗi ván sống sót: drop 1 Tinh Hoa Ngũ Hành ngẫu nhiên | Rare | tuong, la-han, set, currency |
+| arhat-wind-rain | Tượng La Hán Phong Vũ | statue | void | Rare | Linh lực qua đây: tốc độ ±30% ngẫu nhiên mỗi 5s | Rare | tuong, la-han, set, speed, chaos |
+| arhat-thunderbolt | Tượng La Hán Lôi Đình | statue | void | Rare | Mỗi 7s: gọi 1 thiên kiếp nhỏ vào linh khí Tâm Ma random của đối phương | Rare | tuong, la-han, set, metal, aoe |
+| arhat-uncontested | Tượng La Hán Vô Tranh | statue | void | Legendary | Linh khí Vô Cực trong bộ không bị brick bởi Phong Ấn | VeryRare | tuong, la-han, set, phong-an-safety |
+| arhat-indestructible | Tượng La Hán Bất Hoại | statue | void | Legendary | Durability linh khí trong bộ ±100px không giảm khi crit | VeryRare | tuong, la-han, set, sustain |
+| arhat-myriad-laws | Tượng La Hán Vạn Pháp | statue | void | Legendary | Mỗi va chạm: 5% chance trigger random affix effect bonus của linh khí khác trong bộ | VeryRare | tuong, la-han, set, chaos, chain |
+| arhat-primordial-chaos | Tượng La Hán Hỗn Nguyên | statue | void | Rare | Linh lực qua đây: 30% chance đổi element ngẫu nhiên | Rare | tuong, la-han, set, void, chaos |
+| arhat-nine-heavens | Tượng La Hán Cửu Tiêu | statue | void | Rare | Mỗi 9 hit: linh khí trong bộ tự reset durability | Rare | tuong, la-han, set, sustain |
+| arhat-yama | Tượng La Hán Diêm Vương | statue | void | Rare | Linh khí hi sinh trong pháp trận: drop 1 đan dược ngẫu nhiên | Rare | tuong, la-han, set, currency |
+| arhat-heavenly-lamp | Tượng La Hán Thiên Đăng | statue | void | Rare | Sáng vùng ±200px — linh khí trong vùng không bị nhiễm khí | Rare | tuong, la-han, set, aura, sustain |
+| arhat-bodhi | Tượng La Hán Bồ Đề | statue | void | Legendary | Mỗi ván sống sót: +1% intensity permanent cho linh khí trong bộ (stack toàn pháp trận) | VeryRare | tuong, la-han, set, sustain |
+| arhat-shramana | Tượng La Hán Sa Môn | statue | void | Legendary | Linh đan stability không giảm khi linh khí trong bộ va chạm với tương khắc element | VeryRare | tuong, la-han, set, sustain, counter |

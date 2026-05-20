@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/uniques.csv (category: build-defining). Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/uniques.md (category: build-defining). Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Cổ Vật — Build-Defining (10 mục)
 

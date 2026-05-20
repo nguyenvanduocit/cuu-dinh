@@ -1,6 +1,6 @@
 # Art Prompts — Cửu Đỉnh (Midjourney v6 pack)
 
-> Bộ prompt cho **giai đoạn thiết kế / concept art**. Nạp vào Midjourney v6 để khám phá mood, palette, silhouette, composition trước khi sản xuất sprite final. Bám sát `docs/ART_DIRECTION.md` + data thật trong `packages/data/`.
+> Bộ prompt cho **giai đoạn thiết kế / concept art**. Nạp vào Midjourney v6 để khám phá mood, palette, silhouette, composition trước khi sản xuất sprite final. Bám sát `docs/ART_DIRECTION.md` + data thật trong `docs/data/`.
 
 **Phủ 100% data**: 568 item ID đều có prompt + mô tả tiếng Việt (verified — 0 ID bịa, 0 data bỏ sót). Tổng ~603 prompt block.
 
@@ -78,7 +78,7 @@ docs/art-prompts/
 
 ## Nguyên tắc
 
-- **English ID, Vietnamese display**: entry tham chiếu `id` thật + `ten` thật từ `packages/data/`. Naming pivot: `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
+- **English ID, Vietnamese display**: entry tham chiếu `id` thật + `ten` thật từ `docs/data/`. Naming pivot: `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 - **Không reference cấm** (`ART_DIRECTION.md:234-238`): anime/manga, ukiyo-e, western fantasy, generic asian temple stock.
 - **Quality gate** (`ART_DIRECTION.md:211-213`): reject nếu có anime traits / stock temple look / palette lệch > 10%.
 - **Match art value với vai trò**: cổ vật/đạo phái = hero detail; linh khí/parts = sprite chuẩn; currency/affix/node = icon compact legible-at-small-size.

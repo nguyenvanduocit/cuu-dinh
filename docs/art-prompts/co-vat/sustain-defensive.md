@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/uniques.csv (category: sustain-defensive). Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/uniques.md (category: sustain-defensive). Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Cổ Vật — Sustain-Defensive (10 mục)
 

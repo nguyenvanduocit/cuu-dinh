@@ -1,4 +1,4 @@
-> Nguồn: packages/data/items.csv. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn: docs/data/items.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Linh Khí — Vô Cực (Void)
 

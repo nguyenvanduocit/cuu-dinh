@@ -1,4 +1,4 @@
-> Nguồn data: `packages/data/set-bonuses.json`. Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `docs/data/sets.md`. Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
 
 # Sets — Set Bonus Formation Art
 

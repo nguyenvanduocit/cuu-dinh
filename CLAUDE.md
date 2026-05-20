@@ -46,6 +46,7 @@ Tất cả quyết định bên dưới đã lock qua brainstorm 2026-05-19. M�
 | 26 | **Tech stack web-first**: Vue 3 + PixiJS v8 + Rapier 2D + Nakama + Vite + Bun monorepo. Hybrid DOM (meta UI 80%) + Canvas (match layer 20%). Supersedes Godot 4 decision cùng ngày | 2026-05-19 |
 | 27 | **Code-level identifiers → English**: class/enum/file names, data file names, all data ID slugs, variable/function names → English (`Item`, `mystic-bell`, `furnaceHp`). Display names (`ten`) + lore prose stay Vietnamese/Hán-Việt. Supersedes Pinyin-Việt convention. Tu chân fantasy preserved at presentation layer | 2026-05-20 |
 | 28 | **Game title = "Cửu Đỉnh"** (Nine Cauldrons). Working title "Lư Đan" retired. Lore weave: 9 đỉnh thượng cổ rèn bởi Cao Tổ + 7 đan sư + Lò Thần. 8 đỉnh vỡ rải khắp atlas sau Cửu Chuyển thất bại; đỉnh thứ 9 (trung lập) sống sót = Lò player kế thừa. Game title = quest tổng thể: tái hợp đủ 9 đỉnh. Package npm scope `@cuu-dinh/*`, GitHub repo `cuu-dinh` | 2026-05-20 |
+| 29 | **Concept-phase content authoring**: game content (item, affix, equipment, currency, passive tree, ascendancy, map, set, lore) sống trong `docs/data/*.md` — bảng Markdown faithful, human-readable, single source of truth của concept phase. Structured JSON + Zod schema regenerate từ `docs/data/` khi vào implementation phase. Design docs = rationale + link sang `docs/data/`. Nguyên tắc data-driven giữ nguyên, chỉ sắp xếp lại thứ tự (Zod quay lại ở implementation). Tech stack #26 không đổi | 2026-05-20 |
 
 Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `docs/ONBOARDING.md` + `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md` + `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 
@@ -58,7 +59,7 @@ Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `d
 - Workaround thay vì root fix. Tech debt giết game-design dài hạn.
 - Skip playtest. AI viết code nhanh nhưng game feel phải human-tested.
 - Làm loãng fantasy tu chân **ở presentation layer**. Display name (`ten`), lore prose, NPC dialogue, art, audio, UI copy → Hán-Việt/huyền huyễn nhất quán. Western fallback ở player-facing text ("Mage" thay vì "Đạo sĩ") → BAN.
-- Hardcode item/affix/map/passive data. Phải data-driven (CSV/JSON trong `packages/data/`, validated bởi Zod schemas).
+- Hardcode item/affix/map/passive data. Concept phase: content sống trong `docs/data/*.md` (single source of truth). Implementation phase: regenerate structured JSON + Zod schema từ `docs/data/`.
 - Tight coupling giữa systems. Mỗi system isolated, communicate qua `@vue/reactivity` stores hoặc Pinia actions.
 - Dùng tiếng Việt cho **code-level identifier** (class/enum/file/variable/ID slug). Code identifier → English (`Item`, `bronze-bell`, `furnaceHp`). Pinyin-Việt slug ("chuong-dong") → BAN trong identifier mới.
 - Thêm feature ngoài locked decision list mà không qua brainstorm.
@@ -68,7 +69,7 @@ Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `d
 ## ✅ ALWAYS do
 
 - Lock decision trước khi code. Decision không lock = không code.
-- Data-driven content (items/affix/map/passive node/đan dược) qua CSV/JSON trong `packages/data/`, validated bởi Zod trong `packages/shared/`.
+- Concept-phase content (items/affix/map/passive node/đan dược) sống trong `docs/data/*.md` — bảng Markdown faithful, human-readable, single source of truth. Column spec + enum vocabulary bake vào header mỗi file (thay vai trò Zod). Structured JSON + Zod schema regenerate khi vào implementation phase.
 - Tu chân authenticity ở presentation layer: display name (`ten`), lore, dialogue đúng chất pháp bảo/tông môn/bí cảnh/ngũ hành/tâm ma/thiên kiếp. Code identifier dùng English equivalent theo dictionary trong `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 - AI-friendly architecture: rõ ràng, modular, decoupled. Mỗi file < 300 dòng. Mỗi class 1 responsibility.
 - Comment "WHY" cho decision phi đối xứng (vì sao Phong Ấn 25% mà không 30%).
@@ -131,14 +132,14 @@ KHÔNG dùng React vì `useState` gắn render tree, không standalone được.
 
 ## File structure
 
-Hiện trạng `2026-05-20`. Block `apps/`, `infra/`, `.github/` là **kế hoạch** (tạo khi vào implement phase) — phần còn lại đã tồn tại.
+Hiện trạng `2026-05-20`. Block `apps/`, `packages/`, `infra/`, `.github/` là **kế hoạch** (tạo khi vào implement phase) — phần còn lại đã tồn tại.
 
 ```
 lu-dan-game/
 ├── CLAUDE.md                       # YOU ARE HERE
 ├── README.md                       # Project intro
 ├── VISION.md                       # Manifesto, không thoái chí spirit
-├── package.json                    # Bun workspaces root (apps/* packages/* tools/*)
+├── package.json                    # Bun workspaces root (apps/* tools/*)
 ├── tsconfig.base.json              # Shared TS compiler options (mọi tsconfig extends)
 ├── bun.lock                        # Lockfile — committed cho reproducible install
 ├── .gitignore
@@ -152,7 +153,19 @@ lu-dan-game/
 │   │   └── <category>/             # environments, linh-khi, co-vat, furnace-parts,
 │   │                               #   currency, affixes, passive-tree, sets, screens,
 │   │                               #   bosses-npcs, effects, la-han
-│   └── *.md                        # Design docs: TECH_STACK, ART_DIRECTION, ROADMAP,
+│   ├── data/                       # ⭐ Concept-phase content single source of truth (11 MD files)
+│   │   ├── README.md               # Index + enum vocabulary dùng chung + quy ước bảng
+│   │   ├── items.md                # 78 linh khí
+│   │   ├── uniques.md              # 30 cổ vật
+│   │   ├── affixes.md              # 80 prefix + 80 suffix + 30 implicit
+│   │   ├── equipment.md            # 50 lò parts
+│   │   ├── currency.md             # 20 đan dược + 30 nguyên liệu + 12 tâm ma mod
+│   │   ├── passive-tree.md         # 150 nodes
+│   │   ├── ascendancies.md         # 5 đạo phái
+│   │   ├── maps.md                 # 10 pháp trận (+ ASCII geometry)
+│   │   ├── sets.md                 # 3 set bonus
+│   │   └── lore.md                 # item-flavor + npc-dialogue (Vietnamese prose)
+│   └── *.md                        # Design docs (rationale + link → data/): TECH_STACK, ART_DIRECTION, ROADMAP,
 │                                   #   ONBOARDING, CONTENT, LORE, COMBAT_MATH, ECONOMY_FLOW,
 │                                   #   PASSIVE_TREE_DESIGN, PHAP_TRAN_MAPS, BOSS_PATTERNS,
 │                                   #   PROGRESSION_CURVE, ACT_NARRATIVE, TUTORIAL_SCRIPT,
@@ -197,38 +210,14 @@ lu-dan-game/
 │           ├── hooks/              # Before/after hooks
 │           └── storage/            # Storage Engine helpers
 │
-├── packages/
-│   ├── shared/                     # Client + server cùng import
-│   │   ├── package.json
-│   │   ├── tsconfig.json
-│   │   └── src/
-│   │       ├── index.ts            # Barrel export
-│   │       ├── schemas/            # Zod schemas (1 file / domain)
-│   │       ├── constants/          # (kế hoạch) Game constants
-│   │       ├── reactive/           # (kế hoạch) @vue/reactivity stores (match-state)
-│   │       └── types/              # (kế hoạch) TS types
-│   │
-│   └── data/                       # Source-of-truth content (English IDs, Vietnamese display names)
-│       ├── items.csv               # 78 item definitions (Linh Khí)
-│       ├── uniques.csv             # 30 unique (Cổ Vật)
-│       ├── affix-prefix.csv        # 80 prefix
-│       ├── affix-suffix.csv        # 80 suffix
-│       ├── affix-implicit.csv      # 30 implicit
-│       ├── set-bonuses.json        # 3 set
-│       ├── passive-tree.json       # 150 nodes
-│       ├── ascendancies.json       # 5 ascendancy (Đạo Phái)
-│       ├── reagents.csv            # 20 currency (Đan Dược)
-│       ├── catalysts.csv           # 30 catalyst (Nguyên Liệu)
-│       ├── corruption-mods.csv     # 12 corruption mods (Tâm Ma)
-│       ├── equipment.csv           # 50 furnace parts (Lò Parts)
-│       ├── maps/                   # 10 map blueprints (Pháp Trận)
-│       └── lore/                   # item-flavor, npc-dialogue (Vietnamese prose)
+├── packages/                       # (kế hoạch) Recreate ở implementation phase
+│   └── shared/                     # Client + server cùng import — Zod schemas regenerate
+│       └── src/                    #   từ docs/data/, + match-state (@vue/reactivity), constants, types
 │
-├── tools/                          # Dev tooling — mỗi tool là 1 workspace member (có package.json)
-│   ├── passive-tree-gen/           # Sinh packages/data/passive-tree.json
-│   ├── balance-simulator/          # (kế hoạch) Headless Rapier autorunner 1000-run
-│   ├── content-generator/          # (kế hoạch) AI-assisted content draft
-│   └── replay-debugger/            # (kế hoạch) Replay viewer/scrubber
+├── tools/                          # (kế hoạch) Dev tooling — mỗi tool là 1 workspace member
+│   ├── balance-simulator/          # Headless Rapier autorunner 1000-run
+│   ├── content-generator/          # AI-assisted content draft
+│   └── replay-debugger/            # Replay viewer/scrubber
 │
 ├── infra/                          # (kế hoạch) Deployment configs
 │   ├── docker-compose.yml          # Local Nakama + Postgres
@@ -261,7 +250,7 @@ lu-dan-game/
 ## Working modes
 
 - **Design phase**: edit `docs/`. Lock decision vào table trên.
-- **Content phase**: edit `packages/data/` CSV/JSON. AI có thể generate batch. Validate qua Zod schemas trong `packages/shared/`.
+- **Content phase**: edit `docs/data/*.md` (bảng Markdown faithful). AI có thể generate batch. Column spec + enum vocabulary trong header mỗi file là contract; `docs/data/README.md` định nghĩa enum dùng chung. Structured JSON + Zod regenerate ở implementation phase.
 - **Implement phase**: code TS trong `apps/web/` (client) hoặc `apps/nakama-runtime/` (server). Mỗi feature 1 PR.
 - **Polish phase**: playtest + tune. Balance simulator (headless Rapier autorunner trong `tools/`) chạy auto trước khi tune manual.
 
@@ -283,7 +272,7 @@ Khi AI làm việc trên codebase này:
 
 ## Current phase
 
-**Pre-production** (2026-05). Design lock đã hoàn tất 26 decisions (game design + tech stack web-first).
+**Pre-production** (2026-05). Design lock đã hoàn tất 29 decisions (game design + tech stack web-first + concept-phase content authoring).
 
 Next milestone: **Vertical prototype** (4-6 tuần) — 1 pháp trận, 10 linh khí, basic gambling (Linh Đan + Phong Ấn), Lò 4-slot, login + cloud save + leaderboard submission. Mục tiêu: prove physics feel + item synergy + Nakama integration.
 

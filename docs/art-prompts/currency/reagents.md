@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/reagents.csv. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/currency.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Đan Dược & Tinh Hoa — Reagents (20 entries)
 

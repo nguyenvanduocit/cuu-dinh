@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/passive-tree.json. Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/passive-tree.md. Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Passive Tree Icons — Mộc (Wood)
 

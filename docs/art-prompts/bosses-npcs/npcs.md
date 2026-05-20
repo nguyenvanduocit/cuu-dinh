@@ -1,4 +1,4 @@
-> Nguồn data: `packages/data/lore/npc-dialogue.json` (NPC IDs). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
+> Nguồn data: `docs/data/lore.md` (NPC IDs). Append [STYLE SUFFIX] từ `../_style/style-suffix.md`.
 
 # NPCs (14) — `--ar 1:1` portrait + `--ar 9:16` full-body
 

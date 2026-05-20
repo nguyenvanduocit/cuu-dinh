@@ -1,4 +1,4 @@
-> Nguồn data: packages/data/uniques.csv (category: chaos-risk). Append [STYLE SUFFIX] từ _style/style-suffix.md.
+> Nguồn data: docs/data/uniques.md (category: chaos-risk). Append [STYLE SUFFIX] từ _style/style-suffix.md.
 
 # Cổ Vật — Chaos-Risk (10 mục)
 
