@@ -14,3 +14,11 @@ connections: [water-small-water-charge-2, water-small-water-dispel-2, water-smal
 ## Effect
 
 +8% elastic restitution Thuỷ linh lực
+
+## Cơ chế
+
+Kinematic layer: +8% restitution (hệ số nảy) Thuỷ linh lực khi va tường/Lò. Restitution cao hơn → linh lực giữ velocity sau bounce, tăng tần suất hit.
+
+## Synergy
+
+Cặp với `water-small-water-bounce-2` (+8%) cho +16% tổng restitution. Kết hợp `water-keystone-tide` (velocity stack/hit) để mỗi bounce giữ velocity tốt hơn, tăng tốc stack keystone.

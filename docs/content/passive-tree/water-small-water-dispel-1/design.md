@@ -14,3 +14,11 @@ connections: [water-small-flow-3, water-small-water-anchor-2, water-small-water-
 ## Effect
 
 -5% nhiễm khí duration trên linh khí Thuỷ
+
+## Cơ chế
+
+Debuff layer: rút ngắn duration nhiễm khí trên Thuỷ linh khí -5%. Cộng dồn với dispel-2 (-10% tổng).
+
+## Synergy
+
+Node đầu cặp Tịnh Hoá; kết hợp dispel-2 rồi dẫn sang `water-notable-pure-heart-full` (dispel 1s khi Tâm Ma hit) — chuỗi dispel giảm tổng thiệt hại nhiễm khí đáng kể trên map Tâm Ma.

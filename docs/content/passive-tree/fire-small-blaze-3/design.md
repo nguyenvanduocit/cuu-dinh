@@ -14,3 +14,11 @@ connections: [fire-small-fire-aoe-1, fire-small-fire-ignite-dur, fire-small-blaz
 ## Effect
 
 +10% intensity Hoả lực
+
+## Cơ chế
+
+Lớp **base-intensity** +10%, giá trị cao nhất trong chuỗi blaze, additive.
+
+## Synergy
+
+Đỉnh chuỗi blaze, kết nối `fire-small-fire-aoe-1` và `fire-small-fire-ignite-dur`. Điểm chuyển tiếp từ nhánh ignite sang nhánh AOE — lấy cuối nếu muốn mở cả hai hướng.

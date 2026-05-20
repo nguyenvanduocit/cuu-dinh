@@ -14,3 +14,11 @@ connections: [metal-small-metal-jade, metal-small-metal-pierce-2, metal-small-ki
 ## Effect
 
 +8% intensity Kim lực
+
+## Cơ chế
+
++8% intensity additive vào mọi hit Kim — cao hơn kill-1/2 vì đây là cuối chuỗi 3 node intensity.
+
+## Synergy
+
+Cuối chuỗi Sắc Khí, kết nối `metal-small-metal-jade` (crit chance) và `metal-small-metal-pierce-2` (pierce). Lấy đủ kill-1+2+3 cho +18% intensity Kim base — nền tảng của mọi build Kim.

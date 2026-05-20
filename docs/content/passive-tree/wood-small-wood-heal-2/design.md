@@ -14,3 +14,11 @@ connections: [wood-small-wood-heal-1, wood-small-wood-quality-2, wood-start]
 ## Effect
 
 Mộc tương sinh hit heal +0.5% stability thêm
+
+## Cơ chế
+
+Cộng thêm flat +0.5% heal stability per tương sinh hit. Cộng dồn với heal-1.
+
+## Synergy
+
+Nằm trên path từ `wood-start` → `wood-small-wood-heal-1` → `wood-small-wood-quality-2`. Thường bỏ qua nếu không build sustain chuyên sâu — giá trị thực khi kết hợp đủ ba heal nodes.

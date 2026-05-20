@@ -14,3 +14,11 @@ connections: [earth-notable-earth-great-mountain, earth-small-earth-seal-1, eart
 ## Effect
 
 -5% sai số góc spawn linh lực
+
+## Cơ chế
+
+Cùng cơ chế Trấn Bàn I — cộng gộp −10% tổng angular deviation. Board control giảm variance linh lực đi sai route và không qua linh khí Thổ.
+
+## Synergy
+
+Nối trực tiếp `earth-notable-earth-great-mountain` — path nhỏ nhất tới notable quan trọng nhất của cluster. Cũng kết nối `earth-small-earth-seal-1` và `earth-small-earth-earth-1` (Lò Thọ).

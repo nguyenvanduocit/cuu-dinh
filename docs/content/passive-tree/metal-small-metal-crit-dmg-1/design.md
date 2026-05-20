@@ -14,3 +14,11 @@ connections: [metal-small-metal-jade, metal-small-metal-charge-2, metal-small-me
 ## Effect
 
 +15% crit damage Kim
+
+## Cơ chế
+
++15% crit damage additive vào multiplier Kim. Áp sau tất cả modifier khác trước khi tính final crit damage.
+
+## Synergy
+
+Node chuyển tiếp từ charge scaling sang crit damage, kết nối `metal-small-metal-charge-2` → `metal-small-metal-jade` → `metal-small-metal-crit-dmg-2`. Lấy cùng crit-dmg-2 (+15%) và `metal-notable-death-kill` (+60%) cho crit damage tổng +90% additive — nền tảng của build Sắc Bén.

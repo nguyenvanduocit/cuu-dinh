@@ -14,3 +14,11 @@ connections: [earth-small-earth-anchor-1, earth-small-earth-armor-2, earth-small
 ## Effect
 
 -5% tương khắc damage tới linh đan
+
+## Cơ chế
+
+Giảm hệ số damage tương khắc từ `intensity × 0.40` → `intensity × 0.38` (−5% multiplicative). Không ảnh hưởng stability heal từ tương sinh (§7.2).
+
+## Synergy
+
+Đầu chuỗi armor cluster (I→II→III). Lấy đủ ba Hộ Đan = −18% tương khắc damage, cộng `earth-notable-earth-great-mountain` (−10% thêm) = −28% tổng. Cần thiết cho Hộ Pháp build vào T14+ "Huyết Sát" mod.

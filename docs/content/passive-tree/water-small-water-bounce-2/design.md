@@ -14,3 +14,11 @@ connections: [water-small-water-anchor-1, water-small-water-redirect-1, water-sm
 ## Effect
 
 +8% elastic restitution Thuỷ linh lực
+
+## Cơ chế
+
+Kinematic layer: +8% restitution Thuỷ linh lực, cộng dồn bounce-1 (+16% tổng). Giữ velocity qua bounce tốt hơn.
+
+## Synergy
+
+Nằm trên path `water-small-water-anchor-1` → `water-small-water-redirect-1`; hoàn chỉnh cặp Phản Lưu rồi mở hướng sang redirect cluster — bounce cao + redirect tạo quỹ đạo khó đoán, tăng chain hop cơ hội.

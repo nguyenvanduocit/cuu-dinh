@@ -1,9 +1,9 @@
-# Kim Cương Hộ Pháp — MJ v6 prompt
+# Kim Cương Hộ Pháp — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút notable Kim Cương — hộ pháp kim cương bảo vệ tuyệt đối, sắc vàng-nâu kiên cố.
 
-Nút notable Kim Cương — hộ pháp kim cương bảo vệ tuyệt đối, ◆ hình thoi toả sắc vàng-nâu kiên cố không phá được.
+Aspect: 1:1
 
 ```
-/imagine prompt: ornate ◆ diamond cluster notable passive node glyph, solid blocky weight with dust and carved stone, earthen brown (#8B5E34) tone, diamond guardian dharma protector rune with indestructible crystal-stone lattice and guardian deity silhouette, gold-brown adamantine, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 90
+This is a larger ornate circular passive-skill node emblem, not a hero illustration. The emblem is shaped from the solid blocky weight of dust and carved stone in earthen-brown tones. An indestructible crystal-stone lattice frames a guardian dharma-protector deity silhouette in gold-brown adamantine. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

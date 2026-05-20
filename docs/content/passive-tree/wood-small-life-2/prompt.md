@@ -1,9 +1,9 @@
-# Sinh Khí II — MJ v6 prompt
+# Sinh Khí II — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút nhỏ sinh khí cấp 2 — sinh khí Mộc tăng, glyph đôi mầm xanh.
 
-Nút nhỏ sinh khí cấp 2 — sinh khí Mộc tăng, glyph đôi chấm mầm xanh.
+Aspect: 1:1
 
 ```
-/imagine prompt: compact dot rune small passive node glyph, living wood with organic curves and sprouting leaf motifs, jade green (#2E5E4E) qi glow, life qi tier-two rune with twin jade seedling dot sigils, compact pixel icon, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+This is a small simple passive-skill node glyph, the tier-two life-qi rune marked by twin jade seedling dot sigils, treated as living wood with organic curves and sprouting leaf motifs lit by a soft jade-green qi glow. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

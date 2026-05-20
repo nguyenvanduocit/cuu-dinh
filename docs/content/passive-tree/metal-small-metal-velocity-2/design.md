@@ -14,3 +14,11 @@ connections: [metal-small-metal-burst-1, metal-small-metal-charge-1, metal-small
 ## Effect
 
 +6% velocity Kim linh lực
+
+## Cơ chế
+
+Kinematic layer: +6% velocity áp lên Kim linh lực, cộng dồn với `metal-small-metal-velocity-1` (+12% tổng nếu lấy cả hai).
+
+## Synergy
+
+Node cuối cặp velocity; nối trực tiếp sang `metal-small-metal-burst-1`, `metal-small-metal-charge-1`, `metal-small-metal-pierce-1` — velocity cao amplify burst damage và charge spike của các notables đó.

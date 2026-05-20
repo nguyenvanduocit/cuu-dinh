@@ -1,9 +1,9 @@
-# Lưu Thuỷ III — MJ v6 prompt
+# Lưu Thuỷ III — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút nhỏ lưu thuỷ cấp 3 — dòng thuỷ đỉnh cao, glyph ba sóng xanh tuôn chảy.
 
-Nút nhỏ lưu thuỷ cấp 3 — dòng thuỷ đỉnh cao, glyph ba sóng xanh thẳm tuôn chảy.
+Aspect: 1:1
 
 ```
-/imagine prompt: compact dot rune small passive node glyph, flowing water forms with ripples and drifting mist, deep blue (#1E3A5F) inner light, flowing water tier-three rune with triple blue wave sigils cascading, compact pixel icon, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+This is a small simple passive-skill node glyph, the tier-three flowing-water rune of triple blue wave sigils cascading, treated as flowing water forms with ripples and drifting mist lit by a deep-blue inner light. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

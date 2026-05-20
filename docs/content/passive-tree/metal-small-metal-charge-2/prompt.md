@@ -1,9 +1,9 @@
-# Tích Sát II — MJ v6 prompt
+# Tích Sát II — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút nhỏ tích sát cấp 2 — nạp kép, cuộn xoắn vàng cùng hai mũi tên.
 
-Nút nhỏ tích sát cấp 2 — tích sát khí mạnh hơn, glyph cuộn xoáy vàng năng lượng cao.
+Aspect: 1:1
 
 ```
-/imagine prompt: compact dot rune small passive node glyph, forged metal with a sharp angular silhouette and cold metallic gleam, imperial gold (#D4AF37) edge light, double killing qi accumulate rune with spiral gold energy coil and twin arrows, compact pixel icon, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+This is a small simple circular passive-skill node glyph, not a hero illustration. The emblem is forged with a sharp angular silhouette and a cold metallic gleam under thin imperial-gold edge light. A double killing-qi accumulate rune shows a spiral gold energy coil between twin arrows. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

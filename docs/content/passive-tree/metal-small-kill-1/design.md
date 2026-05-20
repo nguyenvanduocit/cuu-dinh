@@ -14,3 +14,11 @@ connections: [metal-small-metal-jade-3, metal-small-kill-2, metal-start]
 ## Effect
 
 +5% intensity Kim lực
+
+## Cơ chế
+
++5% intensity additive vào mọi hit Kim. Áp trước multiplier crit/charge.
+
+## Synergy
+
+Node khởi đầu cluster Kim gần `metal-start`. Cùng path với `metal-small-kill-2/3` — lấy cả ba cho +18% intensity Kim base trước khi vào notable cluster.

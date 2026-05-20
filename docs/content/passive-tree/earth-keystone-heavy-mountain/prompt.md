@@ -1,9 +1,9 @@
-# Trọng Sơn — MJ v6 prompt
+# Trọng Sơn — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Tiết điểm then chốt Thổ hệ — núi trọng vạn nặng không gì lay chuyển, hình bóng núi đá khổng lồ uy nghi.
 
-Tiết điểm then chốt Thổ hệ — núi trọng vạn nặng không gì lay chuyển, ◇ hình thoi lớn với hình bóng núi đá khổng lồ toả sắc nâu đất uy nghi.
+Aspect: 1:1
 
 ```
-/imagine prompt: large diamond-shaped keystone passive node glyph, solid blocky weight with dust and carved stone, earthen brown (#8B5E34) tone, immovable heavy mountain rune with massive stone peak silhouette filling ◇ diamond frame, layered rock strata and carved trigram etched on cliff face, centered game item icon on dark ink background, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 1:1 --stylize 110
+This is a larger ornate diamond-framed keystone passive-skill node emblem, not a hero illustration. The emblem is shaped from the solid blocky weight of dust and carved stone in earthen-brown tones. A massive immovable stone peak fills the diamond frame, its layered rock strata and a carved trigram etched across the cliff face. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

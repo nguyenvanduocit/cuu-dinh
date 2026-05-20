@@ -14,3 +14,11 @@ connections: [water-small-flow-3, water-small-water-dispel-2, water-small-water-
 ## Effect
 
 +1 max chain hop trên Thuỷ linh lực
+
+## Cơ chế
+
+Chain layer (count): +1 max hop Thuỷ — mỗi linh lực có thêm một hop cơ hội. Cộng dồn với box-2, `water-small-water-purity`, `water-notable-water-high-tide`.
+
+## Synergy
+
+Node hop count đầu tiên trên path flow-3 → box-1 → box-2; lấy cả hai Tăng Bậc (+2 hop) trước khi vào `water-notable-water-high-tide` (+2 hop nữa) để đạt +4 hop từ small nodes.

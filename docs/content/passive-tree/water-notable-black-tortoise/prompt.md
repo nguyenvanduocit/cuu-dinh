@@ -1,9 +1,9 @@
-# Huyền Vũ Hộ Trận — MJ v6 prompt
+# Huyền Vũ Hộ Trận — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Notable Huyền Vũ — trận pháp hộ thân linh quy phương Bắc, hình thoi ôm bóng rùa đen cuộn rắn thiêng.
 
-Nút notable Huyền Vũ — trận pháp hộ thân linh quy huyền vũ phương Bắc, ◆ hình thoi với bóng rùa đen cuộn rắn xanh thẳm thiêng liêng.
+Aspect: 1:1
 
 ```
-/imagine prompt: ornate ◆ diamond cluster notable passive node glyph, flowing water forms with ripples and drifting mist, deep blue (#1E3A5F) inner light, black tortoise guardian formation rune with dark shell and serpent coil motif, northern celestial guardian beast silhouette, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 90
+This is a larger ornate notable passive-skill node emblem on a diamond cluster frame, the black-tortoise guardian-formation node of the Water path. Within it a dark tortoise shell coils with a serpent in the silhouette of the northern celestial guardian beast, treated as flowing water forms with ripples and drifting mist lit by a deep-blue inner light. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

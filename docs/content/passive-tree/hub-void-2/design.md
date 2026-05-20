@@ -13,3 +13,11 @@ connections: [hub-void-1, hub-void-3, keystone-grand-gamble, water-start]
 ## Effect
 
 +3% stability max linh đan
+
+## Cơ chế
+
+Lớp **stability-max**: tăng ngưỡng stability tối đa của linh đan thêm 3%, giảm xác suất bể khi nhận spike damage.
+
+## Synergy
+
+Junction nối `hub-void-1`, `hub-void-3`, `keystone-grand-gamble`, `water-start`. Lấy khi routing sang Water hoặc cần vào `keystone-grand-gamble` mà không đi qua hub-void-1.

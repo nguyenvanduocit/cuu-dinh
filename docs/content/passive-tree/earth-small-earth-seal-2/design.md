@@ -14,3 +14,11 @@ connections: [earth-notable-earth-tortoise, earth-small-earth-affix-1, earth-sma
 ## Effect
 
 -3% xác suất Phong Ấn brick trên Lò
+
+## Cơ chế
+
+Cộng gộp Cố Phong I — tổng −6% brick chance. Áp dụng toàn Lò (không chỉ linh khí Thổ), nên có giá trị kể cả khi không đi keystone Trọng Sơn.
+
+## Synergy
+
+Kết nối `earth-notable-earth-tortoise` và `earth-small-earth-affix-1` — path song song với Tortoise/Accumulate cluster. Phù hợp build Phong Ấn aggressive (nhiều lần craft/ván) muốn giảm rủi ro mà không cần đổi hết Lò sang Thổ.

@@ -14,3 +14,11 @@ connections: [wood-small-wood-regen-1, wood-small-life-1, wood-small-life-3, woo
 ## Effect
 
 +5% stability max linh đan
+
+## Cơ chế
+
+Flat +5% lên stability cap. Cộng dồn với các node cùng loại.
+
+## Synergy
+
+Nút giữa trong chuỗi life-1/2/3 — mở ra `wood-small-wood-regen-1` (regen nền) cho build sustain full Mộc.

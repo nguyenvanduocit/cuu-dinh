@@ -14,3 +14,11 @@ connections: [water-small-water-anchor-2, water-small-water-charge-2, water-smal
 ## Effect
 
 +8% charge gain khi qua linh khí Thuỷ
+
+## Cơ chế
+
+Charge layer: +8% charge gain mỗi lần Thuỷ linh lực đi qua (touch) linh khí Thuỷ. Cộng dồn với charge-2 (+16% tổng).
+
+## Synergy
+
+Cặp với `water-small-water-charge-2` để đạt +16% charge gain; charge cao → intensity spike và các mechanic phụ thuộc charge khác. Nằm trên path anchor-2 → charge-1 → charge-2 → spread-1, dẫn thẳng vào `water-notable-pure-heart-full`.

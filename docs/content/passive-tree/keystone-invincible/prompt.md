@@ -1,9 +1,9 @@
-# Bất Bại — MJ v6 prompt
+# Bất Bại — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Tiết điểm then chốt bất bại — vĩnh hằng bất diệt, ký hiệu vô cực giữa trường sao.
 
-Tiết điểm then chốt Vô Cực — bất bại vĩnh cửu vượt khỏi sinh tử, ◇ hình thoi lớn toả hào quang tím triều vô tận với ký hiệu vô cực ∞ trung tâm.
+Aspect: 1:1
 
 ```
-/imagine prompt: large diamond-shaped keystone passive node glyph, cosmic void with star-flecks and infinity motif, twilight purple (#4A1942) ethereal aura, invincible eternal rune with ∞ infinity symbol at center of ◇ diamond, star-field void radiating outward undying cosmic energy, centered game item icon on dark ink background, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 1:1 --stylize 110
+This is a larger ornate diamond-framed keystone passive-skill node emblem, not a hero illustration. The emblem is set within a cosmic void of star-flecks and an infinity motif in an ethereal twilight-purple aura. An invincible eternal rune sets an infinity symbol at its centre, a star-field void radiating undying cosmic energy outward. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

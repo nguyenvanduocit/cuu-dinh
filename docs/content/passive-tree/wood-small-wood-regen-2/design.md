@@ -14,3 +14,11 @@ connections: [wood-small-wood-anchor-1, wood-small-wood-quality-1, wood-small-wo
 ## Effect
 
 Stability tự hồi +0.1%/giây
+
+## Cơ chế
+
+Passive regen +0.1%/s. Cộng dồn với regen-1 và longevity cho tổng +0.5%/s khi đủ cả ba.
+
+## Synergy
+
+Nằm trên nhánh anchor-1 → regen-2 → quality-1, kết nối intensity Mộc với sustain. Lấy regen-2 khi đang path qua anchor-1 về phía `wood-notable-azure-dragon` — không tốn thêm điểm đi vòng.

@@ -14,3 +14,11 @@ connections: [wood-small-wood-heal-3, wood-small-life-2, wood-start]
 ## Effect
 
 +5% stability max linh đan
+
+## Cơ chế
+
+Flat +5% lên stability cap. Cộng dồn với các node cùng loại.
+
+## Synergy
+
+Cluster nhập môn Mộc — ba node life-1/2/3 cộng +18% stability max tổng, path thiết yếu để vào `wood-notable-longevity` và `wood-notable-life-engine`.

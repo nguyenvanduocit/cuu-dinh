@@ -1,9 +1,9 @@
-# Mộc Tinh Hoá — MJ v6 prompt
+# Mộc Tinh Hoá — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Notable Mộc tinh — linh khí Mộc tinh luyện nâng phẩm, hình thoi toả ánh xanh ngọc tinh anh từ lõi gỗ.
 
-Nút notable Mộc tinh — linh khí Mộc tinh luyện nâng phẩm, ◆ hình thoi toả ánh xanh ngọc tinh anh từ lõi gỗ.
+Aspect: 1:1
 
 ```
-/imagine prompt: ornate ◆ diamond cluster notable passive node glyph, living wood with organic curves and sprouting leaf motifs, jade green (#2E5E4E) qi glow, wood essence purification rune with crystalline jade core and refinement spiral motif, quality upgrade symbol, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 90
+This is a larger ornate notable passive-skill node emblem on a diamond cluster frame, the wood-essence purification node of the Wood path. A crystalline jade core sits inside a refinement spiral as a quality-upgrade symbol, treated as living wood with organic curves and sprouting leaf motifs lit by a soft jade-green qi glow. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

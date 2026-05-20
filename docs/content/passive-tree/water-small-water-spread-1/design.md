@@ -14,3 +14,11 @@ connections: [water-notable-pure-heart-full, water-small-water-affix-1, water-sm
 ## Effect
 
 Chain hop hit lan tới linh khí trong 60px
+
+## Cơ chế
+
+Chain layer (AoE splash): mỗi chain hop hit tự động lan thêm damage tới linh khí trong 60px mà không tiêu hop count. Áp intensity hop chính lên tất cả mục tiêu trong vùng.
+
+## Synergy
+
+AoE amplifier cho toàn cluster Thuỷ; kết hợp `water-notable-water-crystal` (branch chain 80px) để mọi hop đều có cả branch lẫn splash — cặp đôi này là backbone damage của build mass-chain. Nối sang `water-notable-pure-heart-full` từ đây.

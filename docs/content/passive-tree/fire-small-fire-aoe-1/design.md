@@ -14,3 +14,11 @@ connections: [fire-small-fire-aoe-2, fire-small-fire-mult-1, fire-small-blaze-3,
 ## Effect
 
 +10% AOE radius Hoả va chạm
+
+## Cơ chế
+
+Lớp **aoe-radius** +10%, additive với aoe-2. Áp cho mọi va chạm Hoả có AOE component.
+
+## Synergy
+
+Bước đầu nhánh AOE, kết nối `fire-small-blaze-3` và `fire-small-fire-mult-1`. Lấy kèm aoe-2 (+10% nữa) trước khi lên `fire-notable-phoenix` (+30%) để tổng AOE radius +50% thuần từ small nodes.

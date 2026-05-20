@@ -1,9 +1,9 @@
-# Phụng Hoàng Liệt Diệm — MJ v6 prompt
+# Phụng Hoàng Liệt Diệm — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút notable Phụng Hoàng — bóng chim phượng cháy rực, đôi cánh lửa huyền thoại dang rộng.
 
-Nút notable Phụng Hoàng — bóng chim phượng cháy rực, ◆ hình thoi bao bọc đôi cánh lửa huyền thoại.
+Aspect: 1:1
 
 ```
-/imagine prompt: ornate ◆ diamond cluster notable passive node glyph, upward-licking flames and floating embers, cinnabar red (#C82127) radiant heat, phoenix silhouette wings spread in pixelated fire rune, mythic bird reborn in blaze with feather-flame motif, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 90
+This is a larger ornate circular passive-skill node emblem, not a hero illustration. The emblem is alive with upward-licking flames and floating embers in radiant cinnabar-red heat. A phoenix silhouette spreads its wings reborn in blaze, a mythic bird in a feather-flame motif. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

@@ -13,3 +13,11 @@ connections: [metal-notable-junction-metal, water-notable-junction-water]
 ## Effect
 
 +8% intensity tương sinh Kim → Thuỷ chain hop
+
+## Cơ chế
+
+Intensity layer (tương sinh): +8% intensity chỉ khi Kim linh lực chain hop sang Thuỷ linh lực liền kề. Không áp cho hop thuần Kim hay thuần Thuỷ.
+
+## Synergy
+
+Bridge duy nhất nối `metal-notable-junction-metal` ↔ `water-notable-junction-water`; bắt buộc với build Kim-Thuỷ khai thác chain tương sinh để tích lũy intensity theo chuỗi hop.

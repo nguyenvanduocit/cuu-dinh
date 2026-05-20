@@ -14,3 +14,11 @@ connections: [earth-small-earth-armor-2, earth-small-earth-charge-2, earth-small
 ## Effect
 
 +10% charge gain khi qua linh khí Thổ
+
+## Cơ chế
+
+Mỗi hop qua linh khí Thổ tích thêm +10% charge (base: +20%/hop từ §7.3). Với node này charge/hop Thổ = +30%, đóng góp vào intensity_multiplier tổng (cap +200% ở 10 hop).
+
+## Synergy
+
+Pair với `earth-small-earth-charge-2` (+10% nữa = +40%/hop Thổ). Dẫn về cluster `earth-notable-earth-accumulate` (spike +100% charge mỗi 10 hit) — hai node charge là prerequisite path tự nhiên.

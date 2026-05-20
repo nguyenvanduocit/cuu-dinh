@@ -1,9 +1,9 @@
-# Tích Thổ II — MJ v6 prompt
+# Tích Thổ II — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút nhỏ tích Thổ cấp 2 — nạp kép, cuộn lực nâu xoắn.
 
-Nút nhỏ tích Thổ cấp 2 — tích Thổ khí mạnh hơn, glyph cuộn xoáy nâu năng lượng dày đặc.
+Aspect: 1:1
 
 ```
-/imagine prompt: compact dot rune small passive node glyph, solid blocky weight with dust and carved stone, earthen brown (#8B5E34) tone, double earth charge rune with spiral brown energy coil and twin compress arrows, compact pixel icon, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+This is a small simple circular passive-skill node glyph, not a hero illustration. The emblem is shaped from the solid blocky weight of dust and carved stone in earthen-brown tones. A double earth-charge rune shows a spiral brown energy coil between twin compressing arrows. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

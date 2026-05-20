@@ -14,3 +14,11 @@ connections: [water-small-flow-2, water-small-water-anchor-1, water-small-water-
 ## Effect
 
 Linh lực Hoả qua đây bị slow 10%
+
+## Cơ chế
+
+Debuff layer (cross-element): -10% velocity Hoả linh lực, cộng dồn slow-1 (-20% tổng). Không ảnh hưởng Thuỷ hay nguyên tố khác.
+
+## Synergy
+
+Hoàn chỉnh cặp Hàn Khí; từ đây nối sang `water-small-water-anchor-1` và `water-small-water-dispel-1` — sau khi đủ anti-Hoả, build chọn hướng proximity intensity hay dispel phòng thủ tiếp theo.

@@ -13,3 +13,11 @@ connections: [hub-void-2, hub-void-5, keystone-grand-gamble, keystone-heaven-man
 ## Effect
 
 +3% intensity tất cả Ngũ Hành
+
+## Cơ chế
+
+Lớp **base-intensity** không nguyên tố: +3% áp dụng cho mọi linh khí bất kể element. Stat nhỏ nhưng universal.
+
+## Synergy
+
+Junction trung tâm nối `metal-start`, `hub-void-2`, `hub-void-5`, `keystone-grand-gamble`, `keystone-heaven-mandate`. Lấy khi chạy multi-element hoặc cần đường ngắn tới keystones vùng trung.

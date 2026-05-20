@@ -1,9 +1,9 @@
-# Liệt Hoả Tâm — MJ v6 prompt
+# Liệt Hoả Tâm — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút notable liệt hoả tâm — tâm lửa rực toả ra bốn hướng, hơi nóng rung động.
 
-Nút notable tâm hoả — trái tim bốc lửa ở giữa, ◆ hình thoi toả nhiệt đỏ mãnh liệt từ trung tâm linh khí.
+Aspect: 1:1
 
 ```
-/imagine prompt: ornate ◆ diamond cluster notable passive node glyph, upward-licking flames and floating embers, cinnabar red (#C82127) radiant heat, blazing heart core rune with fire radiating outward from center in four diagonal directions, intense heat shimmer, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 90
+This is a larger ornate circular passive-skill node emblem, not a hero illustration. The emblem is alive with upward-licking flames and floating embers in radiant cinnabar-red heat. A blazing heart-core radiates fire outward in four diagonal directions amid an intense heat shimmer. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

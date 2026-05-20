@@ -14,3 +14,11 @@ connections: [water-small-flow-2, water-small-water-slow-1, water-start]
 ## Effect
 
 +5% chain hop intensity Thuỷ
+
+## Cơ chế
+
+Intensity layer (chain): +5% intensity áp lên mọi Thuỷ chain hop. Cộng dồn với flow-2 và flow-3.
+
+## Synergy
+
+Node đầu chuỗi Lưu Thuỷ gần water-start; lấy cả ba flow để đạt +18% chain intensity Thuỷ, dẫn vào slow-1/2 hoặc `water-notable-junction-water`.

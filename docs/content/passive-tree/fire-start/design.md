@@ -14,3 +14,11 @@ connections: [fire-small-fire-aoe-1, fire-small-fire-aoe-2, fire-small-blaze-1, 
 ## Effect
 
 +5% intensity Hoả lực. Cho phép vào Hoả cluster.
+
+## Cơ chế
+
+Lớp **starting-gate**: mở khoá toàn bộ Hoả cluster và cộng +5% base intensity Hoả. Bắt buộc với mọi build chọn điểm xuất phát Hoả.
+
+## Synergy
+
+Cổng vào cụm Hoả, nối thẳng `hub-void-4` (trung tâm), `fire-small-blaze-1/2/3` (intensity nền), `fire-small-fire-aoe-1/2` (AOE). Từ đây có thể rẽ ba hướng: ignite (blaze→ignite), AOE (aoe-1/2→phoenix), hoặc crit (burst→nine-heavens).

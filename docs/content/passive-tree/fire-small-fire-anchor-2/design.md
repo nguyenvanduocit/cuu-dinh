@@ -14,3 +14,11 @@ connections: [fire-small-fire-affix-1, fire-small-fire-anchor-1, fire-small-fire
 ## Effect
 
 +5% intensity cho linh khí Hoả trong 100px
+
+## Cơ chế
+
+Lớp **proximity-intensity** +5%, điều kiện ≤100px như anchor-1. Additive với anchor-1.
+
+## Synergy
+
+Hub nhỏ nối `fire-small-fire-affix-1`, `fire-small-fire-anchor-1`, `fire-small-fire-charge-1`, `fire-small-fire-mult-1` — điểm giao tuyến giữa nhánh affix và nhánh charge/mult. Lấy khi routing qua đây để tiết kiệm điểm.

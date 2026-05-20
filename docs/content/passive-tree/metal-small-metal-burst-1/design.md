@@ -14,3 +14,11 @@ connections: [metal-notable-metal-light, metal-small-metal-anchor-2, metal-small
 ## Effect
 
 Crit Kim hit gây thêm +10% intensity ván sau
+
+## Cơ chế
+
+Mỗi crit Kim hit trong ván hiện tại tích luỹ +10% intensity Kim cho ván kế tiếp (additive, không giới hạn số lần stack trong ván). Buff reset về 0 khi bắt đầu ván mới sau khi đã áp.
+
+## Synergy
+
+Momentum node — lấy cùng `metal-small-metal-burst-2` cho +20% intensity ván sau mỗi khi crit. Cộng hưởng với build crit rate cao (`metal-notable-metal-light` +25% crit chance). Dẫn tới `metal-notable-metal-light` qua path tây cluster.

@@ -1,9 +1,9 @@
-# Sắc Khí II — MJ v6 prompt
+# Sắc Khí II — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Nút nhỏ sắc khí cấp 2 — sắc bén hơn, hai lưỡi dao vàng.
 
-Nút nhỏ sắc khí cấp 2 — sắc bén tăng, glyph đôi lưỡi dao vàng.
+Aspect: 1:1
 
 ```
-/imagine prompt: compact dot rune small passive node glyph, forged metal with a sharp angular silhouette and cold metallic gleam, imperial gold (#D4AF37) edge light, sharpness qi tier-two rune with twin gold blade edge sigils, compact pixel icon, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+This is a small simple circular passive-skill node glyph, not a hero illustration. The emblem is forged with a sharp angular silhouette and a cold metallic gleam under thin imperial-gold edge light. A second-tier sharpness-qi rune shows twin gold blade-edge sigils. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

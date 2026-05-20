@@ -13,3 +13,11 @@ connections: [hub-void-2, hub-void-4, keystone-wuwei, wood-start]
 ## Effect
 
 +3% quality gain linh đan
+
+## Cơ chế
+
+Lớp **quality-gain**: mỗi hit tích quality thêm 3%. Universal, không phân biệt element.
+
+## Synergy
+
+Junction nối `hub-void-2`, `hub-void-4`, `keystone-wuwei`, `wood-start`. Lấy khi routing sang Wood hoặc `keystone-wuwei`; stat quality có giá trị với mọi build vì quality là win-condition.
