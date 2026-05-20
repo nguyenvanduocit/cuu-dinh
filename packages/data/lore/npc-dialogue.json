@@ -6,7 +6,7 @@
       "id": "master",
       "ten": "Sư Phụ",
       "title": "Tổ Đan Đạo Môn — Đệ Nhị Đại",
-      "summary": "Người thầy cuối cùng của dòng Đan Đạo Môn. Đệ tử trực tiếp của Cao Tổ. Giữ Lò ba mươi năm chờ đệ tử xứng đáng.",
+      "summary": "Người thầy cuối cùng của dòng Đan Đạo Môn. Truyền nhân của Cao Tổ. Giữ Lò ba mươi năm chờ đệ tử xứng đáng, đồng thời giấu tội lỗi từng dùng Lò để gọi hồn hai con gái.",
       "voice": "Điềm tĩnh, cổ điển, đôi khi dùng dụ ngôn. Xưng 'thầy', gọi player là 'con'. Không bao giờ hét, không bao giờ nịnh.",
       "dialogue": {
         "act_1_trao_lo": [
@@ -29,6 +29,10 @@
               {
                 "speaker": "Sư Phụ",
                 "text": "Lò này là của tổ sư thầy, và của tổ sư của tổ sư thầy. Nay là của con."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Nếu con nghe trong Lò có tiếng đếm, đừng trả lời. Chỉ nghe thôi."
               },
               {
                 "speaker": "Sư Phụ",
@@ -224,7 +228,11 @@
               },
               {
                 "speaker": "Sư Phụ",
-                "text": "Cao Tổ dùng Lò làm chìa khoá phong ấn Tâm Ma Vương — và thầy giữ chìa khoá đó ba mươi năm, chờ con đến."
+                "text": "Cao Tổ dùng Lò làm chìa khoá phong ấn Tâm Ma Vương. Nhưng trước khi thành chìa khoá, nó từng là trung tâm của Cửu Chuyển Kim Đan."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Viên đan ấy được luyện để cứu thế. Nó mở mắt, và chúng ta gọi nó là Tâm Ma Vương."
               }
             ]
           },
@@ -233,7 +241,11 @@
             "lines": [
               {
                 "speaker": "Sư Phụ",
-                "text": "Thầy không nói sớm vì con chưa sẵn sàng nghe. Biết trước không có nghĩa là hiểu trước."
+                "text": "Thầy không nói sớm vì con chưa sẵn sàng nghe. Và vì thầy hèn."
+              },
+              {
+                "speaker": "Sư Phụ",
+                "text": "Ba mươi năm trước, thầy dùng Lò để gọi hồn hai con gái. Không gọi được ai về. Chỉ làm phong ấn nứt thêm."
               },
               {
                 "speaker": "Sư Phụ",
@@ -500,8 +512,8 @@
     {
       "id": "immortal-ancestor",
       "ten": "Tổ Sư Bất Tử",
-      "title": "Lý Cảnh Hữu — Ngũ Hành Sơ Tổ, Người Tạo Sơn Hà Đồ Lệnh",
-      "summary": "Trông như người trẻ tuổi nhưng sống hơn 8000 năm. Một trong 5 Sơ Tổ tìm ra Ngũ Hành. Tạo ra Sơn Hà Đồ Lệnh. Danh tính tiết lộ Hồi 5.",
+      "title": "Cảnh Hữu Chân Nhân — Ngũ Hành Sơ Tổ, Người Tạo Sơn Hà Đồ Lệnh",
+      "summary": "Trông như người trẻ tuổi nhưng sống hơn 8000 năm. Một trong 5 Sơ Tổ tìm ra Ngũ Hành. Tạo ra Sơn Hà Đồ Lệnh, và từng cho Cao Tổ mượn nó để luyện Cửu Chuyển. Danh tính tiết lộ Hồi 5.",
       "voice": "Chậm, cổ kính, đôi khi dùng 'lão phu' thay vì 'tôi'. Nói về sự kiện 5000 năm trước như chuyện hôm qua. Mỉm cười nhẹ nhàng trước sự non nớt của người trẻ.",
       "dialogue": {
         "act_3_xuat_hien_lan_dau": [
@@ -551,11 +563,11 @@
             "lines": [
               {
                 "speaker": "Tổ Sư Bất Tử",
-                "text": "Cao Tổ — lão phu biết ông ấy, học trò giỏi. Nhưng quá sẵn sàng hy sinh mình."
+                "text": "Cao Tổ — lão phu biết ông ấy, học trò giỏi. Nhưng quá tin rằng cứu thế là lý do đủ sạch."
               },
               {
                 "speaker": "Tổ Sư Bất Tử",
-                "text": "Lão phu hy vọng con khác ông ấy. Nhưng lão phu đã hy vọng điều đó nhiều lần rồi."
+                "text": "Lão phu đã cho ông ấy mượn Sơn Hà Đồ. Có những ân tình không trả được bằng một đời."
               }
             ]
           }
@@ -566,11 +578,11 @@
             "lines": [
               {
                 "speaker": "Tổ Sư Bất Tử",
-                "text": "Đã đến lúc. Lão phu tên Lý Cảnh Hữu — một trong năm Ngũ Hành Sơ Tổ từ 8000 năm trước."
+                "text": "Đã đến lúc. Lão phu là Cảnh Hữu Chân Nhân — một trong năm Ngũ Hành Sơ Tổ từ 8000 năm trước."
               },
               {
                 "speaker": "Tổ Sư Bất Tử",
-                "text": "Sơn Hà Đồ Lệnh — lão phu tạo ra nó. Và lão phu đã nhìn nó bị vỡ, bị gom lại, rồi vỡ lần nữa."
+                "text": "Sơn Hà Đồ Lệnh — lão phu tạo ra nó. Lão phu cũng là kẻ đưa nó vào pháp trận Cửu Chuyển năm ấy."
               }
             ]
           },
@@ -579,11 +591,11 @@
             "lines": [
               {
                 "speaker": "Tổ Sư Bất Tử",
-                "text": "Lão phu đã giữ mảnh này kể từ khi Đại Sát xảy ra. Cao Tổ nợ lão phu — hôm nay trả qua tay con."
+                "text": "Lão phu đã giữ mảnh này kể từ khi Đại Sát xảy ra. Cao Tổ nợ lão phu một ân tình."
               },
               {
                 "speaker": "Tổ Sư Bất Tử",
-                "text": "Không phải vì con xứng đáng. Mà vì con là người duy nhất còn ở đây."
+                "text": "Nhưng lão phu cũng nợ thiên hạ một lời xin lỗi. Hôm nay trả cả hai qua tay con."
               }
             ]
           }
@@ -697,7 +709,7 @@
       }
     },
     {
-      "id": "lottery-crone",
+      "id": "omen-crone",
       "ten": "Lão Bà Thiên Cơ",
       "title": "Bà Chủ Thiên Cơ Quẻ",
       "summary": "Cụ già 200+ tuổi, bán quẻ thiên cơ khắp thiên hạ. Biết mọi nhân vật lịch sử. Quẻ của bà là ma thuật thực sự — không phải cờ bạc thông thường.",
@@ -1197,7 +1209,7 @@
       "id": "primordial-corruption-king",
       "ten": "Hỗn Nguyên Tâm Ma Vương",
       "title": "Hóa Thân Của Vạn Ngàn Ham Muốn",
-      "summary": "Thực thể sinh ra từ tổng hòa ham muốn của loài người suốt ngàn năm. Không thuần ác — nó là một phần của chúng ta. Hình dạng liên tục thay đổi.",
+      "summary": "Thực thể sinh ra từ Cửu Chuyển Kim Đan thất bại và tổng hòa ham muốn của loài người. Không thuần ác — nó là phần ước nguyện bị nhốt trong Lò. Hình dạng liên tục thay đổi.",
       "voice": "Phản chiếu nội tâm player. Biết mọi lựa chọn player đã làm. Không hét, không đe dọa thô bạo — đe dọa bằng sự thật. Đôi khi buồn bã thực sự.",
       "dialogue": {
         "act_5_phase_2_nguoi": [
@@ -1211,6 +1223,10 @@
               {
                 "speaker": "Hỗn Nguyên Tâm Ma Vương",
                 "text": "Ham muốn làm ra đan tốt hơn, ham muốn thắng boss, ham muốn trở nên mạnh hơn — đó là ta."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương",
+                "text": "Ta sinh ra từ một viên đan cứu thế. Trước khi các ngươi gọi ta là tâm ma, các ngươi gọi ta là hy vọng."
               }
             ]
           },
@@ -1219,7 +1235,7 @@
             "lines": [
               {
                 "speaker": "Hỗn Nguyên Tâm Ma Vương",
-                "text": "Cao Tổ phong ấn ta vì ông sợ ta. Nhưng ông không thể giết ta."
+                "text": "Cao Tổ phong ấn ta vì ông sợ nhìn thấy phần của chính mình trong ta. Nhưng ông không thể giết ta."
               },
               {
                 "speaker": "Hỗn Nguyên Tâm Ma Vương",
@@ -1252,6 +1268,10 @@
               {
                 "speaker": "Hỗn Nguyên Tâm Ma Vương [mặt Sư Phụ]",
                 "text": "Chỉ cần con đừng đánh ta nữa. Ta sẽ cho con gặp lại ông — mãi mãi."
+              },
+              {
+                "speaker": "Hỗn Nguyên Tâm Ma Vương [mặt Sư Phụ]",
+                "text": "Thầy con đã thử điều đó với hai đứa trẻ. Cao Tổ đã thử điều đó với thiên hạ. Con khác gì?"
               }
             ]
           }
@@ -1262,11 +1282,11 @@
             "lines": [
               {
                 "speaker": "Hỗn Nguyên Tâm Ma Vương",
-                "text": "Ta sẽ trở lại. Ta luôn trở lại."
+                "text": "Lần này... ngươi không bỏ ta vào lò."
               },
               {
                 "speaker": "Hỗn Nguyên Tâm Ma Vương",
-                "text": "Đó là bản chất của con người — và con người không bao giờ mất đi bản chất."
+                "text": "Ta sẽ trở lại. Ta luôn trở lại. Đó là bản chất của con người."
               }
             ]
           }

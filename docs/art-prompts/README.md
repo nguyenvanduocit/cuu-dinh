@@ -1,4 +1,4 @@
-# Art Prompts — Lư Đan (Midjourney v6 pack)
+# Art Prompts — Cửu Đỉnh (Midjourney v6 pack)
 
 > Bộ prompt cho **giai đoạn thiết kế / concept art**. Mục đích: nạp vào Midjourney v6 để khám phá mood, palette, silhouette, composition trước khi vào sản xuất sprite final.
 

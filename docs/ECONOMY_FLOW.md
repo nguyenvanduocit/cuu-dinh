@@ -1,4 +1,4 @@
-# Economy Flow — Lư Đan
+# Economy Flow — Cửu Đỉnh
 
 > Currency sources/sinks, inflation guards, dead-end detection.
 

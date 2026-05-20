@@ -1,12 +1,12 @@
 ---
-name: lu-dan-master-design
-description: Master design spec cho Lư Đan — ARPG-Physics hybrid với theme huyền huyễn tu chân/luyện đan. Locked decisions từ brainstorm 2026-05-19.
+name: cuu-dinh-master-design
+description: Master design spec cho Cửu Đỉnh — ARPG-Physics hybrid với theme huyền huyễn tu chân/luyện đan. Locked decisions từ brainstorm 2026-05-19.
 status: locked
 version: 1.2
 date: 2026-05-19
 ---
 
-# Lư Đan — Master Design Spec v1.2
+# Cửu Đỉnh — Master Design Spec v1.2
 
 > **Status**: Design lock complete. Đây là **single source of truth** cho mọi decision. Mọi conflict với spec này → spec wins, code update.
 

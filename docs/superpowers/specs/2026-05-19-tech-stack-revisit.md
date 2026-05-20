@@ -83,7 +83,7 @@ export const matchState = reactive({
 
 // apps/web/src/match/hud-bridge.ts (Pixi side)
 import { watchEffect } from '@vue/reactivity'
-import { matchState } from '@lu-dan/shared/match-state'
+import { matchState } from '@cuu-dinh/shared/match-state'
 
 const hpBar = new Graphics()
 watchEffect(() => {
@@ -93,7 +93,7 @@ watchEffect(() => {
 
 // apps/web/src/components/MetaSidebar.vue (Vue side, cùng state)
 <script setup>
-import { matchState } from '@lu-dan/shared/match-state'
+import { matchState } from '@cuu-dinh/shared/match-state'
 </script>
 <template>
   <div>Quality: {{ matchState.linhDanQuality }}%</div>
@@ -248,7 +248,7 @@ lu-dan-game/
 ├── package.json                    # Bun workspaces root
 ├── docs/
 │   ├── superpowers/specs/
-│   │   ├── 2026-05-19-lu-dan-master-design.md
+│   │   ├── 2026-05-19-cuu-dinh-master-design.md
 │   │   └── 2026-05-19-tech-stack-revisit.md   # YOU ARE HERE
 │   ├── TECH_STACK.md
 │   ├── ART_DIRECTION.md
@@ -390,7 +390,7 @@ lu-dan-game/
 | @vue/reactivity dùng được trong Pixi loop | HIGH | Vue 3 docs section "Reactivity Outside Components" |
 | Rapier deterministic mode work cho replay | MEDIUM (cần PoC) | Dimforge docs claim deterministic, nhưng cross-platform float chưa verify |
 | Nakama đủ feature cho ARPG meta progression | HIGH | Feature matrix mapping 1:1 với PoE patterns |
-| Nakama Goja runtime đủ cho server logic Lư Đan | MEDIUM | Zod work confirmed, nhưng performance ceiling chưa stress test |
+| Nakama Goja runtime đủ cho server logic Cửu Đỉnh | MEDIUM | Zod work confirmed, nhưng performance ceiling chưa stress test |
 | AI productivity Vue ≥ Godot GDScript | HIGH | TypeScript training data >>> GDScript |
 | Migration cost low (chưa có Godot code) | HIGH | Filesystem check confirmed: only docs + CLAUDE.md exist |
 

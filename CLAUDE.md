@@ -1,4 +1,4 @@
-# Lư Đan — AI Working Instructions
+# Cửu Đỉnh — AI Working Instructions
 
 > ARPG-Physics hybrid game. Đạo sĩ luyện đan huyền huyễn/tu chân gặp PoE depth gặp Ballionaire physics.
 
@@ -45,8 +45,9 @@ Tất cả quyết định bên dưới đã lock qua brainstorm 2026-05-19. M�
 | 25 | **Đan Pháp 10 variants**: Tiêu Chuẩn / Tử Sinh / Hỗn Nguyên / Thiên Kiếp / Tâm Ma / Cổ Đan Lò / Long Cung / Cửu Tiêu / Diêm Phủ / Vô Cực | 2026-05-19 |
 | 26 | **Tech stack web-first**: Vue 3 + PixiJS v8 + Rapier 2D + Nakama + Vite + Bun monorepo. Hybrid DOM (meta UI 80%) + Canvas (match layer 20%). Supersedes Godot 4 decision cùng ngày | 2026-05-19 |
 | 27 | **Code-level identifiers → English**: class/enum/file names, data file names, all data ID slugs, variable/function names → English (`Item`, `mystic-bell`, `furnaceHp`). Display names (`ten`) + lore prose stay Vietnamese/Hán-Việt. Supersedes Pinyin-Việt convention. Tu chân fantasy preserved at presentation layer | 2026-05-20 |
+| 28 | **Game title = "Cửu Đỉnh"** (Nine Cauldrons). Working title "Lư Đan" retired. Lore weave: 9 đỉnh thượng cổ rèn bởi Cao Tổ + 7 đan sư + Lò Thần. 8 đỉnh vỡ rải khắp atlas sau Cửu Chuyển thất bại; đỉnh thứ 9 (trung lập) sống sót = Lò player kế thừa. Game title = quest tổng thể: tái hợp đủ 9 đỉnh. Package npm scope `@cuu-dinh/*`, GitHub repo `cuu-dinh` | 2026-05-20 |
 
-Full context: `docs/superpowers/specs/2026-05-19-lu-dan-master-design.md` + `docs/ONBOARDING.md` + `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md` + `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
+Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `docs/ONBOARDING.md` + `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md` + `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 
 ---
 
@@ -117,7 +118,7 @@ export const matchState = reactive({ loTho: 100, linhDanQuality: 0 })
 
 // apps/web/src/match/hud-bridge.ts (Pixi side)
 import { watchEffect } from '@vue/reactivity'
-import { matchState } from '@lu-dan/shared/match-state'
+import { matchState } from '@cuu-dinh/shared/match-state'
 watchEffect(() => { hpBar.clear().rect(0, 0, matchState.loTho * 2, 20).fill(0xff0000) })
 
 // apps/web/src/components/MetaSidebar.vue (Vue side, cùng state)
@@ -138,7 +139,7 @@ lu-dan-game/
 ├── package.json                    # Bun workspaces root
 ├── docs/
 │   ├── superpowers/specs/
-│   │   ├── 2026-05-19-lu-dan-master-design.md      # ⭐ Master spec
+│   │   ├── 2026-05-19-cuu-dinh-master-design.md      # ⭐ Master spec
 │   │   └── 2026-05-19-tech-stack-revisit.md        # ⭐ Web stack decision
 │   ├── TECH_STACK.md
 │   ├── ART_DIRECTION.md

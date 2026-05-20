@@ -1,4 +1,4 @@
-# Accessibility — Lư Đan
+# Accessibility — Cửu Đỉnh
 
 > Inclusive design. Colorblind support, font scaling, key remap, audio cues for deaf players.
 

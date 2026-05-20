@@ -1,4 +1,4 @@
-# Tutorial Script — Lư Đan
+# Tutorial Script — Cửu Đỉnh
 
 > Exact dialogue + UI prompts + state machine cho Act 1 tutorial. Write trước implement.
 
@@ -42,7 +42,7 @@
 
 ```
 ╔═══════════════════════════════════════╗
-║       LƯ ĐAN                          ║
+║       CỬU ĐỈNH                          ║
 ║   (huyền huyễn luyện đan tu chân)     ║
 ║                                       ║
 ║   Tu danh của con là:                 ║
@@ -93,10 +93,18 @@
 > *Sư Phụ holds out a wrapped bundle. He unwraps slowly. Inside: a small bronze furnace, cracked but ornate.*
 > 
 > SƯ PHỤ: *"Lò Luyện Đan của tổ sư. 800 năm tuổi. Hư nhưng còn linh."*
+>
+> *Player touches the furnace. A whisper comes from inside the metal, barely audible.*
+>
+> LÒ: *"Chuyển thứ chín..."*
+>
+> *Sư Phụ's fingers tighten around the cloth. He hears it too, but says nothing.*
 
 ### Frame 5
 > *Lò glows faintly. Sư Phụ smiles slightly.*
 > 
+> SƯ PHỤ: *"Nếu con nghe tiếng gì trong Lò, đừng trả lời. Chỉ luyện."*
+>
 > SƯ PHỤ: *"Tâm Ma sẽ trở lại. Con phải tu hành. Bắt đầu thôi."*
 > 
 > *(Skip → Pháp Trận #1)*
@@ -229,7 +237,7 @@ None — tutorial cannot fail.
 
 > ĐẠO SĨ MỘC LINH: *"À, con là đệ tử mới của Sư Phụ. Hắn đã kể rồi."*
 >
-> ĐẠO SĨ MỘC LINH: *"Lư Đan có 5 nguyên tố. Hôm nay ta dạy về Mộc. Mộc là sinh — sinh sôi, sinh sản, sinh khí."*
+> ĐẠO SĨ MỘC LINH: *"Cửu Đỉnh có 5 nguyên tố. Hôm nay ta dạy về Mộc. Mộc là sinh — sinh sôi, sinh sản, sinh khí."*
 >
 > *(He picks up 3 small wooden charms.)*
 >

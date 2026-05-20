@@ -1,4 +1,4 @@
-# Content Inventory — Lư Đan
+# Content Inventory — Cửu Đỉnh
 
 > Catalog mọi item, affix, naming convention. **Directional examples** — không exhaustive. AI-driven content gen sẽ expand từ patterns này.
 
@@ -214,7 +214,7 @@ Examples:
 |---|---|---|---|
 | M1 | **Sơn Hà Đồ Hỗn Nguyên** | Sơn Hà Đồ Lệnh có thể tái sử dụng 1x (Đan Pháp not consumed) | 1/100,000 |
 | M2 | **Cửu Chuyển Kim Đan** | Skip 3 cấp đan progression | 1/50,000 |
-| M3 | **Vô Tận Lư Đan** | Lò +3 slot vĩnh viễn | 1/100,000 |
+| M3 | **Vô Tận Cửu Đỉnh** | Lò +3 slot vĩnh viễn | 1/100,000 |
 
 → Mirror tier ship post-launch v1.5+, NOT in v1.0 to avoid balance issues early.
 

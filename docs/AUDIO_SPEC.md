@@ -1,4 +1,4 @@
-# Audio Spec — Lư Đan
+# Audio Spec — Cửu Đỉnh
 
 > Music tracks, SFX library, voice direction, mixing principles.
 
@@ -8,7 +8,7 @@
 
 ## 0. Philosophy
 
-**Audio = nửa gameplay.** Lư Đan is a physics game — collisions, chains, combos = audio events. Audio quality determines:
+**Audio = nửa gameplay.** Cửu Đỉnh is a physics game — collisions, chains, combos = audio events. Audio quality determines:
 - Combat feel (juice)
 - Tutorial clarity (audio cues)
 - Emotional resonance (story moments)

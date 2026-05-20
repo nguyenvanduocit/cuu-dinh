@@ -1,5 +1,5 @@
 {
-  "name": "@lu-dan/content-validator",
+  "name": "@cuu-dinh/content-validator",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -10,7 +10,7 @@
     "validate": "bun run src/main.ts"
   },
   "dependencies": {
-    "@lu-dan/shared": "workspace:*",
+    "@cuu-dinh/shared": "workspace:*",
     "zod": "^3.23.0"
   },
   "devDependencies": {

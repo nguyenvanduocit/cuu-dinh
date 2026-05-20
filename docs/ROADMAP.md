@@ -1,4 +1,4 @@
-# Roadmap — Lư Đan
+# Roadmap — Cửu Đỉnh
 
 > Path A — Full Dream Game. Target: ship v1.0 trong **3-4 năm**, sau đó Live Ops 5+ năm.
 

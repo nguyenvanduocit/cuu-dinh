@@ -1,4 +1,4 @@
-# Combat Math — Lư Đan
+# Combat Math — Cửu Đỉnh
 
 > Full damage formulas, intensity scaling, crit math, stability mechanics. Source of truth cho balance simulator.
 

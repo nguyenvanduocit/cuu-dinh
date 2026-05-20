@@ -1,4 +1,4 @@
-# Lore & World — Lư Đan
+# Lore & World — Cửu Đỉnh
 
 > Worldbuilding, history, NPCs, voice & tone. Bible for all narrative content.
 
@@ -23,6 +23,34 @@
 - ❌ Action shounen ("Believe in yourself!")
 - ❌ Edgy nihilism
 - ❌ Cultural commentary / political
+
+---
+
+## 0.5 Story Spine
+
+### Central dramatic question
+
+> **Nếu luyện đan là biến ham muốn thành sức mạnh, thì người tu hành phải tiêu diệt ham muốn hay học cách không bị nó điều khiển?**
+
+Cửu Đỉnh không kể chuyện "thiện diệt ác" đơn giản. Mọi hệ thống của game đều chạm vào câu hỏi này:
+- Player muốn linh đan phẩm cao hơn → cần tham một chút.
+- Player dùng Phong Ấn → chấp nhận rủi ro để cưỡng ép vận mệnh.
+- Player mở Tâm Ma mod → tự mời nguy hiểm để đổi lấy phần thưởng.
+- Player lên Cấp Vô Cực → tu hành không có điểm dừng, nên tâm ma cũng không bao giờ hết.
+
+### Root tragedy: Cửu Chuyển thất bại
+
+800 năm trước, Cửu Châu Đan Vực gặp đại kiếp: linh lực suy kiệt, bệnh đan độc lan khắp các tông môn, phàm nhân chết vì khí trời hóa đục. Cao Tổ và bảy đan sư mạnh nhất Đại Đan Đạo quyết định luyện **Cửu Chuyển Kim Đan** để thanh lọc toàn bộ thiên địa linh khí.
+
+Mục tiêu ban đầu là cứu đời. Nhưng đến chuyển thứ bảy, các tông môn bắt đầu tranh nhau quyền sở hữu viên đan. Đến chuyển thứ tám, từng đan sư lén thêm ý chí của mình vào pháp trận: trường sinh, danh vọng, trả thù, phục hưng tông môn, cứu người thân đã chết. Đến chuyển thứ chín, viên đan không còn là thuốc nữa. Nó hấp thụ toàn bộ ham muốn trong pháp trận và mở mắt.
+
+Đó là **Hỗn Nguyên Tâm Ma Vương**.
+
+Cao Tổ không tạo ra Tâm Ma vì ác. Ông tạo ra nó vì muốn cứu tất cả, nhưng không đủ can đảm thừa nhận rằng cứu thế cũng có thể là một dạng tham vọng. Đây là tội lỗi gốc của Đan Đạo Môn.
+
+### Campaign promise
+
+Player không chỉ kế thừa Lò. Player kế thừa **món nợ của một lần luyện đan thất bại**. Campaign kết thúc khi player làm lại "lần luyện đan thứ chín" trước Tâm Ma Vương, nhưng lần này không luyện để chiếm lấy thiên mệnh. Player luyện để chấp nhận mất mát, khép lại phong ấn cũ, và mở Sơn Hà Đồ cho hành trình dài hơn.
 
 ---
 
@@ -86,24 +114,28 @@ Player can reach Thánh đan trong endgame; player char itself caps at Tiên asc
 | **Hỗn Nguyên** | >10,000 | Pre-history, primordial chaos. World formed. Linh lực first appears. |
 | **Ngũ Hành Sơ Tổ** | 5,000-10,000 | 5 first cultivators (Sơ Tổ) discovered each element. Founded original sects. |
 | **Đại Đan Đạo** | 1,000-5,000 | Golden age of cultivation. Luyện đan thuật phát triển cực thịnh. Lò Luyện Đan tổ truyền created. |
-| **Tâm Ma Khởi** | 500-1,000 | Tâm ma race emerged from human desire/sin. Đại Đan Đạo declines. Hỗn Nguyên Tâm Ma Vương rises. |
+| **Cửu Chuyển Thất Bại** | ~800 | Cao Tổ và bảy đan sư luyện Cửu Chuyển Kim Đan để cứu thế. Viên đan hấp thụ tham vọng của họ và sinh ra Hỗn Nguyên Tâm Ma Vương. |
+| **Tâm Ma Khởi** | 500-800 | Tâm ma race emerged from human desire/sin. Đại Đan Đạo declines. Hỗn Nguyên Tâm Ma Vương bị phong ấn nhưng vết thương thế giới còn đó. |
 | **Hiện Đại** (player's time) | now | Đạo sĩ scattered, sects weakened. Player kế thừa Lò tổ truyền từ Sư Phụ. |
 
 ### 2.2 Key mythological events
 
-**The Đại Sát** (Great Reckoning, ~800 years ago):
-> Đại đạo sĩ Sư Tổ Cao Tổ defeated Hỗn Nguyên Tâm Ma Vương lần đầu. Bị thương nặng, phong ấn Tâm Ma Vương dưới Hồn Nguyên Điện. Sư Tổ tự cô lập, để lại các đệ tử mỗi người 1 mảnh **Sơn Hà Đồ Lệnh**.
+**The Ninth Turning** (Cửu Chuyển Thất Bại, ~800 years ago):
+> Cao Tổ dẫn bảy đan sư luyện Cửu Chuyển Kim Đan. Lò tổ truyền vận hành chín ngày chín đêm. Đến chuyển cuối, viên đan thành hình người, gọi tên từng đan sư bằng ham muốn thầm kín nhất của họ. Bảy đan sư chết trong một khắc. Cao Tổ sống sót vì tự cắt một nửa thần hồn khỏi Lò.
+
+**The Đại Sát** (Great Reckoning, ngay sau Cửu Chuyển):
+> Cao Tổ không thể giết Hỗn Nguyên Tâm Ma Vương vì nó mang một phần chính ông. Ông dùng Lò Luyện Đan và Sơn Hà Đồ Lệnh làm khoá, phong ấn Tâm Ma Vương dưới Hồn Nguyên Điện. Trước khi chết dần, ông chia Sơn Hà Đồ Lệnh thành nhiều mảnh và giao cho những người còn giữ được tỉnh thức.
 
 **The Sundering** (~500 years ago):
-> Tâm Ma Vương vỡ phong ấn 1 lần, gây ra "Thiên Hạ Đại Hỗn Loạn". Lò Luyện Đan tổ truyền bị vỡ thành 8 mảnh. Cao Tổ phong ấn lần nữa, but ngày càng yếu.
+> Tâm Ma Vương vỡ phong ấn 1 lần, gây ra "Thiên Hạ Đại Hỗn Loạn". Lò Luyện Đan tổ truyền bị vỡ thành 8 mảnh. Sư Phụ đời thứ nhất dùng mạng mình vá phong ấn, nhưng từ đó mỗi đời truyền nhân đều phải trả một phần tuổi thọ để giữ Lò im lặng.
 
 **The Forgetting** (~200 years ago):
 > Đa số đạo sĩ chết hoặc rút lui ẩn cư. Người thường quên dần luyện đan thuật. Lò Luyện Đan thành huyền thoại.
 
 **Hiện tại**:
-> Sư Phụ — đệ tử cuối cùng của Cao Tổ — truyền Lò tổ truyền cho player. Bảo: *"Đan đạo phải sống. Tâm Ma sẽ trở lại."*
+> Sư Phụ — truyền nhân cuối cùng của Đan Đạo Môn — truyền Lò tổ truyền cho player. Ông không nói hết sự thật: ông từng thử tự luyện viên đan thứ chín để cứu hai con gái, thất bại, và làm phong ấn yếu thêm. Ông chờ player không chỉ vì hy vọng, mà còn vì hối lỗi.
 
-→ Player's journey: tu hành luyện đan → defeat Hỗn Nguyên Tâm Ma Vương (Act 5 boss) → restore Đan Đạo + obtain Sơn Hà Đồ Lệnh hoàn chỉnh.
+→ Player's journey: tu hành luyện đan → hiểu tội lỗi gốc của Đan Đạo → đối mặt Hỗn Nguyên Tâm Ma Vương → làm lại Cửu Chuyển theo cách không bị tham vọng nuốt mất → obtain Sơn Hà Đồ Lệnh hoàn chỉnh.
 
 ---
 
@@ -179,8 +211,8 @@ Plus hidden:
 - Born from human desires made flesh
 - Not "evil" per se — they're externalized greed/anger/lust
 - 3 types: Dị Tượng (small, accident-born), Tâm Ma (medium, persistent desires), Thiên Kiếp (judgment, divine origin)
-- Goal: spread, expand, replace mortals
-- Final boss = Hỗn Nguyên Tâm Ma Vương = collective desire of all humanity
+- Goal: force mortals to admit desire, then feed on the denial when they refuse
+- Final boss = Hỗn Nguyên Tâm Ma Vương = the failed Cửu Chuyển Kim Đan wearing the shape of humanity's collective desire
 
 ### 4.3 Đạo Quán Cờ Bạc Hội (Gambling vendors guild)
 - Founded by Lão Hồ Ly
@@ -222,6 +254,7 @@ Plus hidden:
 - Lost both his daughters to the last Tâm Ma incursion 30 years ago
 - Lives at Khai Lư Trấn am alone with 1 cat (named Bột — "rice flour")
 - Has held the broken Lò for 30 years, waiting for someone worthy
+- Secret: once tried to use the Lò to call his daughters' souls back. The attempt failed and widened a crack in Cao Tổ's seal. He teaches restraint because he has already failed at it.
 
 **Sample dialogue**:
 > *"Con, ngày xưa thầy cũng giống con. Cầm Lò mà tay run. Đan chưa luyện đã bể. Nhưng Lò vẫn ở đây — bởi Lò không phải để dạy luyện đan. Lò là dạy con biết: trời cho gì, con nhận đó."*
@@ -335,13 +368,13 @@ Plus hidden:
 - Calls player "thằng nhỏ" (young one)
 
 **Backstory**:
-- Real age: 200+ (slightly immortal due to lottery magic)
-- Sells lottery tickets nationwide
+- Real age: 200+ (slightly immortal due to omen magic)
+- Sells Thiên Cơ Quẻ tokens across Cửu Châu
 - Has known every major historical figure
-- The lottery system itself is HER magic, not divine
+- The omen system itself is HER magic, not divine
 
 **Sample dialogue**:
-> *"Thằng nhỏ! Hôm nay con số gì? Bà già này nói thật: tuần trước có thằng nhóc giống con — bà bán cho 1 vé, nó trúng 3 số. Giờ thằng đó? Là Đạo Sĩ Vô Danh đó. Hahaha! Nói đùa. Có lẽ. Mua đi mua đi."*
+> *"Thằng nhỏ! Hôm nay thiên tượng ra quẻ gì? Bà già này nói thật: tuần trước có thằng nhóc giống con gieo một quẻ, ứng đủ ba hào. Giờ thằng đó? Là Đạo Sĩ Vô Danh đó. Hahaha! Nói đùa. Có lẽ. Gieo đi gieo đi."*
 
 ### 5.7 Lò Thần (Furnace Spirit)
 
@@ -406,29 +439,35 @@ His spirit may appear in Act 5 climax as ghost guide.
 - Knows everything about player's choices in-game (4th-wall awareness)
 
 **Lore**:
-- Born from collective human greed/anger/lust 1000 years ago
+- Born from the failed Cửu Chuyển Kim Đan 800 years ago
+- Carries the voices of the seven dead đan sư and the severed half-soul of Cao Tổ
 - Cao Tổ partially sealed him 800 years ago
 - Seal weakening, awakens fully in player's time
-- Goal: become god by absorbing all human desire
+- Goal: finish the ninth turning by entering the player-controlled Lò and becoming a "perfect" linh đan that no longer separates human desire from heavenly law
+
+**Philosophy**:
+> *"Các ngươi gọi ta là tâm ma vì không dám gọi ta là ước nguyện. Ta là phần các ngươi bỏ vào lò rồi giả vờ không thấy."*
+
+Tâm Ma Vương không muốn hủy thế giới bằng lửa. Nó muốn chứng minh mọi tu hành đều là tham vọng được đặt tên đẹp. Nó thắng nếu player tin rằng sức mạnh chỉ là muốn nhiều hơn.
 
 ---
 
 ## 6. Per-Act narrative beats
 
 ### Act 1: Khởi Đan
-> *Player is a young disciple at Sư Phụ's am in Sơn Mộc Cốc. Sư Phụ entrusts the broken Lò tổ truyền and teaches basics. Player completes first 3 luyện đan attempts under guidance. Boss: a small Tâm Ma emerging from villagers' fear, defeated easily. Sư Phụ proud, hints at a long road ahead.*
+> *Player is a young disciple at Sư Phụ's am in Sơn Mộc Cốc. Sư Phụ entrusts the broken Lò tổ truyền and teaches basics. The Lò whispers "chuyển thứ chín" once, too softly to explain. Player completes first 3 luyện đan attempts under guidance. Boss: a small Tâm Ma emerging from villagers' fear, defeated easily. Sư Phụ proud but visibly unsettled, hinting at a long road and an old mistake.*
 
 ### Act 2: Ngũ Hành Khai Mông
-> *Sư Phụ sends player to Ngũ Hành Sơn — 5 peaks, each haunted by a Ngũ Hành Tổ spirit. Each Tổ teaches one element. Player learns tương sinh/tương khắc deeply. At the peak's center, a Dị Tượng — element-chaotic boss — appears, having absorbed weak Ngũ Hành energy. Player defeats it using all 5 elements in combination. Tổ spirits ascend, grateful.*
+> *Sư Phụ sends player to Ngũ Hành Sơn — 5 peaks, each haunted by a Ngũ Hành Tổ spirit. Each Tổ teaches one element. Player learns tương sinh/tương khắc deeply. At the peak's center, a Dị Tượng — element-chaotic boss — appears, having absorbed weak Ngũ Hành energy. Player defeats it using all 5 elements in combination. Before ascending, the Tổ spirits warn: "Đừng luyện chuyển thứ chín."*
 
 ### Act 3: Đan Lư Tu Luyện
-> *After Ngũ Hành battle, Lò cracks severely. Sư Phụ guides player to Hoả Sơn Lò Cốc — volcanic chains where smiths still live. Player meets Đan Sư Hắc Bạch (crafting), Lão Hồ Ly (gambling, who tries to scam), Tổ Sư Bất Tử (rare items, who watches player carefully). Finally reaches Lò Thần in the deep forge, who repairs Lò + unlocks full 8 slots. Boss: Tâm Ma awakened by smith village's despair.*
+> *After Ngũ Hành battle, Lò cracks severely. Sư Phụ guides player to Hoả Sơn Lò Cốc — volcanic chains where smiths still live. Player meets Đan Sư Hắc Bạch (crafting), Lão Hồ Ly (gambling, who tries to scam), Tổ Sư Bất Tử (rare items, who watches player carefully). Hắc Bạch and Lò Thần reveal that Sư Phụ once used the Lò to call back dead loved ones. Finally reaches Lò Thần in the deep forge, who repairs Lò + unlocks full 8 slots. Boss: Tâm Ma awakened by smith village's despair and the urge to fix broken things too quickly.*
 
 ### Act 4: Đan Pháp + Đạo Phái
 > *On Bích Hải Đảo, player meets Pháp Sư Bản Đồ who teaches Đan Pháp craft. Player composes first custom Đan Pháp. Then transition to Vô Cực Đỉnh — cosmic peak. Sư Phụ awaits, speaks: "Con đã đi đến chỗ phân nhánh. Mỗi đạo sĩ phải chọn đường tu hành riêng." Player faces "Tâm Ma Đại Sát" — a boss who tests every Đạo Phái path. Player chooses 1 Đạo Phái permanently.*
 
 ### Act 5: Khai Sơn Hà
-> *Sư Phụ leads player to Hồn Nguyên Điện — the cosmic temple where Cao Tổ sealed the original Tâm Ma Vương 800 years ago. Tổ Sư Bất Tử reveals he is the original creator of Sơn Hà Đồ Lệnh. The seal is breaking. Hỗn Nguyên Tâm Ma Vương awakens. Multi-phase final boss. Sư Phụ sacrifices himself to weaken the seal allowing player to deliver killing blow. Player obtains complete Sơn Hà Đồ Lệnh. Atlas opens — infinite cultivation begins.*
+> *Sư Phụ leads player to Hồn Nguyên Điện — the cosmic temple where Cao Tổ sealed the original Tâm Ma Vương 800 years ago. Sư Phụ confesses he weakened the seal by trying to revive his daughters. Tổ Sư Bất Tử reveals he created Sơn Hà Đồ Lệnh and enabled Cao Tổ's failed Cửu Chuyển. The seal breaks. Hỗn Nguyên Tâm Ma Vương awakens as the failed elixir wearing the shape of desire. Multi-phase final boss. Sư Phụ sacrifices himself to create one honest opening. Player does not repeat Cửu Chuyển; player refines desire without feeding it. Sơn Hà Đồ Lệnh completes. Atlas opens — infinite cultivation begins.*
 
 ---
 
@@ -444,7 +483,7 @@ His spirit may appear in Act 5 climax as ghost guide.
 | **Dị Tượng** (Anomaly) | Casual sin, accidents, minor sins | Small monstrosities, element-chaotic |
 | **Tâm Ma** (Heart Demon) | Sustained negative emotion, persistent desire | Humanoid with masks, deceiving |
 | **Thiên Kiếp** (Heavenly Tribulation) | Divine judgment for ascending too fast | Pure lightning, no body, righteous |
-| **Hỗn Nguyên Tâm Ma Vương** | Collective humanity's desire over millennia | Shifting form, manipulative, almost-god |
+| **Hỗn Nguyên Tâm Ma Vương** | Failed Cửu Chuyển Kim Đan + collective desire | Shifting form, manipulative, almost-god |
 
 ### 7.3 Lore implication
 - **Defeating Tâm Ma = facing yourself**. Each boss is a mirror.
@@ -542,9 +581,38 @@ NEVER:
 
 ### 10.4 Cửu Chuyển Kim Đan (legendary)
 - The mythical perfect elixir from Đại Đan Đạo era
-- Said to grant immortality (Tiên grade)
-- No one has crafted it in 4000 years
-- Mirror-tier item in endgame, ultra-rare
+- Original attempt 800 years ago failed and became Hỗn Nguyên Tâm Ma Vương
+- Modern **Cửu Chuyển Đan** currency is only a fragmentary imitation: one safe-ish "turn", not the full forbidden ninth turning
+- Full Cửu Chuyển Kim Đan is not a normal reward; it is a myth, a warning, and a mirror-tier endgame object only after campaign truth is known
+
+### 10.5 Cửu Đỉnh — 9 đỉnh thượng cổ (game's namesake)
+
+**Cửu Đỉnh** = 9 pháp đỉnh do Cao Tổ + 7 đan sư mạnh nhất Đại Đan Đạo + Lò Thần đồng tâm rèn ra 1000 năm trước, mỗi đỉnh tinh luyện một mặt của thiên địa. Cửu Chuyển Kim Đan yêu cầu vận hành đủ 9 đỉnh đồng bộ trong chín ngày chín đêm.
+
+| Đỉnh | Hành / Aspect | Rèn bởi | Vị trí hiện tại (lore) |
+|---|---|---|---|
+| **Kim Đỉnh** | Kim | Đan sư thứ nhất | Kim region (Cửu Tiêu, sky temples) |
+| **Mộc Đỉnh** | Mộc | Đan sư thứ hai | Mộc region (bamboo valleys) |
+| **Thuỷ Đỉnh** | Thuỷ | Đan sư thứ ba | Thuỷ region (Long Cung, underwater) |
+| **Hoả Đỉnh** | Hoả | Đan sư thứ tư | Hoả region (volcanic chains) |
+| **Thổ Đỉnh** | Thổ | Đan sư thứ năm | Thổ region (burial mounds) |
+| **Vô Cực Đỉnh** | Trung tâm Ngũ Hành | Đan sư thứ sáu | Vô Cực Đỉnh peak (cosmic) |
+| **Tâm Ma Đỉnh** | Tâm Ma reversal | Đan sư thứ bảy (corrupted) | Diêm Phủ (underworld) |
+| **Thiên Kiếp Đỉnh** | Thiên Kiếp absorption | Cao Tổ | Hồn Nguyên Điện (sealed) |
+| **Đỉnh Trung Lập** | Linh hồn / Vô | **Lò Thần** | Player's hand (Lò Luyện Đan tổ truyền) |
+
+**Sau Cửu Chuyển thất bại 800 năm trước**: 8 đỉnh đầu vỡ và rơi rải rác qua các region của Cửu Châu Đan Vực. Đỉnh trung lập — đỉnh thứ 9 do Lò Thần rèn riêng để giữ linh hồn pháp trận — sống sót nhưng nứt thành 8 mảnh nội tại (= 8 slot equipment của Lò player).
+
+**Player's journey**:
+- Acts 1-3: phục hồi 8 mảnh nội tại của Đỉnh Trung Lập (8 slot của Lò player unlock dần)
+- Act 5: hoàn thành Đỉnh Trung Lập, đối mặt Tâm Ma Vương
+- Atlas endgame: dùng Sơn Hà Đồ Lệnh để tìm + thu phục 8 đỉnh thượng cổ kia, mỗi đỉnh trấn giữ bởi 1 super-boss Tâm Ma Vĩ Đại
+- Mirror tier: ghép đủ 9 đỉnh → unlock **Vô Tận Cửu Đỉnh** — relic ultra-rare embodiment of full set
+- Tâm Ma Vĩ Đại super-bosses ở Cấp Vô Cực 50/100/200 mỗi cái guard 1 nhóm đỉnh
+
+→ Game title **"Cửu Đỉnh"** = quest cả đời player: làm đủ Cửu Đỉnh đoàn viên mà không bị tham vọng nuốt mất, hoàn thành điều Cao Tổ thất bại 800 năm trước.
+
+→ Player KHÔNG được "the chosen one" — Player chỉ là người tiếp tục một việc dang dở của tổ tiên, có cơ hội làm lại với tâm tỉnh hơn.
 
 ---
 

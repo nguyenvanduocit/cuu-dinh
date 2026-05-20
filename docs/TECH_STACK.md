@@ -1,4 +1,4 @@
-# Tech Stack — Lư Đan
+# Tech Stack — Cửu Đỉnh
 
 > Locked 2026-05-19. **Web-first** stack. Supersedes Godot 4 decision (cùng ngày).
 > Brainstorm context: `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md`.
@@ -101,7 +101,7 @@ export const matchState = reactive({
 ```ts
 // apps/web/src/match/hud-bridge.ts (Pixi side, in game loop)
 import { watchEffect } from '@vue/reactivity'
-import { matchState } from '@lu-dan/shared/match-state'
+import { matchState } from '@cuu-dinh/shared/match-state'
 
 const hpBar = new Graphics()
 watchEffect(() => {
@@ -113,7 +113,7 @@ watchEffect(() => {
 ```vue
 <!-- apps/web/src/components/MetaSidebar.vue (Vue side, cùng state) -->
 <script setup lang="ts">
-import { matchState } from '@lu-dan/shared/match-state'
+import { matchState } from '@cuu-dinh/shared/match-state'
 </script>
 <template>
   <div>Linh đan quality: {{ matchState.linhDanQuality }}%</div>

@@ -1,4 +1,4 @@
-# UI Wireframes — Lư Đan
+# UI Wireframes — Cửu Đỉnh
 
 > Per-screen wireframes + state diagrams. Locked layout principles before implementation.
 
@@ -56,7 +56,7 @@ Player can navigate from base camp to any sub-screen and back without lockstep.
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
 ║                                                        ║
-║                      LƯ ĐAN                            ║
+║                      CỬU ĐỈNH                            ║
 ║          (Vietnamese calligraphy logo)                 ║
 ║                                                        ║
 ║                                                        ║

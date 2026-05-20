@@ -16,7 +16,7 @@ import {
   Reagent, ReagentCsvColumns,
   SetBonus,
   Unique, UniqueCsvColumns,
-} from '@lu-dan/shared/schemas'
+} from '@cuu-dinh/shared/schemas'
 
 import { parseCsv, rowsToRecords } from './csv.ts'
 

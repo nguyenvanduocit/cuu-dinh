@@ -1,12 +1,24 @@
-# Vision — Lư Đan
+# Vision — Cửu Đỉnh
 
 > *"Không thoái chí. Không bàn lùi. Chỉ tìm cách làm tốt nhất."*
 
 ---
 
+## Cửu Đỉnh — tại sao tên này
+
+**Cửu Đỉnh** = 9 đỉnh thượng cổ trong huyền sử Đại Vũ. Trong game: 9 pháp đỉnh rèn bởi Cao Tổ + 7 đan sư + Lò Thần để vận hành **Cửu Chuyển Kim Đan** — viên đan có thể thanh lọc toàn bộ thiên địa linh khí.
+
+800 năm trước Cửu Chuyển thất bại. 8 đỉnh vỡ rải khắp Cửu Châu Đan Vực. Đỉnh thứ 9 — đỉnh trung lập của Lò Thần — sống sót nhưng nứt thành 8 mảnh và rơi xuống tay từng đời Sư Phụ.
+
+Player kế thừa đỉnh thứ 9 (Lò Luyện Đan tổ truyền). Quest cả đời: **tìm đủ 8 đỉnh còn lại để Cửu Đỉnh đoàn viên** — và lần này luyện Cửu Chuyển mà không bị tham vọng nuốt mất.
+
+→ Tên game = quest tổng thể. Không phải tên cơ chế.
+
+---
+
 ## Tại sao có dự án này
 
-Có **3 lỗ hổng** trong thị trường mà Lư Đan lấp đầy đồng thời:
+Có **3 lỗ hổng** trong thị trường mà Cửu Đỉnh lấp đầy đồng thời:
 
 ### 1. ARPG depth chưa từng kết hôn với physics-puzzle
 PoE có 1000+ items × 150 passive nodes × 5 ascendancy. Ballionaire có physics-roguelike căn bản nhưng item system **mỏng dính** (chỉ stat tuyến tính). Chưa ai làm physics game với **affix system**, **passive tree**, **atlas progression** chuẩn ARPG. Đây là blue ocean.
@@ -17,7 +29,7 @@ Xianxia/tu chân có fanbase lớn nhưng game thường chỉ dừng ở idle R
 ### 3. Gambling-as-gameplay chưa từng được "luyện đan-hoá"
 PoE biến crafting thành gambling. Nhưng PoE là *armor/weapon* gambling. **Luyện đan tự thân CHÍNH LÀ gambling** trong huyền huyễn tu chân — *"Cửu chuyển kim đan"* = cược chín lần để nghịch thiên cải mệnh. Đây là fantasy fit hoàn hảo.
 
-→ **Lư Đan = nơi cả 3 ý tưởng trên hội tụ.**
+→ **Cửu Đỉnh = nơi cả 3 ý tưởng trên hội tụ.**
 
 ---
 
@@ -68,7 +80,7 @@ Tranh luận thường thấy:
 
 → Plan đúng + decision đúng + tooling đúng + AI co-pilot mạnh = Dream Game khả thi cho solo.
 
-→ Cắt scope = **đánh mất USP**. Sliced MVP của Lư Đan = "Ballionaire skin tu chân" = forgettable.
+→ Cắt scope = **đánh mất USP**. Sliced MVP của Cửu Đỉnh = "Ballionaire skin tu chân" = forgettable.
 
 → Chỉ full scope mới tạo được moat: PoE-grade depth × xianxia cultivation authenticity × physics innovation = khó copy trong 5+ năm.
 

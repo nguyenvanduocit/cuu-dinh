@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the master ID translation map for Lư Đan (Vietnamese -> English slugs)."""
+"""Generate the master ID translation map for Cửu Đỉnh (Vietnamese -> English slugs)."""
 
 import json, re
 

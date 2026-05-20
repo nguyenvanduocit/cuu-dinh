@@ -1,4 +1,4 @@
-# Onboarding — Lư Đan
+# Onboarding — Cửu Đỉnh
 
 > Locked design 2026-05-19. 5 acts + hard tutorial + Sơn Hà Đồ Lệnh map device.
 
