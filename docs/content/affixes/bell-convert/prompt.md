@@ -1,6 +1,6 @@
 # Chuông Chuyển Hoá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chuông đổi nguyên tố linh lực sang Kim — sigil hình chuông Kim với ký hiệu chuyển hoá nguyên tố.
 

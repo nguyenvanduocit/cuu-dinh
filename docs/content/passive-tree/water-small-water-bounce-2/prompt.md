@@ -1,6 +1,6 @@
 # Phản Lưu II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ phản lưu cấp 2 — dội ngược mạnh hơn, glyph đôi mũi tên xanh phản chiều.
 

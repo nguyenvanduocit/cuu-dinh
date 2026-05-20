@@ -1,6 +1,6 @@
 # Hùng Mạnh Cuồng Bạo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity cộng dồn theo hit liên tiếp — nét glyph hình mãnh thú cuồng bạo, nét tăng dần theo tầng.
 

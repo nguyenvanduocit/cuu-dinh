@@ -1,6 +1,6 @@
 # Mạt Niên Đoản Mệnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa giấy ố vàng, mực nhòe, viết bằng tay run — chữ cuối cùng của một đan sư biết mệnh chỉ còn ba tháng. Đan ra ngài thành tiên, đan vỡ ngài thành tro — cả hai đều thành đạo. Progress +100%, stability max -50%.
 

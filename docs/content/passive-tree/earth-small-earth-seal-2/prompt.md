@@ -1,6 +1,6 @@
 # Cố Phong II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cố phong cấp 2 — củng cố Phong Ấn mạnh hơn, glyph dấu phong ấn đá đôi lớp.
 

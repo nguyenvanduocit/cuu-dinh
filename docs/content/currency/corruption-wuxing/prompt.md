@@ -1,6 +1,6 @@
 # Tâm Ma Ngũ Hành — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma cực kỳ nguy hiểm — mỗi ván linh đan ngẫu nhiên đổi nguyên tố chính, phải liên tục điều chỉnh chain element. riskLevel extreme: ngũ hành ký hiệu xoáy loạn trên token gần vỡ, khói màu đổi xoáy.
 

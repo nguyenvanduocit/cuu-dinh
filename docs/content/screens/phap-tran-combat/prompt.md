@@ -1,6 +1,6 @@
 # Pháp Trận — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Match layer is PixiJS canvas (realtime). MJ only for board frame + backdrop mood.
 

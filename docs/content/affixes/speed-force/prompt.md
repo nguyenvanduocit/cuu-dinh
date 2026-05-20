@@ -1,6 +1,6 @@
 # Tốc Độ Cuồng Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng velocity sau va chạm — nét glyph hình tốc độ cuồng lực, nét xanh phóng nhanh về phía trước.
 

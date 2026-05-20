@@ -1,6 +1,6 @@
 # Đan Pháp Tái Sinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance Đan Pháp không bị consume — nét glyph hình đan pháp tái sinh, cuộn thư hồi sinh từ tro.
 

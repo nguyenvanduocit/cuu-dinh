@@ -1,6 +1,6 @@
 # Đèn Trời — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn trời nhỏ xinh phát sáng vàng ấm, ván thiên kiếp cuối pháp trận cho phần thưởng gấp 3 — đốt đèn trời là cách đánh cược với trời.
 

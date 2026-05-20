@@ -1,6 +1,6 @@
 # Bách Hoả Tâm Tiên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Hoả và chance ignite — nét glyph hình bách hoả tâm linh, trăm ngọn lửa tiên bùng.
 

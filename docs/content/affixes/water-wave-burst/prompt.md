@@ -1,6 +1,6 @@
 # Biến Hoá Lan Sóng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 AOE Thuỷ khi va chạm — nét glyph hình sóng nước bùng vỡ, gợn lan rộng từ tâm.
 

@@ -1,6 +1,6 @@
 # Tán Tâm Ma — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance dispel Tâm Ma modifier — nét glyph hình tán tâm ma, khí tán xua tan bóng ma.
 

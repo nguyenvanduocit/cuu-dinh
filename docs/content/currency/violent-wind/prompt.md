@@ -1,6 +1,6 @@
 # Cuồng Phong — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma trung bình — Cuồng Phong đổi hướng mọi linh lực 90° mỗi 5 giây, phá vỡ chain đã tính trước. riskLevel medium: xoáy gió khắc nổi trên token nứt vừa.
 

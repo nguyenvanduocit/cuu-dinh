@@ -1,6 +1,6 @@
 # Phong Ấn Bảo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm brick chance khi áp Phong Ấn — nét glyph hình phong ấn bảo hộ, ấn triện có khiên bao quanh.
 

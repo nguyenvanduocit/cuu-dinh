@@ -1,6 +1,6 @@
 # Sinh Lực Hoàn Nguyên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Heal stability định kỳ — nét glyph hình sinh lực hoàn nguyên, mầm sống hồi sinh.
 

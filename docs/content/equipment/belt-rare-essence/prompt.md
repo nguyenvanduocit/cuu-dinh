@@ -1,6 +1,6 @@
 # Dây Phong Ấn Bảo Tinh Hoa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Dây tinh hoa phẩm Bảo — vải gấm tím khảm hoa văn tinh hoa bảo thạch, nâng tier drop một cấp cho toàn bộ tinh hoa rơi trong pháp trận. Viền tím lấp lánh hoa văn bùa.
 

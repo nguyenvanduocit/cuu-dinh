@@ -1,6 +1,6 @@
 # Thuỷ Sinh Mộc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cầu nối Thuỷ → Mộc — tương sinh Thuỷ tạo Mộc, glyph hai màu xanh thẳm-xanh ngọc nối nhau trong vô cực.
 

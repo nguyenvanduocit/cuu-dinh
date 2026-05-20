@@ -1,6 +1,6 @@
 # Thổ Thần Bùng Nổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Thổ và AOE đất nổ định kỳ — nét glyph hình thổ thần bùng nổ, đất bùng trào.
 

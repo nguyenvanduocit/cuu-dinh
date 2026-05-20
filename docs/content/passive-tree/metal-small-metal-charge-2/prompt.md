@@ -1,6 +1,6 @@
 # Tích Sát II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích sát cấp 2 — tích sát khí mạnh hơn, glyph cuộn xoáy vàng năng lượng cao.
 

@@ -1,6 +1,6 @@
 # Huyền Thiên Cổ Chung — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ chung đen huyền từ cổ điện Huyền Thiên, thân chuông mờ tối nhưng vành chuông sáng gold. Tiếng vang không tắt — mỗi lần âm sóng cộng dồn đủ năm lần thì bùng nổ AOE, thiên kiếp cũng phải dừng tay.
 

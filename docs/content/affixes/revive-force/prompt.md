@@ -1,6 +1,6 @@
 # Hồi Sinh Ngoại Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Heal khi stability thấp — nét glyph hình hồi sinh ngoại lực, tia ngoại khí cứu vớt từ ngoài.
 

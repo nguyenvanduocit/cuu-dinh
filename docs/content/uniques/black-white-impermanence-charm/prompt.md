@@ -1,6 +1,6 @@
 # Bùa Hắc Bạch Vô Thường — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa giấy hai mặt — mặt trước trắng vẽ mặt người cười, mặt sau đen vẽ mặt người khóc. Vô Thường không cười không khóc — chỉ ghi tên rồi dẫn đi. Đeo bùa này, ngươi đã ký tên trước rồi.
 

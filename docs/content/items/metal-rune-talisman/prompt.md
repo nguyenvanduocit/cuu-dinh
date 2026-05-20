@@ -1,6 +1,6 @@
 # Phù Kim Tự — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa phù vẽ bằng khí kim, không chép chữ mà chép khí. Một lần dùng trong ván, toàn bộ linh lực chuyển thành Kim. Viền tím tinh thể Bảo phẩm.
 

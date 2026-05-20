@@ -1,6 +1,6 @@
 # Hồn Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Viên đan ánh hồn phách lơ lửng bên trong, có thể sao chép một affix từ linh khí này sang linh khí khác cùng loại — vô cùng quý hiếm.
 

@@ -1,6 +1,6 @@
 # Ổn Định Hoá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Stability linh đan giảm chậm hơn khi bị tương khắc — nét glyph hình ổn định hoá, cân bằng tĩnh lặng.
 

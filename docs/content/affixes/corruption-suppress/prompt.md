@@ -1,6 +1,6 @@
 # Khắc Tâm Ma Chí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm thời gian active của Tâm Ma modifier — nét glyph hình khắc chế chí tâm ma, vòng sáng dập tắt bóng tối.
 

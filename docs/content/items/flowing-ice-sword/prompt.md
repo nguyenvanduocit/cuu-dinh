@@ -1,6 +1,6 @@
 # Kiếm Lưu Băng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Băng không phá vỡ tường — băng chui qua kẽ hở. Kiếm học bài học đó từ mùa đông sông Hồng. Pierce — linh lực Thuỷ ignore 1 wall collision.
 

@@ -1,6 +1,6 @@
 # Lão Hồ Ly — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Thin man, fox-like grin, red silk robe (flamboyant), holds a fan (always fanning), gold tooth, beady eyes. Palette: cinnabar + gold.
 

@@ -1,6 +1,6 @@
 # Quạt Hoàng Sa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoàng Sa không phải sa mạc — là vùng đất thiêng của Thổ lực. Quạt phất, cát vàng dâng lên, linh lực đi qua phải bơi chậm hơn. AOE slow 40% trong 2 giây.
 

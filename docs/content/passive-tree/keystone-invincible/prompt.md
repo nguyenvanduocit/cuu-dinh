@@ -1,6 +1,6 @@
 # Bất Bại — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt Vô Cực — bất bại vĩnh cửu vượt khỏi sinh tử, ◇ hình thoi lớn toả hào quang tím triều vô tận với ký hiệu vô cực ∞ trung tâm.
 

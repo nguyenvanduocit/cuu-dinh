@@ -1,6 +1,6 @@
 # Thân Linh Mộc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thân lò khắc Mộc văn, dây leo linh thảo bám quanh thân đồng. Board mở rộng thêm, linh khí Mộc hệ ưu tiên rơi vào các điểm neo.
 

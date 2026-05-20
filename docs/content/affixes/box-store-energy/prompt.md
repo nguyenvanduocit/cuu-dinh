@@ -1,6 +1,6 @@
 # Hộp Trữ Năng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hộp trữ linh lực rồi phun ra với intensity cực cao — sigil hình hộp vuông nén năng lượng bùng thoát.
 

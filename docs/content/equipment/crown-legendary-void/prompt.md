@@ -1,6 +1,6 @@
 # Đỉnh Thần Vô Cực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh Vô Cực mang dấu ấn thiên ngoại — ba luồng linh lực đồng thời phun ra từ miệng đỉnh, nguyên tố xoay vần không ngừng. Viền phát hoả khí cam rực, hạt ember trôi nổi.
 

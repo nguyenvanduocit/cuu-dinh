@@ -1,6 +1,6 @@
 # Đạo Quán — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Quirky daoist curio shop stall. NPC portrait separate (see NPC prompt.md).
 

@@ -1,6 +1,6 @@
 # Thập Bát La Hán — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mười tám vị La Hán phật — di vật thiêng liêng từ thời Đại Đan Đạo. Bộ gồm 18 tượng La Hán từ arhat-wood-soul đến arhat-shramana. Khi hội tụ đủ mười tám, các ngài cùng hiển linh bảo hộ linh đan, có thể cứu vãn ngay cả khi linh đan đã vỡ tan — nhưng chỉ một lần trong đời một pháp trận.
 

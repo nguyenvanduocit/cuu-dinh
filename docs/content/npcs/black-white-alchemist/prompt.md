@@ -1,6 +1,6 @@
 # Đan Sư Hắc Bạch — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Twin brother + sister, identical, one always in black, one in white, both deaf-mute (sign language). Palette: ink black + ivory.
 

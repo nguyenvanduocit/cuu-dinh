@@ -1,6 +1,6 @@
 # Nắp Phàm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nắp lò bình thường, khắc bát quái đơn giản, chỉ giữ được một ô modifier. Đồng xám, không phát linh quang.
 

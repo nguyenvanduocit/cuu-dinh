@@ -1,6 +1,6 @@
 # Bất Động — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh khí không bị đẩy bởi AOE — nét glyph hình bất động núi thái, nét trụ vững như núi.
 

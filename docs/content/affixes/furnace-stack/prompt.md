@@ -1,6 +1,6 @@
 # Đan Lư Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cộng dồn intensity stack theo hit — nét glyph hình đan lô xếp tầng, tinh hoa lò tích lũy.
 

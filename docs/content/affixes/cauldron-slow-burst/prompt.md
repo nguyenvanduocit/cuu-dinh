@@ -1,6 +1,6 @@
 # Đỉnh Nổ Chậm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh giữ linh lực rồi thả ra với intensity cao — sigil hình đỉnh cổ với năng lượng nén bùng nổ.
 

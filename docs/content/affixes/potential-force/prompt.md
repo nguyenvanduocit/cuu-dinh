@@ -1,6 +1,6 @@
 # Bổ Lực Thế Năng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực dừng trong linh khí rồi bùng ra với intensity cao — nét glyph hình năng lượng nén chờ giải phóng, vòng kín rồi phá.
 

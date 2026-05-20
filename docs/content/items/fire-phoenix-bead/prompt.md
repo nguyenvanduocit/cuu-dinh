@@ -1,6 +1,6 @@
 # Châu Hoả Phượng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Năm lần chạm, năm lần tích nhiệt — đến lần thứ năm châu không nổ mà nở ra như hoa phượng đầu hè. Mỗi 5 hit: explode AOE Hoả damage.
 

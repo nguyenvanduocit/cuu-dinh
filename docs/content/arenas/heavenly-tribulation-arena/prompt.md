@@ -1,6 +1,6 @@
 # Thiên Kiếp Trận Địa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Heavenly tribulation arena (T14-T16+). No monster — only the storm. Divine judgment.
 

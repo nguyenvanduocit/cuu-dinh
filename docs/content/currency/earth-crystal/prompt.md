@@ -1,6 +1,6 @@
 # Thổ Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Thổ hành nâu đất cứng chắc như đá cuội, tăng 50% drop linh khí Thổ trong pháp trận — nặng và thô ráp, khắc văn cổ.
 

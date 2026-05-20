@@ -1,6 +1,6 @@
 # Hoả Tổ Đỏ Liệt — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Ghostly spirit on Hoả Phong. Palette: cinnabar red + gold.
 

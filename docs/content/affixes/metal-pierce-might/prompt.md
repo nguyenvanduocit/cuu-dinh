@@ -1,6 +1,6 @@
 # Hưởng Thịnh Kim Cương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Kim và xuyên thủng tương khắc — nét glyph hình kim cương xuyên phá, góc nhọn kim loại.
 

@@ -1,6 +1,6 @@
 # Quạt Phong Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Gió và lửa không cần nhau nhưng không bao giờ xa nhau. Quạt phất, sóng Hoả lan ra như tin đồn trên chợ làng. AOE wave 100px quanh điểm chạm.
 

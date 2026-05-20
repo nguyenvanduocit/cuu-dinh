@@ -1,6 +1,6 @@
 # Khai Lư Trấn Hub — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Dùng scene Khai Lư Trấn từ `../../regions/khai-lu-tran/prompt.md` làm nền. Bổ sung HUD ornament.
 

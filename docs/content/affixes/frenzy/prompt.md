@@ -1,6 +1,6 @@
 # Cuồng Bạo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng intensity Kim lực khi va chạm — nét khắc gãy góc, răng cưa hung hãn như lưỡi cưa kim loại xé rách.
 

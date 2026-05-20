@@ -1,6 +1,6 @@
 # Bình Hoả Châu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nước vào — lửa ra. Bình không giải thích mâu thuẫn này: tương khắc không phải kết thúc — là chuyển hoá. Convert linh lực Thuỷ → Hoả.
 

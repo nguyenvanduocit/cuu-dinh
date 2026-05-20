@@ -1,6 +1,6 @@
 # Cửu Tiêu Lôi Trận — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Hoả-Lôi — tia sét xuyên qua vầng lửa chín tầng trời, ◆ hình thoi toả sáng đỏ-vàng sấm sét.
 

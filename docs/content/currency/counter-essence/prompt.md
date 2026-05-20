@@ -1,6 +1,6 @@
 # Tinh Hoa Khắc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa khắc chế hai nguyên tố đối lập, bắt buộc khắc suffix kháng tương khắc vào linh khí — màu tím và đỏ xung đột nhau trên cùng bề mặt.
 

@@ -1,6 +1,6 @@
 # Hoa Sen Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoa nổi trên mặt nước bùn — chậm linh lực 25% và +20% intensity khi rời. Biết chậm lại đúng chỗ thì bùn không bám được.
 

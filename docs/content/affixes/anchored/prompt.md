@@ -1,6 +1,6 @@
 # Cố Định — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh khí không bị nhiễm khí sau va chạm — nét glyph hình mỏ neo cố định, dấu bình ổn.
 

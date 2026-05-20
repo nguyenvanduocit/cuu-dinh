@@ -1,6 +1,6 @@
 # Sấm Sét — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Kim sét đánh linh khí ngẫu nhiên — nét glyph hình chớp giật gãy góc, nhánh sét phân ra hai.
 

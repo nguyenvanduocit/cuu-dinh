@@ -1,6 +1,6 @@
 # Hoả Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Hoả hành đỏ rực như than hồng, tăng 50% drop linh khí Hoả trong pháp trận — nhét vào Sơn Hà Đồ Lệnh để thiên về trang bị nguyên tố lửa.
 

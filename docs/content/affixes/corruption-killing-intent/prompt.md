@@ -1,6 +1,6 @@
 # Sát Khí Tâm Ma — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity cực cao khi bị Tâm Ma nhiễm — nét glyph hình tâm ma bị sát khí phá, ô nhiễm hoá vũ khí.
 

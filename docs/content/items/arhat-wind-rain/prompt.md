@@ -1,6 +1,6 @@
 # Tượng La Hán Phong Vũ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán đứng nghiêng trong cơn bão, áo tơi bay phần phật, một tay giơ lên đón mưa gió. Tốc độ linh lực đi qua tượng này biến đổi mỗi năm giây như cơn gió không bao giờ đều.
 

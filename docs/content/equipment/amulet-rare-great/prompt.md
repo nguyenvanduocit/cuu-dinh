@@ -1,6 +1,6 @@
 # Khắc Phù Bảo Đại — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Khắc phù đại phẩm Bảo — ngọc bích lớn hơn, phù văn tích đặc dày đặc. Crit khi bắn linh lực sẽ kích hoạt thêm năm phần trăm intensity multiplier. Viền tím lấp lánh hoa văn bùa liên hoàn.
 

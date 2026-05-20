@@ -1,6 +1,6 @@
 # Quai Tịnh Tâm Phù (Phải) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bản đối xứng phải của Tịnh Tâm Phù — cùng hiệu ứng xoá Tâm Ma, viền tím hoa văn tương tự nhưng gắn bên phải lò luyện đan.
 

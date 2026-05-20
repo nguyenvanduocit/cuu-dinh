@@ -1,6 +1,6 @@
 # Sóng Cuồng Nha — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Sóng đẩy 40-80px sau va chạm — nét glyph hình sóng cuồng nha, sóng đẩy răng cưa lan rộng.
 

@@ -1,6 +1,6 @@
 # Sinh Tử Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể sinh tử đen trắng âm dương, nếu linh đan bể thì được thử lại một lần với 50% quality hoàn trả — cơ hội sống sót từ tay tử thần.
 

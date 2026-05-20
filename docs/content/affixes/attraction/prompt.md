@@ -1,6 +1,6 @@
 # Hấp Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hút linh lực trong bán kính về phía linh khí — nét glyph hình xoáy hút vào trong, vòng tròn kéo về tâm.
 

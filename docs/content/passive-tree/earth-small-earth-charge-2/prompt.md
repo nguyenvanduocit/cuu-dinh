@@ -1,6 +1,6 @@
 # Tích Thổ II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích Thổ cấp 2 — tích Thổ khí mạnh hơn, glyph cuộn xoáy nâu năng lượng dày đặc.
 

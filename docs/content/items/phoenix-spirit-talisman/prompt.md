@@ -1,6 +1,6 @@
 # Bùa Phượng Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phượng đốt cháy tổ mình một lần trong đời để bay lên cao hơn. Ngọn lửa không phá huỷ — kết nối. Hoả lực hit → ignite linh khí khác, chain burn 5 giây.
 

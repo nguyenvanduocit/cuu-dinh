@@ -1,6 +1,6 @@
 # Phi Tốc Giao Điểm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Velocity và intensity khi charge cao — nét glyph hình giao điểm phi tốc, điểm hội tụ tốc độ.
 

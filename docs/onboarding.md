@@ -21,42 +21,13 @@ After Act 5 → atlas opens, infinite endgame begins.
 
 Format: **3 guided pháp trận + base camp tour**. Cannot lose. Cannot quit half-way.
 
-### Pháp Trận #1: "Khai Đan" (5-7 phút)
+### 3 guided pháp trận (high-level)
 
-**Goal**: Teach physics + linh khí placement.
+> Per-node detail dissolved 2026-05-20 sang `docs/content/acts/act-1/nodes/`. Dưới đây chỉ giữ summary.
 
-- **Constraints**: 3 linh khí Mộc cho sẵn, gợi ý vị trí đặt (slot sáng nhấp nháy)
-- **Linh lực**: 100% Mộc element (đồng hành — không tương khắc)
-- **Linh đan**: Mộc, target Phàm→Linh (1 grade up only)
-- **Stability frozen 100%** — không thể bể
-- **Tooltip overlay** sequenced:
-  1. "Đặt linh khí vào ô sáng" (animated arrow)
-  2. "Bấm 'Luyện Đan' để linh lực rơi xuống"
-  3. "Linh lực qua linh khí → vào linh đan → Quality tăng"
-  4. "Đạt 100% → linh đan thăng Linh phẩm"
-- **Reward**: Cổ vật **"Sư Phụ Truyền Đan"** (first unique, narrative weight: do tổ sư trao)
-
-### Pháp Trận #2: "Tương Sinh" (7-10 phút)
-
-**Goal**: Introduce Thuỷ + tương sinh concept.
-
-- **Constraints**: chọn 5 linh khí từ 10 options
-- **Linh lực**: 70% Mộc + 30% Thuỷ (Thuỷ sinh Mộc → buff)
-- **Floating numbers**: `+30%` green pop trên collision tương sinh, `+10%` blue trên đồng hành
-- **Linh đan**: Mộc, target Phàm→Linh→Bảo (2 phẩm). Stability gentle (cap 50% damage rate)
-- **NPC hint mid-ván**: *"Thuỷ sinh Mộc — đan của con sẽ uống Thuỷ lực mà lớn."*
-- **Reward**: 10 Linh Đan (currency starter pack)
-
-### Pháp Trận #3: "Tương Khắc" (10-12 phút)
-
-**Goal**: Introduce Kim + tương khắc + element routing strategy.
-
-- **Constraints**: full 8 slot freedom, drop inventory access
-- **Linh lực**: 50% Mộc + 30% Thuỷ + 20% **Kim (tương khắc Mộc)**
-- **Hint**: *"Kim khắc Mộc — phải route Kim AWAY hoặc CONVERT element qua linh khí Hoả"*
-- **Stability có thể giảm thực** — Kim hit thẳng đan = stability drop
-- **First fail OK**: NPC hint stronger, retry with: *"Đặt linh khí Hoả TRƯỚC đan để chuyển Kim → Hoả"*
-- **Reward**: unlock **base camp** + welcome tour
+- **#1 "Khai Đan"** (5-7 phút): Teach physics + linh khí placement. Stability frozen. Reward: Cổ vật "Sư Phụ Truyền Đan". Detail: `acts/act-1/nodes/khai-dan/`
+- **#2 "Tương Sinh"** (7-10 phút): Introduce Thuỷ + tương sinh. Reward: 10 Linh Đan. Detail: `acts/act-1/nodes/tuong-sinh/`
+- **#3 "Tương Khắc"** (10-12 phút): Introduce Kim + tương khắc + routing. First real fail possible. Reward: unlock base camp. Detail: `acts/act-1/nodes/tuong-khac/`
 
 ### Base camp welcome tour (~5 phút)
 
@@ -138,135 +109,9 @@ Format: **Slay-the-Spire style node map**, KHÔNG Diablo character walk-around.
 
 Per-act: **10-12 nodes total** (3-5 pháp trận + 2-4 NPC + 1-2 side + 1 boss).
 
-### 2.3 Act 1: Khởi Đan (detail)
+### 2.3-2.7 Per-Act detail
 
-**Map**: Sơn Mộc Cốc — valley với rừng trúc, đình am Sư Phụ ở đỉnh.
-
-**Story arc**: 
-> *Bạn là đệ tử mới của Sư Phụ. Sống ở am tu hành heo hút. Sư Phụ trao cho bạn Lò Luyện Đan gia truyền và dạy nghệ thuật luyện linh đan...*
-
-**Nodes**:
-1. 🏯 **Am Sư Phụ** (hub)
-2. ● Pháp Trận #1: Khai Đan (tutorial)
-3. 🧙 **Đạo Sĩ Mộc Linh** — NPC dạy về Mộc element + cho 3 Linh Đan reroll
-4. ● Pháp Trận #2: Tương Sinh
-5. 🌳 **Lão Tiều Phu** (side) — câu chuyện ngắn, reward 1 linh khí Mộc Phàm random
-6. ● Pháp Trận #3: Tương Khắc
-7. 👹 **BOSS: Tâm Ma Sơn Mộc** — small Tâm Ma, attack pattern dễ học
-8. ⟶ Cổng Act 2
-
-**Systems unlocked**:
-- Linh khí placement (tutorial)
-- Linh Đan reroll currency
-- Base camp access
-
-**Reward Act 1 clear**: +1 Lò Thân slot upgrade, story page unlock.
-
-### 2.4 Act 2: Ngũ Hành Khai Mông (detail)
-
-**Map**: Ngũ Hành Sơn — 5 peak panorama, mỗi peak 1 element.
-
-**Story arc**: 
-> *Sư Phụ giao nhiệm vụ: leo 5 ngọn núi tương ứng Ngũ Hành. Mỗi ngọn có 1 đạo sĩ tu hành dạy 1 nguyên tố. Học đủ Ngũ Hành mới hiểu được tương sinh tương khắc thực sự.*
-
-**Nodes** (~12):
-1. 🏯 Chân núi (hub)
-2-6. 🧙×5 **5 đạo sĩ tu hành**: Kim Tổ, Mộc Tổ, Thuỷ Tổ, Hoả Tổ, Thổ Tổ (mỗi NPC dạy 1 element + cho 1 linh khí element đó)
-7-10. ●×4 Pháp Trận element specific (1 cho mỗi element trừ Mộc đã quen)
-11. 🌳 Optional: ẩn sĩ thân thiện ở giữa núi (cho Tinh Hoa Ngũ Hành sample)
-12. 👹 **BOSS: Dị Tượng Ngũ Hành** — boss random switch element mỗi 5s, force adapt
-13. ⟶ Cổng Act 3
-
-**Systems unlocked**:
-- All 5 elements + Vô Cực
-- Tinh Hoa Ngũ Hành craft (Đan Lư Bàn)
-- Phong Ấn intro (first time use = 3s confirmation modal explaining 4 outcomes)
-- Tâm Ma mod 1 slot (pre-pháp-trận chọn 1 modifier)
-
-### 2.5 Act 3: Đan Lư Tu Luyện (detail)
-
-**Map**: Hoả Sơn Lò Cốc — volcanic, lò luyện đan cổ xưa.
-
-**Story arc**: 
-> *Lò gia truyền bị nứt sau Boss Ngũ Hành. Player phải tìm Lò Thần — bậc đại sư xưa kia luyện ra Lò — sửa Lò. Trên đường đến Lò Thần, học cách affix linh khí, craft bench, mở các vendor cấp cao.*
-
-**Nodes**:
-1. 🏯 Hub: lò bị nứt
-2. 🧙 **Đan Sư Hắc Bạch** — dạy bench craft
-3. ● Pháp Trận #1: rare drop Lò part (intro affix)
-4. 🧙 **Lão Hồ Ly** (Đạo Quán bây giờ mở full)
-5. ● Pháp Trận #2: gather affix material
-6. 🧙 **Tổ Sư Bất Tử** — first appearance, sell Cổ vật (đắt cắt cổ)
-7. 🌳 Optional: cave với hidden Linh Đan stash
-8. ● Pháp Trận #3: boss-level Tâm Ma scout
-9. 🧙 **Lò Thần** — repair lò, unlock 8 slot
-10. 👹 **BOSS: Tâm Ma Hoả Sơn** — high intensity boss, test affix knowledge
-11. ⟶ Cổng Act 4
-
-**Systems unlocked**:
-- Lò 4 → 8 slot
-- Full affix system (prefix/suffix/implicit)
-- Bench craft + Tẩy Đan (Annul)
-- Đạo Quán full (3 vendors)
-- Tâm Ma mod 2 slots
-
-### 2.6 Act 4: Đan Pháp + Đạo Phái (detail)
-
-**Map**: Bích Hải Đảo (island) → Vô Cực Đỉnh (cosmic peak). 2-stage map.
-
-**Story arc**: 
-> *Trên Bích Hải Đảo, player gặp Pháp Sư Bản Đồ — dạy tạo Đan Pháp riêng. Học cách compose Nguyên Liệu + Đan Dược splash. Sau khi tự luyện được Đan Pháp đầu tiên, đến Vô Cực Đỉnh đối mặt "Tâm Ma Đại Sát" — chọn đường tu hành.*
-
-**Nodes** (~14, longer act):
-1. 🏯 Bích Hải port
-2. 🧙 **Pháp Sư Bản Đồ** — dạy Đan Pháp
-3. ● Pháp Trận #1: drop first Đan Pháp tự design
-4. 🧙 **Linh Hoa Thương Nhân** — bán Nguyên Liệu basic
-5. ● Pháp Trận #2: dùng Đan Pháp craft + Nguyên Liệu
-6. 🌳 Optional: thuyền câu cá → mini-game, reward Nguyên Liệu rare
-7. ● Pháp Trận #3: test composition skill
-8. 🧙 **Cao Tổ** — final mentor before Đạo Phái
-9. ● Pháp Trận #4: pre-Đạo-Phái challenge
-10. ⟶ Transition: Vô Cực Đỉnh
-11. 🧙 **Sư Phụ** appears at peak — speech about choosing path
-12. 👹 **BOSS: "Tâm Ma Đại Sát"** — boss thay đổi attack pattern theo Đạo Phái player sẽ chọn
-13. ⟡ **Đạo Phái chọn lựa**: 5 paths (Thái Cực / Cửu Âm / Linh Sơn / Tử Vi / Vô Cực) — không đổi
-14. ⟶ Cổng Act 5
-
-**Systems unlocked**:
-- Đan Pháp craft (basic 5 variants intro: Tiêu Chuẩn, Tử Sinh, Cổ Đan Lò, Long Cung, Vô Cực)
-- Nguyên Liệu 4 slot
-- Đan Dược splash 3 slot
-- Tâm Ma mod 3 slot
-- **Đạo Phái** (Ascendancy) chọn lựa
-
-### 2.7 Act 5: Khai Sơn Hà (detail)
-
-**Map**: Hồn Nguyên Điện — cosmic temple, floating in void.
-
-**Story arc**: 
-> *Sau khi chọn Đạo Phái, Sư Phụ tiết lộ bí mật: Lò luyện đan thật ra là một mảnh của **Sơn Hà Đồ Lệnh** cổ truyền. Bằng cách defeat Hỗn Nguyên Tâm Ma Vương — boss cuối campaign — player thu được Sơn Hà Đồ Lệnh hoàn chỉnh, mở khoá toàn bộ universe of bí cảnh.*
-
-**Nodes** (~12):
-1. 🏯 Hồn Nguyên Điện entrance
-2. 🧙 **Sư Phụ final speech** — lore reveal
-3. ● Pháp Trận #1: meet Tâm Ma boss types (Dị Tượng + Tâm Ma + Thiên Kiếp wave)
-4. 🧙 **Tổ Sư Bất Tử** — reveals true identity (the original creator of Sơn Hà Đồ Lệnh)
-5. ● Pháp Trận #2: high-intensity challenge
-6. 🌳 Optional: secret library (lore pages + 1 Cổ vật roll)
-7. ● Pháp Trận #3: Đạo Phái synergy test (uses new ascendancy)
-8. 🧙 **Lão Bà Thiên Cơ** — first appearance, intro Thiên Cơ Quẻ meta
-9. 🧙 **Pháp Sư Bản Đồ** — gives Đan Pháp variants 5 còn lại (Hỗn Nguyên, Thiên Kiếp, Tâm Ma, Cửu Tiêu, Diêm Phủ)
-10. ● Pháp Trận #4: pre-final
-11. 👹 **BOSS: Hỗn Nguyên Tâm Ma Vương** — multi-phase boss, climax of campaign
-12. 🎁 **REWARD: Sơn Hà Đồ Lệnh** → Atlas opens
-
-**Systems unlocked**:
-- Sơn Hà Đồ Lệnh (Map Device)
-- Atlas tree access (Sơn Hà Đồ)
-- Thiên Cơ Quẻ meta
-- All 10 Đan Pháp variants
-- Cổ vật consecrate slot (3 max, unlock level 70 later)
+> Sections §2.3-§2.7 dissolved 2026-05-20 sang per-entity bundle. Xem `docs/content/acts/<n>/overview.md` cho per-Act node maps, story arcs, systems unlocked, và boss encounters.
 
 ---
 
@@ -465,17 +310,7 @@ Optional setting "Show cultivation footnote": pop-up explains Ngũ Hành, đạo
 
 ## 8. Per-Act narrative arc
 
-Story arc tied to player's tu hành journey:
-
-| Act | Theme | Emotional beat |
-|---|---|---|
-| **1** | "Tôi là đệ tử mới" | Discovery, awe |
-| **2** | "Tôi học hiểu Ngũ Hành" | Mastery, understanding |
-| **3** | "Lò vỡ — tôi phải sửa" | Struggle, repair |
-| **4** | "Tôi chọn đường tu hành riêng" | Identity, commitment |
-| **5** | "Sư Phụ truyền lại bí mật tối cao" | Revelation, ascension |
-
-→ Player **CARE** về tutorial vì có story arc, không phải dry training.
+> Section dissolved 2026-05-20 sang per-entity bundle. Xem `docs/content/acts/<n>/overview.md` cho per-Act emotional arc và theme.
 
 ---
 

@@ -1,6 +1,6 @@
 # Quai Phong Ấn Tốc (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa phong ấn tốc treo lủng lẳng trên quai trái lò, tua rua vàng phủ chu sa. Một lần mỗi ván, phong ấn miễn phí một linh khí ngẫu nhiên mà không tốn đan dược.
 

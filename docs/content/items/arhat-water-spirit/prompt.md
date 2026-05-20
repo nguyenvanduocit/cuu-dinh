@@ -1,6 +1,6 @@
 # Tượng La Hán Thuỷ Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán khoác áo rũ như dòng nước chảy, trước ngực treo một tấm gương phản chiếu mặt hồ. Tay bắt ấn giải trừ, xua tan Tâm Ma mỗi bảy lần linh lực chạm vào.
 

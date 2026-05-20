@@ -1,6 +1,6 @@
 # Vạn Chiếu Quy Tôn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity theo số linh khí cùng nguyên tố — nét glyph hình vạn ánh quy về, nét tỏa ra nhiều hướng rồi hội tụ.
 

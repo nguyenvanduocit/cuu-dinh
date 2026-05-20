@@ -1,6 +1,6 @@
 # Phong Toả Tinh Hoa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đảm bảo ít nhất 1 Tinh Hoa Ngũ Hành drop mỗi pháp trận — nét glyph hình phong toả tinh hoa, tinh hoa được phong ấn bảo đảm.
 

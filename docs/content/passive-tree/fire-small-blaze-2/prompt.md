@@ -1,6 +1,6 @@
 # Liệt Hoả II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ liệt Hoả cấp 2 — cường độ liệt hoả tăng, glyph đôi chấm lửa đỏ rực.
 

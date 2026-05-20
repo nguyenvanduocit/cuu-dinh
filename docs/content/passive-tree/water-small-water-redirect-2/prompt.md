@@ -1,6 +1,6 @@
 # Vòng Xoáy II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ vòng xoáy cấp 2 — xoáy mạnh hơn, glyph đôi xoáy xanh thẳm ngược chiều.
 

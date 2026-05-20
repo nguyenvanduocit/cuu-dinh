@@ -1,6 +1,6 @@
 # Nham Phá Va Chạm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phá giáp linh khí khác — nét glyph hình đá vỡ toé, nham thạch phá tan.
 

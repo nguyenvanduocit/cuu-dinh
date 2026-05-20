@@ -1,6 +1,6 @@
 # Xích Liên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực nhảy chuỗi sang linh khí gần nhất — nét glyph hình mắt xích liên kết, chuỗi mắt nối tiếp.
 

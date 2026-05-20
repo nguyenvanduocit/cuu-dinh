@@ -1,6 +1,6 @@
 # Lạnh Băng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma nhẹ lạnh lẽo — Lạnh Băng đóng băng linh khí 2 giây sau 3 va chạm, mất tempo nhưng tích intensity cao hơn. riskLevel low: tinh thể băng nhỏ, gần như không nứt.
 

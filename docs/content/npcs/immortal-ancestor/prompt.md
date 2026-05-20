@@ -1,6 +1,6 @@
 # Tổ Sư Bất Tử — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Looks young (mid-20s), white hair flowing, ethereal robes, eyes ancient (1000+ years), barefoot. Palette: twilight purple + gold.
 

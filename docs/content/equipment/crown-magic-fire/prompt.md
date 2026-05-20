@@ -1,6 +1,6 @@
 # Đỉnh Linh Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh luyện đan được gia trì Hoả khí, toả nhiệt đỏ rực xung quanh miệng đỉnh. Mỗi linh lực phun ra đều mang sắc Hoả nguyên tố, lệch hướng về phía nam.
 

@@ -1,6 +1,6 @@
 # Chuông Âm Vang — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chuông tạo xung âm thanh AOE định kỳ — sigil hình chuông với sóng âm nổ tung đồng tâm.
 

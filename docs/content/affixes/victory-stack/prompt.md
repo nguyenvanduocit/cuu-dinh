@@ -1,6 +1,6 @@
 # Cao Trường Toàn Thắng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity tích lũy theo ván win — nét glyph hình chiến thắng leo thang, cờ chiến thắng dần cao.
 

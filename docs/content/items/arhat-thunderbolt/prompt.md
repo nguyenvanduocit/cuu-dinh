@@ -1,6 +1,6 @@
 # Tượng La Hán Lôi Đình — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán tay phải chỉ thẳng lên trời, trên ngón tay có tia lôi Kim xanh lóe. Mỗi bảy giây, tiếng sấm nhỏ kêu — thiên kiếp rơi xuống đầu linh khí Tâm Ma của đối phương.
 

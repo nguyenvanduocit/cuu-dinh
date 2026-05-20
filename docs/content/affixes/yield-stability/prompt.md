@@ -1,6 +1,6 @@
 # Nhường Bộ Ổn Định — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hấp thụ tương khắc hit chuyển thành heal stability — nét glyph hình nhường bộ chuyển hoá, nét mềm dẻo hấp thu.
 

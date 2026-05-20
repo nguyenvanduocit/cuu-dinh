@@ -1,6 +1,6 @@
 # Tượng La Hán Bồ Đề — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán ngồi thiền dưới gốc bồ đề cổ thụ, rễ cây ôm lấy tượng như bàn tay. Mỗi ván sống sót, cây bồ đề lớn thêm một chút — cường độ linh khí trong bộ tích lũy vĩnh viễn qua cả pháp trận.
 

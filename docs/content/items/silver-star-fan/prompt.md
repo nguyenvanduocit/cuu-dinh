@@ -1,6 +1,6 @@
 # Quạt Bạch Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Quạt xếp khảm bạch tinh, phất một cái sao di chuyển — Kim lực không cưỡng mà đổi hướng như nước gặp đá. Player chọn trái hoặc phải.
 

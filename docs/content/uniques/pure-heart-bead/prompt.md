@@ -1,6 +1,6 @@
 # Tịnh Tâm Linh Châu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Châu linh trắng trong như nước suối, bên trong có đốm ánh sáng xanh nhạt lơ lửng — chính là phần Tâm Ma vừa được hóa giải, đứng yên không còn khuấy động. Một lần mỗi ván, gột sạch một tâm ma debuff.
 

@@ -1,6 +1,6 @@
 # Kiếm Phân Đôi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Kiếm cắt linh lực thành 2 đường khi đi qua — sigil hình kiếm phân đôi, lưỡi kiếm tách hai nhánh.
 

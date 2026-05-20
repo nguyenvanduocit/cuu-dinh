@@ -1,6 +1,6 @@
 # Vô Cực Tâm II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ Vô Cực Tâm cấp 2 — trung tâm vô cực tăng, glyph đôi chấm tím vũ trụ.
 

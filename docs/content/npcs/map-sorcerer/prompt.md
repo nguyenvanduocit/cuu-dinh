@@ -1,6 +1,6 @@
 # Pháp Sư Bản Đồ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Middle-aged woman, scholar robes, ink-stained fingers, carries scrolls and brushes. Palette: jade green + gold.
 

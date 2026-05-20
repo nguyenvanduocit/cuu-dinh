@@ -1,6 +1,6 @@
 # Quai Hồi Sinh Phù (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù hồi sinh màu lam nhạt treo quai trái — mỗi ván cứu một linh khí vừa vỡ, hồi phục nửa độ bền mà không mất affix. Sáng xanh dịu nhẹ, tua rua bạch ngọc.
 

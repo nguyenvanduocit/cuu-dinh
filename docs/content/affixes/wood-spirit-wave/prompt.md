@@ -1,6 +1,6 @@
 # Mộc Linh Sóng Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Mộc và heal stability — nét glyph hình mộc linh sóng, lá rừng lan toả sinh lực.
 

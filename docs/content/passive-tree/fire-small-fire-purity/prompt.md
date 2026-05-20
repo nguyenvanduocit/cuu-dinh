@@ -1,6 +1,6 @@
 # Thuần Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ thuần Hoả — lửa thuần khiết không tạp chất, glyph vòng tròn lửa sạch đơn giản.
 

@@ -1,6 +1,6 @@
 # Thuỷ Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Thuỷ hành xanh thẫm như nước sâu, tăng 50% drop linh khí Thuỷ trong pháp trận — mờ đục như băng đại dương.
 

@@ -1,6 +1,6 @@
 # Thiên Kiếp Đại Cảnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: heavenly-tribulation. True endgame trial. 9 waves (Cửu Thiên Kiếp). Linh đan Thánh grade chase.
 

@@ -1,6 +1,6 @@
 # Kim Sinh Thuỷ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cầu nối Kim → Thuỷ — tương sinh Kim tạo Thuỷ, glyph hai màu vàng-xanh thẳm nối nhau trong vô cực.
 

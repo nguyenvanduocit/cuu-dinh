@@ -1,6 +1,6 @@
 # Bạch Quy Linh Bàn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Bạch Quy — bàn linh rùa trắng thiêng bảo vệ, ◆ hình thoi với mai rùa lục giác vàng trên nền đất.
 

@@ -1,6 +1,6 @@
 # Tinh Hoa Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa linh hoạt kích hoạt chuỗi, bắt buộc khắc suffix chain trigger vào linh khí — ánh bạch lam liên kết như mắt xích linh khí.
 

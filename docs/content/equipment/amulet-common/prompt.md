@@ -1,6 +1,6 @@
 # Khắc Phù Phàm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Khắc phù phẩm thường gắn trên thân lò, khắc ký hiệu ngũ hành thô sơ. Tăng năm phần trăm cường độ toàn cục, không phát linh quang.
 

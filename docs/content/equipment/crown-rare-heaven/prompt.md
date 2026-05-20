@@ -1,6 +1,6 @@
 # Đỉnh Bảo Thiên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh thiên văn trần thiết khắc văn tinh tú, cho phép đạo sĩ dẫn hướng linh lực từ xa bằng ý niệm. Viền tím lấp lánh hoa văn bùa phù tinh xảo.
 

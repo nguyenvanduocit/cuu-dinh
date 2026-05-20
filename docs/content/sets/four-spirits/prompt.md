@@ -1,6 +1,6 @@
 # Tứ Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bộ bốn linh thú hộ mệnh của Cửu Châu Đan Vực — Thanh Long (Mộc), Hắc Quy (Thuỷ), Bạch Hổ (Kim), Chu Tước (Hoả). Khi hội tụ đủ bốn tượng thiêng, khí trận Tứ Linh khai mở tại trung tâm lò, hút toàn bộ linh lực về trung tâm và kích hoạt hiệu ứng nguyên tố riêng cho từng linh thú.
 

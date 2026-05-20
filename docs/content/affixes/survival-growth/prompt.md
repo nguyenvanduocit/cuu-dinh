@@ -1,6 +1,6 @@
 # Sống Sót Tăng Trưởng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Durability tăng theo ván sống sót — nét glyph hình sống sót tăng trưởng, mầm cây vươn lên sau mỗi thử thách.
 

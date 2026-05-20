@@ -1,6 +1,6 @@
 # Phong Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma trung bình — dấu phong hoả khoá một slot linh khí, buộc phải tối ưu với ít pháp khí hơn. riskLevel medium: nứt rõ, khói vừa.
 

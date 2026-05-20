@@ -1,6 +1,6 @@
 # Châu Thanh Long — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Châu tích Mộc lực từng đợt, đến lần thứ 5 không phải châu sáng mà đan sáng thay. Heal stability +10% sau mỗi 5 lần tích.
 

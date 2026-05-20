@@ -1,6 +1,6 @@
 # Sư Phụ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Old man (~70 years), grey beard, simple cotton robe (no elaborate gold), kindly eyes, holds a wooden walking stick. Palette: ivory + imperial gold.
 

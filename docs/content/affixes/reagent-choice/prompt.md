@@ -1,6 +1,6 @@
 # Tăng Chọn Đan Dược — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thêm đan dược vào lựa chọn loot sau ván win — nét glyph hình lựa chọn đan dược, nhiều viên đan mở ra.
 

@@ -1,6 +1,6 @@
 # Tượng La Hán Bất Hoại — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán mặc áo giáp kim cương không một vết xước, tư thế trụ như núi. Durability linh khí trong bộ không hao mòn vì crit — vì giáp Bất Hoại đã chịu thay.
 

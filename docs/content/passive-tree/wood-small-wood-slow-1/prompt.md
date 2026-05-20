@@ -1,6 +1,6 @@
 # Trầm Khí I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ trầm khí — làm chậm khí Mộc, glyph mũi tên xuống xanh ngọc đơn.
 

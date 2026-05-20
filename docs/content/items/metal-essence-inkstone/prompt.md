@@ -1,6 +1,6 @@
 # Nghiên Mực Kim Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nghiên mực khắc từ đá kim tinh, linh lực Kim chạm vào để lại vết chain damage 3 giây. Bề mặt phẳng, mực tím lấm tấm bột kim.
 

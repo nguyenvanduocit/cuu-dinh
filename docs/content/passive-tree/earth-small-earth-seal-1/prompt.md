@@ -1,6 +1,6 @@
 # Cố Phong I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cố phong — củng cố Phong Ấn bằng Thổ khí, glyph dấu phong ấn đá nâu đơn.
 

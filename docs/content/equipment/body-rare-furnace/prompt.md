@@ -1,6 +1,6 @@
 # Thân Bảo Đan Lư — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thân lò đan lư phẩm Bảo, bề mặt khảm ngọc bích và chu sa. Board mở rộng đáng kể, tỉ lệ loot rơi tăng thêm năm phần trăm nhờ trường linh lực dày đặc.
 

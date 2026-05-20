@@ -1,6 +1,6 @@
 # Đan Đạo Thuỷ Khởi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút khởi đầu Thuỷ hệ — cổng tròn mở ra con đường tu luyện Thuỷ Đạo, ánh xanh thẳm lạnh lẽo huyền bí toả ra từ vòng tròn linh khai.
 

@@ -1,6 +1,6 @@
 # Khắc Phù Thổ I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ khắc phù Thổ — ký hiệu phù chú viền đá nhỏ đơn giản, compact glyph icon.
 

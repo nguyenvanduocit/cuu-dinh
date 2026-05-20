@@ -1,6 +1,6 @@
 # Tượng La Hán Hồn Cốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán hai tay nâng bát ngũ cốc phát ánh sáng vàng, khuôn mặt trầm mặc. Bát như bình thông đáy — linh khí trong bộ chia sẻ cường độ với nhau qua hình ảnh bát cơm chung.
 

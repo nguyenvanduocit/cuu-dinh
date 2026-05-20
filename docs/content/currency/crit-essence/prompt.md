@@ -1,6 +1,6 @@
 # Tinh Hoa Crit — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa chí mạng nhọn sắc như mũi tên, bắt buộc khắc suffix tỉ lệ chí mạng vào linh khí — ánh đỏ chu sa bùng lên ở đỉnh nhọn.
 

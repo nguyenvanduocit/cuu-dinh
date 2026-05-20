@@ -1,6 +1,6 @@
 # Đèn Lồng Đỏ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn đỏ treo trước cửa lò — ai qua cũng biết: đây là Hoả. Linh lực vào đây không còn là của mình nữa. Chuyển hoá tất cả linh lực qua đây → Hoả.
 

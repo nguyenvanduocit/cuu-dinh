@@ -1,6 +1,6 @@
 # Hấp Thu Linh Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Heal Lò Thọ theo hit — nét glyph hình hấp thu linh lực, vòng hút năng lượng vào tâm.
 

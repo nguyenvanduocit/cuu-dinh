@@ -1,6 +1,6 @@
 # Nắp Thần Đại Đan Bí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nắp Đại Đan Bí huyền thoại — ba ô modifier, bảo đảm boss drop tối thiểu phẩm Bảo. Nắp đúc vàng đặc, bùa đại đan khắc nổi, ember cam tràn quanh mép nắp như ngọn lửa bùng phát.
 

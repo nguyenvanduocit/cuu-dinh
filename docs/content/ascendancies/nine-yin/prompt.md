@@ -1,6 +1,6 @@
 # Cửu Âm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đạo phái Cửu Âm — chín tầng âm tối Thuỷ hệ huyền bí, biểu tượng chín vòng tròn âm xoáy sâu thẳm xanh đêm trong khung huy hiệu cổ đại.
 

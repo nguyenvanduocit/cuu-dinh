@@ -1,6 +1,6 @@
 # Tất Diệu Bùng Cháy — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Hoả và diệt boss Tâm Ma — nét glyph hình bùa diệt tâm ma trong lửa bùng cháy.
 

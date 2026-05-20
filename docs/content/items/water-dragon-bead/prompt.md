@@ -1,6 +1,6 @@
 # Châu Thuỷ Long — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Long Vương nhảy từ sông này sang sông khác không cần cầu. Châu chain — linh lực chạm vào jump tới linh khí gần nhất, không cần cầu, không cần thuyền.
 

@@ -1,6 +1,6 @@
 # Tích Hoả II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích Hoả cấp 2 — tích trữ lửa mạnh hơn, glyph cuộn xoáy đỏ năng lượng cao.
 

@@ -1,6 +1,6 @@
 # Vô Lượng Cuồng Sát — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity tăng theo số linh khí trên board — nét glyph hình vô lượng cuồng sát, nét nhân lên không giới hạn.
 

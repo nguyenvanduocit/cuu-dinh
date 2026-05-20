@@ -1,6 +1,6 @@
 # Hoa Chậm Tốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoa làm chậm linh lực nhưng tăng intensity khi rời — sigil hình hoa Mộc với nét chậm rồi bùng.
 

@@ -1,6 +1,6 @@
 # Đỉnh Hỗn Nguyên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Trong pháp trận, linh đan có thể thay áo một lần. Đỉnh này là người may chiếc áo đó — không hỏi vì sao cần thay, chỉ may cho đúng. Convert linh đan element 1x/ván. Bảo phẩm.
 

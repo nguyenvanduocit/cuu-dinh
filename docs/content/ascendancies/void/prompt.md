@@ -1,6 +1,6 @@
 # Vô Cực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đạo phái Vô Cực — vượt khỏi Ngũ Hành vào cõi hư vô tuyệt đối, biểu tượng lỗ đen vũ trụ tím triều nuốt chửng mọi nguyên tố trong khung huy hiệu hư không huyền bí.
 

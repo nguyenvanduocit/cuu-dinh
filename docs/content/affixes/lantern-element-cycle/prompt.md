@@ -1,6 +1,6 @@
 # Đèn Nguyên Tố Chuyển — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn đổi nguyên tố phát sáng theo vòng Ngũ Hành — sigil hình đèn lồng với ngũ giác xoay chuyển.
 

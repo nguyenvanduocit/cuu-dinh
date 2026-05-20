@@ -1,6 +1,6 @@
 # Phụng Hoàng Liệt Diệm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Phụng Hoàng — bóng chim phượng cháy rực, ◆ hình thoi bao bọc đôi cánh lửa huyền thoại.
 

@@ -1,6 +1,6 @@
 # Tử Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Khí Tử Hành đen lạnh ngưng tụ thành cục, chuyển toàn bộ linh lực ngẫu nhiên trong pháp trận thành Thuỷ — nguy hiểm cho build không phải Thuỷ hành.
 

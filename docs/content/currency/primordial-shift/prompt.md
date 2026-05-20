@@ -1,6 +1,6 @@
 # Hỗn Nguyên Biến — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma trung bình hỗn mang — Hỗn Nguyên Biến hoán đổi ngẫu nhiên vị trí mọi linh khí trên board đầu mỗi ván, không thể lưu cấu hình. riskLevel medium: xoáy hỗn nguyên, nứt vừa.
 

@@ -1,6 +1,6 @@
 # Đỉnh Bạch Kim — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh trắng như tuyết Ngũ Hành Sơn, chậm Mộc lực 50% khi tiếp xúc. Bề mặt bóng lạnh, viền xanh nhạt Ma phẩm.
 

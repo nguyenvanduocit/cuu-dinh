@@ -1,6 +1,6 @@
 # Yên Tĩnh Nội Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Không bị AOE và kháng nhiễm Tâm Ma — nét glyph hình yên tĩnh nội lực, vòng tịnh lặng hoàn toàn.
 

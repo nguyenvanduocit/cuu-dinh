@@ -1,6 +1,6 @@
 # Biến Thể Linh Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đổi nguyên tố linh lực thành tương sinh — nét glyph hình biến thể linh lực, vòng chuyển hoá nguyên tố.
 

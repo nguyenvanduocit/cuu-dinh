@@ -127,8 +127,7 @@ Recommended naming:
 4. Build `$CODEX_PROMPT` from the template above (composed prompt + output requirements + absolute save path).
 5. Generate by running `codex exec --sandbox workspace-write "$CODEX_PROMPT"` from the project root — one call per image.
 6. Verify the file exists at the expected path and is a non-empty RGBA PNG (`file <path>` should report `RGBA`).
-7. (Recommended) Use Playwriter to open the new images in the user's Chrome via local HTTP server for immediate visual review.
-8. Ask for feedback before generating the next batch.
+7. Ask for feedback before generating the next batch.
 
 ---
 

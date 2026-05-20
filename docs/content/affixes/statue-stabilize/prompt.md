@@ -1,6 +1,6 @@
 # Tượng Ổn Định — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tượng tăng stability tối đa linh đan khi còn nguyên — sigil hình tượng đứng vững với nét cân bằng.
 

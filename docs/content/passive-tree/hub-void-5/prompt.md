@@ -1,6 +1,6 @@
 # Vô Cực Tâm V — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ Vô Cực Tâm cấp 5 — trung tâm vô cực đỉnh, glyph năm chấm tím vũ trụ ngũ phương hội tụ.
 

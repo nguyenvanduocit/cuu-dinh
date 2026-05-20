@@ -1,6 +1,6 @@
 # Đỉnh Phân Nguyên Tố — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh làm chậm linh lực ngược nguyên tố — sigil hình đỉnh phân chia nguyên tố với mũi tên chậm.
 

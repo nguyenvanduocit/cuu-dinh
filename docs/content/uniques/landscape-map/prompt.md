@@ -1,6 +1,6 @@
 # Bản Đồ Sơn Hà — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bản đồ phong thuỷ cổ vẽ trên lụa vàng, sơn hà cửu châu thu vào trong lòng bàn tay. Mở ra — board luyện đan rộng thêm năm mươi phần trăm, năm slot xuất hiện thêm, Tâm Ma nương theo địa thế mà tràn vào.
 

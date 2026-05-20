@@ -1,6 +1,6 @@
 # U Minh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma tối tăm — U Minh tắt sáng toàn board, chỉ thấy 120px quanh linh đan. riskLevel medium: nền đen tuyệt đối, con mắt lờ mờ trong bóng tối.
 

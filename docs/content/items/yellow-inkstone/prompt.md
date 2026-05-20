@@ -1,6 +1,6 @@
 # Nghiên Mực Hoàng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mỗi bước linh lực để lại bụi vàng — không phải vàng thật, nhưng vận may nhìn thấy bụi vàng biết: đây là lối đi đúng. Trail bụi vàng tăng loot drop rate.
 

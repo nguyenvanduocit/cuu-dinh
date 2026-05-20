@@ -1,6 +1,6 @@
 # Nghiên Mực Hàn Băng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mỗi lần nghiên chạm linh lực, vũng nước nhỏ hình thành — trong, lạnh, sâu hơn trông. Linh lực ngâm mình rồi mới đi tiếp, nặng hơn khi đến. Trail + charge.
 

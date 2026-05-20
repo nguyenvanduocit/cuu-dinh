@@ -1,6 +1,6 @@
 # Châu Hoàng Thổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đất không vội. Châu giữ linh lực lại một giây, rồi đẩy đi với lực của người đã nghĩ xong. Stagger: dừng 1s rồi tiếp tục với +30% intensity.
 

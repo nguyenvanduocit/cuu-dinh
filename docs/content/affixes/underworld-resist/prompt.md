@@ -1,6 +1,6 @@
 # Kháng U Minh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm Tâm Ma loot penalty — nét glyph hình kháng u minh, ánh sáng chặn bóng âm phủ.
 

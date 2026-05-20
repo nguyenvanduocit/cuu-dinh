@@ -1,6 +1,6 @@
 # Lan Truyền — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Lan damage sang linh khí lân cận — nét glyph hình sóng lan toả đều từ tâm.
 

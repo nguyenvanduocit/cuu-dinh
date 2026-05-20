@@ -1,6 +1,6 @@
 # Song Phi Nhẫn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tạo linh lực phụ Kim sau va chạm — nét glyph hình song phi nhẫn Kim, hai lưỡi đối xứng vút đi.
 

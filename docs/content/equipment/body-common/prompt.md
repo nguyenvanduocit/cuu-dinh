@@ -1,6 +1,6 @@
 # Thân Phàm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thân lò luyện đan bình thường, đúc bằng đồng thô, khắc bát quái sơ khai. Không có cộng hưởng nguyên tố, chứa được tám điểm neo linh khí chuẩn.
 

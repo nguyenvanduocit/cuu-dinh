@@ -1,6 +1,6 @@
 # Hùng Mạnh Bá Phá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Crit AOE — nét glyph hình bá phá crit nổ tung, nét sắc bén tỏa bùng AOE.
 

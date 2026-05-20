@@ -1,6 +1,6 @@
 # Đế Linh Cứu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chân đế khắc phù cứu hộ — khi linh lực đến đáy, năm mươi phần trăm cơ hội linh khí bật ngược lên đỉnh board. Phát sáng lam nhạt ở gờ ba chân.
 

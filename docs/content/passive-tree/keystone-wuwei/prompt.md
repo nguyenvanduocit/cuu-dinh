@@ -1,6 +1,6 @@
 # Vô Vi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt Vô Vi — đạo pháp tự nhiên không can thiệp, ◇ hình thoi lớn trống rỗng thanh tịnh với vô vi tịnh không tím triều.
 

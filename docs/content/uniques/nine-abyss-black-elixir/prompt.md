@@ -1,6 +1,6 @@
 # Cửu U Hắc Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hộp đen tuyền đựng đan hắc luyện ở chín tầng u tối, bề mặt hộp phủ sương lạnh và rỉ nước đen. Mạnh vì không sợ — mỗi ván dùng, Lò trả giá mười phần trăm sinh lực, vì không có ánh sáng nào mà không tiêu hao bóng tối làm nhiên liệu.
 

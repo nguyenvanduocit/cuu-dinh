@@ -1,6 +1,6 @@
 # Bền Vững Thủ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng durability và giảm tương khắc damage — nét glyph hình thủ bền vững, tấm khiên dày bền.
 

@@ -1,6 +1,6 @@
 # Giảm Nguyên Liệu Phí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm cost Nguyên Liệu vào pháp trận — nét glyph hình giảm phí nguyên liệu, cân phí giảm nhẹ.
 

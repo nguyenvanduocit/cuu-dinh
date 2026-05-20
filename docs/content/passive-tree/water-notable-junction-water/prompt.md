@@ -1,6 +1,6 @@
 # Đạo Phái Thuỷ Môn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable cửa Thuỷ Đạo — ◆ hình thoi nhỏ toả hào quang xanh thẳm, giao điểm các đạo sĩ thuộc phái Thuỷ Môn.
 

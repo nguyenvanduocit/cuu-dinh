@@ -1,6 +1,6 @@
 # Hoả Bộc II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ Hoả bộc cấp 2 — vụ nổ lửa lớn hơn, glyph tia chớp đôi đỏ rực.
 

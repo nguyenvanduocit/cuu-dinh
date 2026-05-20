@@ -1,6 +1,6 @@
 # Đan Lư Càn Khôn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh luyện đan tổ truyền đúc từ tám mảnh vỡ, mỗi mảnh tích ký ức riêng của một thế hệ. Mỗi ván sống sót, đỉnh tặng lại một chút tinh hoa — affix tier của một linh khí nâng lên vĩnh viễn.
 

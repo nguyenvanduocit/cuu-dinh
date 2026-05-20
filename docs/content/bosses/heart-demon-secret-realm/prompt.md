@@ -1,6 +1,6 @@
 # Tâm Ma Bí Cảnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: heart-demon. Boss = player's own Lò mirror (build-aware). AI reads player save data and counters. Different every player.
 

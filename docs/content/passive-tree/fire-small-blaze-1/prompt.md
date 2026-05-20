@@ -1,6 +1,6 @@
 # Liệt Hoả I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ liệt Hoả cấp 1 — cường độ liệt hoả cơ bản, glyph chấm lửa nhỏ đỏ đơn.
 

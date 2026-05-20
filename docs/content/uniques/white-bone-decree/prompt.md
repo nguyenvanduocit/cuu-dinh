@@ -1,6 +1,6 @@
 # Bạch Cốt Lệnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thẻ lệnh xương trắng khắc bằng máu chu sa, hình đầu lâu nhỏ ở góc như con dấu Vô Thường. Lệnh của Bạch Cốt không phải lệnh phục sinh — là lệnh nhắc rằng linh khí đã hi sinh xứng đáng sống thêm một lần.
 

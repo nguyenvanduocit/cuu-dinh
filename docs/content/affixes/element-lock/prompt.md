@@ -1,6 +1,6 @@
 # Cố Định Nguyên Tố — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh khí không thể bị nhiễm và đổi nguyên tố — nét glyph hình nguyên tố bị khóa, ổ khóa phong ấn nguyên tố.
 

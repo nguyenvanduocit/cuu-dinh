@@ -1,6 +1,6 @@
 # Tinh Hoa Mệnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa ổn định linh mệnh màu vàng nhạt ấm áp, bắt buộc khắc suffix ổn định linh đan vào linh khí và reroll affix còn lại.
 

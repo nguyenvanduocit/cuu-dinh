@@ -1,6 +1,6 @@
 # Đồ Sương Tâm Ma Khắc (Phải) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bản phải kháng Tâm Ma — đối xứng với nhẫn trái. Hai nhẫn cùng trang bị giảm bốn mươi phần trăm thời gian debuff.
 

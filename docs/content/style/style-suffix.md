@@ -1,6 +1,6 @@
 # STYLE SUFFIX — single source of truth
 
-> Chuỗi style chung **append vào cuối mọi prompt** — `prompt.md` trong `docs/content/` và file trong `docs/art-prompts/`. Đổi ở đây = đổi cả bộ. Nguồn: `docs/art-direction.md`.
+> Chuỗi style chung **append vào cuối mọi `prompt.md`** trong `docs/content/`. Đổi ở đây = đổi cả bộ. Nguồn: `docs/art-direction.md`.
 
 ## STYLE SUFFIX (chép nguyên văn)
 

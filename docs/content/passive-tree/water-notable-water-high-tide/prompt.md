@@ -1,6 +1,6 @@
 # Thuỷ Triều Linh Mạch — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable linh mạch thuỷ triều — mạch linh thuỷ theo triều dâng, ◆ hình thoi với sóng mạch xanh thẳm tuần hoàn.
 

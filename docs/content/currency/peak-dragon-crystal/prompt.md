@@ -1,6 +1,6 @@
 # Đỉnh Long Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Đỉnh Long cực phẩm trắng vàng rực rỡ, boss có 9 giai đoạn liên tiếp — siêu boss marathon chỉ dành cho đạo sĩ mạnh nhất.
 

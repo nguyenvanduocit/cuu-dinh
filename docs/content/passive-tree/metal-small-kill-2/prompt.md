@@ -1,6 +1,6 @@
 # Sắc Khí II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ sắc khí cấp 2 — sắc bén tăng, glyph đôi lưỡi dao vàng.
 

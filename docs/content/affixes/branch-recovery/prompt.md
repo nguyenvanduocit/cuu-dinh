@@ -1,6 +1,6 @@
 # Cành Hồi Phục — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực Mộc qua Cành heal stability linh đan — sigil hình cành Mộc chữa lành, nhánh lá xanh tươi.
 

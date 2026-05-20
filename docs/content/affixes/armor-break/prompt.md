@@ -1,6 +1,6 @@
 # Phá Niêm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm defense linh khí lân cận — nét glyph hình khiên bị rạn nứt, vỡ từ tâm ra.
 

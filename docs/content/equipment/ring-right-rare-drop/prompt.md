@@ -1,6 +1,6 @@
 # Đồ Sương Loại Đan Hiếm (Phải) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bản phải của nhẫn hiếm đan — đối xứng, cùng hiệu ứng tăng drop. Hai nhẫn cùng trang bị nhân đôi xác suất gặp linh khí hiếm.
 

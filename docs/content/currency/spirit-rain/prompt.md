@@ -1,6 +1,6 @@
 # Mưa Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Vial nhỏ đựng mưa linh khí, linh lực rơi nhanh gấp 1.5 lần và loot toàn pháp trận tăng 30% — cảm giác như trận mưa vàng đổ xuống board.
 

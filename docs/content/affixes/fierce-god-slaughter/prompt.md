@@ -1,6 +1,6 @@
 # Hung Thần Ác Sát — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Crit chance và intensity — nét glyph hình hung thần ác sát, đòn chí tử hình chữ thập phá.
 

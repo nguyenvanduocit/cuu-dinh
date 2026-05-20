@@ -1,6 +1,6 @@
 # Phong Ấn Nỗ Lực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoàn trả đan dược khi Phong Ấn thất bại — nét glyph hình nỗ lực hoàn nguyên, vòng quay trả lại.
 

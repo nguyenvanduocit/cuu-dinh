@@ -1,6 +1,6 @@
 # Hộp Đất Cổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực vào hộp đất không ra trong pháp trận — tích góp như người nông dân tích từng hạt lúa. Ván cuối mở ra: một vụ gặt. Long-store: release ×3 khi ván kết thúc. Bảo phẩm.
 

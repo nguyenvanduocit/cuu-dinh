@@ -1,6 +1,6 @@
 # Đèn Băng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn không sáng — đèn lạnh. Thuỷ lực qua đây, linh khí xung quanh đứng im 1 giây như ao đông giữa mùa đông Đông Bắc. Counter-element slow.
 

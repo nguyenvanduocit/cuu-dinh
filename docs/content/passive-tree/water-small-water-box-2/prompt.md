@@ -1,6 +1,6 @@
 # Tăng Bậc II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tăng bậc cấp 2 — nâng bậc mạnh hơn, glyph đôi bậc thang xanh lên cao.
 

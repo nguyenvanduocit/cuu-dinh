@@ -1,6 +1,6 @@
 # Vòng Cổ Tổ Phụ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Vòng cổ ngọc bích xâu chuỗi vàng, khắc huy hiệu tông môn của tổ phụ. Đeo vào trong pháp trận, Lò nhận ra chủ cũ — năm cấp tu hành ban cho không cần hỏi lý do.
 

@@ -1,6 +1,6 @@
 # Vô Nhiễm I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ vô nhiễm — miễn dịch ô nhiễm Mộc, glyph khiên xanh ngọc đơn giản.
 

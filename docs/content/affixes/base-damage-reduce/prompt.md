@@ -1,6 +1,6 @@
 # Giảm Thiệt Hại Nền — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm damage từ linh lực trung tính — nét glyph hình giảm thiệt hại nền, lớp nền hấp thu trung hoà.
 

@@ -1,6 +1,6 @@
 # Tích Sinh II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích sinh cấp 2 — tích sinh khí mạnh hơn, glyph cuộn xoáy xanh ngọc năng lượng cao.
 

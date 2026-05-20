@@ -1,6 +1,6 @@
 # Tường Thổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Không phải tượng — là vách. Linh lực thường dừng lại trước nó. Chỉ Kim mang sắc bén mới xuyên qua được. Wall: block mọi element trừ Kim.
 

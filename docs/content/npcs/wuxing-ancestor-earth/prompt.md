@@ -1,6 +1,6 @@
 # Thổ Tổ Hoàng Trầm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Ghostly spirit on Thổ Phong. Palette: earthen brown + gold.
 

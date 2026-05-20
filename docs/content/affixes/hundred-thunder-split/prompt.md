@@ -1,6 +1,6 @@
 # Bách Lôi Tán Sát — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực split thành 3 đường — nét glyph hình bách lôi rẽ ba nhánh sét.
 

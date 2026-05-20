@@ -1,6 +1,6 @@
 # Ngũ Hành Biến — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực đổi nguyên tố theo vòng Ngũ Hành — nét glyph hình ngũ giác xoay chuyển năm nguyên tố.
 

@@ -1,6 +1,6 @@
 # Ngộ Hành Trí Mạng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bonus cực lớn cho hit đầu tiên mỗi ván — nét glyph hình ngộ hành trí mạng, đòn đầu khai tử.
 

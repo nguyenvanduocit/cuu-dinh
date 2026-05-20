@@ -1,6 +1,6 @@
 # Đỉnh Điểm Crit — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Crit gây thêm intensity — nét glyph hình đỉnh núi nhọn, mũi tên crit xuyên thẳng từ đỉnh.
 

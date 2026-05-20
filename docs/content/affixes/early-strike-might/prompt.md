@@ -1,6 +1,6 @@
 # Phá Thần Vạn Quốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity cao trong hit đầu ván — nét glyph hình phá thần vạn quốc, đòn khai mạc thiên hạ.
 

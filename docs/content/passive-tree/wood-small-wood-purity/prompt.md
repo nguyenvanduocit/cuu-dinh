@@ -1,6 +1,6 @@
 # Thuần Mộc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ thuần Mộc — Mộc khí thuần khiết không tạp, glyph vòng tròn xanh ngọc sạch đơn.
 

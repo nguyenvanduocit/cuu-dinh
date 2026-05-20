@@ -1,6 +1,6 @@
 # Hỗn Nguyên Tâm Ma Vương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Constantly shifting — sometimes giant demon, sometimes beautiful seductress, sometimes player's own reflection, sometimes Sư Phụ's face. Palette: twilight purple + ink black.
 

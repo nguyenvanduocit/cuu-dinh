@@ -1,6 +1,6 @@
 # Đồng Giao Ngộ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hút linh lực cùng nguyên tố mạnh hơn — nét glyph hình đồng giao ngộ, hai yếu tố tương đồng hội tụ.
 

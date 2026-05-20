@@ -1,6 +1,6 @@
 # Linh Phẩm II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ linh phẩm cấp 2 — nâng phẩm mạnh hơn, glyph đôi sao xanh ngọc.
 

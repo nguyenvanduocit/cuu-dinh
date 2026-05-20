@@ -1,6 +1,6 @@
 # Trình Đơn Chính — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Title screen background — cosmic temple scene.
 

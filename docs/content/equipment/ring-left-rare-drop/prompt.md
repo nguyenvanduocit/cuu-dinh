@@ -1,6 +1,6 @@
 # Đồ Sương Loại Đan Hiếm (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nhẫn đai phẩm Linh — khắc phù hiếm đan, tỉ lệ rơi Bảo trở lên tăng một tier trên toàn ván. Ánh lam dịu trên bề mặt nhẫn.
 

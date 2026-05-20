@@ -1,6 +1,6 @@
 # Thân Thần Cửu Chuyển — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thân lò Cửu Chuyển huyền thoại — chín vòng linh văn xoay ngược chiều nhau, board đạt kích thước tối đa, modifier slot mở thêm một ô. Ember cam rực trôi quanh thân.
 

@@ -1,6 +1,6 @@
 # Dây Phong Ấn Phàm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Dây phong ấn vải thô bình thường quấn quanh lò, nút thắt talisman đơn giản. Không có bonus đặc biệt, chỉ đủ giữ lò ổn định trong quá trình luyện đan.
 

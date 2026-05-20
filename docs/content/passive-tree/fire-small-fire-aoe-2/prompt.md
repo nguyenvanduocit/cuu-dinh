@@ -1,6 +1,6 @@
 # Tản Hoả II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tản Hoả cấp 2 — lửa toả rộng hơn, glyph tia lửa tám phương mạnh mẽ.
 

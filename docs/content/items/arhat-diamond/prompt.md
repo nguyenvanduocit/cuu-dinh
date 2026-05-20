@@ -1,6 +1,6 @@
 # Tượng La Hán Kim Cương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán thân to lực lưỡng, một tay nắm chày kim cương ánh vàng lạnh, thân phủ giáp đồng có gờ góc cạnh sắc bén. Crit Kim không mòn linh khí — vì kim cương không mòn.
 

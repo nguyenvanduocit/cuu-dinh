@@ -1,6 +1,6 @@
 # Tinh Hoa Mộc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa Mộc hành xanh ngọc như lá non tươi mát, bắt buộc khắc prefix tăng sustain Mộc vào linh khí và reroll affix còn lại.
 

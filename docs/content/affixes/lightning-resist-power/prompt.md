@@ -1,6 +1,6 @@
 # Thiên Kiếp Kháng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity khi bị đánh bởi Thiên Kiếp — nét glyph hình thiên kiếp bị hấp thụ, sét dội ngược thành lực.
 

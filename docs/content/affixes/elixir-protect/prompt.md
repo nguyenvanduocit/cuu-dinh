@@ -1,6 +1,6 @@
 # Bảo Vệ Linh Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Deflect tương khắc khi stability linh đan thấp — nét glyph hình bảo vệ linh đan, khiên bao bọc viên đan.
 

@@ -1,6 +1,6 @@
 # Cành Bồ Đề — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cành rụng từ gốc bồ đề trên Vô Cực Đỉnh, rụng xuống vẫn xanh. Linh lực Mộc qua đây heal đan +2% stability — sustain quan trọng nhất cả lò.
 

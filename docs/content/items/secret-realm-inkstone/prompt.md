@@ -1,6 +1,6 @@
 # Nghiên Mực Bí Cảnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mực của nghiên này không màu — là tất cả màu cùng lúc. Linh lực đi qua để lại vệt ngũ sắc, mỗi bước một màu khác nhau, không đoán được tiếp theo là gì. Trail random color + element.
 

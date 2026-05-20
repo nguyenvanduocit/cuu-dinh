@@ -1,6 +1,6 @@
 # Ngũ Hành Trận (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật — trận pháp Ngũ Hành treo quai trái, mang hình ngũ giác năm sắc nguyên tố xoay tròn. Một lần mỗi ván triệu hồi linh khí Ngũ Hành nguyên tố ngẫu nhiên, tồn tại suốt ván. Hào quang cầu vồng hạt tử tứa ra từ mặt phù.
 

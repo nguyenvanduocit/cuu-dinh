@@ -1,6 +1,6 @@
 # Tử Hồn Linh Bao — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bao lụa đen có đường chỉ vàng hình phượng, bên trong phát ánh sáng lờ mờ tím — là hồn tinh hoa của linh khí đã vỡ, chưa tan hẳn. Tử Hồn không chết hoàn toàn — chỉ đổi hình, năm mươi phần trăm tinh hoa được thu lại.
 

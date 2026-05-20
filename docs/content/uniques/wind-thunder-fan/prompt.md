@@ -1,6 +1,6 @@
 # Quạt Phong Lôi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Quạt xếp cỡ lớn, xương quạt là lôi mộc, mặt quạt vẽ bão tố và sét. Một lần phất mỗi pháp trận — tất cả linh lực đổi hướng chín mươi độ, như năm lũ triều Trần đổi dòng nhờ một bàn tay.
 

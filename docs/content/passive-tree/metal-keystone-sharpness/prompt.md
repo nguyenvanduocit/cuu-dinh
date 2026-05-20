@@ -1,6 +1,6 @@
 # Sắc Bén — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt Kim hệ — lưỡi kim loại sắc bén tuyệt đối, ◇ hình thoi lớn toả hào quang vàng kim lạnh buốt cắt xuyên không gian.
 

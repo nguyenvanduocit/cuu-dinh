@@ -1,6 +1,6 @@
 # Kiếm Cổ Bạch Hổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thanh kiếm phi kiếm mảnh của Bạch Hổ, cắt đôi linh lực thành hai đường lệch nhau ±30°. Ánh lạnh sắc bén, đường viền xanh nhạt của bậc Ma rarity.
 

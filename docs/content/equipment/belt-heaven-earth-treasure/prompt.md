@@ -1,6 +1,6 @@
 # Thiên Địa Bảo Đai — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật — Thiên Địa Bảo Đai, đai luyện đan thiêng liêng nhất — phong ấn không bao giờ bị brick trong toàn pháp trận, thất bại vẫn giữ nguyên affix. Nút thắt cầu vồng phát sáng, dây bện từ sợi thiên địa linh khí, hào quang hạt tử tứa ra toàn bộ chiều dài đai.
 

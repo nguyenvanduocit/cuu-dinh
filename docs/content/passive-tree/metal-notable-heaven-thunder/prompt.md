@@ -1,6 +1,6 @@
 # Thiên Lôi Triệu Hồi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Thiên Lôi — sét trời triệu hồi từ Kim khí, ◆ hình thoi với tia sét vàng kim bùng phát từ trên cao.
 

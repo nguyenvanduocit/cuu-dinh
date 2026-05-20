@@ -1,6 +1,6 @@
 # Thiên Âm Cuồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance tất cả linh lực cùng lúc hit linh đan — nét glyph hình sóng âm thiên lôi, nét đồng tâm rung chuyển.
 

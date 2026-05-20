@@ -1,6 +1,6 @@
 # Mộc Tổ Lục Trí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Ghostly spirit on Mộc Phong. Palette: jade green.
 

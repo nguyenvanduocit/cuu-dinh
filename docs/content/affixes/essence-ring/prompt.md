@@ -1,6 +1,6 @@
 # Tinh Hoa Vòng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng drop rate Tinh Hoa Ngũ Hành — nét glyph hình vòng tinh hoa, vòng tròn tinh hoa ngũ hành xoay.
 

@@ -1,6 +1,6 @@
 # Vô Lượng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma nhẹ — Vô Lượng tăng 50% số lượng linh lực, board hỗn loạn hơn nhưng vàng kim thu được tăng 30%. riskLevel low: sigil nhiều chấm tán loạn, ít khói.
 

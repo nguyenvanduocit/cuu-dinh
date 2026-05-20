@@ -1,6 +1,6 @@
 # Hỗn Nguyên Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Khí Hỗn Nguyên nguyên thuỷ xoáy đen tím vô hình vô dạng, pháp trận chuyển sang Hỗn Nguyên marathon số ván vô hạn cho đến khi thoát — cửa vào vô cực.
 

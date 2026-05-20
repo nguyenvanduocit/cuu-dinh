@@ -1,6 +1,6 @@
 # Vô Cực Tâm III — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ Vô Cực Tâm cấp 3 — trung tâm vô cực sâu, glyph ba chấm tím vũ trụ cuộn xoáy.
 

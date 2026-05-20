@@ -1,6 +1,6 @@
 # Thiên Phá Vạn Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance tạo sao rơi linh lực phụ — nét glyph hình thiên phá vạn tinh, sao vỡ toé tia.
 

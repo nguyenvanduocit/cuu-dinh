@@ -1,6 +1,6 @@
 # Thuỷ Tinh Quang — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable thuỷ tinh — pha lê thuỷ toả quang huy huyền bí, ◆ hình thoi với pha lê xanh thẳm lấp lánh.
 

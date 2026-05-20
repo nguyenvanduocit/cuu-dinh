@@ -1,6 +1,6 @@
 # Ổn Định Nền — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm stability mất từ tương khắc — nét glyph hình nền tảng vững chắc, đế tảng đá không rung.
 

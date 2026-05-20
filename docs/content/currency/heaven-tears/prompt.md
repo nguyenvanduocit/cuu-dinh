@@ -1,6 +1,6 @@
 # Thiên Lệ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma cực kỳ nguy hiểm — Thiên Lệ giới hạn stability tối đa linh đan ở 50%, cực kỳ nguy hiểm nhưng Đan Pháp drop tăng 50%. riskLevel extreme: gần vỡ vụn, khói dày đặc, nước mắt trời rỉ qua vết nứt.
 

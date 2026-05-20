@@ -1,6 +1,6 @@
 # Hồi Mộc II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ hồi Mộc cấp 2 — hồi phục mạnh hơn, glyph chữ thập xanh ngọc đôi.
 

@@ -1,6 +1,6 @@
 # Càn Khôn Đỉnh Lư — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật tuyệt thế — thân lò mang hình tượng vũ trụ thu nhỏ, bản đồ thiên hà khắc chìm trên đồng đen. Board tự dịch chuyển mỗi chín mươi giây, anchor tái định vị theo quy luật bí ẩn.
 

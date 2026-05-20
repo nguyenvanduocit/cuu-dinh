@@ -1,6 +1,6 @@
 # Vạn Lý Phong Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực Hoả tạo trail lửa sau va chạm — nét glyph hình vệt phong hoả nghìn dặm, đuôi lửa dài.
 

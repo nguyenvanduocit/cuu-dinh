@@ -1,6 +1,6 @@
 # Tượng La Hán Diêm Vương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán mặc áo phán quan, tay cầm cuộn sổ sinh tử, ánh mắt lạnh lùng mà công bằng. Linh khí hi sinh trong pháp trận không mất trắng — Diêm Vương ghi nợ và trả lại bằng đan dược.
 

@@ -1,6 +1,6 @@
 # Hoả Dư — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ Hoả dư — lửa cháy kéo dài, glyph ngọn lửa với đường thời gian ngang kéo dài.
 

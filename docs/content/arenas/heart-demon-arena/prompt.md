@@ -1,6 +1,6 @@
 # Tâm Ma Trận Địa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Heart-demon boss arena (T6-T13). Claustrophobic, purple darkness, whispering dread.
 

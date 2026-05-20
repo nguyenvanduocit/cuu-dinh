@@ -1,6 +1,6 @@
 # Hung Hãn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng crit chance — nét glyph đâm nhọn từ trung tâm ra như nanh thú hung dữ.
 

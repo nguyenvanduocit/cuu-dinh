@@ -1,6 +1,6 @@
 # Effects & Particles — Cửu Đỉnh
 
-> Source: `docs/art-prompts/effects/effects.md`. 5 conceptual effects (< 10 threshold) — TABLE, not per-entity bundle.
+> 5 conceptual effects (< 10 threshold) — TABLE, not per-entity bundle.
 > Each effect has element/grade variants parameterized, not separate entities.
 
 ## Effects

@@ -1,6 +1,6 @@
 # Vô Vi Phá Cự — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity rất cao nhưng linh lực thành Vô Cực tạm — nét glyph hình vô vi phá cự, khoảng không vũ trụ bùng nổ.
 

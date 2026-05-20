@@ -1,6 +1,6 @@
 # Trọng Sơn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt Thổ hệ — núi trọng vạn nặng không gì lay chuyển, ◇ hình thoi lớn với hình bóng núi đá khổng lồ toả sắc nâu đất uy nghi.
 

@@ -1,6 +1,6 @@
 # Tượng La Hán Thổ Cốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán già nua ngồi xếp bằng, tay cầm gậy trúc có bông lúa vàng buộc ở đầu, nụ cười hiền hậu. Khí Thổ lan toả từ bệ đá nặng dưới chân tượng.
 

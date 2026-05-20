@@ -1,6 +1,6 @@
 # Bích Hải Đảo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Serene underwater spirit grotto, Act 4 region. Deep blue, cold tranquil.
 

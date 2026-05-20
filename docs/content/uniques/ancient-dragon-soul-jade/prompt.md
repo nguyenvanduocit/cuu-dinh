@@ -1,6 +1,6 @@
 # Cổ Long Hồn Ngọc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Châu ngọc xanh sâu có long vân xoáy bên trong như hồn cổ long chưa tan, con mắt rồng ánh lên từ lõi châu. Linh lực mang hồn cổ long sẽ tìm được linh đan dù pháp trận có rối đến đâu — như cổ long chưa bao giờ đi sai đường.
 

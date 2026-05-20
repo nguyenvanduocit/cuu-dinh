@@ -1,6 +1,6 @@
 # Tích Hoả I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích Hoả — tích trữ năng lượng lửa, glyph mũi tên hướng lên đỏ.
 

@@ -1,6 +1,6 @@
 # Bách Hoả Phụng Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity bonus khi Hoả tương khắc Mộc — nét glyph hình phụng hoàng lửa bùng cháy rực.
 

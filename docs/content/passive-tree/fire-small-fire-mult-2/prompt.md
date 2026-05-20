@@ -1,6 +1,6 @@
 # Bội Hoả II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ bội Hoả cấp 2 — nhân mạnh lửa nhiều lần, glyph ký hiệu nhân lớn đỏ rực.
 

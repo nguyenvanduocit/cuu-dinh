@@ -1,6 +1,6 @@
 # Phù Tắc Đầu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù phong ấn toàn bộ linh khí lân cận không bị nhiễm khí — sigil hình phù chú toả bảo hộ bán kính rộng.
 

@@ -1,6 +1,6 @@
 # Bình Cam Lộ Xanh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bình từng đựng cam lộ của Phật bà rơi xuống trần gian. Hoả lực vào — nước mát ra. Convert linh lực Hoả → Mộc (tương khắc rescue).
 

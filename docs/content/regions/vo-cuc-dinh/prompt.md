@@ -1,6 +1,6 @@
 # Vô Cực Đỉnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Trung tâm Atlas / Act 4 climax cosmic peak. Siêu thực, meditative.
 

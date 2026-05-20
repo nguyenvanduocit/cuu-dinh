@@ -1,6 +1,6 @@
 # Long Cốt — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh xương rồng cổ đại trắng ngà ánh vàng, kích hoạt boss sinh đôi — 2 boss spawn cùng lúc và drop gấp đôi bình thường.
 

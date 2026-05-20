@@ -1,6 +1,6 @@
 # Tâm Ma Châu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hạt châu Tâm Ma màu tím tà đen, spawn thêm một phòng boss Tâm Ma và tăng 30% xác suất drop Cổ Vật — mạo hiểm để đổi lấy phần thưởng lớn.
 

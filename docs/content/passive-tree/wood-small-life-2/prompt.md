@@ -1,6 +1,6 @@
 # Sinh Khí II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ sinh khí cấp 2 — sinh khí Mộc tăng, glyph đôi chấm mầm xanh.
 

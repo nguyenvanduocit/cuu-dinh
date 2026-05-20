@@ -1,6 +1,6 @@
 # Tích Năng Bất Động — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tích charge rồi phóng AOE cuối ván — nét glyph hình năng lượng tích trữ bất động chờ bùng.
 

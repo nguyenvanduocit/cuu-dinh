@@ -1,6 +1,6 @@
 # Tích Sát I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích sát — tích trữ sát khí kim, glyph mũi tên vàng hướng lên tích năng.
 

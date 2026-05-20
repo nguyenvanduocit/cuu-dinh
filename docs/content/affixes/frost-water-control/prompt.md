@@ -1,6 +1,6 @@
 # Thuỷ Cuồng Hàn Ngự — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Thuỷ và đóng băng — nét glyph hình băng hàn phong toả, tinh thể đá lạnh sắc bén.
 

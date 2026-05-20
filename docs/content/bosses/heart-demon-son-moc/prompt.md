@@ -1,6 +1,6 @@
 # Tâm Ma Sơn Mộc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: anomaly. First boss, tutorial-friendly. Teaches 'đan bể if not protect' lesson.
 

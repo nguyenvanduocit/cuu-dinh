@@ -1,6 +1,6 @@
 # Bùa Tử Vi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa giấy vàng ghi chòm sao Tử Vi, mỗi ngôi sao là một dự báo. Không thay đổi mệnh trời — chỉ cho nhìn trước ba bước, đủ để chuẩn bị, không đủ để tránh hoàn toàn.
 

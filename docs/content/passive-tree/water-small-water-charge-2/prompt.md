@@ -1,6 +1,6 @@
 # Tích Lưu II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích lưu cấp 2 — tích dòng thuỷ mạnh hơn, glyph xoáy nước xanh đôi cuộn.
 

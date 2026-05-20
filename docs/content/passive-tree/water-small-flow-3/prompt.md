@@ -1,6 +1,6 @@
 # Lưu Thuỷ III — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ lưu thuỷ cấp 3 — dòng thuỷ đỉnh cao, glyph ba sóng xanh thẳm tuôn chảy.
 

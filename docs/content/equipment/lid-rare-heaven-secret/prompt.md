@@ -1,6 +1,6 @@
 # Nắp Bảo Thiên Cơ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nắp Thiên Cơ phẩm Bảo — ba ô modifier, hoa văn bí mật thiên cơ khắc chìm trên mặt nắp. Cho phép xem trước phần thưởng boss trước khi vào bí cảnh. Viền tím trang nghiêm, lấp lánh hoa văn bùa.
 

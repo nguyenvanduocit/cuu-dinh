@@ -1,6 +1,6 @@
 # Định Kim II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ định Kim cấp 2 — neo cố kim loại mạnh hơn, glyph đôi chấm vàng vững chãi.
 

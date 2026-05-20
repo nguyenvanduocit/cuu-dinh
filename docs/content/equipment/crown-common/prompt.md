@@ -1,6 +1,6 @@
 # Đỉnh Phàm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh luyện đan bình thường, không có gia trì đặc biệt. Phần nắp đỉnh thô mộc, viền xám nhạt, linh khí nhỉ ra đều đặn theo chu kỳ.
 

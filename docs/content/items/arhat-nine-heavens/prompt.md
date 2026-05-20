@@ -1,6 +1,6 @@
 # Tượng La Hán Cửu Tiêu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán ngồi dưới hào quang chín tầng chồng nhau từ nhỏ đến lớn, mỗi tầng một màu tinh tú. Mỗi chín lần va chạm, toàn bộ linh khí trong bộ tự hồi durability.
 

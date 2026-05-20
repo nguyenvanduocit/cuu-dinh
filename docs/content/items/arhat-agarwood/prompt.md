@@ -1,6 +1,6 @@
 # Tượng La Hán Trầm Hương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán ngồi xếp bằng, trước mặt là nén trầm hương đang cháy, khói mỏng xoắn lên thành hình linh vật. Mỗi ván sống sót, khói trầm mang theo một Tinh Hoa Ngũ Hành rơi xuống.
 

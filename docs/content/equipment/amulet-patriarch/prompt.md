@@ -1,6 +1,6 @@
 # Khắc Phù Tổ Sư — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật — Khắc Phù Tổ Sư, di vật của đạo tổ khai sáng tông môn. Tăng hai mươi lăm phần trăm cường độ nhưng chỉ ở ván đầu tiên — bonus mất khi ván một kết thúc. Hào quang cầu vồng bùng phát, mặt phù khắc chân dung tổ sư giữa vầng hào quang.
 

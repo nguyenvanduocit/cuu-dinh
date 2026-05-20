@@ -1,6 +1,6 @@
 # Huyết Sát — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma nguy hiểm cao — Huyết Sát khiến linh khí mất durability mỗi va chạm, có thể vỡ giữa ván. riskLevel high: nứt nặng, máu đỏ chảy dọc vết nứt.
 

@@ -1,6 +1,6 @@
 # Tượng Bạch Hổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tượng Bạch Hổ đúc đồng nhỏ, không thờ thần mà chính là thần đã nằm xuống vì chủ. Linh khí Kim lân cận được +15% intensity.
 

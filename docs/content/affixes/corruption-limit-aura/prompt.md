@@ -1,6 +1,6 @@
 # Hạn Chế Tâm Ma Aura — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Aura giảm hiệu ứng Tâm Ma trong bán kính — nét glyph hình hạn chế tâm ma, vòng thanh tịnh áp chế bóng tối.
 

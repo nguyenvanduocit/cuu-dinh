@@ -1,6 +1,6 @@
 # Áo Cà Sa Cửu Phẩm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Áo cà sa chín phẩm liên hoa may từ vải của chín vị sư đã đạt giác ngộ, mỗi mảnh vải một màu khác nhau kết thành cửu sắc. Mặc vào, Lò rộng ra thêm một slot — không gian không đổi, tâm rộng hơn.
 

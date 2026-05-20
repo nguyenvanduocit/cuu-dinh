@@ -1,6 +1,6 @@
 # Tượng La Hán Mộc Hồn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán ngồi thiền, trên đầu toả vầng hào quang lá bồ đề xanh ngọc, tay bắt ấn cầu an. Khí Mộc nhiễm xung quanh như rễ cây vô hình ôm lấy đan.
 

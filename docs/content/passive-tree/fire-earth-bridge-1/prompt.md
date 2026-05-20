@@ -1,6 +1,6 @@
 # Hoả Sinh Thổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cầu nối Hoả → Thổ — tương sinh Hoả tạo Thổ, glyph hai màu đỏ-nâu nối nhau trong vô cực.
 

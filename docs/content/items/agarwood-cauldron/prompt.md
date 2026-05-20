@@ -1,6 +1,6 @@
 # Đỉnh Trầm Hương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Trầm hương đốt trong đỉnh này không bay lên trời — đi vào linh đan, thành mùi hương chỉ người tu hành mới ngửi được. Linh lực Thổ tới đan +30% intensity + heal +3%.
 

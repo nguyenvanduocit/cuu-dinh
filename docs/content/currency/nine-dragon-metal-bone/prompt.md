@@ -1,6 +1,6 @@
 # Cửu Long Kim Cốt — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cửu Long Kim Cốt — xương vàng chín rồng bện nhau, phần thưởng boss gấp 3 với linh khí và đan dược phẩm cao hơn — hiếm như kim cốt thần long.
 

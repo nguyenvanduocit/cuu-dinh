@@ -1,6 +1,6 @@
 # Đá Cổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đá từ Thổ Sơn, nặng như lời thề. Linh lực vào không ra ngay — phải ngồi đợi như cây trồng đợi mùa. Khi ra không còn là linh lực nữa — là tảng đá biết bay. Slow 50% + charge +50% intensity.
 

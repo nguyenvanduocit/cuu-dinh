@@ -1,6 +1,6 @@
 # Tượng La Hán Thiên Đăng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán giơ cao đèn thiên đăng bằng một tay, ánh sáng vàng rải xuống vùng rộng hai trăm pixel xung quanh — linh khí trong vùng sáng không bị nhiễm khí Tâm Ma.
 

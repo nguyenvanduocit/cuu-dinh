@@ -1,6 +1,6 @@
 # Cửu Chuyển Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đan chín chuyển lừng danh, nâng một bậc phẩm cấp linh khí — song thất bại 50% thì hoàn nguyên phẩm cũ, ánh vàng rực rỡ nhưng nứt chỉ.
 

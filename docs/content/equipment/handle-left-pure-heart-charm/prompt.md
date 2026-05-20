@@ -1,6 +1,6 @@
 # Quai Tịnh Tâm Phù (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù tịnh tâm phẩm Bảo treo quai trái — khắc liên hoàn hoa văn tím thanh tịnh, xoá sạch mọi Tâm Ma debuff đang đè lên linh đan. Viền tím lấp lánh trang nghiêm.
 

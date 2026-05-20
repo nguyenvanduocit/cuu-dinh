@@ -1,6 +1,6 @@
 # Bình Hấp Chuyển — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bình hấp thụ nguyên tố X rồi phun ra nguyên tố tương sinh — sigil hình bình cổ hút vào chuyển thành nguyên tố mới.
 

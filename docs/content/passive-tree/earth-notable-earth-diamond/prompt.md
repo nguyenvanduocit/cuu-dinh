@@ -1,6 +1,6 @@
 # Kim Cương Hộ Pháp — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Kim Cương — hộ pháp kim cương bảo vệ tuyệt đối, ◆ hình thoi toả sắc vàng-nâu kiên cố không phá được.
 

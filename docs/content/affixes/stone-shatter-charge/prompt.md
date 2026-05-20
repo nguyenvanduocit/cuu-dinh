@@ -1,6 +1,6 @@
 # Sát Thạch Xung — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực Thổ tạo đá vỡ phụ gây thêm damage — nét glyph hình đá nổ tung phóng mảnh.
 

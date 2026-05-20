@@ -1,6 +1,6 @@
 # Khắc Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng damage tương khắc — nét glyph hình mũi tên đối kháng, hai lực đối nhau cân bằng rồi phá vỡ.
 

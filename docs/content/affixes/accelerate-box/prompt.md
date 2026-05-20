@@ -1,6 +1,6 @@
 # Tăng Tốc Hợp — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng velocity linh lực qua đây — nét glyph hình hộp tăng tốc, khung vuông phóng đẩy.
 

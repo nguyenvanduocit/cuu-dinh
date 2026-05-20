@@ -1,6 +1,6 @@
 # Nham Cuồng Kiêu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity rất cao nhưng có chance trượt đan — nét glyph hình đá kiêu ngạo, sức mạnh gai góc nhưng bất ổn.
 

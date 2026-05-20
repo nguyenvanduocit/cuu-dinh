@@ -77,7 +77,7 @@ docs/content/<category>/<entity-id>/
 
 - **Entity folder name** = kebab-case ASCII slug, regex `^[a-z0-9]+(-[a-z0-9]+)*$`
 - **Category folder name** = English plural noun (`items/`, `affixes/`, `maps/`)
-- **Meta files**: `README.md` (human-edited), `_catalog.md` (machine-generated, underscore prefix)
+- **Meta files**: `README.md` (human-edited rationale), `enums.md` / `catalog.md` (registry + machine-generated)
 - **Code identifier** = English per terminology dictionary (`docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`)
 - **Display name** (`ten`) = Vietnamese full diacritics
 
@@ -86,7 +86,7 @@ docs/content/<category>/<entity-id>/
 1. Create folder `docs/content/<category>/<new-id>/`
 2. Write `design.md` with YAML frontmatter matching category schema (see existing entities as reference)
 3. Optionally add `lore.md`, `prompt.md`, `art/`
-4. Run `bun tools/derive-catalog.ts <category>` to rebuild `_catalog.md` (when tool exists)
+4. Run `bun tools/derive-catalog.ts <category>` to rebuild `catalog.md` (when tool exists)
 
 ## Migration provenance
 
@@ -96,4 +96,4 @@ Bundle này sinh ra từ các bảng Markdown + art-prompt pack qua migration to
 - **Phase 2** (character-shaped): npcs, bosses, factions, lore-entities.
 - **Phase 3** (narrative-shaped): acts (5 acts with nested nodes).
 - **Phase 4** (spatial/UI/audio/effects): regions (10), arenas (3), screens (13), tracks (17), sfx (table), effects (table), icons (17). Validated by `tools/migrate-spatial-ui-audio-effects.ts`.
-- **Phase C cleanup**: nguồn cũ `docs/data/` đã xoá; `docs/art-prompts/` pending cleanup after Phase 4 review.
+- **Phase C cleanup** (2026-05-20): nguồn cũ `docs/data/` + `docs/art-prompts/` + `docs/art/` đã xoá — toàn bộ content giờ sống trong bundle này.

@@ -1,6 +1,6 @@
 # Hộp Hoả Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Ba giây chờ đợi — đủ để hòn than đỏ thành lửa lớn. Hộp biết bài học đó từ lần đầu Đan Sư đốt lò. Store + amplify: release với ×2 intensity sau 3s. Bảo phẩm.
 

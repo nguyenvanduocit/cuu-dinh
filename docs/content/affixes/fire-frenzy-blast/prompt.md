@@ -1,6 +1,6 @@
 # Hoả Cuồng Khởi Nổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực Hoả tạo AOE nổ khi chạm đan — nét glyph hình hoả cuồng bùng nổ tròn.
 

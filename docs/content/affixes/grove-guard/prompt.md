@@ -1,6 +1,6 @@
 # Trụ Lâm Bảo Vệ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng durability max linh khí — nét glyph hình trụ lâm vững chắc, cột cây rừng bảo vệ.
 

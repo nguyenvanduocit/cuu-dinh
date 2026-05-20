@@ -1,6 +1,6 @@
 # Đan Đạo Kim Khởi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút khởi đầu Kim hệ — cổng tròn mở ra con đường tu luyện Kim Đạo, ánh vàng kim lạnh toả ra từ vòng tròn linh khai.
 

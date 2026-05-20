@@ -1,6 +1,6 @@
 # Đèn Lá Sen — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn hình lá sen xanh, mỗi va chạm linh lực tạo một chiếc lá phụ nhỏ rời ra nhẹ như lá sen rời mặt nước ao.
 

@@ -1,6 +1,6 @@
 # Kim Quang Trận — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Kim Quang — vầng sáng kim loại kết trận, ◆ hình thoi phát hào quang vàng chói lòa xuyên bóng tối.
 

@@ -1,6 +1,6 @@
 # Tượng Phật A Di Đà — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tượng Phật ngồi sen vàng, tay bắt ấn Vô Uý, khuôn mặt từ bi tỏa ánh sáng ngà. Đức Phật không hứa thắng mọi trận — hứa rằng ai không bỏ cuộc sẽ được thêm sức, mỗi ván sống sót linh đan nhớ thêm một điều.
 

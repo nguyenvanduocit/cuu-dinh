@@ -1,6 +1,6 @@
 # Chống Nhiễm Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm thời gian bị nhiễm khí — nét glyph hình kháng nhiễm, lá chắn tinh khiết đẩy lùi ô nhiễm.
 

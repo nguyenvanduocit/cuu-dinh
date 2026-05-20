@@ -1,6 +1,6 @@
 # Định Thổ I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ định Thổ — neo cố linh khí Thổ, glyph chấm đơn nâu đất ổn định.
 

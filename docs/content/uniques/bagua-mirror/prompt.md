@@ -1,6 +1,6 @@
 # Gương Bát Quái — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Gương bát quái cổ đồng, mặt gương khắc tám quẻ dịch, viền ngoài toả sáng vàng lạnh. Gương không phản chiếu mặt người — phản chiếu hướng đi của linh lực, một lần đảo ngược tất cả trong pháp trận.
 

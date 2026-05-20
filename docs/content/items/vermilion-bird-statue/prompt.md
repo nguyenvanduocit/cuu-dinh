@@ -1,6 +1,6 @@
 # Tượng Chu Tước — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chu Tước ngự phương Nam vì chỉ nó chịu được nhiệt Hoả tụ bốn mùa. Tượng nhỏ lông đỏ sẫm, linh khí Hoả lân cận +25% intensity. Ma phẩm.
 

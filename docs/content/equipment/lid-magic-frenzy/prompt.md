@@ -1,6 +1,6 @@
 # Nắp Linh Cuồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nắp cuồng linh phẩm Linh — hai ô modifier, viền lam sáng dịu. Cuối ván thêm một đan dược rơi xuống từ khe nắp, như phần thưởng linh khí thoát ra.
 

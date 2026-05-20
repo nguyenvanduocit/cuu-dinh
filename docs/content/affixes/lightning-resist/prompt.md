@@ -1,6 +1,6 @@
 # Kháng Thiên Kiếp — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm damage từ Thiên Kiếp — nét glyph hình kháng thiên kiếp, lá chắn hấp thụ sét.
 

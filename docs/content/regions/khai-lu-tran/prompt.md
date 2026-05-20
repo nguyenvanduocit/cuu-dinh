@@ -1,6 +1,6 @@
 # Khai Lư Trấn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Bối cảnh hub chính. Tone ấm, tĩnh, an toàn — đối lập với pháp trận căng thẳng.
 

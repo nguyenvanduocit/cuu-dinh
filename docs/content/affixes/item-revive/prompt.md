@@ -1,6 +1,6 @@
 # Phù Phục Linh Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh khí vỡ có chance tự hồi — nét glyph hình phù phục linh khí, mảnh vỡ tụ lại hồi sinh.
 

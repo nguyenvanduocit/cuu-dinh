@@ -1,6 +1,6 @@
 # Đồ Sương Reroll Tiết Kiệm (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nhẫn đai lò phẩm Phàm gắn cổ lò trái — khắc phù tiết kiệm đan dược reroll, giảm mười phần trăm chi phí mỗi lần đổi affix. Viền xám mỏng, không linh quang.
 

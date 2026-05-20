@@ -1,6 +1,6 @@
 # Lôi Phù Cổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù lôi cổ bằng đồng xanh, khắc văn lôi triện và ký hiệu thiên kiếp. Không triệu thiên kiếp — thu thiên kiếp. Những gì trời định phán xét, Lôi Phù cổ hấp thụ lại, chuyển thành lực công.
 

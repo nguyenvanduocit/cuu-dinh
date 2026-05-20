@@ -1,6 +1,6 @@
 # Hoàng Kim Sát Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity và vàng rời tăng đòn kế — nét glyph hình hoàng kim sát khí, tia vàng sắc bén.
 

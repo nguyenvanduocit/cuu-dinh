@@ -1,6 +1,6 @@
 # Hắc Long Vẫn Thạch — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Vẫn thạch hắc long đen bóng từ thiên ngoại, giảm damage boss xuống một nửa nhưng đảm bảo Cổ Vật phẩm cao — đánh đổi an toàn lấy phần thưởng đỉnh.
 

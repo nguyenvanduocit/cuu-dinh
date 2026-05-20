@@ -1,6 +1,6 @@
 # Vô Cực Long Hồn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hồn Long Vô Cực tím huyền vũ trụ không định hình, boss ngẫu nhiên sở hữu năng lực của một Đạo Phái mỗi pháp trận — mỗi lần đối mặt là một thử thách khác nhau.
 

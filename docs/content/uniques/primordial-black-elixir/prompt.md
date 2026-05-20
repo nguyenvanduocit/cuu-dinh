@@ -1,6 +1,6 @@
 # Hỗn Nguyên Hắc Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hộp luyện đan hắc huyền, bên trong là viên đan đen tuyền toả ánh sáng cực trắng ở hai đầu như ngọn nến đốt cả hai đầu. Đan promote một cấp instant — nhưng stability rơi xuống hai mươi lăm phần trăm, vì hắc đan sáng hơn thì tắt nhanh hơn.
 

@@ -1,6 +1,6 @@
 # Cài Đặt — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Pure UI — reuse Stash texture (§10) + corner motif.
 

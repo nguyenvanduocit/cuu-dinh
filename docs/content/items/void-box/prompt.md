@@ -1,6 +1,6 @@
 # Hộp Vô Cực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hộp mở ra — gì vào thì ra khác. Không phải phép — là bản chất của Vô Cực: không có gì cố định, kể cả những gì chắc chắn nhất. Random transform element khi release.
 

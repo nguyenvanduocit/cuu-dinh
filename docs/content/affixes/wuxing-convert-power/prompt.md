@@ -1,6 +1,6 @@
 # Ngũ Hành Chuyển Hoá Cường — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity sau khi convert nguyên tố — nét glyph hình nguyên tố biến đổi, vòng chuyển hoá tăng sức mạnh.
 

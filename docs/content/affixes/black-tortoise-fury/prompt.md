@@ -1,6 +1,6 @@
 # Hắc Quy Nổi Giận — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Thuỷ và chain jump — nét glyph hình hắc quy nổi giận, vảy nước dội chuỗi.
 

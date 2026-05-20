@@ -1,6 +1,6 @@
 # Cây Trầu Cổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Trầu cau là lễ — Cây Trầu Cổ này là lễ của đất dành cho trời. Linh khí xung quanh được Mộc nhiễm khí 5 giây, lan rộng như mùi lá trầu.
 

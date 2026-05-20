@@ -1,6 +1,6 @@
 # Chuông Sóng Đẩy — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chuông phát sóng đẩy linh khí lân cận khi bị va chạm — sigil hình chuông cổ với vòng sóng âm tỏa ra đều.
 

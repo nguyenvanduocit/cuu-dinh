@@ -1,6 +1,6 @@
 # Quạt Trúc Cổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tre già Ngũ Hành Sơn chẻ ra làm quạt. Phất nhẹ — gió mát. Phất mạnh — linh lực xuống nhanh như cành trúc gặp bão. Push + speed cho toàn board.
 

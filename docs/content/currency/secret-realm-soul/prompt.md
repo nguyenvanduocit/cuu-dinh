@@ -1,6 +1,6 @@
 # Bí Cảnh Hỗn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh hồn bí cảnh hỗn mang xoáy mờ như sương khói, ẩn số ván còn lại của pháp trận và bí ẩn hoá toàn bộ timeline — hành trình vào mê cung không nhìn thấy đầu.
 

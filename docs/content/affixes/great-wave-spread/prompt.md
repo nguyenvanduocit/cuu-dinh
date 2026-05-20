@@ -1,6 +1,6 @@
 # Lan Sóng Đại — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 AOE lan intensity sang linh khí xung quanh — nét glyph hình đại sóng lan, sóng lớn mở rộng.
 

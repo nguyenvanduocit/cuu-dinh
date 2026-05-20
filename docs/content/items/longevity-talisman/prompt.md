@@ -1,6 +1,6 @@
 # Bùa Trường Sinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đạo Mẫu ban bùa cho người giữ rừng trúc thiêng ngàn tuổi. Linh khí lân cận không bị nhiễm khí — aura bảo vệ êm dịu. Viền xanh nhạt Ma phẩm.
 

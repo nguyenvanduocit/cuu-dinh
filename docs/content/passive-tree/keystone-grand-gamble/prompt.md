@@ -1,6 +1,6 @@
 # Cờ Bạc Tổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt đại đổ — cờ bạc tổ tiên vũ trụ, ◇ hình thoi lớn với xúc xắc vũ trụ tím và ánh sao ngẫu nhiên hỗn loạn.
 

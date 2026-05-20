@@ -1,6 +1,6 @@
 # Bùa Hải Long — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa vẽ bằng mực Long Cung. Một lần dùng, toàn bộ linh lực trong lò nhớ lại mình là nước — và chảy đúng về chỗ nước phải chảy. Bảo phẩm.
 

@@ -1,6 +1,6 @@
 # Thiết Phi Phong — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Kim lực và tăng tốc — nét glyph hình kim loại vút đi như gió, góc sắc lạnh.
 

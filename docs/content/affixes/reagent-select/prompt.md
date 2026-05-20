@@ -1,6 +1,6 @@
 # Cự Tuyển Đan Dược — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng chance drop đan dược cấp cao — nét glyph hình cự tuyển, tay chọn viên đan quý nhất.
 

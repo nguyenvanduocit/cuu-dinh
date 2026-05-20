@@ -1,6 +1,6 @@
 # Mặt Nạ Hắc Bạch — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mặt nạ chia đôi — trái trắng như tuyết, phải đen như hư vô, ranh giới là một đường kẻ cinnabar đỏ. Đeo vào giữa pháp trận, người chơi phải trả lời: ngươi muốn đan thành bằng con đường nào?
 

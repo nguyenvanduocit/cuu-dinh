@@ -1,6 +1,6 @@
 # Trượng Tôn Ngộ Không — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Trượng như ý vàng của Tôn Ngộ Không — thân cây gậy bọc đai vàng, phân thân thành ba sau cú đánh đầu tiên, mỗi bản sao mang đủ hồn chiến đấu. Lão Tôn để lại trượng này khi xuống Tây phương — người cầm được phải biết phép thuật là gánh nặng, không phải món quà.
 

@@ -1,6 +1,6 @@
 # Kiếm Vô Cực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Kiếm này không chọn bên — không cộng không trừ theo ngũ hành, chỉ cắt. Đơn giản đến mức người không hiểu thấy phí, người hiểu thấy đủ. Ignore element math, fixed 50 damage/hit. Ma phẩm.
 

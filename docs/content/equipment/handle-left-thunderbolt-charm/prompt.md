@@ -1,6 +1,6 @@
 # Quai Lôi Đình Phù (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù lôi đình huyền thoại quai trái — một lần mỗi ván sét thiên chém trung tâm board, sát thương toàn bộ linh khí trong bán kính ba trăm pixel. Tua rua cháy sém, viền cam ember rực.
 

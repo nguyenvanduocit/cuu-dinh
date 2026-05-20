@@ -1,6 +1,6 @@
 # Phi Tiêu Tốc Sát — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Velocity và crit — nét glyph hình phi tiêu bắn nhanh tốc sát, mũi tên nhỏ chớp nhoáng.
 

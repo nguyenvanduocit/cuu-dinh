@@ -1,6 +1,6 @@
 # Trống Sóng Âm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Trống phát sóng âm đẩy linh lực định kỳ, tích đủ sóng bùng nổ AOE — sigil hình trống cổ với sóng âm tích tụ.
 

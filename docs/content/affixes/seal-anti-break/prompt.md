@@ -1,6 +1,6 @@
 # Phong Ấn Kháng Phá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm chance Phong Ấn giáng affix — nét glyph hình ấn kháng phá, ấn triện bị đập nhưng không vỡ.
 

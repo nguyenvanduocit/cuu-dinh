@@ -1,6 +1,6 @@
 # Mộc Linh Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Mộc linh nhỏ xanh non, tăng stability tối đa linh đan thêm 20% trong pháp trận — nâng đỡ linh đan như cội rễ vững chắc.
 

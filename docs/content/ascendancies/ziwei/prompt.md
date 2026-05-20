@@ -1,6 +1,6 @@
 # Tử Vi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đạo phái Tử Vi — tinh tú Kim hệ mệnh số thiên định, biểu tượng chòm sao Bắc Đẩu Tử Vi vàng kim rực rỡ trong khung huy hiệu thiên văn cổ đại.
 

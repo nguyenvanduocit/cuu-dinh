@@ -1,6 +1,6 @@
 # Thiên Long Cốt — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Xương Thiên Long biến hoá theo từng nguyên tố, boss chuyển nguyên tố tấn công mỗi 10 giây — đòi hỏi thích nghi liên tục trong chiến đấu.
 

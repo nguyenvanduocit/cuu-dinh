@@ -1,6 +1,6 @@
 # Bùa Trấn Yêu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bùa này không xua tà — bùa này là tường. Yêu ma Phong Ấn chạm vào hiểu ra: đất này không phải đất của chúng. Linh khí lân cận không bị Phong Ấn brick.
 

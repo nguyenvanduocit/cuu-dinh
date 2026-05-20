@@ -1,6 +1,6 @@
 # Hấp Lực Lớn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hút linh lực bán kính lớn hơn với lực mạnh hơn — nét glyph hình hấp lực lớn, vòng hút mạnh kéo xa.
 

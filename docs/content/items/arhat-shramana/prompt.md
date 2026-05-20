@@ -1,6 +1,6 @@
 # Tượng La Hán Sa Môn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán sa môn — đầu trọc, áo nâu, tay cầm bình bát khất thực, bước chân trần trên đất. Stability linh đan không suy giảm dù linh khí trong bộ va chạm tương khắc — vì sa môn đã từ bỏ khái niệm tổn thương.
 

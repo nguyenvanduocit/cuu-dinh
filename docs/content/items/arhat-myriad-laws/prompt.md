@@ -1,6 +1,6 @@
 # Tượng La Hán Vạn Pháp — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán ngàn tay toả ra như bánh xe pháp luân, mỗi tay cầm một pháp bảo nhỏ của các linh khí khác trong bộ. Mỗi va chạm có năm phần trăm cơ may kích hoạt bất kỳ affix nào.
 

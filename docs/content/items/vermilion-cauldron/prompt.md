@@ -1,6 +1,6 @@
 # Đỉnh Đỏ Son — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỏ như chu sa trong đan thất. Hoả lực chạm vào không mất — thêm vào như thêm tầng đan hỏa lên mặt đỉnh đã nóng. Linh lực Hoả tới đan +35% intensity.
 

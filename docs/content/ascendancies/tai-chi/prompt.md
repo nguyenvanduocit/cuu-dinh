@@ -1,6 +1,6 @@
 # Thái Cực — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đạo phái Thái Cực — cân bằng âm dương trên nền Thổ hệ, biểu tượng vòng tròn âm dương xoay chuyển trong khung huy hiệu hùng tráng vàng-nâu đất.
 

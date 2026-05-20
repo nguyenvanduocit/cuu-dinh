@@ -1,6 +1,6 @@
 # Bình Hỗn Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bình hút vào tất cả — Hoả, Thuỷ, Kim, Mộc, Thổ — phun ra một thứ không thuộc về ngũ hành. Vô Cực không phải khoảng trống mà là khoảng đầy theo cách khác. Absorb all + phun Vô Cực. Ma phẩm.
 

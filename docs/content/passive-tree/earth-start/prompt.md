@@ -1,6 +1,6 @@
 # Đan Đạo Thổ Khởi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút khởi đầu Thổ hệ — cổng tròn mở ra con đường tu luyện Thổ Đạo, ánh nâu đất ổn trọng toả ra từ vòng tròn linh khai.
 

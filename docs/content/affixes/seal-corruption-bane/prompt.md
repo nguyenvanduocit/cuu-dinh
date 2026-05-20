@@ -1,6 +1,6 @@
 # Phong Ấn Tâm Ma Diệt — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng chance khắc implicit Tâm Ma — nét glyph hình ấn tâm ma diệt, ấn triện diệt trừ bóng tối.
 

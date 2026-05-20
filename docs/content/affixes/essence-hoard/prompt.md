@@ -1,6 +1,6 @@
 # Tích Luỹ Tinh Hoa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance drop Tinh Hoa khi nhận hit — nét glyph hình tinh hoa tích lũy, viên tinh hoa tỏa sáng.
 

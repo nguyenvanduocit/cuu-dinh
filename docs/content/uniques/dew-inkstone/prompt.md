@@ -1,6 +1,6 @@
 # Nghiên Mực Sương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nghiên mực đá màu sương sáng sớm, mặt nghiên không khô — mực loang thành vệt linh lực dài ba giây. Đan Sư biết đọc vệt mực sẽ biết linh lực sẽ đi về đâu.
 

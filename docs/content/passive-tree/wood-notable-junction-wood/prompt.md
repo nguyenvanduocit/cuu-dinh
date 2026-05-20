@@ -1,6 +1,6 @@
 # Đạo Phái Mộc Môn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable cửa Mộc Đạo — ◆ hình thoi nhỏ toả hào quang xanh ngọc, giao điểm các đạo sĩ thuộc phái Mộc Môn.
 

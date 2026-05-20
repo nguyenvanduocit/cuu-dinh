@@ -1,6 +1,6 @@
 # Vô Cực Dung Hoà — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực Vô Cực nhận nguyên tố linh khí — nét glyph hình vô cực dung hoà, khoảng không hấp thu và chuyển hoá.
 

@@ -1,6 +1,6 @@
 # Lưu Giữ Tốc Độ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh lực không mất velocity khi qua đây — nét glyph hình lưu giữ tốc độ, dòng chảy không giảm.
 

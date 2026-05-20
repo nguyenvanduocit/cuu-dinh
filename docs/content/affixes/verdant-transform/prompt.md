@@ -1,6 +1,6 @@
 # Thanh Lam Biến Hoá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Mộc và mọc rễ — nét glyph hình rễ cây bùng sinh, xanh lam biến hoá.
 

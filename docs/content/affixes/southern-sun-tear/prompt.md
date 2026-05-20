@@ -1,6 +1,6 @@
 # Mặt Trời Lệ Nam — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Hoả và crit khi nhiều Hoả linh khí — nét glyph hình mặt trời lệ, ánh sáng Nam phương.
 

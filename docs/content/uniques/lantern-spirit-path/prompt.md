@@ -1,6 +1,6 @@
 # Linh Đường Đèn Lồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn lồng giấy đỏ treo một mình giữa bóng tối tuyệt đối, quầng sáng chỉ rộng mười trượng. Đan Sư Hắc Bạch từng nói: người thật sự giỏi không cần thấy hết — cần thấy đúng.
 

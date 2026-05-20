@@ -1,6 +1,6 @@
 # Đao Tăng Tốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đao tăng tốc linh lực rời đao — sigil hình đao với vệt tốc độ phóng đi nhanh.
 

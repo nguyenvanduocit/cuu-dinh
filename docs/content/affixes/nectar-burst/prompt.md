@@ -1,6 +1,6 @@
 # Cam Lộ Bùng Nổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Thuỷ tăng khi chạm đan Hoả — nét glyph hình cam lộ gặp lửa bùng nổ, sóng Thuỷ-Hoả giao nhau.
 

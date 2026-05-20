@@ -1,6 +1,6 @@
 # Tinh Tinh Thạch — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đá tinh tú nhỏ lấp lánh như sao đêm, thêm một modifier slot trên Đan Pháp đang dùng — mở rộng không gian compose bí cảnh.
 

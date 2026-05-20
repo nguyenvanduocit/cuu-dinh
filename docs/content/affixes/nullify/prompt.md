@@ -1,6 +1,6 @@
 # Vô Hiệu Hoá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance không tốn durability khi hit — nét glyph hình vô hiệu hoá, chữ X bị xoá mờ.
 

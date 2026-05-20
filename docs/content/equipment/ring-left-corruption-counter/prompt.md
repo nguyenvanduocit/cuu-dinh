@@ -1,6 +1,6 @@
 # Đồ Sương Tâm Ma Khắc (Trái) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nhẫn đai phẩm Bảo khắc phù Tâm Ma khắc — giảm hai mươi phần trăm thời gian hiệu lực Tâm Ma debuff. Viền tím lấp lánh hoa văn kháng ma.
 

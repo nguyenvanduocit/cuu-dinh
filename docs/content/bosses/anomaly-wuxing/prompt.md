@@ -1,6 +1,6 @@
 # Dị Tượng Ngũ Hành — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: anomaly. Tests if player learned all 5 elements. Cycles through 5 elements.
 

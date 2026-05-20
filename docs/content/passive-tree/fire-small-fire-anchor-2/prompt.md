@@ -1,6 +1,6 @@
 # Định Hoả II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ định Hoả cấp 2 — neo cố ngọn lửa mạnh hơn, glyph đôi chấm đỏ vững chãi.
 

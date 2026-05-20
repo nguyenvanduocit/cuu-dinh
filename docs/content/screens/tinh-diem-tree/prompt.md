@@ -1,6 +1,6 @@
 # Tinh Điểm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Background for skill tree (SVG nodes rendered on top).
 
@@ -12,4 +12,4 @@ Background for skill tree (SVG nodes rendered on top).
 
 ## (O) Ornament — keystone node frame
 
-5 element-colored variants. See rarity border approach at `../../_style/rarity-tokens.md`, adapt to `large diamond keystone frame, [element] colored`.
+5 element-colored variants. See rarity border approach at `../../style/rarity-tokens.md`, adapt to `large diamond keystone frame, [element] colored`.

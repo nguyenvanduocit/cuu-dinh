@@ -1,6 +1,6 @@
 # Sơn Mộc Cốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Rừng trúc linh. Mộc region — bamboo spirit forest, Act 1 beginner area.
 

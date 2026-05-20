@@ -1,6 +1,6 @@
 # Tinh Hoa Sinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa tương sinh, ánh vàng lục hoà quyện như vòng tương sinh ngũ hành, bắt buộc khắc suffix tăng tương sinh vào linh khí và reroll affix còn lại.
 

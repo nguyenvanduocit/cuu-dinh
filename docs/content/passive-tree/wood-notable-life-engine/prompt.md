@@ -1,6 +1,6 @@
 # Sinh Cơ Tái Tạo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable sinh cơ — máy sinh mệnh tái tạo không ngừng, ◆ hình thoi với tim mạch xanh ngọc nhịp đập hồi phục.
 

@@ -1,6 +1,6 @@
 # Đỉnh Lục Bảo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh xanh như thuốc bắc vừa hái, luyện Mộc đan không cần một mình giỏi — cần đồng hành đủ gần. Linh đan Mộc nhận +15% quality từ đồng hành hit.
 

@@ -1,6 +1,6 @@
 # Định Hoả I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ định Hoả — neo cố ngọn lửa, glyph chấm đơn giản màu đỏ ổn định.
 

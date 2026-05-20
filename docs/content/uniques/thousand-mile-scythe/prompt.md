@@ -1,6 +1,6 @@
 # Lưỡi Hái Thiên Lý — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Lưỡi hái bạc dài không tưởng, lưỡi cong như trăng khuyết, cán đen như hư vô. Vô Thường dùng cái này không để chém người — để chém cả đường về, đổi một linh khí hi sinh lấy mười lần cường độ.
 

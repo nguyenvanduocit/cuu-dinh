@@ -1,6 +1,6 @@
 # Giảm Rủi Ro Phong Ấn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm brick chance global khi linh khí còn sống — nét glyph hình giảm rủi ro, ấn triện bình an giảm nguy.
 

@@ -1,6 +1,6 @@
 # Cửu Chuyển Linh Hoa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoa linh chín cánh vàng tím, khi Đan Pháp bị tiêu thụ có 30% cơ hội reroll thay vì huỷ hoàn toàn — hoa cứu vãn vận mệnh Đan Pháp.
 

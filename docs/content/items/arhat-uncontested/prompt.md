@@ -1,6 +1,6 @@
 # Tượng La Hán Vô Tranh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán nhắm mắt, nụ cười thanh thản, hai tay đặt lên đùi trong tư thế thiền định hoàn hảo. Không kẻ thù nào — không Phong Ấn nào — chạm tới được khi tâm đã lặng.
 

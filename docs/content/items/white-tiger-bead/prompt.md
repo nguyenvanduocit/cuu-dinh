@@ -1,6 +1,6 @@
 # Châu Bạch Hổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Châu tròn phát hào quang trắng bạc của Bạch Hổ, sau 3 lần hấp thụ phun ra Kim châm piercing. Viền xanh nhạt của Ma phẩm.
 

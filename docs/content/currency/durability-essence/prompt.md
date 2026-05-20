@@ -1,6 +1,6 @@
 # Tinh Hoa Kiên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa kiên cố màu xám bạc như tường đá, bắt buộc khắc suffix độ bền linh khí và reroll affix còn lại — giúp trang bị bền hơn trong chiến đấu.
 

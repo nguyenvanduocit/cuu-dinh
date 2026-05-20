@@ -1,6 +1,6 @@
 # Tượng La Hán Hoả Vĩ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán đứng uy nghiêm, vạt áo sau biến thành đuôi lửa chu sa bùng cháy, tay giơ ấn Hoả hướng lên trời. Ngọn lửa không đốt — dẫn dắt linh khí Hoả gần đó mạnh mẽ hơn.
 

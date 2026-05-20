@@ -1,6 +1,6 @@
 # Kích Bạo Liều Lĩnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity cực cao khi stability thấp nhưng tăng nguy cơ bể đan — nét glyph hình liều lĩnh tuyệt vọng, nứt vỡ bùng lửa.
 

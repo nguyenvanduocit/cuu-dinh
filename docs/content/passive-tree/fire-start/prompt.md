@@ -1,6 +1,6 @@
 # Đan Đạo Hoả Khởi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút khởi đầu Hoả hệ — cổng tròn xoáy mở ra con đường tu luyện Hoả Đạo, ánh đỏ chu sa ấm nóng toả ra từ vòng tròn linh khai.
 

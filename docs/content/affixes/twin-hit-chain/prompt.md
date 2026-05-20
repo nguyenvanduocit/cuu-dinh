@@ -1,6 +1,6 @@
 # Song Hit Chuỗi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance chain jump mỗi va chạm — nét glyph hình song hit chuỗi, hai điểm nối nhau nhảy chuỗi.
 

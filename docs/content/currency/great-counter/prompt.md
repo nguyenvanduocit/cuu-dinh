@@ -1,6 +1,6 @@
 # Đại Khắc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma nguy hiểm cao — Đại Khắc 50% linh lực chuyển thành nguyên tố tương khắc với linh đan, stability nguy hiểm liên tục. riskLevel high: nứt nặng, mũi tên khắc chế chồng lên nhau.
 

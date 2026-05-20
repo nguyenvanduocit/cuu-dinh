@@ -1,6 +1,6 @@
 # Nhất Cuồng Vạn Binh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity cao khi là linh khí duy nhất cùng nguyên tố — nét glyph hình cô độc dũng mãnh, một điểm sáng giữa bóng tối.
 

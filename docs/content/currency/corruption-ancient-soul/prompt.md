@@ -1,6 +1,6 @@
 # Tâm Ma Hồn Cổ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hồn cổ Tâm Ma đen tím rợn người, boss triệu hồi liên tục các đợt Tâm Ma phụ trợ trong suốt trận — tiếng thì thầm từ linh hồn xa xưa không ngừng vang vọng.
 

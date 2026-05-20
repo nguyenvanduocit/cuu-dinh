@@ -1,6 +1,6 @@
 # Thuần Kim — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ thuần Kim — kim loại thuần khiết không tạp, glyph vòng tròn kim vàng sạch đơn.
 

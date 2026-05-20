@@ -1,6 +1,6 @@
 # Trường Sinh Nội Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng max stability theo ván win — nét glyph hình trường sinh nội khí, vòng nội khí vĩnh cửu.
 

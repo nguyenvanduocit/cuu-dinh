@@ -52,4 +52,4 @@ MJ KHÔNG export thẳng làm sprite game. Chi tiết: `../../art-direction.md �
 
 ## Provenance
 
-Token file gốc từ `docs/art-prompts/style/` (Phase 1 migration, 2026-05-20). Đầu mối vĩ mô (file này) tạo 2026-05-20 khi audit global-vs-bundle scope, áp dụng nguyên tắc "mọi vấn đề có 2 tầng vĩ mô + vi mô".
+Token file di trú từ art-prompt pack (Phase 1 migration, 2026-05-20). Đầu mối vĩ mô (file này) tạo 2026-05-20 khi audit global-vs-bundle scope, áp dụng nguyên tắc "mọi vấn đề có 2 tầng vĩ mô + vi mô".

@@ -1,6 +1,6 @@
 # Phong Ấn Bảo Toàn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm brick chance global toàn Lò — nét glyph hình bảo toàn toàn cục, vòng bảo hộ bao trùm.
 

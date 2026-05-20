@@ -1,6 +1,6 @@
 # Dây Phong Ấn Linh Đan Lưu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Dây lụa xanh phong ấn linh đan lưu — nút thắt khắc phù lưu đan, tăng ba mươi phần trăm drop Linh Đan toàn pháp trận. Ánh lam nhẹ toả ra từ các nút thắt talisman.
 

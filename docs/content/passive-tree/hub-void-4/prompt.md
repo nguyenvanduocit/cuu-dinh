@@ -1,6 +1,6 @@
 # Vô Cực Tâm IV — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ Vô Cực Tâm cấp 4 — trung tâm vô cực mạnh, glyph bốn chấm tím vũ trụ tứ phương.
 

@@ -1,6 +1,6 @@
 # Tích Sinh I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ tích sinh — tích trữ sinh khí Mộc, glyph mầm xanh ngọc hướng lên tích năng.
 

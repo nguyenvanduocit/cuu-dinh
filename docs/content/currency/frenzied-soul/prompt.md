@@ -1,6 +1,6 @@
 # Hồn Cuồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Huy hiệu Tâm Ma nhẹ — hồn cuồng loạn xoáy tốc độ cao, linh lực +30% nhanh hơn nhưng khó điều hướng. riskLevel low: sigil mờ, ít khói.
 

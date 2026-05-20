@@ -1,6 +1,6 @@
 # Đồ Sương Reroll Tiết Kiệm (Phải) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Bản đối xứng phải của nhẫn tiết kiệm reroll. Lắp cả hai nhẫn để cộng dồn hai mươi phần trăm giảm chi phí đan dược.
 

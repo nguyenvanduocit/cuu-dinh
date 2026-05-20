@@ -1,6 +1,6 @@
 # Diêm Phủ Tâm Ma Vương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: heart-demon. Dark zone boss. No Ngũ Hành — only tâm ma debuff. UI muted in Phase 1.
 

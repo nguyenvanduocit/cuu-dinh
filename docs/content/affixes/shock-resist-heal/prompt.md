@@ -1,6 +1,6 @@
 # Giảm Sốc Kháng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Heal stability khi linh đan bị Tâm Ma debuff — nét glyph hình kháng sốc hồi phục, sóng xanh chữa lành dưới áp lực.
 

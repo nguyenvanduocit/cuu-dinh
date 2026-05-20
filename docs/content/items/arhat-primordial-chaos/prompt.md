@@ -1,6 +1,6 @@
 # Tượng La Hán Hỗn Nguyên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 La Hán bao quanh bởi xoáy ngũ sắc hỗn độn, khuôn mặt thản nhiên giữa hỗn nguyên. Ba mươi phần trăm linh lực qua đây đổi nguyên tố — vì Hỗn Nguyên là trước khi ngũ hành tách ra.
 

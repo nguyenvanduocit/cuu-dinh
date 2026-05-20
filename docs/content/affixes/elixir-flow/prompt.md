@@ -1,6 +1,6 @@
 # Bảo Đan Lưu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tăng drop rate Linh Đan — nét glyph hình dòng chảy bảo đan, viên đan trôi trong dòng khí.
 

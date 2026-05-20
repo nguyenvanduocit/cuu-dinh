@@ -1,6 +1,6 @@
 # Tượng Hắc Quy — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hắc Quy sống bốn mùa nghìn lần — không vì mạnh, vì biết lúc cần lui vào mai. Defensive: giảm 30% tương khắc damage trong 200px. Ma phẩm.
 

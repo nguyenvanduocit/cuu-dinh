@@ -1,6 +1,6 @@
 # Thiên Cơ Bí Lục — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật — Thiên Cơ Bí Lục, bộ sách trời thu nhỏ thành hình nắp lò. Bốn ô modifier, và mỗi boss sống sót thêm một tier cho modifier slot, tích luỹ qua cả pháp trận. Hào quang cầu vồng cực mạnh, chữ cổ đại toả sáng trên mặt nắp.
 

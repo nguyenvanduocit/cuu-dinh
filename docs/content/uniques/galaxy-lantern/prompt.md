@@ -1,6 +1,6 @@
 # Đèn Tinh Thiên Hà — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn lồng trong suốt như pha lê, bên trong là thiên hà thu nhỏ đang xoay chậm, mỗi ngôi sao là một giọt linh lực tương lai. Đèn đã biết năm giọt linh lực tiếp theo từ trước khi chúng rơi.
 

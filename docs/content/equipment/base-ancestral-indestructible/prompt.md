@@ -1,6 +1,6 @@
 # Tổ Đan Bất Hoại — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật linh khí — đế Tổ Đan được tạo từ thời khai thiên lập địa, bất khả phá huỷ. Linh lực chạm đáy hồi phục một trăm phần trăm với cường độ gốc giữ nguyên. Phù tổ sư khắc nổi, cầu vồng hạt tử trôi quanh ba chân thiêng liêng.
 

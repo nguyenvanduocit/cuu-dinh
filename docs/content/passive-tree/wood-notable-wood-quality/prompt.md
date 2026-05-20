@@ -1,6 +1,6 @@
 # Mộc Tinh Hoá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Mộc tinh — linh khí Mộc tinh luyện nâng phẩm, ◆ hình thoi toả ánh xanh ngọc tinh anh từ lõi gỗ.
 

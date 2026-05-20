@@ -1,6 +1,6 @@
 # Tịnh Tâm Linh Tuyền — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable tịnh tâm — suối linh tâm thanh tịnh, ◆ hình thoi với giọt nước trong suốt giữa vòng tròn tâm thanh.
 

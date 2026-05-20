@@ -1,6 +1,6 @@
 # Thiên Long Quan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Vương quan thiên long — cổ vật tối thượng của lò luyện đan. Linh lực đầu tiên mỗi ván mang Long Lực, mạnh gấp năm lần bình thường. Rồng vàng cuộn quanh đỉnh, mắt toả ánh lôi điện.
 

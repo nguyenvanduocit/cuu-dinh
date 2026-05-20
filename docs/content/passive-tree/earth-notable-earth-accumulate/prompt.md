@@ -1,6 +1,6 @@
 # Tích Thổ Bộc Phá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable tích Thổ — tích lũy đất rồi bùng phát phá hủy, ◆ hình thoi nứt vỡ toả bụi nâu bùng nổ.
 

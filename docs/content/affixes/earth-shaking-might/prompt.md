@@ -1,6 +1,6 @@
 # Kinh Thiên Động Địa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity khổng lồ nhưng có cooldown — nét glyph hình động địa kinh thiên, nét đất rung chuyển cực mạnh.
 

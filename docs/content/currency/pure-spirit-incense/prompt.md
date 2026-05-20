@@ -1,6 +1,6 @@
 # Tịnh Linh Hương — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nén hương tịnh linh trắng tinh thanh khiết, giảm năng lượng tiêu cực Tâm Ma 50% trong suốt pháp trận — bảo vệ linh đan khỏi ô nhiễm.
 

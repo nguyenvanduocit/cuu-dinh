@@ -1,6 +1,6 @@
 # Bút Mực Phi Tiên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity sau va chạm liên tiếp — nét glyph hình bút lông vẽ đòn liên kế, mực bay.
 

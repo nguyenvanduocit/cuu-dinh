@@ -1,6 +1,6 @@
 # Linh Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Viên đan nhỏ màu trắng ngà ánh bạc, dùng để reroll một affix ngẫu nhiên trên linh khí — cơ bản nhất trong bộ đan dược luyện tạo.
 

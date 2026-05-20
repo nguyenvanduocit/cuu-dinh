@@ -1,6 +1,6 @@
 # Ngũ Hành Liên Hoàn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chain qua đây tăng intensity mỗi hop — nét glyph hình ngũ hành liên hoàn, vòng xích ngũ hành cộng hưởng.
 

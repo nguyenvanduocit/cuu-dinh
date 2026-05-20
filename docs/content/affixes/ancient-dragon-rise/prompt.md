@@ -1,6 +1,6 @@
 # Cổ Long Khởi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Linh khí đầu tiên mỗi ván nhận intensity cực cao — nét glyph hình long kỳ vút lên từ đáy.
 

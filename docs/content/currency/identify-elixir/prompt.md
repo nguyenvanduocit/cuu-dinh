@@ -1,6 +1,6 @@
 # Đan Tẩy Niêm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Viên đan nhỏ trong suốt màu trắng tinh, dùng để giám định linh khí chưa nhận diện — phổ biến nhất trong mọi hành trang đạo sĩ.
 

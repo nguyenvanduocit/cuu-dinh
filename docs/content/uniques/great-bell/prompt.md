@@ -1,6 +1,6 @@
 # Chuông Đại Hồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chuông đồng khổng lồ màu vàng-đen, thân khắc đầy phúc tự và bát quái, vành chuông dày như thành trì. Bảy giây một lần, tiếng chuông vang khiến tất cả linh khí trong lò tự kích hoạt — không cần tay dẫn.
 

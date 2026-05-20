@@ -1,6 +1,6 @@
 # Cổ Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đan cổ đại vô cùng hiếm, bề mặt khắc văn tự thượng cổ, dùng để reroll một Cổ Vật thành Cổ Vật ngẫu nhiên khác — rực sáng nhiều màu.
 

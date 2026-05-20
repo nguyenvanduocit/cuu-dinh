@@ -1,6 +1,6 @@
 # Tinh Hoa Thuỷ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa Thuỷ hành xanh đậm như giọt nước đóng băng, bắt buộc khắc prefix tăng chain Thuỷ vào linh khí và reroll affix còn lại.
 

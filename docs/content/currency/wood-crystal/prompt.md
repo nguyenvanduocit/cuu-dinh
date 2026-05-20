@@ -1,6 +1,6 @@
 # Mộc Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Mộc hành xanh ngọc như mầm cây non, tăng 50% drop linh khí Mộc trong pháp trận — thích hợp cho build sustain hồi phục.
 

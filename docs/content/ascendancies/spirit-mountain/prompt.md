@@ -1,6 +1,6 @@
 # Linh Sơn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đạo phái Linh Sơn — núi thiêng Mộc hệ trường sinh bất lão, biểu tượng đỉnh núi xanh ngọc với cây thần cổ thụ ngàn năm toả linh khí.
 

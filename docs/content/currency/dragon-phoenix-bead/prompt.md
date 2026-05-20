@@ -1,6 +1,6 @@
 # Long Phụng Châu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hạt châu Long Phụng hai màu đỏ vàng tượng trưng cho rồng và phượng, boss có 2 giai đoạn — phase 2 mạnh hơn và đổi nguyên tố tấn công.
 

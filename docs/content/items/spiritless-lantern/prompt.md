@@ -1,6 +1,6 @@
 # Đèn Vô Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn cháy, không Hoả. Không Kim, không Mộc, không Thuỷ, không Thổ. Trung lập là lựa chọn khó nhất trong thế giới tương sinh tương khắc. Neutral path, không buff không debuff.
 

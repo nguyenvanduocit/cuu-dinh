@@ -1,6 +1,6 @@
 # Linh Hoa Bích Bảo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoa sen ngọc bích nở giữa không trung, cánh hoa xanh ngọc trong suốt toả ra một vầng sáng ấm áp. Long Vương tặng viên ngọc này đền ơn cứu con gái Long Cung — viên ngọc nhớ câu chuyện đó và giữ linh đan như Long Vương giữ lời hứa.
 

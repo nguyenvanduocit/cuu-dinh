@@ -1,6 +1,6 @@
 # Chuông Đồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chuông đồng cổ luyện từ thời Hùng Vương, gõ một tiếng thì linh khí trong lò thức giấc. Hình khối góc cạnh, ánh kim lạnh, tạo sóng đẩy linh khí khác 80px.
 

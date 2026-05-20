@@ -1,6 +1,6 @@
 # Thu Hoả Vô Thường — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity đồng nguyên tố — nét glyph hình thu hoả vô thường, lửa thu lại rồi tán.
 

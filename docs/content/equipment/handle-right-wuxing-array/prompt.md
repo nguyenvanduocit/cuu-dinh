@@ -1,6 +1,6 @@
 # Ngũ Hành Trận (Phải) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật — bản gương phải của Ngũ Hành Trận. Hai quai Ngũ Hành lắp song song tạo trường nguyên tố toàn diện bao phủ cả board luyện đan.
 

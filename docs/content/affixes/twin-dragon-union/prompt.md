@@ -1,6 +1,6 @@
 # Song Long Hợp Bích — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity khi có đúng 2 Kim linh khí — nét glyph hình song long Kim hợp bích, hai rồng cuộn đối nhau.
 

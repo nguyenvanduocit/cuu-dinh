@@ -1,6 +1,6 @@
 # Linh Thủ Bảo Ký (Phải) — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Cổ vật — bản phải của Linh Thủ Bảo Ký. Hai nhẫn lắp đôi cho phép lưu hai affix qua pháp trận, tạo chuỗi di sản linh khí liên pháp trận.
 

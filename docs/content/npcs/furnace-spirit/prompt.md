@@ -1,6 +1,6 @@
 # Lò Thần — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Bare-chested old smith, soot-covered, massive hammer, only one eye (other lost in forging accident). Palette: imperial gold + cinnabar.
 

@@ -1,6 +1,6 @@
 # Kiếm Hoả Long — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Long Hoả không chỉ một đầu — rồng thở ra hai chiều cùng lúc là bản năng, không phải kỹ thuật. Cut linh lực Hoả thành 2 đường, mỗi đường -30% intensity.
 

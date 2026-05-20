@@ -1,6 +1,6 @@
 # Modal Cảnh Báo — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 ## (O) Ornament — warning dialog frame (2 variants)
 

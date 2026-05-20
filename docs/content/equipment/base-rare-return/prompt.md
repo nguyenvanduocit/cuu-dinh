@@ -1,6 +1,6 @@
 # Đế Bảo Hồi Tâm — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đế hồi tâm phẩm Bảo — thay vì phạt vàng khi linh lực rơi đáy, đạo sĩ nhận thưởng hai mươi phần trăm. Ba chân khảm pha lê tím, toa rộng có hoa văn bùa lặp liên hoàn.
 

@@ -1,6 +1,6 @@
 # Kim Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tinh thể Kim hành bạc vàng lạnh lẽo góc cạnh, tăng 50% drop linh khí Kim trong pháp trận — sắc bén như lưỡi kiếm.
 

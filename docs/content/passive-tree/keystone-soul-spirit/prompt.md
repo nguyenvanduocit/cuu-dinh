@@ -1,6 +1,6 @@
 # Hồn Linh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt hồn linh — linh hồn vũ trụ vượt cõi, ◇ hình thoi lớn với bóng linh hồn phát sáng tím triều trong khoảng không vô cực.
 

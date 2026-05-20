@@ -1,6 +1,6 @@
 # Trường Sơn Trấn Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable Trường Sơn — núi vĩnh cửu trấn giữ linh đan, ◆ hình thoi với bóng dãy núi trấn an linh đan bên trong.
 

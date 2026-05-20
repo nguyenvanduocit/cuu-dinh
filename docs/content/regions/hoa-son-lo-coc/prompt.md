@@ -1,6 +1,6 @@
 # Hoả Sơn Lò Cốc — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Volcanic cultivation cavern, Act 3 region. Glowing lava, ancient furnace, intense heat.
 

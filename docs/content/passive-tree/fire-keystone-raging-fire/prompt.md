@@ -1,6 +1,6 @@
 # Liệt Hoả — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt Hoả hệ — ngọn lửa thiêu đốt vĩnh cửu bùng phát từ trung tâm, ký hiệu ◇ hình thoi lớn toả hào quang đỏ chu sa rực rỡ.
 

@@ -1,6 +1,6 @@
 # Hồi Mộc III — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ hồi Mộc cấp 3 — hồi phục tối đa, glyph chữ thập ba tia xanh ngọc rực rỡ.
 

@@ -1,6 +1,6 @@
 # Bình Cam Lộ Đen — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoả vào, Thuỷ ra — bình không giải thích phép này, chỉ làm. Như hỏi con sông tại sao mát, câu trả lời ở núi tuyết đầu nguồn. Convert Hoả → Thuỷ.
 

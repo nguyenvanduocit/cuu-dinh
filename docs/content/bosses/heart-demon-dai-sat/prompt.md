@@ -1,6 +1,6 @@
 # Tâm Ma Đại Sát — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: heart-demon. Ascendancy quest boss. Tests player's Đạo Phái selection. Attacks opposite of player's chosen path.
 

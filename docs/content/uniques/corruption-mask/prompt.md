@@ -1,6 +1,6 @@
 # Tâm Ma Mặt Nạ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mặt nạ Tâm Ma sơn đen đỏ, hốc mắt rỗng phát ánh tím xâm thực, viền ngoài có dấu ấn tà khí. Mặt nạ không che mặt — che đi nỗi sợ. Ai đeo chịu thêm gánh nặng ham muốn — đổi lại tài vật đổ xuống như mưa.
 

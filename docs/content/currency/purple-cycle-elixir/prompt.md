@@ -1,6 +1,6 @@
 # Tử Hoàn Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Viên đan tím sẫm vòng tròn đồng tâm, dùng để reroll toàn bộ affix trên linh khí Bảo trở lên — mạnh hơn Linh Đan rất nhiều.
 

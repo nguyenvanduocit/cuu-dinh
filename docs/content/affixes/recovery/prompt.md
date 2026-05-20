@@ -1,6 +1,6 @@
 # Hồi Phục — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Heal stability linh đan mỗi va chạm — nét glyph hình hồi phục, vòng hào quang hồi sinh.
 

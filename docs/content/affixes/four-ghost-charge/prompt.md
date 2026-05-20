@@ -1,6 +1,6 @@
 # Tứ Quỷ Xung Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity chống boss Dị Tượng — nét glyph hình tứ quỷ xung khí, bốn nét cắm vào trung tâm.
 

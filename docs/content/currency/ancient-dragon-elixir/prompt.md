@@ -1,6 +1,6 @@
 # Cổ Long Đan — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đan Cổ Long màu vàng ngà nhiều màu rực rỡ, boss đảm bảo drop một Cổ Vật cùng Đan Pháp phẩm Cổ — đan hiếm bậc nhất từ cổ long luyện thành.
 

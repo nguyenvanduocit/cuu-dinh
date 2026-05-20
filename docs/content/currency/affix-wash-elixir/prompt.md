@@ -1,6 +1,6 @@
 # Đan Tẩy Affix — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Viên đan màu xanh nhạt pha bạc, loại bỏ một affix ngẫu nhiên khỏi linh khí — như rửa sạch vết khắc cũ không mong muốn.
 

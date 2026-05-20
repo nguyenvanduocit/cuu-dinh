@@ -1,6 +1,6 @@
 # Tịnh Tâm Kháng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Giảm damage từ Tâm Ma negative energy — nét glyph hình tịnh tâm kháng, trái tim trong sáng kháng ô nhiễm.
 

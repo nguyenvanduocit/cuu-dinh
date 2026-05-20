@@ -1,6 +1,6 @@
 # Kỳ Duyên — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Thêm đan dược khi trigger loot drop — nét glyph hình kỳ duyên may mắn, ngôi sao cơ duyên.
 

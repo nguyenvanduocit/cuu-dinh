@@ -1,6 +1,6 @@
 # Đan Lò Thiên Lệnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh luyện đan khắc thiên lệnh triện trên nắp, thân phủ áng mây thiêng. Mỗi lần áp Phong Ấn, Lò Thiên Lệnh giảm năm phần trăm xác suất brick — người biết luật trời thì không sợ trời phán.
 

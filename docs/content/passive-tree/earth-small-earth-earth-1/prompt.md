@@ -1,6 +1,6 @@
 # Cố Lò I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cố lò cấp 1 — củng cố lò luyện Thổ hệ căn bản, glyph lò đá đơn nhỏ gọn.
 

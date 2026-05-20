@@ -1,6 +1,6 @@
 # Tượng Hoàng Lân — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Hoàng Lân không thắng bằng cách tấn công — thắng bằng cách không ngã. Bốn chân trên đất, thân trên trời. Defensive: đan stability max +20%.
 

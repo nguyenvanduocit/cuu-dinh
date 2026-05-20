@@ -1,6 +1,6 @@
 # Lưu Giữ Đan Dược Rơi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đan dược drop không biến mất vào stash — nét glyph hình đan dược lưu trữ, viên đan rơi vào túi an toàn.
 

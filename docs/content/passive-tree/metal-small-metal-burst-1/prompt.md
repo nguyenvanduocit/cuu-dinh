@@ -1,6 +1,6 @@
 # Bộc Liệt I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ bộc liệt — vụ nổ kim loại nhỏ, glyph tia chớp vàng bùng phát.
 

@@ -1,6 +1,6 @@
 # Quạt Hắc Phụng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phụng đen không hót — chỉ xoè cánh. Một lần xoè, cả lò chậm lại như buổi chiều tà cuối mùa thu. Slow toàn board 20% trong 3 giây.
 

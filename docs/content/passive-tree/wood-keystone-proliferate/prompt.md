@@ -1,6 +1,6 @@
 # Sinh Sôi — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Tiết điểm then chốt Mộc hệ — sự sinh sôi bất tận của vạn vật, ◇ hình thoi lớn bùng phát mầm xanh ngọc toả khắp nền tối huyền.
 

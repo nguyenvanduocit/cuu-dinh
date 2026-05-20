@@ -1,6 +1,6 @@
 # Tinh Hoa Kim — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Mảnh tinh hoa Kim hành óng ánh bạc vàng, khi dùng sẽ bắt buộc khắc prefix tăng intensity Kim lực vào linh khí và reroll các affix còn lại.
 

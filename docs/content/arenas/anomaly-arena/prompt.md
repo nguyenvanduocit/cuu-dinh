@@ -1,6 +1,6 @@
 # Dị Tượng Trận Địa — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Anomaly boss arena (T1-T8). Chaotic, glitching, reality distortion.
 

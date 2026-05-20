@@ -1,6 +1,6 @@
 # Kho Đồ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Grid UI — only needs texture background + tab frame.
 

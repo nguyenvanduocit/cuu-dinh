@@ -1,6 +1,6 @@
 # Đạo Phái Kim Môn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút notable cửa Kim Đạo — ◆ hình thoi nhỏ toả hào quang vàng kim, giao điểm các đạo sĩ thuộc phái Kim Môn.
 

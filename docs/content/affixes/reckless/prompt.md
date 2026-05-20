@@ -1,6 +1,6 @@
 # Liều Lĩnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity cao nhưng mất durability mỗi va chạm — nét glyph hình lưỡi dao hai lưỡi cắt vào chính mình.
 

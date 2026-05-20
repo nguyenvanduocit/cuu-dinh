@@ -1,6 +1,6 @@
 # Vũ Lực Cuồng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity khi charge cao — nét glyph hình xoáy tích điện, năng lượng cuồn cuộn chờ bùng nổ.
 

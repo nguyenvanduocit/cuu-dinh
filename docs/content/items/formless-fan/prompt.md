@@ -1,6 +1,6 @@
 # Quạt Vô Hình — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Quạt phất — linh lực biến mất 2 giây. Không thấy, không đoán. Trong 2 giây đó không phải linh lực mạnh hơn — mà kẻ thù không biết phòng ở đâu. Stealth mechanic. Ma phẩm.
 

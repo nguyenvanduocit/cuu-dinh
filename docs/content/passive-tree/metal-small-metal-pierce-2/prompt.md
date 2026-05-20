@@ -1,6 +1,6 @@
 # Kim Châm II — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ kim châm cấp 2 — đôi kim xuyên giáp, glyph đôi mũi kim nhọn vàng.
 

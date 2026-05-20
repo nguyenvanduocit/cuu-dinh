@@ -1,6 +1,6 @@
 # Bích Lôi Thiên Hàn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity Thuỷ tương sinh — nét glyph hình bích lôi thiên hàn, sét lạnh xanh biếc.
 

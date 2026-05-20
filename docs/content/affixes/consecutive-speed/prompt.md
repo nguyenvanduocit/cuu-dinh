@@ -1,6 +1,6 @@
 # Phi Tốc Liên Tiếp — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Velocity tăng mỗi hit liên tiếp — nét glyph hình phi tốc liên tiếp, vạch tốc độ tích luỹ.
 

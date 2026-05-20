@@ -1,6 +1,6 @@
 # Hỗn Nguyên Ngọc Châu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Châu ngọc trước khi ngũ hành tách ra — bề mặt xoáy liên tục thành năm màu rồi lại hợp thành một màu hỗn độn không xác định được. Mỗi pháp trận, nó cố kéo tất cả linh khí trở về trạng thái hỗn nguyên ngẫu nhiên.
 

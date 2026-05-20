@@ -1,6 +1,6 @@
 # Đèn Chuyển Hoá — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn chuyển hoá linh lực sang Hoả — sigil hình đèn lồng với ngọn lửa chuyển hoá.
 

@@ -1,6 +1,6 @@
 # Khắc Phù Linh Tinh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù linh tinh phẩm Linh — ngọc khắc tinh tú, tăng mười phần trăm cường độ và năm phần trăm crit. Ánh lam dịu toả ra từ mặt ngọc, viền lam tinh tế.
 

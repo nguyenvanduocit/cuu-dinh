@@ -1,6 +1,6 @@
 # Tâm Ma Hoả Sơn — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Boss type: anomaly. Hoả-themed challenge during Lò repair quest.
 

@@ -1,6 +1,6 @@
 # Tạo Lực Sóng — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Sóng kéo linh lực về phía linh đan — nét glyph hình tạo lực sóng, sóng kéo hướng về điểm đích.
 

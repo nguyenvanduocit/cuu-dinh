@@ -1,6 +1,6 @@
 # Khắc Phù Thần Thiên Mệnh — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Phù Thiên Mệnh huyền thoại — mặt ngọc khắc đồ thiên mệnh, crit kích hoạt cộng hưởng tương sinh mười phần trăm, tất cả cường độ cộng thêm hai mươi phần trăm. Hào quang cam rực, ember trôi quanh viền.
 

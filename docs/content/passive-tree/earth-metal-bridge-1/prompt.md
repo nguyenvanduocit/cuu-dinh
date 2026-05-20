@@ -1,6 +1,6 @@
 # Thổ Sinh Kim — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ cầu nối Thổ → Kim — tương sinh Thổ tạo Kim, glyph hai màu nâu-vàng nối nhau trong vô cực.
 

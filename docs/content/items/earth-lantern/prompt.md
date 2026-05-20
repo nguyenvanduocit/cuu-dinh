@@ -1,6 +1,6 @@
 # Đèn Đất — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đèn này không sáng — đèn này chia. Một linh lực vào, hai linh lực Thổ ra — mỗi cái nhẹ hơn nửa, nhưng cùng nhau đi xa hơn. Split + spawn Thổ.
 

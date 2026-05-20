@@ -1,6 +1,6 @@
 # Dây Phong Ấn Thần Cửu Chuyển — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Dây cửu chuyển huyền thoại — chín nút thắt vàng xếp dọc, mỗi nút một vòng linh văn xoay. Cửu Chuyển Đan drop chance tăng năm mươi phần trăm. Ember cam tràn quanh dây như ngọn lửa phong ấn.
 

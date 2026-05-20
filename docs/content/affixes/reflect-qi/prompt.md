@@ -1,6 +1,6 @@
 # Phản Xạ Khí — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance phản linh lực về hướng linh đan — nét glyph hình phản xạ khí, nét gương phản chiếu hướng đan.
 

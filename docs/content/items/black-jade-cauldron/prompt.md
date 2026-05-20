@@ -1,6 +1,6 @@
 # Đỉnh Hắc Bích — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Đỉnh hắc bích sâu như nước giếng cổ. Thuỷ lực tương sinh chạm vào — đan hấp thụ từ từ như đất ngậm mưa đầu mùa. Heal +1% stability per hit.
 

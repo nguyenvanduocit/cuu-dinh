@@ -1,6 +1,6 @@
 # Nghiên Mực Ghi Dấu — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nghiên ghi dấu nguyên tố trên board gây chain damage sau — sigil hình nghiên với dấu ấn nguyên tố nổ chậm.
 

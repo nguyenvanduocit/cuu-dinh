@@ -1,6 +1,6 @@
 # Lão Bà Thiên Cơ — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
 
 Tiny old woman, white hair in bun, pouch full of oracle sticks and jade tokens. Palette: cinnabar + purple.
 

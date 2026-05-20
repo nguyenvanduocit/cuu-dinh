@@ -1,6 +1,6 @@
 # Sắc Khí III — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ sắc khí cấp 3 — sắc bén đỉnh cao, glyph ba lưỡi dao vàng bén nhọn.
 

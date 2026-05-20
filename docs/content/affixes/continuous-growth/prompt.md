@@ -1,6 +1,6 @@
 # Tăng Trưởng Tiếp Nối — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Intensity tăng theo chuỗi va chạm liên tiếp — nét glyph hình tăng trưởng tiếp nối, đường cong leo lên liên tục.
 

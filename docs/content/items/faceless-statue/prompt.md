@@ -1,6 +1,6 @@
 # Tượng Vô Diện — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Không mặt không phải không hồn — tượng nhìn thấy hết chỉ không cho ai nhìn lại. Linh lực qua bán kính 100px bước ra không nhớ mình là ai, mất element. Ma phẩm.
 

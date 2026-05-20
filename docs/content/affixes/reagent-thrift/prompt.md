@@ -1,6 +1,6 @@
 # Tiết Kiệm Đan Dược — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Chance không tốn đan dược khi reroll — nét glyph hình tiết kiệm đan dược, viên đan bảo tồn.
 

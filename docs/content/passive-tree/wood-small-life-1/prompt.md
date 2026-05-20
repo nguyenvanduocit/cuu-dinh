@@ -1,6 +1,6 @@
 # Sinh Khí I — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ sinh khí cấp 1 — sinh khí Mộc cơ bản, glyph chấm mầm xanh đơn.
 

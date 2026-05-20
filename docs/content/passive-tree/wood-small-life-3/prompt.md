@@ -1,6 +1,6 @@
 # Sinh Khí III — MJ v6 prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../_style/style-suffix.md`.
+**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
 
 Nút nhỏ sinh khí cấp 3 — sinh khí Mộc đỉnh cao, glyph ba chấm mầm xanh ngọc bùng nở.
 
