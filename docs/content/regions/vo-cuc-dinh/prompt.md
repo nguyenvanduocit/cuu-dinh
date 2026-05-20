@@ -1,11 +1,9 @@
-# Vô Cực Đỉnh — MJ v6 prompt
+# Vô Cực Đỉnh — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Đỉnh vũ trụ — climax Act 4 và trung tâm Sơn Hà Đồ, siêu thực và thiền định.
 
-Trung tâm Atlas / Act 4 climax cosmic peak. Siêu thực, meditative.
-
-## Scene (9:16)
+Aspect: 9:16
 
 ```
-/imagine prompt: floating in a cosmic void, scattered stars and nebula dust, fragments of broken daoist platforms drifting in space, a distant glowing alchemy elixir like a small sun, infinite depth, surreal and meditative, twilight purple (#4A1942) and ink black with golden star-flecks, painterly pixel art environment, [STYLE SUFFIX] --ar 9:16 --stylize 350
+A full-frame environment scene of a cosmic peak floating in an endless void, scattered stars and nebula dust suspended in deep space, fragments of broken daoist platforms drifting weightlessly, a distant glowing alchemy elixir shining like a small sun far below, an infinite depth that feels surreal and meditative in twilight purple and ink black with golden star-flecks. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The scene fills the entire frame, no lettering and no interface chrome.
 ```

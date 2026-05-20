@@ -1,11 +1,9 @@
-# Hoả Sơn Lò Cốc — MJ v6 prompt
+# Hoả Sơn Lò Cốc — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Vùng Act 3 — hang tu luyện núi lửa, mạch dung nham đỏ rực, lò đan cổ nửa chìm toả nhiệt.
 
-Volcanic cultivation cavern, Act 3 region. Glowing lava, ancient furnace, intense heat.
-
-## Scene (9:16)
+Aspect: 9:16
 
 ```
-/imagine prompt: a volcanic cultivation cavern, glowing red rock and lava veins, rising smoke and floating embers, cracked obsidian floor, a half-buried ancient alchemy furnace radiating heat, dramatic upward firelight, cinnabar red (#C82127) and imperial gold (#D4AF37) glow against ink black shadow, painterly pixel art environment, [STYLE SUFFIX] --ar 9:16 --stylize 250
+A full-frame environment scene of a volcanic cultivation cavern, glowing red rock and lava veins running through the walls, rising smoke and floating embers above a cracked obsidian floor, a half-buried ancient alchemy furnace radiating heat at the center, lit by a dramatic upward firelight of cinnabar red and imperial gold glowing against ink-black shadow. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The scene fills the entire frame, no lettering and no interface chrome.
 ```

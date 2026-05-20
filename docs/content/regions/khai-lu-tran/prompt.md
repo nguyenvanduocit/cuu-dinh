@@ -1,15 +1,9 @@
-# Khai Lư Trấn — MJ v6 prompt
+# Khai Lư Trấn — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Hub chính — sân làng tu chân yên tĩnh lúc chạng vạng, tone ấm an toàn đối lập với pháp trận.
 
-Bối cảnh hub chính. Tone ấm, tĩnh, an toàn — đối lập với pháp trận căng thẳng.
-
-## Scene (9:16)
+Aspect: 9:16
 
 ```
-/imagine prompt: Khai Lư Trấn, a quiet daoist cultivation village courtyard at dusk, low stone temple buildings with upturned tiled roofs, hanging red paper lanterns casting warm orange-red glow, a central stone alchemy altar, distant misty mountains, a few wisps of incense smoke, calm and welcoming, painterly pixel art environment, warm ivory and cinnabar palette with imperial gold lantern light, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 9:16 --stylize 250
+A full-frame environment scene of a quiet daoist cultivation village courtyard at dusk, low stone temple buildings with upturned tiled roofs, hanging red paper lanterns casting a warm orange-red glow, a central stone alchemy altar in the courtyard, distant misty mountains beyond, a few wisps of incense smoke rising, the whole scene calm and welcoming in a warm ivory and cinnabar palette lit by imperial-gold lantern light. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The scene fills the entire frame, no lettering and no interface chrome.
 ```
-
-## Night variant (cinematic)
-
-Thêm `deep night, moonlit, fewer lanterns lit, lonely contemplative mood`.

@@ -1,17 +1,15 @@
-# Hoả Tổ Đỏ Liệt — MJ v6 prompt
+# Hoả Tổ Đỏ Liệt — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Sơ Tổ nguyên tố Hoả, linh hồn ma ảo trên đỉnh Hoả Phong, áo bào quấn lửa chu sa, tính khí nóng nảy thẳng thắn. Phối màu cinnabar red + imperial gold.
 
-Ghostly spirit on Hoả Phong. Palette: cinnabar red + gold.
-
-## Portrait (dialogue)
+## Portrait (dialogue) — Aspect: 1:1
 
 ```
-/imagine prompt: a character portrait headshot of a fire-element ancestor sage, fierce, robes wreathed in cinnabar flame, daoist xianxia cultivator, expressive, painterly pixel art character art, cinnabar red + gold, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 1:1 --stylize 180
+A character portrait headshot of the fire-element founding ancestor, a ghostly translucent daoist sage fierce and direct, robes wreathed in upward-licking cinnabar flame with floating embers and radiant cinnabar-red heat rising past his face. His palette leans cinnabar red and imperial gold. Rendered as moody, hand-crafted painterly pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```
 
-## Full-body (hub sprite)
+## Full-body (hub sprite) — Aspect: 9:16
 
 ```
-/imagine prompt: a character full-body standing sprite of a fire-element ancestor sage, fierce, robes wreathed in cinnabar flame, daoist xianxia cultivator, expressive, painterly pixel art character art, cinnabar red + gold, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 9:16 --stylize 180
+A full-body standing character sprite of the fire-element founding ancestor, a ghostly translucent daoist sage fierce and direct whose robes are wreathed in upward-licking cinnabar flame with floating embers and radiant cinnabar-red heat, faintly fading at the feet like a spirit. His palette leans cinnabar red and imperial gold. Rendered as moody, hand-crafted painterly pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

@@ -11,35 +11,49 @@ ambientMood: "Quiet mountain village, warm and safe — đối lập với pháp
 
 # Khai Lư Trấn (`khai-lu-tran`)
 
-## Identity
+## Định danh
 
-Base camp hub. Ngôi làng tu chân tĩnh lặng trên núi, nơi Sư Phụ truyền Lò tổ truyền cho player. Trấn nhỏ nhưng là trung tâm vũ trụ của player — mọi hành trình bắt đầu và kết thúc ở đây.
+Trấn căn cứ — hub không chiến đấu xuyên suốt cả 5 Act và endgame. Ngôi làng tu chân tĩnh lặng trên núi, nơi Sư Phụ truyền Lò tổ truyền cho player ở phút đầu tiên của game. Trấn nhỏ nhưng là trung tâm vũ trụ của player — mọi hành trình bắt đầu và kết thúc ở đây.
 
-Vị trí ở lore §3.2: hub town tại điểm cao nhất Sơn Mộc Cốc valley. Gồm:
-- Am Sư Phụ (ở điểm cao nhất)
-- Marketplace (vendors)
-- Đan Lư Bàn (crafting house)
-- Đạo Quán (gambling den)
-- Lò Thần's forge
-- Lão Bà Thiên Cơ (omen/quẻ meta)
-- Central altar: Sơn Hà Đồ Lệnh (unlocked post Act 5)
+Tone ấm, tĩnh, an toàn — đối lập có chủ đích với mọi pháp trận căng thẳng ở nơi khác. Mái ngói cong đá thấp, đèn lồng đỏ toả ánh vàng cam ấm, bàn thờ đan lư trung tâm, núi mờ xa xa, khói hương nhẹ. Biến thể đêm khuya (cinematic): ánh trăng, ít đèn sáng hơn, một mình chiêm nghiệm.
 
-## Visual signature
+Bảng màu: ivory ấm và cinnabar với đèn lồng vàng đế vương.
 
-Tone ấm, tĩnh, an toàn. Low stone temple buildings with upturned tiled roofs, hanging red paper lanterns casting warm orange-red glow, central stone alchemy altar, distant misty mountains, wisps of incense smoke. Painterly pixel art, warm ivory and cinnabar palette with imperial gold lantern light.
+## Vai trò Atlas
 
-Biến thể đêm khuya (cinematic): deep night, moonlit, fewer lanterns lit, lonely contemplative mood.
+**Không phải vùng chiến đấu, không có T-tier** — Khai Lư Trấn là căn cứ không phải bí cảnh. Không có pháp trận, không có boss hosted tại đây.
 
-## Inhabitants
+Vai trò atlas duy nhất: **bàn thờ trung tâm Sơn Hà Đồ Lệnh** — Map Device mở sau khi clear Act 5. Tất cả Đan Pháp + Nguyên Liệu + Đan Dược + Tâm Ma mod được compose tại bàn thờ này để tạo bí cảnh. Khai Lư Trấn là điểm khởi phát mọi pháp trận atlas, dù không host pháp trận nào.
 
-- `../../factions/dan-dao-sect/` — player's home lineage
-- `../../factions/gambling-guild/` — Lão Hồ Ly's operation
-- `../../npcs/master/` — Sư Phụ (quest hint giver)
-- `../../npcs/old-fox/` — Lão Hồ Ly (gambling vendor)
-- `../../npcs/nameless-cultivator/` — Đạo Sĩ Vô Danh (mid vendor)
-- `../../npcs/black-white-alchemist/` — Đan Sư Hắc Bạch (crafting bench)
+Vendor và dịch vụ đầy đủ tại đây (xem Inhabitants).
 
-## Cross-ref
+## Lore
 
-- Maps that use this region as backdrop: base camp maps (non-combat hub)
-- Screens: `../../screens/base-camp-hub/` (UI wireframe)
+Khai Lư Trấn được dựng bởi những đan sư đầu tiên chạy nạn sau trận Đan Kiếp — những người không có đủ linh lực để tiếp tục tu luyện ở vùng linh khí cao, nhưng còn đủ trí tuệ để biết mình cần một nơi tĩnh lặng để nghĩ lại. Họ chọn điểm cao nhất của Sơn Mộc Cốc valley — không quá cao để bị cuốn vào dòng linh khí hỗn loạn sau Đan Kiếp, không quá thấp để bị ngập trong linh khí chưa lắng đọng.
+
+Qua nhiều đời, Khai Lư Trấn trở thành nơi những người "luyện đan nghiêm túc nhưng chưa đủ mạnh để vào bí cảnh nguy hiểm" tụ họp. Đan Đạo Tông bắt rễ tại đây. Sư Phụ của player là thế hệ cuối cùng của dòng trực tiếp đó — người giữ Lò tổ truyền và gánh nặng phong ấn mà không biết gánh nặng đó đang dần nặng thêm.
+
+Tại Khai Lư Trấn, không ai hỏi về Đan Kiếp. Người ta biết đủ để không hỏi.
+
+## Encounters & Đặc trưng
+
+**Không có chiến đấu tại Khai Lư Trấn** — đây là không gian an toàn tuyệt đối.
+
+**Cơ sở hạ tầng**:
+- *Am Sư Phụ* (điểm cao nhất): quest hub, dialogue lore, nơi nhận nhiệm vụ chiến dịch
+- *Đan Lư Bàn* (Đan Sư Hắc Bạch): crafting bench đầy đủ, nâng cấp linh khí, affix manipulation
+- *Đạo Quán* (Lão Hồ Ly): 6 trụ gambling — Đan Dược, Đạo Quán, Tâm Ma Mod, Phong Ấn, Pháp Trận Tử Sinh, Thiên Cơ Quẻ
+- *Lò Thần's Forge*: nâng cấp Lò Luyện Đan (4→6→8 slot progression)
+- *Lão Bà Thiên Cơ*: meta Thiên Cơ Quẻ, unlock sau Act 4 tại Vô Cực Đỉnh
+- *Bàn thờ Sơn Hà Đồ Lệnh* (trung tâm): Map Device — mở sau khi clear Act 5 và nhận Sơn Hà Đồ từ Hỗn Nguyên Tâm Ma Vương
+
+**Biến thể trạng thái theo Act**: Khai Lư Trấn thay đổi hình thức nhỏ theo tiến độ — một số NPC đến và đi, đèn sáng hơn hoặc tối hơn, đồ vật trên bàn thờ thay đổi, phản chiếu narrative không cần cutscene.
+
+## Kết nối
+
+- **Khu vực kề**: Sơn Mộc Cốc (phía dưới — thung lũng bao quanh), tất cả vùng khác kết nối qua quest + Sơn Hà Đồ Lệnh
+- **Atlas**: bàn thờ trung tâm Map Device — điểm compose mọi bí cảnh atlas
+- **Acts**: `../../acts/act-1/` đến `../../acts/act-5/` — hub xuyên suốt toàn campaign
+- **Screens**: `../../screens/base-camp-hub/` (UI wireframe toàn bộ hub)
+- **NPCs**: `../../npcs/master/`, `../../npcs/old-fox/`, `../../npcs/nameless-cultivator/`, `../../npcs/black-white-alchemist/`, `../../npcs/omen-crone/`, `../../npcs/furnace-spirit/`
+- **Factions**: `../../factions/dan-dao-sect/` (gia tộc gốc); `../../factions/gambling-guild/` (Lão Hồ Ly vận hành Đạo Quán)
