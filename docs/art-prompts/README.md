@@ -1,83 +1,84 @@
 # Art Prompts — Cửu Đỉnh (Midjourney v6 pack)
 
-> Bộ prompt cho **giai đoạn thiết kế / concept art**. Mục đích: nạp vào Midjourney v6 để khám phá mood, palette, silhouette, composition trước khi vào sản xuất sprite final.
+> Bộ prompt cho **giai đoạn thiết kế / concept art**. Nạp vào Midjourney v6 để khám phá mood, palette, silhouette, composition trước khi sản xuất sprite final. Bám sát `docs/ART_DIRECTION.md` + data thật trong `packages/data/`.
 
-Tất cả prompt bám sát `docs/ART_DIRECTION.md` (locked 2026-05-19, pivot xianxia 2026-05-20) và data thật trong `packages/data/`.
+**Phủ 100% data**: 568 item ID đều có prompt + mô tả tiếng Việt (verified — 0 ID bịa, 0 data bỏ sót). Tổng ~603 prompt block.
 
 ---
 
 ## ⚠ Caveat: MJ v6 = concept, không phải sprite final
 
-Midjourney v6 **xuất sắc cho concept/mood/background** nhưng **không phải tool sản xuất pixel sprite 64×64** (render hard-edge limited-palette sprite kém control).
-
-Pipeline thật vẫn theo `ART_DIRECTION.md §AI Asset Pipeline`:
+Midjourney v6 mạnh cho concept/mood/background nhưng **không phải tool sản xuất pixel sprite 64×64**. Pipeline thật (`ART_DIRECTION.md §AI Asset Pipeline`):
 
 ```
-[Pha thiết kế — file này]      MJ v6 → concept board, mood, silhouette reference
+[Thiết kế — bộ này]   MJ v6 → concept board, mood, silhouette reference
         ↓
-[Pha sản xuất]                 SDXL + pixel-art LoRA → sprite draft 64×64
+[Sản xuất]            SDXL + pixel-art LoRA → sprite draft 64×64
         ↓
-[Pha polish]                   Aseprite → hand-clean, fix palette, animation frames
+[Polish]              Aseprite → hand-clean, fix palette, animation
 ```
 
-Dùng output MJ v6 làm **bắc đẩu (north star) thị giác** cho artist + làm reference ảnh đưa vào SDXL (img2img / IP-adapter), KHÔNG export thẳng làm asset game.
+Dùng output MJ làm north-star thị giác + reference cho SDXL (img2img/IP-adapter). KHÔNG export thẳng làm asset game.
 
 ---
 
 ## Cách dùng
 
-Mỗi prompt theo công thức:
+1. Đọc `_style/CONVENTION.md` (format + quy tắc) + `_style/style-suffix.md` (STYLE SUFFIX dán nguyên văn).
+2. Mở file category cần gen → mỗi entry có **Mô tả** (tiếng Việt) + block `/imagine` sẵn.
+3. Entry đầu mỗi file có STYLE SUFFIX expanded đầy đủ; entry sau dùng `[STYLE SUFFIX]` placeholder → dán chuỗi từ `_style/style-suffix.md` vào.
 
-```
-[SUBJECT cụ thể] + [ELEMENT token nếu có] + [RARITY treatment nếu có] + [STYLE SUFFIX] [--ar ...]
-```
-
-`STYLE SUFFIX` là chuỗi chung dưới đây — **append vào cuối mọi prompt**. Nó chứa palette, tone, negative list, và `--style raw --v 6` (param quan trọng nhất để tránh "MJ default look").
-
-### STYLE SUFFIX (chép nguyên văn vào cuối mỗi prompt)
-
-```
-moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur
-```
-
-> MJ v6 đọc **named color** tốt hơn hex. Hex chỉ để document intent cho human. Palette nguồn: `ART_DIRECTION.md:27-36`.
-
-### Tham số MJ v6 thường dùng
-
-| Param | Khi nào | Giá trị |
-|---|---|---|
-| `--ar 16:9` | Background / environment / screen scene | landscape |
-| `--ar 1:1` | Item sprite, icon, boss, NPC portrait | vuông |
-| `--ar 9:16` | Full-body NPC, banner đứng | dọc |
-| `--style raw` | **Luôn luôn** | tắt MJ auto-beautify |
-| `--stylize` | Thấp = bám prompt, cao = bay bổng | `--stylize 100`–`250` cho asset, `400+` cho mood board |
-| `--chaos` | Khám phá variant đa dạng | `--chaos 15`–`30` lúc explore, `0` khi đã chốt |
-| `--iw` | Khi có ảnh reference | `--iw 1`–`2` |
-
-### Checklist mỗi prompt (verify trước khi gen)
-1. **Subject cụ thể** (cái gì, dáng gì)
-2. **Named-color** palette (không chỉ hex)
-3. **STYLE SUFFIX** đầy đủ với `--style raw --v 6`
-4. **`--no` list** chống drift
-
-Thiếu 1 trong 4 → output sẽ trượt về MJ generic look.
+Mọi style/palette/token là **single source of truth** trong `_style/` — sửa 1 chỗ, áp cả bộ.
 
 ---
 
-## Index
+## Cấu trúc
 
-| File | Nội dung | AR mặc định |
+```
+docs/art-prompts/
+├── README.md                  # bạn đang ở đây
+├── _style/                    # ⭐ single source of truth
+│   ├── CONVENTION.md          # format mỗi entry + quy tắc + ví dụ chuẩn
+│   ├── style-suffix.md        # STYLE SUFFIX + tham số MJ v6
+│   ├── palette.md             # 6-color + 7 grade colors
+│   ├── element-tokens.md      # 6 token Ngũ Hành
+│   ├── rarity-tokens.md       # 5 rarity treatment + border + affix overlay
+│   └── base-noun-dictionary.md# type/slot → subject
+├── environments/  regions.md (7 biome) · boss-arenas.md (3)
+├── linh-khi/      metal·wood·water·fire·earth·void.md (60)
+├── la-han/        eighteen-arhats.md (18 set)
+├── co-vat/        build-defining·sustain-defensive·chaos-risk.md (30 hero)
+├── furnace-parts/ crown·body·base·handles·lid·amulet·rings·belt.md (50)
+├── currency/      reagents (20) · catalysts (30) · corruption-mods (12)
+├── affixes/       prefix (80) · suffix (80) · implicit (30) rune glyph
+├── passive-tree/  nodes-{element}.md (150) · ascendancies.md (5)
+├── sets/          set-bonuses.md (3 khí trận)
+├── screens/       screens.md (13 concept/scene, KHÔNG phải UI layout)
+├── bosses-npcs/   bosses.md (3) · npcs.md (14)
+└── effects/       effects.md (linh lực/đan/seal/aura) · icons.md (UI)
+```
+
+## Index theo số lượng
+
+| Nhóm | Item | File |
 |---|---|---|
-| [01-environments.md](01-environments.md) | 7 region biome + base camp + boss arena | `16:9` |
-| [02-linh-khi-items.md](02-linh-khi-items.md) | 60 linh khí base (parametric template + batch per Ngũ Hành) + 18 La Hán set + 50 Lò parts + 5 rarity border | `1:1` |
-| [03-co-vat-uniques.md](03-co-vat-uniques.md) | 30 Cổ vật hand-painted (prompt riêng từng cái) | `1:1` |
-| [04-screens.md](04-screens.md) | 14 screen — concept/scene art + panel ornament (KHÔNG phải UI layout) | `16:9` |
-| [05-bosses-npcs-effects.md](05-bosses-npcs-effects.md) | 3 boss type + 15 NPC + particle/effect + UI icon | `1:1` |
+| Linh khí base | 60 | `linh-khi/{metal,wood,water,fire,earth,void}.md` |
+| La Hán set | 18 | `la-han/eighteen-arhats.md` |
+| Cổ vật (hero) | 30 | `co-vat/{build-defining,sustain-defensive,chaos-risk}.md` |
+| Lò parts | 50 | `furnace-parts/{crown,body,base,handles,lid,amulet,rings,belt}.md` |
+| Đan dược + nguyên liệu + tâm ma | 62 | `currency/{reagents,catalysts,corruption-mods}.md` |
+| Affix rune | 190 | `affixes/{prefix,suffix,implicit}.md` |
+| Passive node + đạo phái | 155 | `passive-tree/nodes-*.md` + `ascendancies.md` |
+| Set khí trận | 3 | `sets/set-bonuses.md` |
+| Environment | 10 | `environments/{regions,boss-arenas}.md` |
+| Boss + NPC | 17 | `bosses-npcs/{bosses,npcs}.md` |
+| Effect + icon | — | `effects/{effects,icons}.md` |
 
 ---
 
-## Nguyên tắc bất di bất dịch
+## Nguyên tắc
 
-- **English ID, Vietnamese display**: file tham chiếu `id` thật (`bronze-bell`) + `ten` thật (`Chuông Đồng`) từ `packages/data/`. Naming pivot: `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
+- **English ID, Vietnamese display**: entry tham chiếu `id` thật + `ten` thật từ `packages/data/`. Naming pivot: `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 - **Không reference cấm** (`ART_DIRECTION.md:234-238`): anime/manga, ukiyo-e, western fantasy, generic asian temple stock.
 - **Quality gate** (`ART_DIRECTION.md:211-213`): reject nếu có anime traits / stock temple look / palette lệch > 10%.
+- **Match art value với vai trò**: cổ vật/đạo phái = hero detail; linh khí/parts = sprite chuẩn; currency/affix/node = icon compact legible-at-small-size.

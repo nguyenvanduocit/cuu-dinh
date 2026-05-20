@@ -2,8 +2,10 @@
 node_modules/
 .pnp/
 .pnp.js
-bun.lock
-bun.lockb
+
+# OMC tooling state + Python lint cache (local-only, không thuộc repo)
+.omc/
+.ruff_cache/
 
 # Build artifacts
 dist/

@@ -129,25 +129,35 @@ KHÔNG dùng React vì `useState` gắn render tree, không standalone được.
 
 ---
 
-## File structure (target)
+## File structure
+
+Hiện trạng `2026-05-20`. Block `apps/`, `infra/`, `.github/` là **kế hoạch** (tạo khi vào implement phase) — phần còn lại đã tồn tại.
 
 ```
 lu-dan-game/
 ├── CLAUDE.md                       # YOU ARE HERE
 ├── README.md                       # Project intro
 ├── VISION.md                       # Manifesto, không thoái chí spirit
-├── package.json                    # Bun workspaces root
+├── package.json                    # Bun workspaces root (apps/* packages/* tools/*)
+├── tsconfig.base.json              # Shared TS compiler options (mọi tsconfig extends)
+├── bun.lock                        # Lockfile — committed cho reproducible install
+├── .gitignore
 ├── docs/
 │   ├── superpowers/specs/
-│   │   ├── 2026-05-19-cuu-dinh-master-design.md      # ⭐ Master spec
-│   │   └── 2026-05-19-tech-stack-revisit.md        # ⭐ Web stack decision
-│   ├── TECH_STACK.md
-│   ├── ART_DIRECTION.md
-│   ├── ROADMAP.md
-│   ├── ONBOARDING.md
-│   ├── CONTENT.md
-│   └── LORE.md
-├── apps/
+│   │   ├── 2026-05-19-cuu-dinh-master-design.md    # ⭐ Master spec
+│   │   ├── 2026-05-19-tech-stack-revisit.md        # ⭐ Web stack decision
+│   │   └── 2026-05-20-naming-convention-pivot.md   # ⭐ English-ID dictionary
+│   ├── art-prompts/                # ⭐ MJ v6 concept-art prompt pack
+│   │   ├── _style/                 # Single source of truth (convention, palette, tokens)
+│   │   └── <category>/             # environments, linh-khi, co-vat, furnace-parts,
+│   │                               #   currency, affixes, passive-tree, sets, screens,
+│   │                               #   bosses-npcs, effects, la-han
+│   └── *.md                        # Design docs: TECH_STACK, ART_DIRECTION, ROADMAP,
+│                                   #   ONBOARDING, CONTENT, LORE, COMBAT_MATH, ECONOMY_FLOW,
+│                                   #   PASSIVE_TREE_DESIGN, PHAP_TRAN_MAPS, BOSS_PATTERNS,
+│                                   #   PROGRESSION_CURVE, ACT_NARRATIVE, TUTORIAL_SCRIPT,
+│                                   #   UI_WIREFRAMES, AUDIO_SPEC, ACCESSIBILITY
+├── apps/                           # (kế hoạch)
 │   ├── web/                        # Vue + Pixi client
 │   │   ├── package.json
 │   │   ├── vite.config.ts
@@ -190,11 +200,13 @@ lu-dan-game/
 ├── packages/
 │   ├── shared/                     # Client + server cùng import
 │   │   ├── package.json
+│   │   ├── tsconfig.json
 │   │   └── src/
-│   │       ├── schemas/            # Zod schemas
-│   │       ├── constants/          # Game constants
-│   │       ├── reactive/           # @vue/reactivity stores (match-state)
-│   │       └── types/              # TS types
+│   │       ├── index.ts            # Barrel export
+│   │       ├── schemas/            # Zod schemas (1 file / domain)
+│   │       ├── constants/          # (kế hoạch) Game constants
+│   │       ├── reactive/           # (kế hoạch) @vue/reactivity stores (match-state)
+│   │       └── types/              # (kế hoạch) TS types
 │   │
 │   └── data/                       # Source-of-truth content (English IDs, Vietnamese display names)
 │       ├── items.csv               # 78 item definitions (Linh Khí)
@@ -212,19 +224,18 @@ lu-dan-game/
 │       ├── maps/                   # 10 map blueprints (Pháp Trận)
 │       └── lore/                   # item-flavor, npc-dialogue (Vietnamese prose)
 │
-├── tools/                          # Dev tooling
-│   ├── balance-simulator/          # Headless Rapier autorunner 1000-run
-│   ├── content-validator/          # Zod schema check CSV/JSON
-│   ├── content-generator/          # AI-assisted content draft
-│   └── replay-debugger/            # Replay viewer/scrubber
+├── tools/                          # Dev tooling — mỗi tool là 1 workspace member (có package.json)
+│   ├── passive-tree-gen/           # Sinh packages/data/passive-tree.json
+│   ├── balance-simulator/          # (kế hoạch) Headless Rapier autorunner 1000-run
+│   ├── content-generator/          # (kế hoạch) AI-assisted content draft
+│   └── replay-debugger/            # (kế hoạch) Replay viewer/scrubber
 │
-├── infra/                          # Deployment configs
+├── infra/                          # (kế hoạch) Deployment configs
 │   ├── docker-compose.yml          # Local Nakama + Postgres
 │   ├── nakama-config.yml
 │   └── fly.toml                    # Production hosting
 │
-├── .github/workflows/              # CI
-└── .gitignore
+└── .github/workflows/              # (kế hoạch) CI
 ```
 
 ---
