@@ -1,9 +1,9 @@
-# Mộc Linh Sóng Hoả — MJ v6 prompt
+# Mộc Linh Sóng Hoả — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Glyph khắc chú offensive hệ Mộc kiêm hồi phục — một làn sóng mộc linh chữa lành với lá rừng cuộn và luồng linh khí chảy.
 
-Intensity Mộc và heal stability — nét glyph hình mộc linh sóng, lá rừng lan toả sinh lực.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, aggressive cinnabar-red wood spirit healing wave motif with organic leaf curves and flowing qi, living wood with jade green (#2E5E4E) qi glow accent, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+An aggressive cinnabar-red enchantment glyph rune depicting a wood-spirit healing wave with organic leaf curves and flowing qi, rendered in living wood lit by a soft jade-green qi glow, surging and life-giving as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

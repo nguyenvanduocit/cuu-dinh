@@ -1,9 +1,9 @@
-# Tốc Độ Cuồng Lực — MJ v6 prompt
+# Tốc Độ Cuồng Lực — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Talisman speed — một cú lao tới theo phương ngang với những đường chuyển động động lực phóng về phía trước.
 
-Tăng velocity sau va chạm — nét glyph hình tốc độ cuồng lực, nét xanh phóng nhanh về phía trước.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, calm blue speed force acceleration horizontal rush motif with kinetic forward motion lines, minimal, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A calm blue talisman rune in neutral ivory-and-gold tones, depicting a speed-force horizontal rush with kinetic forward motion lines streaking ahead, fast and driving as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

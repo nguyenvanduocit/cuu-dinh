@@ -1,9 +1,9 @@
-# Tượng Thần Thú Bảo Vệ — MJ v6 prompt
+# Tượng Thần Thú Bảo Vệ — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Sigil implicit gắn riêng vào tượng — một bức tượng thần thú bằng vàng với vòng khiên bảo hộ tròn quanh chân đế.
 
-Tượng giảm tương khắc damage bán kính rộng — sigil hình thần thú bảo vệ với khiên tròn.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small centered gold sigil overlay symbol, centered gold guardian beast statue with protective circular shield ring around base, imperial gold (#D4AF37) dominant glow, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A centered imperial-gold implicit sigil bound to a statue, depicting a guardian beast statue with a protective circular shield ring around its base, watchful and shielding as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

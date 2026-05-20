@@ -1,9 +1,9 @@
-# Vũ Bão — MJ v6 prompt
+# Vũ Bão — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Tăng intensity Thổ lực — nét glyph hình đất nổi sóng, khối đá vỡ tung.
 
-Tăng intensity Thổ lực — nét glyph hình đất nổi sóng, khối đá vỡ tung.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, aggressive cinnabar-red earth upheaval strokes with solid blocky weight and dust, earthen brown (#8B5E34) tone accent, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A compact talismanic rune-glyph icon in aggressive cinnabar-red strokes, a small emblem rather than a hero illustration, representing an earth-storm raising Earth intensity, drawn as upheaving earth strokes with shattering stone blocks. Its strokes carry solid blocky weight with dust and carved stone in earthen-brown tones. The icon stays legible at small size. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

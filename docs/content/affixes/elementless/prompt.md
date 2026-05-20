@@ -1,9 +1,9 @@
-# Vô Nguyên Tố Hoá — MJ v6 prompt
+# Vô Nguyên Tố Hoá — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Linh lực mất nguyên tố thành Vô Cực tạm — nét glyph hình vô nguyên tố, vòng tròn trắng xoá nguyên tố.
 
-Linh lực mất nguyên tố thành Vô Cực tạm — nét glyph hình vô nguyên tố, vòng tròn trắng xoá nguyên tố.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, calm blue elementless void neutralize motif with erased element markers leaving blank circle, cosmic void with star-flecks, twilight purple (#4A1942) ethereal aura accent, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A compact talismanic rune-glyph icon in calm twilight-blue strokes, a small emblem rather than a hero illustration, representing the stripping of an element into a temporary Void state, drawn as erased element markers leaving a blank neutralizing circle with a faint twilight-purple void hint. It is held to neutral ivory-and-gold tones. The icon stays legible at small size. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

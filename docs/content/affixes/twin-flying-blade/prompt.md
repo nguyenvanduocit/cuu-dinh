@@ -1,9 +1,9 @@
-# Song Phi Nhẫn — MJ v6 prompt
+# Song Phi Nhẫn — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Glyph khắc chú offensive-AOE hệ Kim — hai lưỡi phi nhẫn đối xứng vút đi, sắc cạnh kim loại ánh kim lạnh.
 
-Tạo linh lực phụ Kim sau va chạm — nét glyph hình song phi nhẫn Kim, hai lưỡi đối xứng vút đi.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, aggressive cinnabar-red twin flying blade shuriken motif with dual symmetrical metal edge strokes, forged metal with a sharp angular silhouette and cold metallic gleam, imperial gold (#D4AF37) edge light, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+An aggressive cinnabar-red enchantment glyph rune depicting a twin flying-blade shuriken with dual symmetrical forged-metal edge strokes, sharp and angular with a cold metallic gleam edged in imperial-gold light, paired and hurtling as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

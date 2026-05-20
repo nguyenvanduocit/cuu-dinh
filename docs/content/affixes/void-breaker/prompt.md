@@ -1,9 +1,9 @@
-# Vô Vi Phá Cự — MJ v6 prompt
+# Vô Vi Phá Cự — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Glyph khắc chú offensive hệ Vô Cực — một vụ nổ vũ trụ với các đốm sao và mô-típ vô cực, toả hào quang tím hoàng hôn.
 
-Intensity rất cao nhưng linh lực thành Vô Cực tạm — nét glyph hình vô vi phá cự, khoảng không vũ trụ bùng nổ.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, aggressive cinnabar-red void breaker cosmic explosion motif, cosmic void with star-flecks and infinity motif, twilight purple (#4A1942) ethereal aura accent, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+An aggressive cinnabar-red enchantment glyph rune depicting a void-breaker cosmic explosion across a star-flecked void with an infinity motif, glowing with an ethereal twilight-purple aura, vast and detonating as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

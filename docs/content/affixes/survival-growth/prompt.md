@@ -1,9 +1,9 @@
-# Sống Sót Tăng Trưởng — MJ v6 prompt
+# Sống Sót Tăng Trưởng — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Talisman sustain hệ Mộc — một mầm cây vươn lên mạnh hơn sau mỗi thử thách, các tầng cành đâm chồi nối tiếp.
 
-Durability tăng theo ván sống sót — nét glyph hình sống sót tăng trưởng, mầm cây vươn lên sau mỗi thử thách.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, calm blue survival growth sapling rising stronger each round motif with sprouting branch tiers, living wood organic curves, jade green (#2E5E4E) qi glow accent, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A calm blue talisman rune depicting a survival-growth sapling of living wood with organic curves rising stronger each round through tiers of sprouting branches lit by a soft jade-green qi glow, hardy and flourishing as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

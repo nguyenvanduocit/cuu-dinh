@@ -1,9 +1,9 @@
-# Phản Lực — MJ v6 prompt
+# Phản Lực — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Glyph khắc chú offensive — một mũi tên bật ngược hướng cùng những đường năng lượng dội lại.
 
-Linh lực nảy ngược hướng với intensity cao — nét glyph hình mũi tên bật ngược, lực phản xạ.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, aggressive cinnabar-red recoil arrow reversing direction with rebound energy lines, minimal, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+An aggressive cinnabar-red enchantment glyph rune in neutral ivory-and-gold tones, depicting a recoil arrow snapping back to reverse its direction surrounded by rebound energy lines, forceful and reactive as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

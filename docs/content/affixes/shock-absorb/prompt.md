@@ -1,9 +1,9 @@
-# Giảm Sốc — MJ v6 prompt
+# Giảm Sốc — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Talisman defensive — một tấm đệm hấp thụ chấn động với những vòng đệm đồng tâm hóa giải va đập.
 
-Chance không bị stagger khi hit mạnh — nét glyph hình giảm sốc, đệm hấp thụ chấn động.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, calm blue shock absorb cushion impact dampener motif with concentric buffer rings, minimal, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A calm blue talisman rune in neutral ivory-and-gold tones, depicting a shock-absorbing impact dampener cushion of concentric buffer rings softening an incoming blow, steady and absorbing as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

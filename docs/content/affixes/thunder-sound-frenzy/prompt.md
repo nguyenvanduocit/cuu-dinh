@@ -1,9 +1,9 @@
-# Thiên Âm Cuồng — MJ v6 prompt
+# Thiên Âm Cuồng — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Glyph khắc chú offensive-AOE — những vòng sóng chấn động đồng tâm của thiên lôi cùng lúc hội tụ rung chuyển.
 
-Chance tất cả linh lực cùng lúc hit linh đan — nét glyph hình sóng âm thiên lôi, nét đồng tâm rung chuyển.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small rune glyph overlay symbol, aggressive cinnabar-red heavenly thunder sound concentric shockwave rings all converging, minimal, on transparent dark background, readable at tiny size, [STYLE SUFFIX] --ar 1:1 --stylize 80
+An aggressive cinnabar-red enchantment glyph rune in neutral ivory-and-gold tones, depicting heavenly thunder-sound concentric shockwave rings all converging at once in a quaking burst, thunderous and overwhelming as a compact readable icon rather than a full illustration. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```
