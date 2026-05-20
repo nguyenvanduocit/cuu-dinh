@@ -343,8 +343,8 @@ Mỗi `<category>/<id>/` = `design.md` (YAML frontmatter + body markdown) + opti
 
 ```
 docs/content/
-├── _enums.md              Shared vocabulary registry (enum + quy ước bảng)
-├── _style/                Shared MJ art tokens
+├── enums.md               Shared vocabulary registry (enum + quy ước bảng)
+├── style/                 Shared MJ art tokens
 ├── README.md              Cấu trúc bundle + cách thêm entity
 ├── items/                 78 linh khí
 ├── uniques/               30 Cổ Vật

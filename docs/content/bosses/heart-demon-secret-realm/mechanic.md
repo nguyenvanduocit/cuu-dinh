@@ -1,6 +1,6 @@
 # Tâm Ma Bí Cảnh — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: Boss = player's own Lò mirror (build-aware).
 

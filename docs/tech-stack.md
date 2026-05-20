@@ -135,12 +135,12 @@ import { matchState } from '@cuu-dinh/shared/match-state'
 
 Items, affix, map, passive node, đan dược → **data-driven, KHÔNG hardcode**.
 
-**Concept phase** (hiện tại): content sống trong per-entity bundle `docs/content/<category>/<id>/` — mỗi entity = 1 folder = SSOT. `design.md` chứa YAML frontmatter machine-readable + body markdown. Enum vocabulary + quy ước bảng tập trung `docs/content/_enums.md`.
+**Concept phase** (hiện tại): content sống trong per-entity bundle `docs/content/<category>/<id>/` — mỗi entity = 1 folder = SSOT. `design.md` chứa YAML frontmatter machine-readable + body markdown. Enum vocabulary + quy ước bảng tập trung `docs/content/enums.md`.
 
 ```
 docs/content/
-├── _enums.md            # Shared vocabulary registry (enum + quy ước bảng)
-├── _style/              # Shared MJ art tokens
+├── enums.md            # Shared vocabulary registry (enum + quy ước bảng)
+├── style/              # Shared MJ art tokens
 ├── README.md            # Cấu trúc bundle + cách thêm entity
 └── <category>/<id>/      # items, uniques, affixes, equipment, currency, passive-tree,
                           #   ascendancies, maps, sets, npcs, bosses, factions,

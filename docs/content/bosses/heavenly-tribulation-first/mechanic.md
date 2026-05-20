@@ -1,6 +1,6 @@
 # Thiên Kiếp Sơ Cảnh — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: First thiên kiếp encounter. Teaches Lôi Phù mechanic.
 

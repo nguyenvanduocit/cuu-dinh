@@ -1,6 +1,6 @@
 # Hỗn Nguyên Vương Hậu — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 - **Tier**: T16 minimum, scales with Cấp Vô Cực
 - **Phases**: 5

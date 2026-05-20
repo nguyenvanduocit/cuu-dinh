@@ -1,6 +1,6 @@
 # Tâm Ma Hoả Sơn — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: Hoả-themed challenge during Lò repair quest.
 

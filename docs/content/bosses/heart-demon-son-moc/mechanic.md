@@ -1,6 +1,6 @@
 # Tâm Ma Sơn Mộc — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: First boss, friendly difficulty. Teaches the "đan bể if not protect" lesson.
 

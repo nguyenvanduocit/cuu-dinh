@@ -1,6 +1,6 @@
 # Thiên Kiếp Đại Cảnh — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: True endgame trial. Linh đan Thánh grade chase.
 

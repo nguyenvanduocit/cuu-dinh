@@ -1,6 +1,6 @@
 # Diêm Phủ Tâm Ma Vương — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: Dark zone boss, no Ngũ Hành — only tâm ma debuff.
 

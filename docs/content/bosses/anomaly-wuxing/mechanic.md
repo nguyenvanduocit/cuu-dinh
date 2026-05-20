@@ -1,6 +1,6 @@
 # Dị Tượng Ngũ Hành — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: Tests if player learned all 5 elements.
 

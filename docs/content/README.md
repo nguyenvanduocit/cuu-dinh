@@ -1,14 +1,14 @@
 # `docs/content/` — Per-entity content bundles
 
 > Single source of truth cho tất cả game entity ở concept phase.
-> Mỗi entity = 1 folder = SSOT. Cross-entity table view = derived (`_catalog.md` regenerate qua `tools/derive-catalog.ts`).
+> Mỗi entity = 1 folder = SSOT. Cross-entity table view = derived (`catalog.md` regenerate qua `tools/derive-catalog.ts`).
 
 ## Structure
 
 ```
 docs/content/
-├── _style/              # Shared MJ art tokens (palette, convention, element/rarity tokens)
-├── _enums.md            # Shared vocabulary registry (scope-marked enums + table conventions)
+├── style/              # Shared MJ art tokens (palette, convention, element/rarity tokens)
+├── enums.md            # Shared vocabulary registry (scope-marked enums + table conventions)
 ├── README.md            # (you are here)
 │
 ├── items/               # 78 linh khí
@@ -19,10 +19,29 @@ docs/content/
 ├── passive-tree/        # 150 tinh điểm nodes
 ├── ascendancies/        # 5 đạo phái
 ├── maps/                # 10 pháp trận blueprints
-└── sets/                # 3 set bonuses
+├── sets/                # 3 set bonuses
+│
+├── npcs/                # 14 NPC character bibles
+├── bosses/              # 17 boss instances
+├── factions/            # 5 tông môn
+├── lore-entities/       # 16 lore artifacts + historical figures
+│
+├── acts/                # 5 acts (narrative-shaped, nested nodes)
+│
+├── regions/             # 10 locations (biome as frontmatter field)
+├── arenas/              # 3 boss arena types
+│
+├── screens/             # 13 UI screens (wireframe + concept art unified)
+│
+├── tracks/              # 17 music track briefs
+├── sfx/                 # ~80 SFX (TABLE — sfx/table.md, not per-entity)
+│
+├── effects/             # 5 particle FX (TABLE — effects/table.md, not per-entity)
+└── icons/               # 17 UI icon bundles
 ```
 
 > Note: 18 tượng La Hán sống trong `items/` dưới prefix `arhat-*` (không có folder `la-han/` riêng).
+> Note: `sfx/` và `effects/` dùng table exception (< 10 entity) — chỉ có `table.md`, không có per-entity folder.
 
 ## Per-entity folder layout
 
@@ -41,12 +60,12 @@ docs/content/<category>/<entity-id>/
 - **Body** (Markdown): mechanics description, tier values, special rules, geometry — content prose dài.
 - `id` trong frontmatter MUST match folder name.
 - `ten` = Vietnamese display name, full diacritics, NFC-normalised.
-- Enum values + table conventions tham chiếu tại `_enums.md` (scope-marked: cross-cutting / multi-bundle / bundle-local).
+- Enum values + table conventions tham chiếu tại `enums.md` (scope-marked: cross-cutting / multi-bundle / bundle-local).
 
 ### `prompt.md`
 
-- MJ `/imagine` block copy nguyên văn từ art-prompts source.
-- Append `[STYLE SUFFIX]` từ `_style/style-suffix.md`.
+- MJ `/imagine` block cho entity.
+- Append `[STYLE SUFFIX]` từ `style/style-suffix.md`.
 - Optional "Mô tả" line tiếng Việt ở đầu file.
 
 ### `lore.md`
@@ -75,6 +94,6 @@ Bundle này sinh ra từ các bảng Markdown + art-prompt pack qua migration to
 
 - **Phase 1** (item-shaped): items (incl. 18 `arhat-*`), uniques, affixes, equipment, currency, passive-tree, ascendancies, maps, sets.
 - **Phase 2** (character-shaped): npcs, bosses, factions, lore-entities.
-- **Phase C cleanup** (2026-05-20): nguồn cũ `docs/data/` đã xoá; `docs/art-prompts/` migrated subdir đã xoá; ảnh `docs/art/generated/` chuyển vào `<category>/<id>/art/`.
-
-Còn pending: acts (đang dựng), và regions, arenas, screens, effects, icons — concept-art prompt vẫn ở `docs/art-prompts/{environments,screens,effects}/` chờ migrate Phase 3.
+- **Phase 3** (narrative-shaped): acts (5 acts with nested nodes).
+- **Phase 4** (spatial/UI/audio/effects): regions (10), arenas (3), screens (13), tracks (17), sfx (table), effects (table), icons (17). Validated by `tools/migrate-spatial-ui-audio-effects.ts`.
+- **Phase C cleanup**: nguồn cũ `docs/data/` đã xoá; `docs/art-prompts/` pending cleanup after Phase 4 review.

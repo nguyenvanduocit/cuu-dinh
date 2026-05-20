@@ -1,6 +1,6 @@
 # Hỗn Nguyên Tâm Ma Vương — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: Campaign climax. Reveals Cửu Chuyển thất bại, tests whether player can refine desire without repeating Cao Tổ's mistake. Drops Sơn Hà Đồ Lệnh.
 

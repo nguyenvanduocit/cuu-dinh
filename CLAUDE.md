@@ -46,7 +46,7 @@ Tất cả quyết định bên dưới đã lock qua brainstorm 2026-05-19. M�
 | 26 | **Tech stack web-first**: Vue 3 + PixiJS v8 + Rapier 2D + Nakama + Vite + Bun monorepo. Hybrid DOM (meta UI 80%) + Canvas (match layer 20%). Supersedes Godot 4 decision cùng ngày | 2026-05-19 |
 | 27 | **Code-level identifiers → English**: class/enum/file names, data file names, all data ID slugs, variable/function names → English (`Item`, `mystic-bell`, `furnaceHp`). Display names (`ten`) + lore prose stay Vietnamese/Hán-Việt. Supersedes Pinyin-Việt convention. Tu chân fantasy preserved at presentation layer | 2026-05-20 |
 | 28 | **Game title = "Cửu Đỉnh"** (Nine Cauldrons). Working title "Lư Đan" retired. Lore weave: 9 đỉnh thượng cổ rèn bởi Cao Tổ + 7 đan sư + Lò Thần. 8 đỉnh vỡ rải khắp atlas sau Cửu Chuyển thất bại; đỉnh thứ 9 (trung lập) sống sót = Lò player kế thừa. Game title = quest tổng thể: tái hợp đủ 9 đỉnh. Package npm scope `@cuu-dinh/*`, GitHub repo `cuu-dinh` | 2026-05-20 |
-| 29 | **Concept-phase content authoring**: mỗi game entity = 1 folder `docs/content/<category>/<id>/` chứa `design.md` (YAML frontmatter machine-readable + body markdown) + optional `lore.md`/`prompt.md`/`art/`. Per-entity bundle = single source of truth của concept phase; cross-entity table view = derived. Enum vocabulary + quy ước bảng tập trung `docs/content/_enums.md`. Structured JSON + Zod schema regenerate từ `docs/content/` khi vào implementation phase. Design docs = rationale + link sang `docs/content/`. Spec: `docs/superpowers/specs/2026-05-20-per-entity-content-bundle-design.md`. Tech stack #26 không đổi | 2026-05-20 (revised lần 2 cùng ngày) |
+| 29 | **Concept-phase content authoring**: mỗi game entity = 1 folder `docs/content/<category>/<id>/` chứa `design.md` (YAML frontmatter machine-readable + body markdown) + optional `lore.md`/`prompt.md`/`art/`. Per-entity bundle = single source of truth của concept phase; cross-entity table view = derived. Enum vocabulary + quy ước bảng tập trung `docs/content/enums.md`. Structured JSON + Zod schema regenerate từ `docs/content/` khi vào implementation phase. Design docs = rationale + link sang `docs/content/`. Spec: `docs/superpowers/specs/2026-05-20-per-entity-content-bundle-design.md`. Tech stack #26 không đổi | 2026-05-20 (revised lần 2 cùng ngày) |
 
 Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `docs/onboarding.md` + `docs/superpowers/specs/2026-05-19-tech-stack-revisit.md` + `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 
@@ -69,7 +69,7 @@ Full context: `docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md` + `d
 ## ✅ ALWAYS do
 
 - Lock decision trước khi code. Decision không lock = không code.
-- Concept-phase content (items/affix/map/passive node/đan dược) sống trong per-entity bundle `docs/content/<category>/<id>/` — `design.md` (YAML frontmatter + body markdown) + optional `lore.md`/`prompt.md`/`art/`. Enum vocabulary + quy ước bảng tập trung `docs/content/_enums.md` (thay vai trò Zod). Structured JSON + Zod schema regenerate khi vào implementation phase.
+- Concept-phase content (items/affix/map/passive node/đan dược) sống trong per-entity bundle `docs/content/<category>/<id>/` — `design.md` (YAML frontmatter + body markdown) + optional `lore.md`/`prompt.md`/`art/`. Enum vocabulary + quy ước bảng tập trung `docs/content/enums.md` (thay vai trò Zod). Structured JSON + Zod schema regenerate khi vào implementation phase.
 - Tu chân authenticity ở presentation layer: display name (`ten`), lore, dialogue đúng chất pháp bảo/tông môn/bí cảnh/ngũ hành/tâm ma/thiên kiếp. Code identifier dùng English equivalent theo dictionary trong `docs/superpowers/specs/2026-05-20-naming-convention-pivot.md`.
 - AI-friendly architecture: rõ ràng, modular, decoupled. Mỗi file < 300 dòng. Mỗi class 1 responsibility.
 - Comment "WHY" cho decision phi đối xứng (vì sao Phong Ấn 25% mà không 30%).
@@ -149,21 +149,18 @@ lu-dan-game/
 │   │   ├── 2026-05-19-tech-stack-revisit.md        # ⭐ Web stack decision
 │   │   └── 2026-05-20-naming-convention-pivot.md   # ⭐ English-ID dictionary
 │   ├── content/                    # ⭐ Per-entity content bundle — SSOT concept phase
-│   │   ├── _enums.md                # Shared vocabulary registry (enum + quy ước bảng)
-│   │   ├── _style/                 # Shared MJ art tokens (convention, palette, element/rarity)
+│   │   ├── enums.md                # Shared vocabulary registry (enum + quy ước bảng)
+│   │   ├── style/                  # Shared MJ art tokens (convention, palette, element/rarity)
 │   │   ├── README.md               # Cấu trúc bundle + cách thêm entity
 │   │   └── <category>/<id>/         # items, uniques, affixes, equipment, currency, passive-tree,
 │   │                               #   ascendancies, maps, sets, npcs, bosses, factions,
 │   │                               #   lore-entities, acts — mỗi <id>/ = design.md
 │   │                               #   + optional lore.md / prompt.md / art/
-│   ├── art-prompts/                # MJ v6 concept-art prompt — 3 category chờ migrate
-│   │   └── <category>/             # environments, screens, effects
-│   ├── art/generated/screens/      # Ảnh đã gen chờ category screens
-│   └── *.md                        # Design docs (rationale + link → content/): tech-stack, art-direction, roadmap,
-│                                   #   onboarding, content, lore, combat-math, economy-flow,
-│                                   #   passive-tree-design, map-layouts, boss-patterns,
-│                                   #   progression-curve, act-narrative, tutorial-script,
-│                                   #   ui-wireframes, audio-spec, accessibility
+│   └── *.md                        # Strategic design docs (cross-bundle, vĩ mô): tech-stack, art-direction,
+│                                   #   audio-spec, roadmap, onboarding, content, lore, combat-math,
+│                                   #   economy-flow, progression-curve, ui-wireframes, accessibility.
+│                                   #   Bundle-specific design (vi mô) sống tại docs/content/<bundle>/README.md:
+│                                   #   bosses/, maps/, passive-tree/, acts/narrative.md, acts/tutorial.md.
 ├── apps/                           # (kế hoạch)
 │   ├── web/                        # Vue + Pixi client
 │   │   ├── package.json
@@ -244,7 +241,7 @@ lu-dan-game/
 ## Working modes
 
 - **Design phase**: edit `docs/`. Lock decision vào table trên.
-- **Content phase**: edit per-entity bundle `docs/content/<category>/<id>/` — `design.md` (YAML frontmatter + body), optional `lore.md`/`prompt.md`/`art/`. AI có thể generate batch. Enum vocabulary + quy ước bảng ở `docs/content/_enums.md` là contract. Structured JSON + Zod regenerate ở implementation phase.
+- **Content phase**: edit per-entity bundle `docs/content/<category>/<id>/` — `design.md` (YAML frontmatter + body), optional `lore.md`/`prompt.md`/`art/`. AI có thể generate batch. Enum vocabulary + quy ước bảng ở `docs/content/enums.md` là contract. Structured JSON + Zod regenerate ở implementation phase.
 - **Implement phase**: code TS trong `apps/web/` (client) hoặc `apps/nakama-runtime/` (server). Mỗi feature 1 PR.
 - **Polish phase**: playtest + tune. Balance simulator (headless Rapier autorunner trong `tools/`) chạy auto trước khi tune manual.
 

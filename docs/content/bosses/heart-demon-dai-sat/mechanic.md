@@ -1,6 +1,6 @@
 # Tâm Ma Đại Sát — Mechanics
 
-Extracted from `docs/boss-patterns.md`.
+Extracted from `../README.md`.
 
 **Role**: Ascendancy quest. Test player's Đạo Phái selection.
 
