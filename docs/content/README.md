@@ -8,7 +8,7 @@
 ```
 docs/content/
 ├── _style/              # Shared MJ art tokens (palette, convention, element/rarity tokens)
-├── _enums.md            # Enum vocabulary (contract cho design.md frontmatter)
+├── _enums.md            # Shared vocabulary registry (scope-marked enums + table conventions)
 ├── README.md            # (you are here)
 │
 ├── items/               # 78 linh khí
@@ -40,7 +40,7 @@ docs/content/<category>/<entity-id>/
 - **Body** (Markdown): mechanics description, tier values, special rules, geometry — content prose dài.
 - `id` trong frontmatter MUST match folder name.
 - `ten` = Vietnamese display name, full diacritics, NFC-normalised.
-- Enum vocabulary tham chiếu tại `_enums.md`.
+- Enum values + table conventions tham chiếu tại `_enums.md` (scope-marked: cross-cutting / multi-bundle / bundle-local).
 
 ### `prompt.md`
 
