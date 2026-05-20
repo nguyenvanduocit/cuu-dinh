@@ -34,7 +34,7 @@
 | **Rarity** | `Common`, `Magic`, `Rare`, `Legendary`, `Unique`, `Mirror` | items, equipment |
 | **DropPool** | `Common`, `Uncommon`, `Rare`, `VeryRare`, `ExtremelyRare` | items, reagents (currency) |
 | **ItemBaseType** | `bell`, `sword`, `saber`, `inkstone`, `bead`, `statue`, `talisman`, `cauldron`, `box`, `fan`, `branch`, `lantern`, `flower`, `vase`, `drum`, `charm` | items (`type`), uniques (`type`), affixes (`compatibleItemTypes`) |
-| **BossType** | `anomaly`, `mirror`, `lightning` | maps (`bossType`), bosses (`bossType`) |
+| **BossType** | maps: `anomaly`, `mirror`, `lightning` (3 tier-band per #20). bosses (granular): `anomaly`, `heart-demon`, `heavenly-tribulation`, `super-boss`, `atlas-mega`, `multi-type` | maps, bosses — ⚠ hai vocab phân kỳ (heart-demon≈mirror, heavenly-tribulation≈lightning + endgame categories). Cần normalize sau. |
 
 ## C. Bundle-local enums (1 bundle)
 
