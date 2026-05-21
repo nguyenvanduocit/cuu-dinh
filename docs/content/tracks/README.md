@@ -8,8 +8,8 @@ Music tracks are composed per mood/location, not per-entity. Each track has a br
 
 ## Cross-references
 
-- Audio philosophy + mixing: `../../audio-spec.md` §0, §3-§10
-- Instrument palette: `../../audio-spec.md` §6
+- Audio philosophy + mixing: `../audio-spec.md` §0, §3-§10
+- Instrument palette: `../audio-spec.md` §6
 
 ## Entity layout
 

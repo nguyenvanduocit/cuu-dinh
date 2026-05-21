@@ -323,19 +323,19 @@ Toàn bộ pre-production design công khai trong repo:
 |---|---|
 | [VISION.md](./VISION.md) | Manifesto, "không thoái chí" spirit, why Đan Kiếp title |
 | [docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md](./docs/superpowers/specs/2026-05-19-cuu-dinh-master-design.md) | **Master design spec v1.2** — single source of truth (29 quyết định locked) |
-| [docs/lore.md](./docs/lore.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Chuyển Kim Đan + Đan Kiếp canonical lore |
+| [docs/content/lore.md](./docs/content/lore.md) | Worldbuilding, 800-year history, 15 NPC bibles, voice & tone, Cửu Chuyển Kim Đan + Đan Kiếp canonical lore |
 | [docs/onboarding.md](./docs/onboarding.md) | Tutorial + 5-Act campaign design |
 | [docs/content.md](./docs/content.md) | Catalog: linh khí, Cổ vật, đan dược, affix pools |
-| [docs/combat-math.md](./docs/combat-math.md) | Ngũ Hành damage formulas, intensity scaling |
-| [docs/progression-curve.md](./docs/progression-curve.md) | XP curve, drop rates, time-to-X benchmarks |
+| [docs/content/combat-math.md](./docs/content/combat-math.md) | Ngũ Hành damage formulas, intensity scaling |
+| [docs/content/progression-curve.md](./docs/content/progression-curve.md) | XP curve, drop rates, time-to-X benchmarks |
 | [docs/boss-patterns.md](./docs/boss-patterns.md) | Attack patterns, phase design (3 boss types) |
-| [docs/economy-flow.md](./docs/economy-flow.md) | Currency sources/sinks, inflation guards |
+| [docs/content/economy-flow.md](./docs/content/economy-flow.md) | Currency sources/sinks, inflation guards |
 | [docs/ui-wireframes.md](./docs/ui-wireframes.md) | Per-screen wireframes + state diagrams |
-| [docs/audio-spec.md](./docs/audio-spec.md) | Music tracks, SFX library, instrumentation |
-| [docs/art-direction.md](./docs/art-direction.md) | Pixel art palette, environment moodboard |
+| [docs/content/audio-spec.md](./docs/content/audio-spec.md) | Music tracks, SFX library, instrumentation |
+| [docs/content/art-direction.md](./docs/content/art-direction.md) | Pixel art palette, environment moodboard |
 | [docs/tech-stack.md](./docs/tech-stack.md) | Vue + PixiJS + Rapier + Nakama architecture |
 | [docs/roadmap.md](./docs/roadmap.md) | 5-year build plan with quarterly milestones |
-| [docs/accessibility.md](./docs/accessibility.md) | Colorblind, motor, cognitive accessibility |
+| [docs/content/accessibility.md](./docs/content/accessibility.md) | Colorblind, motor, cognitive accessibility |
 
 Plus per-entity content bundle — single source of truth concept phase, mỗi entity = 1 folder trong `docs/content/`:
 

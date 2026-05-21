@@ -272,17 +272,3 @@ Thêm vào mọi prompt asset có background: `"vertical scroll composition, han
 - 50+ particle/effect sprites
 
 ### Estimated total: ~600 sprite assets
-
-### Pipeline throughput estimate
-- AI draft: 50/day
-- Manual polish: 10-15/day (solo)
-- Total v1.0 art timeline: ~60-90 work days = 3-4 months full-time art phase
-
----
-
-## Decision log
-
-- **2026-05-19**: Locked pixel art style + AI-draft-then-polish pipeline.
-- **2026-05-20**: Art direction pivoted from Vietnamese lacquer/Dong Son focus to xianxia cultivation/alchemy focus.
-- **2026-05-20**: Thêm section "Bố Cục Dọc / Portrait Composition (立軸)" — concept art ưu tiên khung dọc, tránh crop ngang. Áp cho screens, regions, arenas, bosses. Xem spec 2026-05-20-mobile-portrait-pivot-design.md.
-- Future revisits: only if AI pipeline fails to produce acceptable quality (will know within first 2 weeks of asset phase).

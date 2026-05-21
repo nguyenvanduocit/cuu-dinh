@@ -11,7 +11,7 @@ NPCs are the narrative spine of Cuu Dinh. Each NPC has a distinct voice, backsto
 - Full diacritics always for Vietnamese dialogue
 - Han-Viet cultivation flavor but readable to modern Vietnamese speakers
 - Each NPC has a unique speech pattern (see per-entity `dialogue.md`)
-- Refer to `../../lore.md` §8 Voice & tone for global voice direction
+- Refer to `../lore.md` §8 Voice & tone for global voice direction
 
 ## Entity layout
 

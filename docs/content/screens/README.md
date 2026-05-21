@@ -9,7 +9,7 @@ Screens unify UI wireframe specs (from `../../ui-wireframes.md`) with concept ar
 ## Cross-references
 
 - UI design principles: `../../ui-wireframes.md` §0-§1
-- Art direction: `../../art-direction.md`
+- Art direction: `../art-direction.md`
 
 ## Entity layout
 

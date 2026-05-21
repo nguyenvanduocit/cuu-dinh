@@ -46,5 +46,5 @@ Cập nhật `lore-entities/README.md`: "16 entities: 9 dinh + 7 dan su..." → 
 ## Doc cần rewrite (không phải replace)
 - `VISION.md` §"tại sao tên này" → rationale Đan Kiếp/Cửu Chuyển.
 - `README.md` premise + endgame quest.
-- `docs/lore.md` (timeline, dissolved-section pointer).
+- `docs/content/lore.md` (timeline, dissolved-section pointer).
 - 9 cauldron lore-entities → xoá; 6 entity giữ → reframe.
