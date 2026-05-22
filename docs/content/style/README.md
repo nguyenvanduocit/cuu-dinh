@@ -12,15 +12,17 @@
 
 Full strategic context: `../../art-direction.md`.
 
+> **Format prompt = prose tự nhiên + nền chroma magenta** (chốt 2026-05-22). Cú pháp `/imagine ... --param` của Midjourney đã nghỉ. Chi tiết: [`convention.md`](convention.md).
+
 ## Token files (vi mô shared, không bundle-specific)
 
 | File | Vai trò | Khi nào đọc |
 |---|---|---|
-| [`convention.md`](convention.md) | Compose formula + format mỗi `prompt.md` + 9 quy tắc cứng | Trước khi viết bất kỳ `prompt.md` |
-| [`style-suffix.md`](style-suffix.md) | Chuỗi STYLE SUFFIX append cuối mọi prompt + tham số MJ v6 | Mỗi lần dán prompt |
+| [`convention.md`](convention.md) | Cấu trúc 4 khối prose + 4 template + format mỗi `prompt.md` + 8 quy tắc cứng | Trước khi viết bất kỳ `prompt.md` |
+| [`style-suffix.md`](style-suffix.md) | STYLE BLOCK + BACKGROUND BLOCK chép nguyên văn vào cuối mọi prompt | Mỗi lần viết prompt |
 | [`palette.md`](palette.md) | 6-color locked + 7 phẩm cấp linh đan colors + UI ratio | Khi cần named-color cho prompt hoặc UI |
 | [`element-tokens.md`](element-tokens.md) | Map `element` enum → English token phrase | Khi entity có field `element` |
-| [`rarity-tokens.md`](rarity-tokens.md) | Map `rarity`/`variant` → MJ treatment + border sprite | Khi entity có rarity (items, equipment, uniques) |
+| [`rarity-tokens.md`](rarity-tokens.md) | Map `rarity`/`variant` → treatment phrase + border sprite | Khi entity có rarity (items, equipment, uniques) |
 | [`base-noun-dictionary.md`](base-noun-dictionary.md) | Map `type` (ItemBaseType) → SUBJECT phrase | Khi entity là item/unique hoặc affix có `compatibleItemTypes` |
 
 ## Bundle-specific art rules (vi mô local)
@@ -37,12 +39,12 @@ Subject mapping per-slot, overlay treatment per-category — sống ở bundle o
 ## Pipeline tóm tắt
 
 ```
-MJ v6 (concept/mood/silhouette reference)
+Prompt prose (concept/mood/silhouette reference, generator-agnostic)
   → SDXL + pixel-art LoRA (sprite generation)
-  → Aseprite polish (final asset)
+  → Aseprite polish (key-out nền magenta → final asset)
 ```
 
-MJ KHÔNG export thẳng làm sprite game. Chi tiết: `../../art-direction.md §AI Asset Pipeline`.
+Generator concept KHÔNG export thẳng làm sprite game. Chi tiết: `../../art-direction.md §AI Asset Pipeline`.
 
 ## How to add new art rule
 

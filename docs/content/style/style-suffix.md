@@ -1,34 +1,57 @@
-# STYLE SUFFIX — single source of truth
+# STYLE BLOCK + BACKGROUND BLOCK — single source of truth
 
-> Chuỗi style chung **append vào cuối mọi `prompt.md`** trong `docs/content/`. Đổi ở đây = đổi cả bộ. Nguồn: `docs/art-direction.md`.
+> Hai khối cuối **chép nguyên văn vào mọi `prompt.md`** trong `docs/content/`. Đổi ở đây = đổi cả bộ. Nguồn: `docs/art-direction.md`.
+>
+> Format prose hiện hành (chốt 2026-05-22) — xem `convention.md`. Cú pháp cũ `/imagine ... --param` đã nghỉ.
 
-## STYLE SUFFIX (chép nguyên văn)
+## STYLE BLOCK — bản thường (item, icon, emblem, scene)
+
+> Chép nguyên văn, đặt ngay sau câu SUBJECT + ELEMENT/RARITY.
 
 ```
-moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur
+Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical.
 ```
 
-Trong các file entry, ký hiệu `[STYLE SUFFIX]` = chuỗi trên. Khi gen thật phải dán đầy đủ chuỗi (xem ví dụ expanded trong từng category).
+## STYLE BLOCK — bản painterly (nhân vật, boss)
 
-## Tham số MJ v6
+> Giống bản thường, chỉ thay `hand-crafted pixel art` → `hand-crafted painterly pixel art`.
 
-| Param | Khi nào | Giá trị |
-|---|---|---|
-| `--ar 9:16` | environment / screen scene | dọc (portrait) |
-| `--ar 1:1` | item sprite, icon, boss, portrait | vuông |
-| `--ar 9:16` | full-body NPC, banner đứng | dọc |
-| `--style raw` | **luôn** | tắt MJ auto-beautify |
-| `--stylize` | asset `100-150`, mood board `300+`, icon `80` | bám prompt ↔ bay bổng |
-| `--chaos` | explore `15-30`, đã chốt `0` | đa dạng variant |
-| `--tile` | texture lặp seamless | Stash/Settings nền |
+```
+Rendered as moody, hand-crafted painterly pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical.
+```
 
-## Checklist mỗi prompt (4 thành phần bắt buộc)
-1. Subject cụ thể
-2. Named-color palette (không chỉ hex)
-3. STYLE SUFFIX với `--style raw --v 6`
-4. `--no` list
+## BACKGROUND BLOCK — magenta (asset tách nền)
 
-Thiếu 1 → drift về MJ generic.
+> Dùng cho item, icon, emblem, nhân vật, boss — mọi asset cần key-out nền.
+
+```
+The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
+```
+
+## BACKGROUND BLOCK — fill-frame (scene môi trường)
+
+> Dùng cho arena, screen backdrop, map, region — cảnh phủ kín khung, không tách nền.
+
+```
+The scene fills the entire frame, no lettering and no interface chrome.
+```
+
+## Aspect (ghi bằng dòng text `Aspect:`, KHÔNG `--ar`)
+
+| Aspect | Khi nào |
+|---|---|
+| `1:1` | item sprite, icon, emblem, boss sprite, portrait headshot |
+| `9:16` | environment scene, UI screen backdrop, full-body nhân vật/banner đứng |
+
+## Checklist mỗi prompt (4 khối bắt buộc)
+
+1. SUBJECT cụ thể
+2. ELEMENT + RARITY dệt vào câu (named-color, không chỉ hex)
+3. STYLE BLOCK (thường hoặc painterly) — chép nguyên văn
+4. BACKGROUND BLOCK (magenta hoặc fill-frame) — chép nguyên văn
+
+Thiếu một khối → prompt drift về generic.
 
 ## Caveat pipeline
-MJ v6 = **concept/mood/reference** cho pha thiết kế. Sprite final qua **SDXL + pixel-art LoRA → Aseprite polish** (`art-direction.md §AI Asset Pipeline`). KHÔNG export thẳng MJ làm asset game.
+
+Prompt prose = **concept/mood/reference** cho pha thiết kế, generator-agnostic. Sprite final qua **SDXL + pixel-art LoRA → Aseprite polish** (`art-direction.md §AI Asset Pipeline`). Nền magenta giúp key-out sạch ở bước Aseprite.
