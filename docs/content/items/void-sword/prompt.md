@@ -1,9 +1,9 @@
-# Kiếm Vô Cực — MJ v6 prompt
+# Kiếm Vô Cực — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Kiếm này không chọn bên — không cộng không trừ theo ngũ hành, chỉ cắt; đơn giản đến mức người không hiểu thấy phí, người hiểu thấy đủ.
 
-Kiếm này không chọn bên — không cộng không trừ theo ngũ hành, chỉ cắt. Đơn giản đến mức người không hiểu thấy phí, người hiểu thấy đủ. Ignore element math, fixed 50 damage/hit. Ma phẩm.
+Aspect: 1:1
 
 ```
-/imagine prompt: a slender daoist flying sword (phi kiem) with a blade of pure void-black material and no elemental markings, only a faint twilight purple edge glow, cosmic void with star-flecks and infinity motif, twilight purple (#4A1942) ethereal aura, soft blue inner glow, clean blue border frame, centered game item icon on dark ink background, ... [STYLE SUFFIX] --ar 1:1 --stylize 120
+A single slender daoist flying sword with a blade of pure void-black material and no elemental markings, only a faint twilight-purple edge glow, surrounded by cosmic void with star-flecks and an infinity motif wrapped in a twilight-purple ethereal aura. It bears a soft blue inner glow within a clean blue border frame. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

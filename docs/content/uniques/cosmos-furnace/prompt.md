@@ -1,9 +1,9 @@
-# Đan Lư Càn Khôn — MJ v6 prompt
+# Đan Lư Càn Khôn — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đỉnh luyện đan tổ truyền đúc từ tám mảnh vỡ, mỗi mảnh tích ký ức riêng của một thế hệ. Mỗi ván sống sót, đỉnh tặng lại một chút tinh hoa — affix tier của một linh khí nâng lên vĩnh viễn.
 
-Đỉnh luyện đan tổ truyền đúc từ tám mảnh vỡ, mỗi mảnh tích ký ức riêng của một thế hệ. Mỗi ván sống sót, đỉnh tặng lại một chút tinh hoa — affix tier của một linh khí nâng lên vĩnh viễn.
+Aspect: 1:1
 
 ```
-/imagine prompt: a three-legged daoist alchemy cauldron forged from eight visibly distinct fused metal fragments each with different engravings and patina, seams glowing with contained cosmological energy and swirling galaxy patterns inside the cauldron mouth, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single three-legged daoist alchemy cauldron forged from eight visibly distinct fused metal fragments, each section bearing different engravings and a different patina of aged copper, bronze, and oxidized jade, the seams between shards glowing with contained cosmological energy and a swirling miniature galaxy visible roiling inside the open cauldron mouth — a legendary relic assembled from eight lineages of memory, patient and inevitable. The cauldron carries neutral ivory-and-gold tones with a cold metallic gleam where the angular forged fragments meet, lit by thin imperial-gold edge light along every visible seam, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance declaring this vessel as one of a kind. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

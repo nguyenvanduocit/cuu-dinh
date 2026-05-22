@@ -1,9 +1,9 @@
-# Huyền Thiên Cổ Chung — MJ v6 prompt
+# Huyền Thiên Cổ Chung — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Cổ chung đen huyền từ cổ điện Huyền Thiên, thân chuông mờ tối nhưng vành chuông sáng gold. Tiếng vang không tắt — mỗi lần âm sóng cộng dồn đủ năm lần thì bùng nổ AOE, thiên kiếp cũng phải dừng tay.
 
-Cổ chung đen huyền từ cổ điện Huyền Thiên, thân chuông mờ tối nhưng vành chuông sáng gold. Tiếng vang không tắt — mỗi lần âm sóng cộng dồn đủ năm lần thì bùng nổ AOE, thiên kiếp cũng phải dừng tay.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ancient dark-bronze ritual bell with a near-black patina body and a gleaming imperial gold rim, concentric sound-wave rings visible in the air around it as if five waves are building to a detonation point, forged metal with a sharp angular silhouette and cold metallic gleam, imperial gold (#D4AF37) edge light, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single ancient dark-bronze ritual bell with a near-black patina covering its entire body, its gleaming imperial-gold rim the only bright element in an otherwise brooding silhouette, five concentric sound-wave rings radiating outward in the air around it like a visible accumulation of resonance building toward an inevitable detonation point — a legendary relic of patient power that rewards those who count their strikes before they strike. The bell asserts a forged angular silhouette with a sharp metallic gleam lit by thin imperial-gold edge light along its thick rim alone, the metal element cold and purposeful, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance that crackles as if the fifth wave is always just about to break. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

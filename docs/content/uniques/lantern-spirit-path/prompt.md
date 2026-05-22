@@ -1,9 +1,9 @@
-# Linh Đường Đèn Lồng — MJ v6 prompt
+# Linh Đường Đèn Lồng — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đèn lồng giấy đỏ treo một mình giữa bóng tối tuyệt đối, quầng sáng chỉ rộng mười trượng. Đan Sư Hắc Bạch từng nói: người thật sự giỏi không cần thấy hết — cần thấy đúng.
 
-Đèn lồng giấy đỏ treo một mình giữa bóng tối tuyệt đối, quầng sáng chỉ rộng mười trượng. Đan Sư Hắc Bạch từng nói: người thật sự giỏi không cần thấy hết — cần thấy đúng.
+Aspect: 1:1
 
 ```
-/imagine prompt: a solitary hanging red paper lantern casting a tight ten-foot radius of warm light against absolute black void, darkness pressing close on all sides with faint ghost silhouettes just beyond the light edge, cosmic void with star-flecks and infinity motif, twilight purple (#4A1942) ethereal aura, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single solitary hanging red paper lantern casting a tight circle of warm amber-red light against absolute surrounding darkness, the shadows pressing close from every direction with only faint ghost-silhouettes visible just beyond the light's hard edge, the lantern's paper panels glowing from within and its tassel swaying as if in a wind that carries no other sound — a legendary relic of purposeful blindness whose power lives in what it chooses not to illuminate. The lantern exudes cosmic void energy: star-flecks hover in the darkness just outside its glow and a twilight-purple ethereal aura bleeds along the border where light meets dark, while an intense prismatic rainbow particle storm surrounds the whole scene with a shifting iridescent border and legendary radiance declaring this lantern as unique in all the nine provinces. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

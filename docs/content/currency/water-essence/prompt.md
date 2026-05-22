@@ -1,9 +1,9 @@
-# Tinh Hoa Thuỷ — MJ v6 prompt
+# Tinh Hoa Thuỷ — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Mảnh tinh hoa Thuỷ hành xanh đậm như giọt nước đóng băng, bắt buộc khắc prefix tăng chain Thuỷ vào linh khí và reroll affix còn lại.
 
-Mảnh tinh hoa Thuỷ hành xanh đậm như giọt nước đóng băng, bắt buộc khắc prefix tăng chain Thuỷ vào linh khí và reroll affix còn lại.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small droplet-shaped essence shard, flowing water forms with ripples and drifting mist, deep blue (#1E3A5F) inner light, teardrop crystalline silhouette, small clear game inventory icon readable at tiny size, single object on dark, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A single small droplet-shaped essence shard drawn as a small inventory icon that stays clearly legible at tiny size, its teardrop crystalline silhouette rendered in flowing water forms with ripples and drifting mist and a deep blue inner light at the core. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

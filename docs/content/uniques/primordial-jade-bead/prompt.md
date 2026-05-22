@@ -1,9 +1,9 @@
-# Hỗn Nguyên Ngọc Châu — MJ v6 prompt
+# Hỗn Nguyên Ngọc Châu — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Châu ngọc trước khi ngũ hành tách ra — bề mặt xoáy liên tục thành năm màu rồi lại hợp thành một màu hỗn độn không xác định được. Mỗi pháp trận, nó cố kéo tất cả linh khí trở về trạng thái hỗn nguyên ngẫu nhiên.
 
-Châu ngọc trước khi ngũ hành tách ra — bề mặt xoáy liên tục thành năm màu rồi lại hợp thành một màu hỗn độn không xác định được. Mỗi pháp trận, nó cố kéo tất cả linh khí trở về trạng thái hỗn nguyên ngẫu nhiên.
+Aspect: 1:1
 
 ```
-/imagine prompt: a glowing round spirit bead orb with a surface of perpetually swirling five-element color vortex fusing and separating in an endless primordial chaos pattern, cosmic void with star-flecks and infinity motif, twilight purple (#4A1942) ethereal aura, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single glowing round spirit bead orb whose entire surface is in perpetual motion, five elemental colors — cinnabar red, jade green, imperial gold, ink black, and twilight purple — fusing and separating in an endless primordial chaos vortex that never resolves into any stable hue, a swirling pattern that predates the separation of the five elements themselves — a legendary relic carrying the chaos of creation before order was imposed. The orb exudes cosmic void energy: star-flecks tumble within its swirling depths and a twilight-purple ethereal aura radiates from its surface, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance as if the bead is pulling all five elements back toward their primordial unity. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

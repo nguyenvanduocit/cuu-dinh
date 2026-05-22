@@ -1,9 +1,9 @@
-# Đèn Băng — MJ v6 prompt
+# Đèn Băng — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đèn không sáng — đèn lạnh; Thuỷ lực qua đây, linh khí xung quanh đứng im một giây như ao đông giữa mùa đông Đông Bắc.
 
-Đèn không sáng — đèn lạnh. Thuỷ lực qua đây, linh khí xung quanh đứng im 1 giây như ao đông giữa mùa đông Đông Bắc. Counter-element slow.
+Aspect: 1:1
 
 ```
-/imagine prompt: a hanging paper lantern encased in a shell of translucent ice with frost crystal formations, flowing water forms with ripples and drifting mist, deep blue (#1E3A5F) inner light, plain dull finish, simple thin gray border frame, no glow, centered game item icon on dark ink background, ... [STYLE SUFFIX] --ar 1:1 --stylize 120
+A single hanging paper lantern encased in a shell of translucent ice with frost crystal formations blooming across its surface, embodying flowing water forms with ripples and drifting mist lit by a deep-blue inner light. It bears a plain dull finish inside a simple thin gray border frame, with no glow. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

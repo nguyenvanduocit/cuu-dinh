@@ -1,9 +1,9 @@
-# Hộp Hoả Tinh — MJ v6 prompt
+# Hộp Hoả Tinh — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Pháp khí dạng hộp sơn son khảm vàng, phù điêu ngọn lửa nổi bật trên nắp; thu nạp linh lực Hoả rồi giải phóng với ×2 intensity sau 3 giây tích tụ.
 
-Ba giây chờ đợi — đủ để hòn than đỏ thành lửa lớn. Hộp biết bài học đó từ lần đầu Đan Sư đốt lò. Store + amplify: release với ×2 intensity sau 3s. Bảo phẩm.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ornate sealed treasure box with crimson lacquer and golden flame relief carvings, faint heat shimmer rising from seams, upward-licking flames and floating embers, cinnabar red (#C82127) radiant heat, purple crystalline sheen, ornate purple border with a subtle repeating talisman pattern, centered game item icon on dark ink background, ... [STYLE SUFFIX] --ar 1:1 --stylize 120
+A single ornate sealed treasure box with crimson lacquer and golden flame relief carvings, faint heat shimmer rising from its sealed seams. The box radiates upward-licking flames and floating embers, aglow with cinnabar-red heat, and displays a purple crystalline sheen within an ornate purple border frame carrying a subtle repeating talisman pattern. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

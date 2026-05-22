@@ -1,9 +1,9 @@
-# Cửu U Hắc Đan — MJ v6 prompt
+# Cửu U Hắc Đan — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Hộp đen tuyền đựng đan hắc luyện ở chín tầng u tối, bề mặt hộp phủ sương lạnh và rỉ nước đen. Mạnh vì không sợ — mỗi ván dùng, Lò trả giá mười phần trăm sinh lực, vì không có ánh sáng nào mà không tiêu hao bóng tối làm nhiên liệu.
 
-Hộp đen tuyền đựng đan hắc luyện ở chín tầng u tối, bề mặt hộp phủ sương lạnh và rỉ nước đen. Mạnh vì không sợ — mỗi ván dùng, Lò trả giá mười phần trăm sinh lực, vì không có ánh sáng nào mà không tiêu hao bóng tối làm nhiên liệu.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ornate sealed treasure box of black lacquer covered in freezing condensation and black water seepage, faint pale-blue deep-sea bioluminescence glowing through hairline cracks on the surface, flowing water forms with ripples and drifting mist, deep blue (#1E3A5F) inner light, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single ornate sealed treasure box of black lacquer covered in a fine layer of freezing condensation and dark water seepage that beads along every surface, pale-blue deep-sea bioluminescence glowing through hairline cracks on the box's surface as if something immense and cold presses outward from within, flowing water forms with ripples and drifting mist trailing along its base — a legendary relic of terrible potency that borrows its brightness from the abyss it consumed. The box pulses with water-element energy in flowing forms lit by a deep-blue inner light filtering through every crack, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance that burns cold, like a star at the bottom of the ocean. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

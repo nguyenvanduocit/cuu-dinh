@@ -1,9 +1,9 @@
-# Lưỡi Hái Thiên Lý — MJ v6 prompt
+# Lưỡi Hái Thiên Lý — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Lưỡi hái bạc dài không tưởng, lưỡi cong như trăng khuyết, cán đen như hư vô. Vô Thường dùng cái này không để chém người — để chém cả đường về, đổi một linh khí hi sinh lấy mười lần cường độ.
 
-Lưỡi hái bạc dài không tưởng, lưỡi cong như trăng khuyết, cán đen như hư vô. Vô Thường dùng cái này không để chém người — để chém cả đường về, đổi một linh khí hi sinh lấy mười lần cường độ.
+Aspect: 1:1
 
 ```
-/imagine prompt: a curved silver-bladed scythe with a crescent-moon blade and a jet-black void handle of impossible length trailing into darkness, the cutting edge leaving a ×10 intensity afterimage streak, cosmic void with star-flecks and infinity motif, twilight purple (#4A1942) ethereal aura, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single curved silver-bladed scythe of impossible length, its crescent-moon blade honed to a geometric sharpness that catches imperial-gold edge light along every millimeter of its arc, the jet-black handle disappearing into darkness as if it has no bottom and trails off into a void corridor that leads nowhere — a legendary relic of Impermanence that cuts not flesh but destiny, converting sacrifice into overwhelming force. The scythe exudes cosmic void energy: star-flecks drift in the dark wake behind the blade and a twilight-purple ethereal aura trails from the cutting edge in a ×10 intensity afterimage streak, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance marking this weapon as one that was never meant for human hands. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

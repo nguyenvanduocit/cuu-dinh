@@ -1,9 +1,9 @@
-# Hỗn Nguyên Biến — MJ v6 prompt
+# Hỗn Nguyên Biến — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Huy hiệu Tâm Ma trung bình hỗn mang — Hỗn Nguyên Biến hoán đổi ngẫu nhiên vị trí mọi linh khí trên board đầu mỗi ván, không thể lưu cấu hình.
 
-Huy hiệu Tâm Ma trung bình hỗn mang — Hỗn Nguyên Biến hoán đổi ngẫu nhiên vị trí mọi linh khí trên board đầu mỗi ván, không thể lưu cấu hình. riskLevel medium: xoáy hỗn nguyên, nứt vừa.
+Aspect: 1:1
 
 ```
-/imagine prompt: a single small corruption sigil token, twilight purple (#4A1942) disc with a primordial-chaos swirl motif and shuffled grid-pattern etchings, cinnabar red (#C82127) medium cracks, moderate smoky aura for medium risk, small clear game inventory icon readable at tiny size, single object on dark, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A single small corruption sigil token drawn as a small inventory icon that stays clearly legible at tiny size, its twilight purple disc bearing a primordial-chaos swirl motif with shuffled grid-pattern etchings and cinnabar red medium cracks running through the surface with a moderate smoky aura signalling medium risk. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```
