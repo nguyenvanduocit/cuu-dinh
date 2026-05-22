@@ -1,9 +1,9 @@
-# Linh Hoa Bích Bảo — MJ v6 prompt
+# Linh Hoa Bích Bảo — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Hoa sen ngọc bích nở giữa không trung, cánh hoa xanh ngọc trong suốt toả ra một vầng sáng ấm áp. Long Vương tặng viên ngọc này đền ơn cứu con gái Long Cung — viên ngọc nhớ câu chuyện đó và giữ linh đan như Long Vương giữ lời hứa.
 
-Hoa sen ngọc bích nở giữa không trung, cánh hoa xanh ngọc trong suốt toả ra một vầng sáng ấm áp. Long Vương tặng viên ngọc này đền ơn cứu con gái Long Cung — viên ngọc nhớ câu chuyện đó và giữ linh đan như Long Vương giữ lời hứa.
+Aspect: 1:1
 
 ```
-/imagine prompt: a blooming spirit lotus flower carved entirely from translucent jade, petals glowing with a warm inner jade-green light, living wood with organic curves and sprouting leaf motifs, jade green (#2E5E4E) qi glow, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single blooming spirit lotus flower carved entirely from translucent jade, its layered petals fanning outward in organic curves and each one glowing with a warm inner jade-green light as if a living qi force still flows through the stone, tender sprouting leaf motifs curling from the base of the stem to suggest growth that has not stopped — a legendary relic of enduring protection gifted by a sovereign who never broke a promise. The flower pulses with wood-element energy in living organic curves lit by a jade-green qi glow throughout its translucent form, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance marking this blossom as utterly unique. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

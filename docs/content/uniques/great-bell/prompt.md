@@ -1,9 +1,9 @@
-# Chuông Đại Hồng — MJ v6 prompt
+# Chuông Đại Hồng — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Chuông đồng khổng lồ màu vàng-đen, thân khắc đầy phúc tự và bát quái, vành chuông dày như thành trì. Bảy giây một lần, tiếng chuông vang khiến tất cả linh khí trong lò tự kích hoạt — không cần tay dẫn.
 
-Chuông đồng khổng lồ màu vàng-đen, thân khắc đầy phúc tự và bát quái, vành chuông dày như thành trì. Bảy giây một lần, tiếng chuông vang khiến tất cả linh khí trong lò tự kích hoạt — không cần tay dẫn.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ancient bronze ritual bell, oversized and imposing with thick walls engraved with lucky characters and bagua trigrams, forged metal with a sharp angular silhouette and cold metallic gleam, imperial gold (#D4AF37) edge light, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single ancient bronze ritual bell of imposing size, its walls thick as fortress ramparts and its exterior surface engraved from crown to hem with lucky characters and all eight bagua trigrams in deep relief, the metal darkened with centuries of ceremony yet its rim gleaming with a cold metallic edge light in imperial gold — a legendary relic whose resonance needs no hand to strike it, only time. The bell asserts a forged angular silhouette with a sharp metallic gleam lit by thin imperial-gold edge light tracing every engraved ridge and corner, its metal element unmistakable, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance that vibrates as if the sound never fully fades. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

@@ -1,9 +1,9 @@
-# Áo Cà Sa Cửu Phẩm — MJ v6 prompt
+# Áo Cà Sa Cửu Phẩm — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Áo cà sa chín phẩm liên hoa may từ vải của chín vị sư đã đạt giác ngộ, mỗi mảnh vải một màu khác nhau kết thành cửu sắc. Mặc vào, Lò rộng ra thêm một slot — không gian không đổi, tâm rộng hơn.
 
-Áo cà sa chín phẩm liên hoa may từ vải của chín vị sư đã đạt giác ngộ, mỗi mảnh vải một màu khác nhau kết thành cửu sắc. Mặc vào, Lò rộng ra thêm một slot — không gian không đổi, tâm rộng hơn.
+Aspect: 1:1
 
 ```
-/imagine prompt: a hanging paper talisman strip displaying a nine-panel kasaya robe patchwork in nine distinct sacred colors stitched together with golden thread, each patch bearing an enlightened master's seal, neutral ivory-and-gold tones with nine-color lotus motifs, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single hanging kasaya robe patchwork displayed as a talisman icon, its nine distinct sacred-fabric panels each bearing a different enlightened master's embroidered seal, stitched together with golden thread into a unified garment that radiates a quiet authority far beyond its simple construction, the nine-color lotus motifs woven into each panel suggesting the accumulated wisdom of nine lifetimes — a legendary relic that expands the spirit within rather than the body without. The kasaya carries neutral ivory-and-gold tones in its stitching and border work from its void element, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance befitting a robe worn by those who have already transcended the ordinary. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

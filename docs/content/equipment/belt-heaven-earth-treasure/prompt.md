@@ -1,9 +1,9 @@
-# Thiên Địa Bảo Đai — MJ v6 prompt
+# Thiên Địa Bảo Đai — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Cổ vật — Thiên Địa Bảo Đai, đai luyện đan thiêng liêng nhất — phong ấn không bao giờ bị brick trong toàn pháp trận, thất bại vẫn giữ nguyên affix. Nút thắt cầu vồng phát sáng, dây bện từ sợi thiên địa linh khí, hào quang hạt tử tứa ra toàn bộ chiều dài đai.
 
-Cổ vật — Thiên Địa Bảo Đai, đai luyện đan thiêng liêng nhất — phong ấn không bao giờ bị brick trong toàn pháp trận, thất bại vẫn giữ nguyên affix. Nút thắt cầu vồng phát sáng, dây bện từ sợi thiên địa linh khí, hào quang hạt tử tứa ra toàn bộ chiều dài đai.
+Aspect: 1:1
 
 ```
-/imagine prompt: a binding sealing cord wrapping a furnace with talisman knots, the cord woven from heaven-and-earth spirit-threads with rainbow-shimmering fibers and iridescent knot ornaments, intense prismatic rainbow particle storm, shifting iridescent border, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 140
+A binding sealing cord wrapping a furnace with talisman knots, the cord woven from heaven-and-earth spirit-threads whose rainbow-shimmering fibers and iridescent knot ornaments pulse with protective energy. The piece carries neutral ivory-and-gold tones overwhelmed by an intense prismatic rainbow particle storm with a shifting iridescent border and legendary radiance. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

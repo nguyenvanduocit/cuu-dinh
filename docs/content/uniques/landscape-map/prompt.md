@@ -1,9 +1,9 @@
-# Bản Đồ Sơn Hà — MJ v6 prompt
+# Bản Đồ Sơn Hà — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Bản đồ phong thuỷ cổ vẽ trên lụa vàng, sơn hà cửu châu thu vào trong lòng bàn tay. Mở ra — board luyện đan rộng thêm năm mươi phần trăm, năm slot xuất hiện thêm, Tâm Ma nương theo địa thế mà tràn vào.
 
-Bản đồ phong thuỷ cổ vẽ trên lụa vàng, sơn hà cửu châu thu vào trong lòng bàn tay. Mở ra — board luyện đan rộng thêm năm mươi phần trăm, năm slot xuất hiện thêm, Tâm Ma nương theo địa thế mà tràn vào.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ancient silk cartography scroll partially unrolled revealing a hand-painted landscape map of nine provinces with mountains rivers and mystical ley-lines in ink-wash style, imperial gold (#D4AF37) map borders and cinnabar red geographic annotations, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single ancient silk cartography scroll partially unrolled to display a hand-painted landscape map of the nine provinces, mountains and rivers rendered in layered ink-wash strokes with mystical ley-lines traced in cinnabar red connecting sacred sites across the terrain, the imperial gold map borders framing the whole composition like a held breath of territory — a legendary relic that does not merely depict the land but expands it, drawing the spirit realm into the alchemist's furnace. The scroll carries neutral ivory-and-gold tones throughout its silk backing and gilded border from its void element, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance marking this map as a one-of-a-kind key to the world's hidden geography. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

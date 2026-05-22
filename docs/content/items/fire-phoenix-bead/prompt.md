@@ -1,9 +1,9 @@
-# Châu Hoả Phượng — MJ v6 prompt
+# Châu Hoả Phượng — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Châu cầu lửa với ngọn phượng hoàng cuộn sóng bên trong, tích đủ 5 lần chạm thì bùng nổ AOE Hoả toả rộng; pháp bảo Hoả hệ của bậc Ma phẩm.
 
-Năm lần chạm, năm lần tích nhiệt — đến lần thứ năm châu không nổ mà nở ra như hoa phượng đầu hè. Mỗi 5 hit: explode AOE Hoả damage.
+Aspect: 1:1
 
 ```
-/imagine prompt: a glowing round spirit bead orb with internal crimson fire swirling like a phoenix in flight, upward-licking flames and floating embers, cinnabar red (#C82127) radiant heat, soft blue inner glow, clean blue border frame, centered game item icon on dark ink background, ... [STYLE SUFFIX] --ar 1:1 --stylize 120
+A single glowing round spirit bead orb with internal crimson fire swirling like a phoenix in flight, its surface flickering with upward-licking flames and floating embers, radiant with cinnabar-red heat. It emanates a soft blue inner glow within a clean blue border frame. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

@@ -1,9 +1,9 @@
-# Bạch Cốt Lệnh — MJ v6 prompt
+# Bạch Cốt Lệnh — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Thẻ lệnh xương trắng khắc bằng máu chu sa, hình đầu lâu nhỏ ở góc như con dấu Vô Thường. Lệnh của Bạch Cốt không phải lệnh phục sinh — là lệnh nhắc rằng linh khí đã hi sinh xứng đáng sống thêm một lần.
 
-Thẻ lệnh xương trắng khắc bằng máu chu sa, hình đầu lâu nhỏ ở góc như con dấu Vô Thường. Lệnh của Bạch Cốt không phải lệnh phục sinh — là lệnh nhắc rằng linh khí đã hi sinh xứng đáng sống thêm một lần.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ornate sealed treasure box shaped like a flat bone-white jade command tablet engraved with cinnabar blood-red decree text and a small skull insignia seal in one corner as the stamp of Impermanence, neutral ivory-and-gold border with bone-white surface, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single flat bone-white jade command tablet etched across its face with cinnabar red decree text in authoritative brushstroke script, a small skull insignia seal pressed into one corner as the stamp of Impermanence, its bone-white surface worn smooth with age but the red ink still vivid as fresh blood, ivory-and-gold carved borders framing the inscription with the gravity of an official death notice — a legendary relic that does not promise resurrection but declares that sacrifice deserves one more chance. The tablet carries neutral ivory-and-gold tones along its carved border from its void element, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance that grants this sombre document an authority beyond any mortal court. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

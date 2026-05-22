@@ -1,9 +1,9 @@
-# Đỉnh Phượng Linh Vĩ — MJ v6 prompt
+# Đỉnh Phượng Linh Vĩ — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đỉnh đỏ son đuôi phượng, nắp chạm khắc đuôi phượng bung ra thành lửa cánh, thân đỉnh in hoa văn vũ điệu của chim phượng. Phụng chỉ hát trước bậc đế vương — đỉnh này chỉ bùng cháy trước boss, damage ×5 nhưng im lặng trước kẻ thường.
 
-Đỉnh đỏ son đuôi phượng, nắp chạm khắc đuôi phượng bung ra thành lửa cánh, thân đỉnh in hoa văn vũ điệu của chim phượng. Phụng chỉ hát trước bậc đế vương — đỉnh này chỉ bùng cháy trước boss, damage ×5 nhưng im lặng trước kẻ thường.
+Aspect: 1:1
 
 ```
-/imagine prompt: a three-legged daoist alchemy cauldron with a lid sculpted as an exploding phoenix-tail fan of fire-feathers spreading upward, the cauldron body engraved with full phoenix dance motifs in relief, upward-licking flames and floating embers, cinnabar red (#C82127) radiant heat, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single three-legged daoist alchemy cauldron with a lid sculpted as an exploding phoenix-tail fan of fire-feathers spreading dramatically upward, the cauldron body engraved with a full phoenix-dance scene in deep relief showing the bird mid-flight in ecstatic motion, the entire vessel lacquered in deep cinnabar red and radiating upward-licking flames and floating ember sparks from every edge — a legendary relic that refuses to perform for anything less than a worthy opponent. The cauldron blazes with fire-element energy in upward-licking flames and floating embers, radiant with cinnabar-red heat along its lid and rim, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance that flares brighter still in the presence of a boss. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

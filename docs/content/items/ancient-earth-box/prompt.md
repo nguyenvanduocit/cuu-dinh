@@ -1,9 +1,9 @@
-# Hộp Đất Cổ — MJ v6 prompt
+# Hộp Đất Cổ — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Hộp đất nung cổ tích lũy linh lực suốt cả ván không nhả — đến khi ván kết thúc, bùng phát một lần với ×3 intensity; một cơ hội, một vụ gặt.
 
-Linh lực vào hộp đất không ra trong pháp trận — tích góp như người nông dân tích từng hạt lúa. Ván cuối mở ra: một vụ gặt. Long-store: release ×3 khi ván kết thúc. Bảo phẩm.
+Aspect: 1:1
 
 ```
-/imagine prompt: an ornate sealed treasure box made of terracotta clay with stamped earth trigrams and a heavy bronze latch, solid blocky weight with dust and carved stone, earthen brown (#8B5E34) tone, purple crystalline sheen, ornate purple border with a subtle repeating talisman pattern, centered game item icon on dark ink background, ... [STYLE SUFFIX] --ar 1:1 --stylize 120
+A single ornate sealed treasure box made of terracotta clay, stamped with earth trigrams and fitted with a heavy bronze latch, carrying the solid blocky weight of dust and carved stone in an earthen-brown tone. It bears a purple crystalline sheen within an ornate purple border carrying a subtle repeating talisman pattern. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

@@ -1,9 +1,9 @@
-# Đỉnh Linh Hoả — MJ v6 prompt
+# Đỉnh Linh Hoả — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đỉnh luyện đan được gia trì Hoả khí, toả nhiệt đỏ rực xung quanh miệng đỉnh. Mỗi linh lực phun ra đều mang sắc Hoả nguyên tố, lệch hướng về phía nam.
 
-Đỉnh luyện đan được gia trì Hoả khí, toả nhiệt đỏ rực xung quanh miệng đỉnh. Mỗi linh lực phun ra đều mang sắc Hoả nguyên tố, lệch hướng về phía nam.
+Aspect: 1:1
 
 ```
-/imagine prompt: the ornate crown finial cap atop a daoist alchemy furnace, upward-licking flames and floating embers, cinnabar red (#C82127) radiant heat, soft blue inner glow, clean blue border frame, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 120
+The ornate crown finial cap atop a daoist alchemy furnace alive with upward-licking flames and floating embers, radiant with cinnabar-red heat that rises from the opening as a constant fire-element bias. The piece carries this fire-element energy within a soft blue inner glow inside a clean blue border frame. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

@@ -1,9 +1,9 @@
-# Đèn Tinh Thiên Hà — MJ v6 prompt
+# Đèn Tinh Thiên Hà — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đèn lồng trong suốt như pha lê, bên trong là thiên hà thu nhỏ đang xoay chậm, mỗi ngôi sao là một giọt linh lực tương lai. Đèn đã biết năm giọt linh lực tiếp theo từ trước khi chúng rơi.
 
-Đèn lồng trong suốt như pha lê, bên trong là thiên hà thu nhỏ đang xoay chậm, mỗi ngôi sao là một giọt linh lực tương lai. Đèn đã biết năm giọt linh lực tiếp theo từ trước khi chúng rơi.
+Aspect: 1:1
 
 ```
-/imagine prompt: a hanging paper lantern made of crystal-clear panels housing a miniature spinning galaxy within, five distinct glowing star-drops visible orbiting the inner galaxy representing the next five foreseen spirit-force drops, neutral ivory-and-gold outer frame, intense prismatic rainbow particle storm, shifting iridescent aura, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A single hanging paper lantern constructed of crystal-clear panels that reveal a miniature spinning galaxy suspended inside, five distinct glowing star-drops clearly visible orbiting the inner galaxy in a visible sequence, each one representing the next foreseen spirit-force drop in precise cosmic order, the lantern's ivory-and-gold outer frame etched with celestial map lines connecting the prophetic stars — a legendary relic whose only power is perfect knowledge of what comes next. The lantern carries neutral ivory-and-gold tones throughout its frame and fittings from its void element, while an intense prismatic rainbow particle storm surrounds it with a shifting iridescent border and legendary radiance befitting this singular instrument of foreknowledge. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

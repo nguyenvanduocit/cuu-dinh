@@ -1,9 +1,9 @@
-# Tượng Hắc Quy — MJ v6 prompt
+# Tượng Hắc Quy — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Hắc Quy sống bốn mùa nghìn lần — không vì mạnh, vì biết lúc cần lui vào mai; tượng phát Thuỷ aura giảm 30% tương khắc damage trong bán kính ±200px.
 
-Hắc Quy sống bốn mùa nghìn lần — không vì mạnh, vì biết lúc cần lui vào mai. Defensive: giảm 30% tương khắc damage trong 200px. Ma phẩm.
+Aspect: 1:1
 
 ```
-/imagine prompt: a small carved guardian statue figurine of a black tortoise coiled with a serpent, flowing water forms with ripples and drifting mist, deep blue (#1E3A5F) inner light, soft blue inner glow, clean blue border frame, centered game item icon on dark ink background, ... [STYLE SUFFIX] --ar 1:1 --stylize 120
+A single small carved guardian statue figurine of a black tortoise coiled with a serpent, rendered with flowing water forms with ripples and drifting mist, lit by a deep-blue inner light. It radiates a soft blue inner glow within a clean blue border frame. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

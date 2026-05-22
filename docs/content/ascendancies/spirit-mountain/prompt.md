@@ -1,9 +1,9 @@
-# Linh Sơn — MJ v6 prompt
+# Linh Sơn — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Đạo phái Linh Sơn — núi thiêng Mộc hệ trường sinh bất lão, biểu tượng đỉnh núi xanh ngọc với cây thần cổ thụ ngàn năm toả linh khí.
 
-Đạo phái Linh Sơn — núi thiêng Mộc hệ trường sinh bất lão, biểu tượng đỉnh núi xanh ngọc với cây thần cổ thụ ngàn năm toả linh khí.
+Aspect: 1:1
 
 ```
-/imagine prompt: hero banner emblem for Spirit Mountain daoist ascendancy school, living wood with organic curves and sprouting leaf motifs, jade green (#2E5E4E) qi glow, sacred mountain peak with ancient divine tree of longevity crowning summit, vine and leaf border framing emblem, crane birds silhouette in misty jade qi, celestial forest guardian motifs, faction seal of dao school identity, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 130
+A hero banner emblem for the Linh Sơn daoist ascendancy school, a sacred mountain peak crowned by an ancient divine tree of longevity, its sprawling roots and vine border framing the emblem, crane silhouettes drifting through misty jade qi above the summit, living wood with organic curves and sprouting leaf motifs, lit by a jade-green qi glow. Rendered as moody, hand-crafted pixel art in a xianxia daoist-alchemy aesthetic, woven with talismanic cinnabar runes and bagua trigram motifs. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no soft gradients and no anti-aliasing, in the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```
