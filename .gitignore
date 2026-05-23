@@ -3,9 +3,11 @@ node_modules/
 .pnp/
 .pnp.js
 
-# OMC tooling state + Python lint cache (local-only, không thuộc repo)
+# OMC tooling state + Python caches (local-only, không thuộc repo)
 .omc/
 .ruff_cache/
+__pycache__/
+*.py[cod]
 
 # Build artifacts
 dist/
