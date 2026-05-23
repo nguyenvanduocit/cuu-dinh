@@ -1,11 +1,9 @@
-# Tâm Ma Trận Địa — MJ v6 prompt
+# Tâm Ma Trận Địa — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Đấu trường boss Tâm Ma (T6-T13) — tù túng, tím triều đậm, aura sương khói, bóng người mặt nạ kinh hoàng ở rìa.
 
-Heart-demon boss arena (T6-T13). Claustrophobic, purple darkness, whispering dread.
-
-## Scene (9:16)
+Aspect: 9:16
 
 ```
-/imagine prompt: a heart-demon nightmare arena, deep twilight purple (#4A1942) darkness, thick smoky aura, faint human-shaped shadow silhouettes wearing horrific opera masks lurking at the edges, oppressive whispering dread, claustrophobic composition, twilight purple and ink black palette with sickly accents, painterly pixel art environment, [STYLE SUFFIX] --ar 9:16 --stylize 300
+A full-frame environment scene of a heart-demon nightmare arena drowned in deep twilight-purple darkness, a thick smoky aura coiling through the space, faint human-shaped shadow silhouettes wearing horrific opera masks lurking at the edges, an oppressive whispering dread in a claustrophobic composition of twilight purple and ink black with sickly accents. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The scene fills the entire frame, no lettering and no interface chrome.
 ```

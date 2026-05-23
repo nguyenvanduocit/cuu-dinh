@@ -1,11 +1,9 @@
-# Sơn Hà Đồ Lệnh Altar — MJ v6 prompt
+# Sơn Hà Đồ Lệnh Altar — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn ghép bí cảnh dọc — nền điện đàn tế với cuộn tranh sơn hà phát sáng trải trên bệ đá, các slot dâng lễ xếp dọc, thumb-bar đáy.
 
-Sacred map-device altar chamber.
-
-## (S) Scene
+Aspect: 9:16
 
 ```
-/imagine prompt: a sacred map-device altar chamber, a raised stone pedestal holding an unfurled glowing landscape scroll, ritual offering slots carved around it, mysterious anticipatory glow, painterly pixel art, cinnabar red and imperial gold on ink black, [STYLE SUFFIX] --ar 9:16 --stylize 250
+A full mobile portrait UI screen mockup of a map-device composition screen, set over a sacred altar chamber where a raised stone pedestal holds an unfurled glowing landscape scroll ringed with carved ritual offering sockets, laid out in three vertical zones: a slim top status strip with a brush-stroke title and small resource pips, a tall central column showing the glowing scroll above a vertical arrangement of composition slot plates — a single map-blueprint socket, a two-by-two grid of material sockets, and rows of smaller splash and modifier sockets — over a mysterious anticipatory glow, and a bottom thumb-bar with a primary action plate, all in cinnabar red and imperial gold against ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

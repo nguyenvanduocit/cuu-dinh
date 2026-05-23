@@ -6,7 +6,7 @@
 
 ## North Star
 
-**Huyền huyễn tu chân + Pixel art + Ngũ Hành palette.**
+**Huyền huyễn tu chân + Pixel art + đan đạo ritual craft.**
 
 Không phải:
 - ❌ Anime/manga
@@ -17,7 +17,7 @@ Không phải:
 
 Phải là:
 - ✅ Tiên phủ, tông môn, động thiên phúc địa
-- ✅ Pháp trận, phù văn, trận kỳ, bát quái, ngọc giản
+- ✅ Pháp trận, phù văn, trận kỳ, ngọc giản, dấu ấn đan đạo
 - ✅ Đan lô, hồ lô, phi kiếm, linh châu, chuông khánh
 - ✅ Núi mây, thạch môn, cổ điện, bí cảnh, thiên kiếp
 - ✅ Robe silhouettes for đạo sĩ/đan sư/trận sư
@@ -133,7 +133,7 @@ Mỗi linh khí có **3 visual layers**:
 - **30% đỏ chu sa** for primary frames/borders
 - **10% vàng kim** for highlights, important numbers
 - **Asymmetric layout** — không grid-rigid, có offset feel
-- **Phù văn pháp trận / vân mây / bát quái** motif borders for major panels
+- **Phù văn pháp trận / vân mây / dấu chu sa / chất liệu lò cổ** motif borders for major panels
 
 ### Typography
 
@@ -245,11 +245,11 @@ Thêm vào mọi prompt asset có background: `"vertical scroll composition, han
 - **Hyper Light Drifter** — limited palette mastery
 
 ### Tu chân visual reference
-- Đạo giáo phù lục, bát quái, trận đồ, chu sa talismans
+- Đạo giáo phù lục, trận đồ, chu sa talismans, đan đạo sealwork
 - Đan lô, hồ lô, ngọc giản, phi kiếm, trận kỳ, linh châu
 - Tiên sơn, mây biển, thạch môn, cổ điện, động thiên phúc địa
 - Cổ cầm, chuông khánh, đàn tranh, nghi lễ luyện đan
-- Wuxing color symbolism and celestial diagram motifs
+- Elemental color symbolism only when the subject is explicitly elemental; otherwise use ritual craft, sect, material, and alchemy motifs
 
 ### NEVER reference
 - Generic xianxia novel cover cliches

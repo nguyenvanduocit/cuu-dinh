@@ -1,11 +1,9 @@
-# Đạo Quán — MJ v6 prompt
+# Đạo Quán — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn cửa hàng dọc — nền sạp đồ cổ đạo gia ấm cúng lộn xộn, danh sách vật phẩm cuộn dọc, thumb-bar đáy.
 
-Quirky daoist curio shop stall. NPC portrait separate (see NPC prompt.md).
-
-## (S) Scene
+Aspect: 9:16
 
 ```
-/imagine prompt: a quirky daoist curio shop stall interior, shelves of talismans, beads and elixir bottles, warm lantern light, an inviting cluttered merchant mood, empty foreground counter for item list, painterly pixel art, warm cinnabar and imperial gold, [STYLE SUFFIX] --ar 9:16 --stylize 220
+A full mobile portrait UI screen mockup of a vendor shop screen, set over a quirky daoist curio shop stall with shelves of talismans, beads and elixir bottles in warm lantern light, laid out in three vertical zones: a slim top status strip with a brush-stroke title on the left and a small gold-currency pip on the right, a tall central scrolling column of wide item rows each showing a rarity icon and an element-tinted name plate with a small price pip, and a bottom thumb-bar with a refresh action plate and navigation plates, all in warm cinnabar and imperial gold against ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

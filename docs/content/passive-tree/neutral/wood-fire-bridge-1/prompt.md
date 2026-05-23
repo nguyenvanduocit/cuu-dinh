@@ -1,0 +1,9 @@
+# Mộc Sinh Hoả — prompt
+
+**Mô tả**: Nút cầu nối Mộc → Hoả — tương sinh mộc nuôi hoả, glyph hai dòng xanh ngọc và đỏ son nối nhau trong vô cực.
+
+Aspect: 1:1
+
+```
+This is a small simple passive-skill node glyph, a wood-begets-fire five-phase generation bridge rune in which jade green flows into cinnabar red within a yin-yang bridge motif, set against a cosmic void of star-flecks and an infinity motif, wrapped in an ethereal twilight-purple aura. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
+```

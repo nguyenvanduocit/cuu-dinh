@@ -1,9 +1,9 @@
-# Tâm Ma Đại Sát — MJ v6 prompt
+# Tâm Ma Đại Sát — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Bóng tối của chính người tu — hiện thân mọi con đường họ đã không chọn, boss Ascendancy Quest. Bóng người cao mang mặt nạ tuồng nứt vỡ, phát sáng theo màu Đạo Phái player. Phối màu twilight purple + ink black.
 
-Boss type: heart-demon. Ascendancy quest boss. Tests player's Đạo Phái selection. Attacks opposite of player's chosen path.
+Aspect: 1:1
 
 ```
-/imagine prompt: a heart-demon boss, a tall human-shaped shadow silhouette wrapped in thick smoky aura, wearing a horrific cracked daoist opera mask, hollow glowing eyes, oppressive and sinister, deep twilight purple (#4A1942) and ink black with sickly accents, painterly pixel art game boss sprite, [STYLE SUFFIX] --ar 1:1 --stylize 200
+A full-body boss character of the Great-Slaughter Heart-Demon, the shadow of the cultivator's unchosen paths given form, a tall human-shaped shadow wrapped in thick smoky aura wearing a cracked daoist opera mask with hollow glowing eyes, oppressive and sinister, its silhouette faintly aglow with a shifting twilight-purple light as if mirroring an opposing fate. Its palette leans twilight purple and ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

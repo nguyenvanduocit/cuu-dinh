@@ -1,14 +1,14 @@
-# Rarity tokens — treatment + border
+# Rarity treatment — treatment + border
 
-> Chèn theo cột `rarity` (items/uniques) hoặc `variant` (equipment). Nguồn: `art-direction.md:90-103`.
+> Dệt vào prompt theo cột `rarity` (items/uniques) hoặc `variant` (equipment), dạng cụm prose.
 
-| rarity (data) | variant (equipment) | Phẩm | Treatment chèn vào prompt |
+| rarity (data) | variant (equipment) | Phẩm | Cụm prose dệt vào prompt |
 |---|---|---|---|
-| `Common` | Phàm | Phàm | `plain dull finish, simple thin gray border frame, no glow` |
-| `Magic` | Linh | Linh | `soft blue inner glow, clean blue border frame` |
-| `Rare` | Bảo | Bảo | `purple crystalline sheen, ornate purple border with a subtle repeating talisman pattern` |
-| `Legendary` | Thần | Thần | `bright orange aura with floating ember particles, glowing orange border frame` |
-| `Unique` | Cổ vật | Cổ | `intense prismatic rainbow particle storm, shifting iridescent border, legendary radiance` |
+| `Common` | Phàm | Phàm | `a plain dull finish framed by a simple thin gray border, no glow` |
+| `Magic` | Linh | Linh | `a soft blue inner glow with a clean blue border frame` |
+| `Rare` | Bảo | Bảo | `a purple crystalline sheen with an ornate purple border carrying a subtle repeating talisman pattern` |
+| `Legendary` | Thần | Thần | `a bright orange aura with floating ember particles and a glowing orange border frame` |
+| `Unique` | Cổ vật | Cổ | `an intense prismatic rainbow particle storm with a shifting iridescent border, legendary radiance` |
 
 > Cột data `VeryRare` (La Hán Legendary) → map sang `Legendary`/Thần treatment.
 
@@ -19,4 +19,8 @@
 | `affixes/` (rune overlay per `AffixCategory` + `AffixTag`) | `../../affixes/README.md` |
 
 ## Rarity border sprite độc lập (9-slice)
-Gen riêng khung rỗng: `an empty square game item icon border frame only, hollow center, [treatment], ornamental corners, on transparent dark background, [STYLE SUFFIX] --ar 1:1 --stylize 100`.
+Gen riêng khung rỗng (cutout → route gpt-image, `--background transparent`):
+```
+An empty square game-item icon border frame only, hollow center, [rarity treatment], ornamental corners. [STYLE SUFFIX]. The frame stands alone on a transparent background, a clean image with no lettering and no interface elements.
+```
+`Aspect: 1:1`.

@@ -1,15 +1,9 @@
-# Tinh Điểm — MJ v6 prompt
+# Tinh Điểm — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn cây kỹ năng bị động dọc — nền tinh đồ vũ trụ, mạng lưới node năm hành toả từ tâm Vô Cực, keystone hình thoi lớn, thumb-bar đáy.
 
-Background for skill tree (SVG nodes rendered on top).
-
-## (S) Scene — nền tinh đồ huyền ảo
+Aspect: 9:16
 
 ```
-/imagine prompt: a deep cosmic star-chart background for a skill tree, faint constellation lines and nebula, five elemental color regions bleeding softly into a central void, very dark and uncluttered for overlaid nodes, twilight purple and ink black with five-element color hints, painterly pixel art, [STYLE SUFFIX] --ar 9:16 --stylize 300
+A full mobile portrait UI screen mockup of a passive skill-tree screen, set over a deep cosmic star-chart with faint constellation lines and nebula, laid out in three vertical zones: a slim top status strip with a brush-stroke title and a small point-counter pip, a tall central graph of small round travel nodes linked by thin lines spreading from a central void hub out toward five elemental color regions with a few large diamond keystone nodes, allocated nodes glowing in their element color while distant ones sit dim, a small square mini-map indicator in the upper-left corner, and a bottom thumb-bar of compact action plates, all in twilight purple and ink black with five-element color hints. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```
-
-## (O) Ornament — keystone node frame
-
-5 element-colored variants. See rarity border approach at `../../style/rarity-tokens.md`, adapt to `large diamond keystone frame, [element] colored`.

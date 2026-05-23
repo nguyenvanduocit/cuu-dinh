@@ -1,9 +1,9 @@
-# Càn Khôn Đỉnh Lư — MJ v6 prompt
+# Càn Khôn Đỉnh Lư — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Cổ vật tuyệt thế — thân lò mang hình tượng vũ trụ thu nhỏ, bản đồ thiên hà khắc chìm trên đồng đen.
 
-Cổ vật tuyệt thế — thân lò mang hình tượng vũ trụ thu nhỏ, bản đồ thiên hà khắc chìm trên đồng đen. Board tự dịch chuyển mỗi chín mươi giây, anchor tái định vị theo quy luật bí ẩn.
+Aspect: 1:1
 
 ```
-/imagine prompt: the main rounded body vessel of a three-legged alchemy furnace shaped like a miniature cosmos, engraved with galaxy-map constellations on black bronze, intense prismatic rainbow particle storm, shifting iridescent border, legendary radiance, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 140
+A centered game-item icon of the main rounded body vessel of the same three-legged daoist alchemy furnace as the rest of the equipment set — a Cổ Vật relic shaped like a miniature cosmos, engraved with galaxy-map constellations on black bronze in neutral ivory-and-gold tones, engulfed in an intense prismatic rainbow particle storm with a shifting iridescent border of legendary radiance. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

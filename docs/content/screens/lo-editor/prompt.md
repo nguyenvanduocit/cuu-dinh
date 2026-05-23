@@ -1,11 +1,9 @@
-# Lò Luyện Đan — MJ v6 prompt
+# Lò Luyện Đan — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn trang bị Lò dọc 3 vùng — header là lò luyện đan ba chân tinh xảo trên bệ đá, danh sách 8 slot trang bị cuộn dọc, thumb-bar đáy.
 
-Dim alchemist's workshop interior, single ornate furnace on stone workbench.
-
-## (S) Scene
+Aspect: 9:16
 
 ```
-/imagine prompt: a dim alchemist's workshop interior, a single ornate three-legged alchemy furnace centered on a stone workbench, soft focused light on the furnace, dark blurred surroundings, reverent craftsmanship mood, painterly pixel art, ink black with imperial gold rim light, [STYLE SUFFIX] --ar 9:16 --stylize 200
+A full mobile portrait UI screen mockup of an equipment editor for an alchemist's furnace, set over a dim workshop interior, laid out in three vertical zones: a slim top status strip with a brush-stroke title and a small power-score pip, a tall central column whose header is a single ornate three-legged alchemy furnace on a stone plinth followed by a vertical list of equipment slot plates — some single full-width rows and two paired two-column rows — each slot a runed socket showing whether it is filled or empty, and a bottom thumb-bar of five navigation tab plates with one marked active by a gold underline, all in ink black with imperial-gold rim light and cinnabar accents. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

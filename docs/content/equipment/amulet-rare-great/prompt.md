@@ -1,9 +1,9 @@
-# Khắc Phù Bảo Đại — MJ v6 prompt
+# Khắc Phù Bảo Đại — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Khắc phù đại phẩm Bảo — ngọc bích lớn, phù văn tích dày đặc. Viền tím lấp lánh hoa văn bùa liên hoàn.
 
-Khắc phù đại phẩm Bảo — ngọc bích lớn hơn, phù văn tích đặc dày đặc. Crit khi bắn linh lực sẽ kích hoạt thêm năm phần trăm intensity multiplier. Viền tím lấp lánh hoa văn bùa liên hoàn.
+Aspect: 1:1
 
 ```
-/imagine prompt: a carved jade amulet pendant mounted on a furnace, large jade surface densely packed with great-rune inscriptions, purple crystalline sheen, ornate purple border with a subtle repeating talisman pattern, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 120
+A centered game-item icon of a carved jade amulet pendant mounted on the side of the same three-legged daoist alchemy furnace as the rest of the equipment set, an oversized jade face densely packed with great-rune inscriptions in neutral ivory-and-gold tones, carrying a purple crystalline sheen and framed by an ornate purple border with a subtle repeating talisman pattern. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

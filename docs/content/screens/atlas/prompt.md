@@ -1,11 +1,9 @@
-# Sơn Hà Đồ — MJ v6 prompt
+# Sơn Hà Đồ — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn bản đồ atlas dọc — nền thiên đồ với các vùng trôi nổi, ~150 node pháp trận T1-T16 quanh tâm Vô Cực, 4 thành trì boss ở góc, thumb-bar đáy. (Concept art may idealise density; final implementation will use hierarchical LOD and clustering.)
 
-World atlas backdrop (node map rendered by code on top).
-
-## (S) Scene
+Aspect: 9:16
 
 ```
-/imagine prompt: a vast world-atlas backdrop, a celestial map of floating regions arranged around a central void core, four distant corner boss citadels, deep space between nodes, very dark for overlaid map markers, twilight purple and ink black with imperial gold landmarks, painterly pixel art, [STYLE SUFFIX] --ar 9:16 --stylize 300
+A full mobile portrait 9:16 UI screen mockup of the Sơn Hà Đồ world atlas map screen, laid out in the strict three vertical zones of the mobile game: a slim top status strip with brush-stroke title "Sơn Hà Đồ" and tier-progress indicator, a tall central content area showing the semantic-zoom celestial node graph with many small map nodes (completed, unlocked, locked states) clustered around the central Vô Cực void hub, four distant corner boss-citadel stars anchoring the cardinal directions, and a small mini-map inset in the corner, plus a bottom thumb-bar with large reachable navigation plates "Hub", "Cây", "Tìm". The background is a deep dark celestial star-field with floating region biomes connected by faint paths, all in moody xianxia daoist-alchemy atmosphere with cinnabar route marks, hanging-scroll rails, and sect-made node glyphs integrated into the decorative rails. Rendered as a true low-resolution pixel-art game UI mockup in a xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette for every UI plate, glyph and brush-stroke fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All decorative lines, node symbols and text are drawn as flat hard-edged pixel shapes. The entire mockup fills the portrait frame as a self-contained painted game UI screen, no lettering or interface chrome outside the described in-game elements.
 ```

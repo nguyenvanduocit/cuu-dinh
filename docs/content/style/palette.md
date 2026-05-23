@@ -1,6 +1,7 @@
 # Palette — Tiên Phủ Huyền Quang
 
-> Nguồn: `docs/art-direction.md:27-60`. MJ v6 đọc **named color** tốt hơn hex — hex chỉ document intent.
+> Engine (Gemini/gpt-image/Grok) đọc **named color** trong prose — dùng tên màu trong prompt.
+> Hex ở bảng này chỉ là **document intent** cho UI/Aseprite, KHÔNG nhét vào prompt.
 
 ## 6-color locked
 
@@ -26,4 +27,4 @@
 | Thánh | imperial gold | `#D4AF37` | sun-like radiance |
 
 ## UI ratio
-60% mực huyền nền · 30% đỏ chu sa frame · 10% vàng kim highlight (`art-direction.md:131-136`).
+60% mực huyền nền · 30% đỏ chu sa frame · 10% vàng kim highlight.

@@ -1,17 +1,9 @@
-# Pháp Trận — MJ v6 prompt
+# Pháp Trận — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn combat dọc (phase Simulate) — top HUD Lò Thọ + phẩm cấp, sân physics "Thác Tầng Dọc" với anchor phân tầng và linh đan ở giữa, slingshot pad đáy, thumb-bar 5 nút ngũ hành.
 
-Match layer is PixiJS canvas (realtime). MJ only for board frame + backdrop mood.
-
-## (S) Setup/Simulate backdrop (behind physics board)
+Aspect: 9:16
 
 ```
-/imagine prompt: a vertical alchemy board backdrop, an ornate furnace interior wall with anchor-point sockets and faint trigram engravings, a glowing elixir core slot at lower center, dark so the physics balls read clearly on top, painterly pixel art, ink black with element-colored ambient glow, [STYLE SUFFIX] --ar 9:16 --stylize 180
-```
-
-## (O) Loot phase — rương báu mở
-
-```
-/imagine prompt: a reward burst ornament, an opened treasure chest of spirit artifacts radiating golden light rays, celebratory but mystical, hollow center for item icons, imperial gold and cinnabar red, painterly pixel art, [STYLE SUFFIX] --ar 1:1 --stylize 150
+A full mobile portrait UI screen mockup of a physics combat screen, set over a vertical alchemy board backdrop of an ornate furnace interior wall with faint alchemical seal engravings, laid out in three vertical zones: a slim top status strip with a brush-stroke title and a small round counter, a thin progress bar and quality pip below it, a tall central cascading playfield where glowing anchor-point sockets are stacked across three tiers with a softly glowing elixir core slot at the middle tier and a launch pad at the lower edge, kept dark so physics orbs would read clearly on top, and a bottom thumb-bar of five element-colored action plates, all in ink black with element-colored ambient glow. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

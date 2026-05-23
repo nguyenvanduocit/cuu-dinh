@@ -1,11 +1,9 @@
-# Khai Lư Trấn Hub — MJ v6 prompt
+# Khai Lư Trấn Hub — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Hub chính dọc 3 vùng — top status mảnh, danh sách card NPC cuộn dọc trên nền sân tiên phủ Khai Lư Trấn, thanh tab thumb-bar đáy.
 
-Dùng scene Khai Lư Trấn từ `../../regions/khai-lu-tran/prompt.md` làm nền. Bổ sung HUD ornament.
-
-## (O) Ornament — khung HUD hoa văn pháp trận
+Aspect: 9:16
 
 ```
-/imagine prompt: a horizontal decorative ui banner border ornament, daoist talisman runes, bagua geometry, cloud motifs, hollow transparent center, imperial gold and cinnabar red on dark, [STYLE SUFFIX] --ar 3:1 --stylize 120
+A full mobile portrait UI screen mockup of a base-camp village hub, set over a painted daoist cultivation courtyard at dusk with low tiled-roof temple buildings and warm lantern glow, laid out in three vertical zones: a slim top status strip with a brush-stroke title block on the left and small resource counter pips on the right, a tall central scrolling column of wide full-width interaction cards for the map-device altar and several village elders, and a bottom thumb-bar of five evenly spaced navigation tab plates with one marked active by a gold underline, all in a warm ivory and cinnabar palette lit by imperial-gold lantern light against ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

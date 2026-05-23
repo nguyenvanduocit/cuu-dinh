@@ -276,7 +276,7 @@ Plus hidden:
 ## 9. Cultural references (sources)
 
 ### 9.1 Cultivation + alchemy references
-- Đạo giáo luyện đan, phù lục, bát quái, trận pháp
+- Đạo giáo luyện đan, phù lục, trận pháp, đan đạo sealwork
 - Xianxia/cultivation vocabulary: tông môn, bí cảnh, động thiên phúc địa, thiên kiếp, tâm ma
 - Ngũ Hành cosmology and alchemical transformation
 - Đan đạo fantasy: đan lô, đan hỏa, dược liệu, phẩm cấp, cửu chuyển kim đan

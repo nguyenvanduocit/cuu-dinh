@@ -1,9 +1,9 @@
-# Quai Tịnh Tâm Phù (Trái) — MJ v6 prompt
+# Quai Tịnh Tâm Phù (Trái) — prompt
 
-**Format**: append `[STYLE SUFFIX]` từ `../../style/style-suffix.md`.
+**Mô tả**: Phù tịnh tâm phẩm Bảo treo quai trái — khắc liên hoàn hoa văn tím thanh tịnh. Viền tím lấp lánh trang nghiêm.
 
-Phù tịnh tâm phẩm Bảo treo quai trái — khắc liên hoàn hoa văn tím thanh tịnh, xoá sạch mọi Tâm Ma debuff đang đè lên linh đan. Viền tím lấp lánh trang nghiêm.
+Aspect: 1:1
 
 ```
-/imagine prompt: a daoist talisman charm dangling from a furnace side-handle with a tassel, the charm inscribed with pure-heart cleansing sigils in twilight purple, purple crystalline sheen, ornate purple border with a subtle repeating talisman pattern, centered game item icon on dark ink background, [STYLE SUFFIX] --ar 1:1 --stylize 120
+A centered game-item icon of a daoist talisman charm dangling with a tassel from the left side-handle of the same three-legged daoist alchemy furnace as the rest of the equipment set, the charm inscribed with pure-heart cleansing sigils in twilight purple over neutral ivory-and-gold tones, carrying a purple crystalline sheen and framed by an ornate purple border with a subtle repeating talisman pattern. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

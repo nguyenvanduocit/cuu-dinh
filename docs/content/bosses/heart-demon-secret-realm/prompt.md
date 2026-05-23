@@ -1,9 +1,9 @@
-# Tâm Ma Bí Cảnh — MJ v6 prompt
+# Tâm Ma Bí Cảnh — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Không có hình dạng riêng — là bản sao hoàn hảo của Lò player nhưng màu đen, board ngược chiều, gương thử đạo tâm. Hiện thân như bóng người cao mang mặt nạ tuồng nứt vỡ. Phối màu twilight purple + ink black.
 
-Boss type: heart-demon. Boss = player's own Lò mirror (build-aware). AI reads player save data and counters. Different every player.
+Aspect: 1:1
 
 ```
-/imagine prompt: a heart-demon boss, a tall human-shaped shadow silhouette wrapped in thick smoky aura, wearing a horrific cracked daoist opera mask, hollow glowing eyes, oppressive and sinister, deep twilight purple (#4A1942) and ink black with sickly accents, painterly pixel art game boss sprite, [STYLE SUFFIX] --ar 1:1 --stylize 200
+A full-body boss character of the Secret-Realm Heart-Demon, a faceless mirror of the player's own self with no fixed form of its own, manifesting as a tall human-shaped shadow wrapped in thick smoky aura, wearing a cracked daoist opera mask with hollow glowing eyes, oppressive and sinister, its blackened reflection lit only by sickly accents. Its palette leans twilight purple and ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

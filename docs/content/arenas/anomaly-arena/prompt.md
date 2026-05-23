@@ -1,11 +1,9 @@
-# Dị Tượng Trận Địa — MJ v6 prompt
+# Dị Tượng Trận Địa — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Đấu trường boss Dị Tượng (T1-T8) — bất đối xứng, glitch, địa hình ghép sai từ mảnh ngũ hành, méo mó hiện thực.
 
-Anomaly boss arena (T1-T8). Chaotic, glitching, reality distortion.
-
-## Scene (9:16)
+Aspect: 9:16
 
 ```
-/imagine prompt: a chaotic anomaly battle arena, asymmetric glitching architecture, unstable terrain made of mismatched elemental fragments — bits of fire, water, wood, metal and earth fused wrongly together, colors shifting unpredictably, reality distortion, unsettling broken composition, full six-color palette clashing, painterly pixel art environment, moody pixel art game art, xianxia daoist alchemy aesthetic, talismanic cinnabar runes and bagua trigram motifs, limited six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple, hand-crafted sprite craftsmanship in the spirit of Eastward and Sea of Stars, atmospheric serious mystical tone, crisp hard pixel edges --style raw --v 6 --no anime, manga, ukiyo-e, western fantasy, generic asian temple stock photo, photorealistic, 3d render, glossy plastic, modern, text, ui, watermark, signature, blur --ar 9:16 --stylize 300 --chaos 25
+A full-frame environment scene of a chaotic anomaly battle arena, asymmetric glitching architecture with unstable terrain made of mismatched elemental fragments where bits of fire, water, wood, metal and earth are fused wrongly together, colors shifting unpredictably in an unsettling broken composition of reality distortion, the full six-color palette clashing against ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The scene fills the entire frame, no lettering and no interface chrome.
 ```

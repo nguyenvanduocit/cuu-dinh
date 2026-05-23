@@ -1,11 +1,9 @@
-# Ngũ Hành Wheel — MJ v6 prompt
+# Ngũ Hành Wheel — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Tham chiếu Ngũ Hành dạng bottom sheet — sheet trượt lên phủ phần dưới màn trên backdrop mờ nhẹ, bánh xe ngũ hành đầy đủ 5 node với mũi tên tương sinh (xanh) và tương khắc (đỏ), hành active được làm nổi.
 
-Compact wuxing cycle diagram overlay.
-
-## (O) Ornament
+Aspect: 9:16
 
 ```
-/imagine prompt: a clean five-element wuxing cycle diagram wheel, five nodes (metal water wood fire earth) connected by generating and overcoming arrows, each node tinted its element color, compact icon-clear and legible, dark background, painterly pixel art, [STYLE SUFFIX] --ar 1:1 --stylize 80
+A full mobile portrait UI screen mockup of a Five-Element reference bottom sheet, a rounded-top sheet sliding up to cover the lower portion of the portrait field over a lightly dimmed backdrop with a pale-gold drag handle at its top edge, holding a clean five-element wuxing cycle wheel of five nodes for metal, water, wood, fire and earth each tinted its element color, linked by generating arrows drawn in jade green and overcoming arrows drawn in cinnabar red, with one active element node highlighted brighter than the rest, all set on a dark lacquer ground with imperial-gold accents. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

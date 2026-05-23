@@ -21,4 +21,4 @@ Inventory/stash screen. Tabbed by item type: Đan Dược, Linh Khí, Đan Pháp
 - Tap item → bottom sheet detail (full số liệu + action buttons)
 - Bottom thumb-bar: action buttons [Dùng][Trang Bị] + nav tabs; cố định, không cuộn
 - Back: góc trái top / vuốt mép trái
-- Background: dark parchment-and-lacquer storage panel texture with faint trigram watermark
+- Background: dark parchment-and-lacquer storage panel texture with faint lacquered seal texture

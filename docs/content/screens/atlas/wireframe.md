@@ -2,6 +2,8 @@
 
 Source: pivot spec `docs/superpowers/specs/2026-05-20-mobile-portrait-pivot-design.md`
 
+> **Scope note (critical)**: All ASCII diagrams below use a small **toy cluster** (≈20 nodes, T1–T5 region) for visual clarity and to keep the document readable. The real Sơn Hà Đồ contains **150 atlas nodes** across T1–T16 tier bands (see `design.md` and master design §14). Implementation will require hierarchical LOD (3–4 zoom levels), region clustering, smart label culling, and minimum 44 px touch targets (with hit-area expansion). A dedicated layout spec is recommended before renderer work.
+
 ---
 
 ## Bố cục 3 vùng dọc
@@ -42,8 +44,10 @@ Source: pivot spec `docs/superpowers/specs/2026-05-20-mobile-portrait-pivot-desi
 
 ## ZOOM-OUT — Vùng / Region tổng quan
 
-> Pan 1 ngón, pinch zoom. Zoom-out = 5 cụm region, mỗi cụm 1 badge.
-> Tier band: Vô Cực (T1-T4 center) → góc (T13-T16).
+> Pan 1 ngón, pinch zoom. At the coarsest semantic level the view collapses to the 5 major clusters (Vô Cực center + 4 corner citadels). Further zoom levels (to be defined in the future layout spec) will reveal sub-region clusters before individual nodes.
+> Tier band: Vô Cực (T1-T4 center) → outer citadels (T13-T16).
+>
+> **Illustrative only** — the diagram shows a conceptual 5-cluster overview. Real 150-node data will use additional intermediate LODs so the graph never becomes an unreadable hairball on 390 px width.
 
 ```
 ╔══════════════════════════════════╗
@@ -86,6 +90,8 @@ Chú thích zoom-out:
 
 > Sau khi tap cụm "VÔ CỰC" hoặc pinch-zoom vào. Hiện từng node + connection.
 > Mini-map inset luôn bật, đánh dấu viewport hiện tại.
+>
+> **Illustrative toy example** — the diagram below uses a small readable cluster. The real implementation for 150 nodes will apply progressive clustering + LOD so that only the current viewport's nodes are drawn at full detail while distant areas remain as density hints or aggregated badges.
 
 ```
 ╔══════════════════════════════════╗
@@ -137,7 +143,9 @@ Chú thích zoom-in:
 ║──────────────────────────────────║
 ║  Tier          T4                ║
 ║  Trạng thái    Chưa hoàn thành   ║
-║  Đan Pháp      Tiêu Chuẩn / Tử Sinh ║
+║  Đan Pháp (drop pool)            ║
+║    • Tiêu Chuẩn (primary)        ║
+║    • Tử Sinh (rare)              ║
 ║  Mod bí cảnh   +20% quái HP      ║
 ║                Linh Lực +1       ║
 ║  Đặc sản       Đan dược Lửa x2   ║
@@ -154,9 +162,9 @@ Chú thích zoom-in:
 
 Nội dung sheet:
 - **Drag handle** trên cùng (≥44px tap zone).
-- Tier, trạng thái, drop pool Đan Pháp, mod bí cảnh, đặc sản.
+- Tier, trạng thái, drop pool (Đan Pháp variants with primary/rare distinction), region mods, đặc sản.
 - Breadcrumb path đã đi.
-- CTA "TIẾN VÀO BÍ CẢNH" full width (≥56px high).
+- CTA "TIẾN VÀO BÍ CẢNH" full width (≥56px high). For atlas nodes this launches the pre-composed session directly; players wanting full customisation can still go through the Sơn Hà Đồ Lệnh altar.
 
 ---
 
@@ -191,8 +199,13 @@ Nội dung sheet:
 
 ## ATLAS TREE — Lối vào (tap 🌳 Cây ở Thumb-bar)
 
-> Full-screen sheet trượt lên, cùng pattern semantic zoom như node graph.
-> Thiết kế chi tiết tách tại `docs/content/screens/tinh-diem-tree/wireframe.md` (atlas tree subset).
+> Full-screen sheet (or future dedicated overlay) showing the **Atlas Tinh Điểm tree** — a separate progression system from the character Tinh Điểm tree.
+>
+> - Earned with **Atlas Tinh Điểm** (1 point per atlas node clear, distinct from character Tinh Điểm).
+> - ~15 high-impact keystones focused on map economy, drop quality, region bonuses, and citadel access.
+> - Re-uses the same semantic-zoom + pan + mini-map interaction language as the character tree, but with different visual theming (atlas/celestial instead of pure element starts) and different allocation currency.
+>
+> Full node list, layout, and balance will live in a future `docs/content/atlas-tree/` bundle or a dedicated section of the atlas-nodes authoring pipeline. The cross-reference to `tinh-diem-tree/` only indicates **interaction pattern reuse**, not shared content.
 
 ```
 ╔══════════════════════════════════╗
@@ -200,7 +213,7 @@ Nội dung sheet:
 ╠══════════════════════════════════╣
 ║  Cây Sơn Hà Đồ  [zoom-out/in▾] ║
 ║                                  ║
-║  [atlas passive tree content]    ║
+║  [atlas-specific passive nodes]  ║
 ║                                  ╠
 ║  ... semantic zoom tương tự ...  ║
 ╠══════════════════════════════════╣
@@ -239,7 +252,44 @@ Nội dung sheet:
 | Vuốt mép trái | Back → Hub |
 | Tap ⟨ (Top bar) | Back → Hub |
 | Tap 🔍 | Mở search overlay |
-| Tap 🌳 Cây | Mở Atlas Tree sheet |
+| Tap 🌳 Cây | Mở Atlas Tinh Điểm tree sheet |
+
+---
+
+## Scale & Rendering Considerations (150 Nodes)
+
+This section captures the mobile-specific challenges that the toy ASCII diagrams deliberately hide.
+
+### Target constraints
+- Viewport content area ≈ 390 × 640 px (portrait, safe-area subtracted).
+- Minimum touch target 44 × 44 px (or 36 px with generous hit-area expansion for dense clusters).
+- Labels must remain readable at the "node" LOD (minimum 10–11 pt effective).
+- 6-color limited palette (ink black, cinnabar, imperial gold, ivory, jade, twilight purple) — high contrast required.
+
+### Recommended LOD hierarchy (future layout spec)
+1. **Level 0 (coarsest)**: 5 super-clusters (Vô Cực + 4 citadels). Badges only: tier band + completion count.
+2. **Level 1**: Region clusters (8–12 per major region). Small density dots + region label.
+3. **Level 2**: Sub-clusters or individual nodes when zoomed. Full glyphs + short `ten` or tier number.
+4. **Level 3** (only in very small regions or when single node selected): full node card + connection lines with weight.
+
+Implementation options to evaluate in prototype:
+- Force-directed layout with manual anchor points per region (preferred for tu chân "floating islands" feel).
+- Pre-authored per-region coordinate tables (easier for content authors).
+- Voronoi or hexagonal clustering for LOD aggregation.
+- Frustum culling + level-of-detail switching inside the Pixi or SVG layer.
+
+### Label & affordance policy (proposal)
+- Zoom-out (levels 0-1): only tier number + completion pip, no names.
+- Mid zoom: tier + short Vietnamese name (truncated if needed).
+- Deep zoom or selection: full `ten`, element icon, boss indicator.
+- Always show current path with thick gold line regardless of zoom.
+
+### Mini-map behaviour at scale
+- At 150 nodes the mini-map itself becomes a density field. Consider two modes: "overview silhouette" and "exact node dots when zoomed in".
+- 44×44 px is acceptable as a toggle; expanded state can be a 120×120 px popover or side panel.
+
+### 立軸 ornament constraints (re-emphasis)
+Gold decorative rails on left and right of the graph must never reduce the interactive graph width by more than ~12–15 px total. Rails are pure ornament — they do not receive pointer events and must be drawn behind the pan/zoom surface.
 
 ---
 
@@ -267,7 +317,7 @@ Nội dung sheet:
 └────────────────────────────────────┘
   ~143px cao (với safe-area padding). Vùng ngón cái với tới.
   - ⬅ Hub   : nav về Base Camp Hub
-  - 🌳 Cây  : Atlas Tree (passive nodes atlas)
+  - 🌳 Cây  : Atlas Tinh Điểm tree (map-specific keystones & economy)
   - 🔍 Tìm  : Search + jump-to node
   (TIẾN VÀO nằm trong bottom sheet sau khi tap node — không ở thumb-bar)
 ```
@@ -285,5 +335,6 @@ Nội dung sheet:
 ╚══╩══════════════════════════╩══╝
 ```
 
-Rail vàng `║░░║` (~8px mỗi bên): hoa văn vàng dọc (SVG repeat),
-hiệu ứng lập trục 立軸. Không che touch target graph.
+Rail vàng `║░░║` (~6–8 px mỗi bên): hoa văn vàng dọc (SVG repeat), hiệu ứng lập trục 立軸.
+
+**Hard constraint**: total decorative rails must not steal more than 12–15 px from the usable graph width on a 390 px viewport. Rails are drawn behind the interactive layer and receive zero pointer events. See also the new "Scale & Rendering Considerations" section above.

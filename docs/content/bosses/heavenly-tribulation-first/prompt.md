@@ -1,9 +1,9 @@
-# Thiên Kiếp Sơ Cảnh — MJ v6 prompt
+# Thiên Kiếp Sơ Cảnh — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Lần đầu Thiên Đạo phán xét Lò — không có thân xác, bầu trời đen kịt phủ board, mây xoáy tím-trắng, các tia sét vàng kim rơi xuống theo pattern đếm ngược. Phối màu imperial gold + ink black.
 
-Boss type: heavenly-tribulation. First thiên kiếp encounter. Teaches Lôi Phù mechanic. 7 waves of lightning.
+Aspect: 1:1
 
 ```
-/imagine prompt: a heavenly tribulation boss with no physical body, a colossal column of jagged golden (#D4AF37) lightning descending from near-black storm clouds, swirling electric vortex, divine and overwhelming, awe-inspiring threat, ink black sky with blinding imperial gold electricity, painterly pixel art game boss, [STYLE SUFFIX] --ar 1:1 --stylize 200
+A full-body boss presence of the First Heavenly Tribulation, an embodiment of heaven's judgment with no physical body, a colossal column of jagged imperial-gold lightning descending from a near-black storm sky, the clouds a swirling vortex of twilight-purple and ivory white, divine and overwhelming and awe-inspiring. Its palette leans imperial gold against ink-black sky. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The subject stands alone, centered on a completely flat uniform solid pure chroma magenta background (hex FF00FF) filling the entire frame; this magenta appears nowhere on the subject itself. A clean image with no lettering and no interface elements.
 ```

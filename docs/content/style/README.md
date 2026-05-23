@@ -1,25 +1,25 @@
 # `style/` — Art Direction Macro Index (concept-bundle scope)
 
-> Đầu mối vĩ mô của art direction **trong scope `docs/content/`**. Strategic doc cấp cao hơn ở `../../art-direction.md` (philosophy, do/don't, asset pipeline tổng thể).
+> Đầu mối vĩ mô của art direction. File này + 6 token file cùng thư mục là **SSOT phong cách**.
 >
 > Mọi vấn đề có 2 tầng. Art direction cũng vậy:
-> - **Vĩ mô** (strategic / cross-bundle) → file này + `../../art-direction.md`
+> - **Vĩ mô** (strategic / cross-bundle) → file này + các token file `style/`
 > - **Vi mô** (bundle-specific / per-slot / per-affix-category) → bundle README (ví dụ `../equipment/README.md`, `../affixes/README.md`)
 
 ## North Star (1-câu)
 
-**Pixel art huyền huyễn tu chân + Ngũ Hành palette + Eastward/Sea of Stars craftsmanship.**
+**Pixel art huyền huyễn tu chân + đan đạo ritual craft + Eastward/Sea of Stars craftsmanship.**
 
-Full strategic context: `../../art-direction.md`.
+Engine thật: **Gemini / Imagen / gpt-image / Grok** — đọc prose tốt hơn keyword. Orchestrator: skill `generate-game-art`.
 
 ## Token files (vi mô shared, không bundle-specific)
 
 | File | Vai trò | Khi nào đọc |
 |---|---|---|
 | [`convention.md`](convention.md) | Compose formula + format mỗi `prompt.md` + 9 quy tắc cứng | Trước khi viết bất kỳ `prompt.md` |
-| [`style-suffix.md`](style-suffix.md) | Chuỗi STYLE SUFFIX append cuối mọi prompt + tham số MJ v6 | Mỗi lần dán prompt |
+| [`style-suffix.md`](style-suffix.md) | STYLE DNA (prose) dệt cuối mọi prompt + aspect→cờ engine + negative khẳng-định-hoá | Mỗi lần dán prompt |
 | [`palette.md`](palette.md) | 6-color locked + 7 phẩm cấp linh đan colors + UI ratio | Khi cần named-color cho prompt hoặc UI |
-| [`element-tokens.md`](element-tokens.md) | Map `element` enum → English token phrase | Khi entity có field `element` |
+| [`element-tokens.md`](element-tokens.md) | Map `element` enum → English token phrase | Chỉ khi entity/asset có element mechanic hoặc subject Ngũ Hành rõ |
 | [`rarity-tokens.md`](rarity-tokens.md) | Map `rarity`/`variant` → MJ treatment + border sprite | Khi entity có rarity (items, equipment, uniques) |
 | [`base-noun-dictionary.md`](base-noun-dictionary.md) | Map `type` (ItemBaseType) → SUBJECT phrase | Khi entity là item/unique hoặc affix có `compatibleItemTypes` |
 
@@ -37,18 +37,17 @@ Subject mapping per-slot, overlay treatment per-category — sống ở bundle o
 ## Pipeline tóm tắt
 
 ```
-MJ v6 (concept/mood/silhouette reference)
-  → SDXL + pixel-art LoRA (sprite generation)
-  → Aseprite polish (final asset)
+Engine ảnh (Gemini / gpt-image / Grok) → concept / mood / silhouette reference
+  → Aseprite / Pixelorama polish (final sprite)
 ```
 
-MJ KHÔNG export thẳng làm sprite game. Chi tiết: `../../art-direction.md §AI Asset Pipeline`.
+KHÔNG export thẳng ảnh engine làm sprite game — luôn polish qua Aseprite.
 
 ## How to add new art rule
 
 1. **Rule cross-cut 2+ bundle?** → file mới hoặc append vào `style/`.
 2. **Rule chỉ 1 bundle?** → bundle README owner.
-3. **Strategic shift (philosophy, palette change)?** → propose ở `../../art-direction.md` + lock decision.
+3. **Strategic shift (philosophy, palette change)?** → propose ở `style-suffix.md`/`palette.md` + lock decision.
 
 ## Provenance
 

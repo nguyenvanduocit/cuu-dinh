@@ -1,11 +1,9 @@
-# Cài Đặt — MJ v6 prompt
+# Cài Đặt — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Màn cài đặt dọc — nền panel da giấy sơn mài tối với hoa văn góc, các section điều khiển cuộn dọc (slider, toggle, selector), thumb-bar đáy cố định.
 
-Pure UI — reuse Stash texture (§10) + corner motif.
-
-## (O) Ornament — corner flourish
+Aspect: 9:16
 
 ```
-/imagine prompt: a single corner ornament flourish, a daoist cloud-and-crane brush motif, transparent background, imperial gold on dark, painterly pixel art, [STYLE SUFFIX] --ar 1:1 --stylize 100
+A full mobile portrait UI screen mockup of a settings screen, set over a dark parchment-and-lacquer panel texture with daoist cloud-and-crane corner flourishes, laid out in three vertical zones: a slim top status strip with a brush-stroke title and a back chevron at the left, a tall central scrolling column of grouped setting sections holding horizontal slider tracks, rounded ON-OFF toggle pills and wide selector rows, and a fixed bottom thumb-bar with confirm and cancel action plates, all in ink black with imperial-gold ornament accents. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```

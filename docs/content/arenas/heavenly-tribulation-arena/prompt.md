@@ -1,11 +1,9 @@
-# Thiên Kiếp Trận Địa — MJ v6 prompt
+# Thiên Kiếp Trận Địa — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Đấu trường Thiên Kiếp (T14-T16+) — không quái vật, chỉ có sét. Đàn tế núi trơ trọi dưới trời bão đen kịt, sét vàng bổ xuống.
 
-Heavenly tribulation arena (T14-T16+). No monster — only the storm. Divine judgment.
-
-## Scene (9:16)
+Aspect: 9:16
 
 ```
-/imagine prompt: a heavenly tribulation arena, sky darkened to near-black storm clouds, a lone exposed mountain altar, jagged golden (#D4AF37) lightning bolts striking down, electric crackle in the air, awe and divine threat, no monster — only the storm itself as the enemy, ink black sky with blinding imperial gold lightning, painterly pixel art environment, [STYLE SUFFIX] --ar 9:16 --stylize 300
+A full-frame environment scene of a heavenly tribulation arena where the sky has darkened to near-black storm clouds, a lone exposed mountain altar standing open with no walls or shelter, jagged imperial-gold lightning bolts striking down through the air with an electric crackle, an atmosphere of awe and divine threat — no monster, only the storm itself as the enemy — ink-black sky split by blinding imperial-gold lightning. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The scene fills the entire frame, no lettering and no interface chrome.
 ```

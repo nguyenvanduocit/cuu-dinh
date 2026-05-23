@@ -1,15 +1,9 @@
-# Modal Cảnh Báo — MJ v6 prompt
+# Modal Cảnh Báo — prompt
 
-**Format**: append `[STYLE SUFFIX]` from `../../style/style-suffix.md`.
+**Mô tả**: Mẫu modal cảnh báo dạng full-screen sheet (hành động không undo như Phong Ấn) — sheet trượt lên phủ toàn màn trên backdrop mờ, khung bản đồ cổ viền vàng, góc tứ phù ấn đỏ, icon cảnh báo + danh sách xác suất dọc.
 
-## (O) Ornament — warning dialog frame (2 variants)
-
-### Standard warning
+Aspect: 9:16
 
 ```
-/imagine prompt: an ornate warning dialog frame border, glowing cinnabar-red talisman seal corners radiating caution, hollow center, dark, painterly pixel art, [STYLE SUFFIX] --ar 4:3 --stylize 120
+A full mobile portrait UI screen mockup of a full-screen warning sheet overlay for a dangerous irreversible action, a sheet sliding up to cover the whole portrait field over a fully dimmed backdrop, framed as an old-map panel with an imperial-gold border and a glowing cinnabar-red talisman seal in each corner radiating caution, holding a large warning sigil near the top, a block of explanatory body space below it, a vertical list of outcome-probability rows, and a bottom thumb-bar with cancel and continue action plates, all on a dark leather-paper ground in cinnabar red and imperial gold against ink black. Rendered as a true low-resolution pixel-art game sprite in a moody xianxia daoist-alchemy aesthetic, built from large clearly visible square pixels on a coarse grid — hand-placed pixel by pixel like an Aseprite sprite, never a smooth high-resolution digital painting. Shaped by daoist-alchemy craft language: restrained cinnabar seal marks, hand-cut paper talisman edges, old furnace patina, ritual vessel silhouettes, and sect-made material details. Strictly limited to a six-color palette of ink black, cinnabar red, imperial gold, ivory white, jade green and twilight purple; any shading done only with small blocky hand-dithered pixel clusters, never smooth gradients. Very crisp hard pixel edges, a sharp readable silhouette fully bounded by a crisp dark ink contour outline, flat solid color fills with no anti-aliasing. All smoke, wisps, mist and auras are drawn as flat hard-edged pixel shapes, never soft translucent haze. Detail is kept deliberately restrained and bold so every element still reads when the sprite is shrunk small — richness comes from confident shapes and the limited palette, not from fine filigree or rendered realism. In the craftsmanship spirit of Eastward and Sea of Stars — atmospheric, serious, mystical. The mockup fills the entire portrait frame, painted and not functional, no lettering and no interface chrome.
 ```
-
-### Failure variant (Linh Đan Bể)
-
-Đổi sang `shattered cracked frame, dark mournful red, broken elixir shards in the corners`.

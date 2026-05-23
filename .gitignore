@@ -74,3 +74,4 @@ apps/web/public/assets/raw/
 analytics/raw/
 telemetry/*.csv
 tmp/
+*.local.md
