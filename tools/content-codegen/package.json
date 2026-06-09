@@ -1,0 +1,9 @@
+{
+  "name": "@cuu-dinh/content-codegen",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "yaml": "2.9.0"
+  }
+}
