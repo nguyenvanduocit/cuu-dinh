@@ -1,0 +1,116 @@
+[
+  {
+    "id": "bronze-bell",
+    "ten": "Chuông Đồng",
+    "type": "bell",
+    "element": "metal",
+    "rarity": "Common",
+    "tags": [
+      "metal",
+      "convert",
+      "push"
+    ]
+  },
+  {
+    "id": "white-tiger-sword",
+    "ten": "Kiếm Cổ Bạch Hổ",
+    "type": "sword",
+    "element": "metal",
+    "rarity": "Magic",
+    "tags": [
+      "metal",
+      "split"
+    ]
+  },
+  {
+    "id": "metal-essence-inkstone",
+    "ten": "Nghiên Mực Kim Tinh",
+    "type": "inkstone",
+    "element": "metal",
+    "rarity": "Common",
+    "tags": [
+      "metal",
+      "chain"
+    ]
+  },
+  {
+    "id": "bodhi-branch",
+    "ten": "Cành Bồ Đề",
+    "type": "branch",
+    "element": "wood",
+    "rarity": "Common",
+    "tags": [
+      "wood",
+      "sustain",
+      "heal"
+    ]
+  },
+  {
+    "id": "spirit-lotus-flower",
+    "ten": "Hoa Sen Linh",
+    "type": "flower",
+    "element": "wood",
+    "rarity": "Common",
+    "tags": [
+      "wood",
+      "slow",
+      "charge"
+    ]
+  },
+  {
+    "id": "azure-dragon-statue",
+    "ten": "Tượng Thanh Long",
+    "type": "statue",
+    "element": "wood",
+    "rarity": "Magic",
+    "tags": [
+      "wood",
+      "aura"
+    ]
+  },
+  {
+    "id": "red-lantern",
+    "ten": "Đèn Lồng Đỏ",
+    "type": "lantern",
+    "element": "fire",
+    "rarity": "Common",
+    "tags": [
+      "fire",
+      "convert"
+    ]
+  },
+  {
+    "id": "fire-wind-fan",
+    "ten": "Quạt Phong Hoả",
+    "type": "fan",
+    "element": "fire",
+    "rarity": "Common",
+    "tags": [
+      "fire",
+      "aoe",
+      "push"
+    ]
+  },
+  {
+    "id": "water-dragon-bead",
+    "ten": "Châu Thuỷ Long",
+    "type": "bead",
+    "element": "water",
+    "rarity": "Magic",
+    "tags": [
+      "water",
+      "chain"
+    ]
+  },
+  {
+    "id": "flowing-ice-sword",
+    "ten": "Kiếm Lưu Băng",
+    "type": "sword",
+    "element": "water",
+    "rarity": "Common",
+    "tags": [
+      "water",
+      "pierce"
+    ]
+  }
+]

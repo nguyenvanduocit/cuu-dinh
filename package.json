@@ -5,10 +5,14 @@
   "type": "module",
   "workspaces": [
     "apps/*",
+    "packages/*",
     "tools/*"
   ],
   "scripts": {
-    "typecheck": "tsc -b --noEmit",
+    "dev": "bun run --cwd apps/web dev",
+    "build": "bun run --cwd apps/web build",
+    "typecheck": "bun run --cwd packages/shared typecheck && bun run --cwd apps/web typecheck",
+    "content:gen": "bun tools/content-codegen/index.ts",
     "lint": "echo 'TODO: configure oxlint'"
   },
   "devDependencies": {

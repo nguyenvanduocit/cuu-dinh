@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-metal: #d8d4c8;
+  --color-wood: #4ade80;
+  --color-water: #38bdf8;
+  --color-fire: #f87171;
+  --color-earth: #d4a24c;
+}
+
+html,
+body {
+  overscroll-behavior: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
